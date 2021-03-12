@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 02/03/2021
+ATUALIZADA EM 12/03/2021
 
  
 >> EDUCATIVO
@@ -24,7 +24,7 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/templates/multirio2014/images/marca_multirio.png" group-title="Educativo", MultiRio (Rio de Janeiro/RJ)
-http://187.111.97.45:1935/webtv/webtv/chunklist_w2051766618.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Educativo", Rede Minas (Belo Horizonte/MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1773568.m3u8?sts=st=1610568931~exp=1610575531~acl=/*~hmac=a19232046774558de92267706f84bde399dc157b9d1b016feb5538dcd28f3e45
@@ -42,10 +42,10 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Educativo", TV Escola
-https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(FmHFfSHRCag)r(fVR9ug)a(vUVpxA)p(d(2xc)k(q8Q)m(E8lX7ljNvl8Ebfr2u3T60g)n(a(8GWupQ)s(fpc)'a(XTqjJQ)s(-VM)))s(s(1-Q)b(XCewWgCpsEwFKC9hDSJ56r8q8cdxGWMO3oKVp9akz2wftkC0BjaWMLIN9qUrIHr6AfUaiS1VcKs3weZPww)'s(FB8)b(VBhR9LJ7-Rt6WWF5W1EIRRK2kr2jxDsCkXSr_giTr45VRpzVqKZTbaX7IEd2bEmbnUnqCm8H8xNj0V6otRkCC2QYaT0AQ86G2FJLl4-i)'s(t44)b(TJJb1GuI))m(0))/tvescola_index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.infoescola.com/wp-content/uploads/2016/11/tv-ines.png" group-title="Educativo", TV INES
-https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(FlxPF57Cnk0)r(fVR9ug)a(vU5qVg)p(d(2xc)k(q8Q)m(TxwiklEs4JnAWvmBW0KB8A)n(a(4osaYA)s(2ug)'a(TqzIhQ)s(wRM)))s(s(Exk)b(6CRvO7QDHlak_2GP6tRIUvV8lcCCGxr4Ot3eK0GERkntTgh5ZbEDcdfuYC-mvRhRplzHMY56yCFF-9lp_w)'s(KjQ)b(dJ8xkm2ETggS89pTMuwqDjRnmNQqirzvtBoyJQhZNfnq3vWh8TS4F1Dz8XoHpC2k7YRt9ZTFDNvd806vN_3upnnHNPyT_pb9gFlzfQAM)'s(0U0)b(-84g5N40))m(0))/tvines_index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/themes/redeparanaeducativa/images/LOGO_TVPARANATURISMO.png" group-title="Educativo", TV Paraná Turismo (Curitiba/PR)
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
@@ -90,7 +90,7 @@ https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w62143844.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/11/logo-site-tv8brasil.png" group-title="Regional Aberto", TV8 Brasil (São Paulo/SP)
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596000.m3u8
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2596000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9dt6v7.jpg" group-title="Regional Aberto", TV Alternativa/Gazeta (São Luís/MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1044661007.m3u8
@@ -173,7 +173,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w49876
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w708988366.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/treinandomentesmilionarias.com.br/wp-content/uploads/2012/11/logo-TV-Natal.png" group-title="Regional Fechado", TV Natal (Natal/RN)
-INDISPONÍVEL
+http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w110730727.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title="Regional Fechado", TV Sol (Patos/PB)
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/chunklist_w431577064.m3u8
@@ -260,7 +260,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="Notícia", teleSUR (Venezuela)
-https://dddfnn6w75cj1.cloudfront.net/telesur-video-2021-01-12-175417538000/streamables/hls/telesur-video-2021-01-12-175417538000_stream.m3u8
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Notícia", TVE - 24 Horas (Espanha)
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
@@ -335,22 +335,22 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w847690276.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" group-title="Mundo", RTP 1 (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="Mundo", RTP 2 (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="Mundo", RTP 3 (Portugal)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="Mundo", RTP África (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_positivo_horiz_RGB.png" group-title="Mundo", RTP Internacional (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPMemoria_positivo_horiz_RGB.png" group-title="Mundo", RTP Memória (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b1290000_slpt.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Mundo", Telemax (Argentina)
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w72696151_b1828000_sleng.m3u8
@@ -385,9 +385,6 @@ https://cdn.jmvstream.com/w/AVJ-9086/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://demaistv.com.br/assets/images/image01.png" group-title="Web TV", Demais TV (São Paulo/SP)
 https://video01.kshost.com.br/d3420/d3420/chunklist_w200558085.m3u8
 
-#EXTINF:-1 tvg-logo="http://gvnews.com.br/wp-content/uploads/2016/03/logo-brancosemespac5.png" group-title="Web TV", GVNews (Vitória/ES)
-INDISPONÍVEL
-
 #EXTINF:-1 tvg-logo="https://latinasat.com.br/images/nova-logo-latina-site2.png" group-title="Web TV", Latina Sat (Fortaleza/CE)
 https://5e36c064a2f6a.streamlock.net:1936/8432/8432/chunklist_w1907831803.m3u8
 
@@ -401,7 +398,7 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1756041649.m3u8
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w158065148.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Taubaté/SP)
-INDISPONÍVEL
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w151397012.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Web TV", Web TV Uai (Ubá/MG)
 INDISPONÍVEL
