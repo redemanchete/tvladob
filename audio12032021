@@ -3,10 +3,13 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 05/03/2021
+ATUALIZADA EM 12/03/2021
  
 
 >> RÁDIO FM - BRASIL
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a9753fd35117.png" group-title="Rádio FM - Brasil", 88.9 - Rádio Mania (Paraty/RJ)
+http://shout35.crossradio.com.br:8086/1/;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/NOVABRASIL_FM_logo_2020.png" group-title="Rádio FM - Brasil", 89.7 - NovaBrasil FM (São Paulo/SP)
 https://20283.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
@@ -20,8 +23,8 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://imagem.band.com.br/novahome/4eb35712-e428-423a-bfa6-f21ea7485dcc.png" group-title="Rádio FM - Brasil", 90.9 - Rádio Bandeirantes (São Paulo/SP)
 https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w2119870532.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_da_R%C3%A1dio_Mania_Rio.jpg" group-title="Rádio FM - Brasil", 91.1 - Rádio Mania (Niterói/RJ)
-http://shout35.crossradio.com.br:8086/1/;
+#EXTINF:-1 tvg-logo="https://www.moodfm.com.br/wp-content/themes/moodfm/_player/imagens/thumb-capa.jpg" group-title="Rádio FM - Brasil", 91.1 - Mood FM (Rio de Janeiro/RJ)
+http://radio.servercsi.com.br:9422/stream
 
 #EXTINF:-1 tvg-logo="http://www.redepampa.com.br/novo/radiosonline/vendor/img/cidreira.png" group-title="Rádio FM - Brasil", 91.3 - Cidreira FM (Cidreira/RS)
 http://cast4.audiostream.com.br:8657/mp3
@@ -107,7 +110,7 @@ https://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w888770065.m3u8??
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png" group-title="Rádio FM - Brasil", 97.7 - Energia 97 FM (São Paulo/SP)
 https://audio.97fm.com.br/energia
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/603e2be452267.jpg" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
+#EXTINF:-1 tvg-logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/rocket-logo.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
 http://cast.midiaip.com.br:9770/;
 
 #EXTINF:-1 tvg-logo="https://radioglobo.globo.com/estaticos/img/compartilhamento/radio-globo-default.jpg" group-title="Rádio FM - Brasil", 98.1 - Rádio Globo (Rio de Janeiro/RJ)
@@ -163,9 +166,12 @@ http://198.24.165.180:9822/;
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s220602g.png" group-title="Rádio FM - Brasil", 101.5 - Frei Caneca FM (Recife/PE)
 http://192.99.4.205:8164/stream
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5ff1e765baace.png" group-title="Rádio FM - Brasil", 101.5 - SpaceX (Vitória/ES)
+https://8948.brasilstream.com.br/stream
  
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="Rádio FM - Brasil", 102.3 - 102.3 FM (Porto Alegre/RS)
-https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_ef9895d1-afa4-41a0-ba9b-b5d3792dca51.m3u8
+https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f77be75f-3539-4cbd-9032-f6c6843b8999.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/R%C3%A1dio_Beach_Park_logo_2018.svg/1280px-R%C3%A1dio_Beach_Park_logo_2018.svg.png" group-title="Rádio FM - Brasil", 102.7 - Rádio Beach Park (Fortaleza/CE)
 http://www.radioideal.net:8026/stream
@@ -184,7 +190,6 @@ https://streamabc.gruposinos.com.br:8443/radio
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5f19c626d418c.png" group-title="Rádio FM - Brasil", 103.3 - Cultura FM (São Paulo/SP)
 https://tvcultura.com.br/_radio/streaming.php?radio=fm
-https://radiocultura.jmvstream.com/stream
 
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 103.7 - Antena 1 Lite FM (Rio de Janeiro/RJ)
 https://a1rj.streams.com.br/stream
@@ -203,9 +208,6 @@ https://centova.svdns.com.br:20019/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio48_1560184021.png" group-title="Rádio FM - Brasil", 104.7 - Educativa FM 104 (Campo Grande/MS)
 http://midiacentro.digilab.com.br:8200/stream
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/78/LOGOTRANS.jpg" group-title="Rádio FM - Brasil", 104.7 - Transcontinental FM (Mogi das Cruzes/SP)
-https://shout25.crossradio.com.br:18200/1
 
 #EXTINF:-1 tvg-logo="http://ufes.br/sites/default/files/styles/imagem_conteudo/public/field/image/universitaria-01_0.jpg?itok=Jwn71yAg" group-title="Rádio FM - Brasil", 104.7 - Universitária FM (Vitória/ES)
 http://p7yc0.srv27.brasilstream.com.br:8642/stream?identifica=9286062756063230000
@@ -344,9 +346,6 @@ https://icecast.teveo.cu/zrXXWK9F
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Rádio FM - Mundo", 102.3 - Rádio Aspen (Buenos Aires/Argentina)
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 
-#EXTINF:-1 tvg-logo="http://ottofm.com/wp-content/uploads/2017/07/01anni80.png" group-title="Rádio FM - Mundo", 103.4 - Otto FM (Milão/Itália)
-http://217.182.192.240:12021/stream
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Radio-Veronica-logo.jpg" group-title="Rádio FM - Mundo", 103.5 - Radio Veronica (Amsterdã/Holanda)
 https://22713.live.streamtheworld.com/VERONICA.mp3
 
@@ -392,9 +391,6 @@ https://ssl1.transmissaodigital.com:2420/mp3
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DeMUOUs3EIc/WIq5mPC6xXI/AAAAAAAARrw/qRw4qOdPI7Iv56GZthzSL5XfXLOEbOmRgCLcB/s1600/MKKWEBROCK.jpg" group-title="Web Rádio - Brasil", MKK Web Radio (São Paulo/SP)
 https://servidor34-1.brlogic.com:8096/live
 
-#EXTINF:-1 tvg-logo="https://www.moodfm.com.br/wp-content/themes/moodfm/_player/imagens/thumb-capa.jpg" group-title="Web Rádio - Brasil", Mood FM (Rio de Janeiro/RJ)
-http://radio.servercsi.com.br:9422/stream
-
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio39924_1518800660.jpg" group-title="Web Rádio - Brasil", Panamby FM (São Paulo/SP)
 http://server01.stmsg.com.br:6776/;
 
@@ -425,11 +421,17 @@ https://18593.live.streamtheworld.com/RADIOCIDADEAAC.aac?tdsdk=js-2.9&pname=TDSd
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6c/bc/6cbcc5c144857e5ba840227e391fdffd.jpg" group-title="Web Rádio - Brasil", Rádio Continental 1120 (Porto Alegre/RS)
 https://s41.maxcast.com.br:8042/live?id=1316880626255
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio32695_1439401813.jpg" group-title="Web Rádio - Brasil", Rádio CUT (São Paulo/SP)
+http://r10.ciclano.io:8029/stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radiofaap.com.br/images/logo-radio-faap-sem-10-anos.png" group-title="Web Rádio - Brasil", Rádio FAAP (São Paulo/SP)
+https://midia.faap.net/live/radiofaap/chunklist_w642118523.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaToFFz.jpg" group-title="Web Rádio - Brasil", Rádio Flash Disco Dance (São Paulo/SP)
-https://ssl.ifantasy.com.br:21764/
+https://ssl.ifantasy.com.br:21764/;
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VctONjR.png" group-title="Web Rádio - Brasil", Rádio Flash Disco Dance 80 (São Paulo/SP)
-https://ssl.ifantasy.com.br:6676/
+https://ssl.ifantasy.com.br:6676/;
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio35883_1551365798.jpg" group-title="Web Rádio - Brasil", Rádio Frevo (Recife/PE)
 https://node-24.zeno.fm/13k5az19srquv?1614966795282=&rj-tok=AAABeAOO1voASXBFAhvFIWJ0Cw&rj-ttl=5
@@ -487,6 +489,9 @@ https://r11.ciclano.io:15002/stream
 
 #EXTINF:-1 tvg-logo="https://radioromantica.com.br/wp-content/uploads/2018/08/romantica-rede-pop.png" group-title="Web Rádio - Brasil", Romântica Pop (São Paulo/SP)
 https://r11.ciclano.io:15004/stream
+
+#EXTINF:-1 tvg-logo="http://sambafm.com.br/wp-content/uploads/elementor/thumbs/logo_redonfo_brilho_png-odmnumv0vu0m39vyanoqdelr7jl6x3q91kmzl6xdx4.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
+https://player-ssl.kshost.com.br:8428/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio61905_1558962314.jpg" group-title="Web Rádio - Brasil", Web Vintage 70 (Cotia/SP)
 https://ssl.srvstm.com:9106/;
