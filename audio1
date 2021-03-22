@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 12/03/2021
+ATUALIZADA EM 22/03/2021
  
 
 >> RÁDIO FM - BRASIL
@@ -37,6 +37,9 @@ http://stream.7br.com.br:10114/stream?1604633272155
 
 #EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 91.7 - Catve FM (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5ed956347c466.png" group-title="Rádio FM - Brasil", 91.7 - RTL - Rádio e TV Litoral Prevent Senior (Santos/SP)
+https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/chunklist_w399071226.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Play_FM_logo.png/640px-Play_FM_logo.png" group-title="Rádio FM - Brasil", 92.1 - Play FM (São Paulo/SP)
 https://evpp.mm.uol.com.br/band/transito_sp/chunklist_w611331123.m3u8
@@ -186,7 +189,7 @@ http://9595.brasilstream.com.br/stream
 http://cloud1.cdnseguro.com:26492/stream
 
 #EXTINF:-1 tvg-logo="http://www.abc103fm.com.br/includes/img/marca_ABC900.png" group-title="Rádio FM - Brasil", 103.3 - ABC FM (Novo Hamburgo/RS)
-https://streamabc.gruposinos.com.br:8443/radio
+https://streamabc.gruposinos.com.br/radio.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5f19c626d418c.png" group-title="Rádio FM - Brasil", 103.3 - Cultura FM (São Paulo/SP)
 https://tvcultura.com.br/_radio/streaming.php?radio=fm
