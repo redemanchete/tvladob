@@ -329,7 +329,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="Mundo", Cubavisión Internacional (Cuba)	
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Mundo", Galicia TV América (Espanha)
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
@@ -406,7 +406,7 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1756041649.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvideonews.com.br/gallery_gen/14d7c4df234b97082360fffc2b54a7fe_500x375.png" group-title="Web TV", TVídeoNews (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w158065148.m3u8
 
-#EXTINF:-1 tvg-logo="https://urbantv.com.br/logotipo.png" group-title="Web TV", Urban TV Brasil (Florianópolis/SC)
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/urbantv-logo.jpg" group-title="Web TV", Urban TV Brasil (Florianópolis/SC)
 https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1410545589.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Taubaté/SP)
@@ -448,7 +448,7 @@ http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/chunklist.m3u8?28eb0884019fe88bc8c1
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdio de Rádio", Monte FM (Monte Carmelo/MG)
 https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioclube.com.br/img/20151118102333.png" group-title="Estúdio de Rádio", Rádio Clube Ararense (Araras/SP)
+#EXTINF:-1 tvg-logo="http://radioclube.com.br/logo_radio_clube4.png" group-title="Estúdio de Rádio", Rádio Clube Ararense (Araras/SP)
 https://virtues.es:1936/clubeararense/clubeararense/chunklist_w2021580311.m3u8
 
 #EXTINF:0 tvg-logo="https://radiojornal.ne10.uol.com.br/img/radio-jornal.png" group-title="Estúdio de Rádio", Rádio Jornal (Recife/PE)
