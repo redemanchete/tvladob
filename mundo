@@ -1,0 +1,301 @@
+>> TODOS OS CANAIS LISTADOS TÊM TRANSMISSÃO ABERTA E GRATUITA DISPONIBILIZADA EM SEUS SITES
+
+>> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
+
+
+ATUALIZADA EM 22/03/2021
+ 
+
+>> ARGENTINA
+ 
+#EXTINF:-1 tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="Argentina", 13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy-218x150.png" group-title="Argentina", Canal 7 JuyJuy
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina", Canal Provinical
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-title="Argentina", EL TV10 Salta
+https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina", Litus TV
+https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w4190183_b1531904.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="Argentina", Multivisión Federal
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="Argentina", Net TV
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/telemax_logo.png" group-title="Argentina", Telemax HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+ 
+ 
+>> BOLÍVIA
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/870563676616577024/kn89ust_.jpg" group-title="Bolívia", Cristal TV
+http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/chunklist_w1594358321.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT Plus
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w1801065707.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Bolívia", RTP Bolivia
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+ 
+ 
+>> CHILE
+ 
+#EXTINF:-1 tvg-logo="https://www.antofagasta.tv/wp-content/uploads/sites/3/2020/05/Logo-ATV.png" group-title="Chile", Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="Chile", Canal 21
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/120/square_150x150-2.jpg" group-title="Chile", El Pingüino
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dc92ad_b04f3acd11fe450c86222ff792a35216~mv2.png" group-title="Chile", Tendencias Prime
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="Chile", TV Chile
+https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Chile", Uestv
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pipiolatodalavida.files.wordpress.com/2014/05/logonegroumagtv.png" group-title="Chile", UMAG TV
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.utv.cl/img/logo_negro.jpg" group-title="Chile", UTV San Clemente
+https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+ 
+ 
+>> COLÔMBIA
+ 
+#EXTINF:-1 tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png" group-title="Colômbia", Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="Colômbia", Canal Trece
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_b2250000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="Colômbia", Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Colômbia", Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+ 
+ 
+>> COSTA RICA
+ 
+#EXTINF:-1 tvg-logo="http://www.canal15.ucr.ac.cr/wp-content/uploads/2018/06/CANALUCR_logo.png" group-title="Costa Rica", Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="Costa Rica", Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w440465567.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png" group-title="Costa Rica", Telesur Costa Rica
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+ 
+ 
+>> CUBA
+ 
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" group-title="Cuba", Cubaplay+
+ 
+#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="Cuba", Cubavisión Internacional
+ 
+ 
+>> EL SALVADOR
+ 
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/img/wowoficiallogo2020.jpg" group-title="El Salvador", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+ 
+ 
+>> EQUADOR
+ 
+#EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="Equador", Ecotel Tv
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="Equador", Hechos Ecuador
+http://192.99.56.185/hechosecuador/live.m3u8
+ 
+ 
+>> HONDURAS
+ 
+#EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/06/Canal-5-Honduras-200x180.png" group-title="Honduras", Canal 5 El Líder
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_12/large.966817584_QeihuboTV.png.b9fefc4cba1051230cb13d3b4346bb55.png" group-title="Honduras", Q'hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1139968861.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2017/05/TENmin.png" group-title="Honduras", Ten TV
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
+ 
+ 
+>> MÉXICO
+ 
+#EXTINF:-1 tvg-logo="https://www.canal10.tv/assets/Logo2.png" group-title="México", Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="México", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Telemar_Mexico.jpg" group-title="México", Telemar
+https://59d39900ebfb8.streamlock.net/8410/8410/chunklist_w435418354.m3u8
+ 
+ 
+>> PANAMÁ
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/OYE_TV_2017.png" group-title="Panamá", Oye TV
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://avatars.sched.co/a/94/7008491/avatar.jpg" group-title="Panamá", NexTV
+http://198.1.123.99:1935/live/myStream/chunklist_w746505505.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="Panamá", RPC
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+ 
+ 
+>> PARAGUAI
+ 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_06/large.Logo-Gen.png.55593c1e6b09fbd0b142948f0dbcb900.png" group-title="Paraguai", GEN
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="Paraguai", Trece RPC
+http://174.138.118.252/live/trece_src.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="Paraguai", Unicanal
+http://45.55.127.106/live/unicanal_mid.m3u8
+ 
+ 
+>> PERU
+ 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Peru", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Peru", Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Peru", IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="Peru", Panamericana Televisión
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+ 
+ 
+>> VENEZUELA
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/promar-tv-logo-F5F1A86FDB-seeklogo.com.gif" group-title="Venezuela", Promar TV
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Venezuela", Tves
+LINK INVÁLIDO
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/180px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Venezuela", Venezolana de Televisión
+https://livestream.streamingconnect.com/hls/vtvweb.m3u8
+ 
+ 
+>> ESPANHA
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3JcZaZZ1jSk/UvPH0MRh1XI/AAAAAAAAAD4/2V0hxQjBvJU/s1600/8TV+LA+JANDA+-+XL.jpg" group-title="Espanha", 8 La Janda
+http://185.210.20.13:8080/0.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://9laloma.tv/wp-content/uploads/2016/12/LOGO-EN-NEGRO_web.png" group-title="Espanha", 9 La Loma
+https://directo.9laloma.es/live/1080.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Espanha", Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Espanha", Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo3/Directo3/chunklist_w1310192224.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.Canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png" group-title="Espanha", Canal Costa
+https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/chunklist_w1829875905.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Espanha", Canal Extremadura
+https://upload.wikimedia.org/wikipedia/commons/7/7c/CEXMA_new.png
+ 
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV 1
+http://europa-crtvg.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Momentos
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Infantil
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Musical
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Cultural
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="Espanha", Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://rtvmarbella.tv/wp-content/themes/rtvmarbella/images/logos/class-naranja.png" group-title="Espanha", Marbella Televisión
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.naturopatialacala.com/wp-content/uploads/2016/05/LOGOmijascomunicaci%C3%B3n-258x119.jpg" group-title="Espanha", Mijas Comunicación
+https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="Espanha", mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png" group-title="Espanha", Navarra Televisión
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/NORTEvisi%C3%B3n-en-directo-Online-218x150.png" group-title="Espanha", NORTEvisión
+http://amaru.dyndns.org:8835/0.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889448960150183936/MjLSsZV8_400x400.jpg" group-title="Espanha", TeleSafor
+http://video.telesafor.com/hls/video_high.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="Espanha", Trebujena TV
+https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une-300x300.png" group-title="Espanha", Une Vinalopo
+http://78.41.83.88:8880/hls/unesd.m3u8
+ 
+ 
+>> ITÁLIA
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="Itália", Esperia TV 18
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.primocanale.it//img/logo_nl.png" group-title="Itália", Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/chunklist_w2041032948.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1024px-Rai_News_24_-_Logo_2013.svg.png" group-title="Itália", Rai News24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="Itália", RTC Telecalabria
+http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cinemabreve.org/portal/sites/default/files/logo_1_1.png" group-title="Itália", Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/TelemiaLogo.png" group-title="Itália", Telemia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png" group-title="Itália", telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvavicenza.gruppovideomedia.it/img/tvavicenza_logo_new.png" group-title="Itália", TVA Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.veratv.it/wp-content/uploads/2018/02/logo_veratv_264x143.gif" group-title="Itália", Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/video-brescia.jpg" group-title="Itália", Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dinamobasket.com/sites/default/files/videolina2012_tr.png" group-title="Itália", Videolina
+http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.videomediterraneo.it/images/website/assets/vm-logo-official.png" group-title="Itália", Video Mediterraneo
+http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/chunklist_w1320641943.m3u8
