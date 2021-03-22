@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 12/03/2021
+ATUALIZADA EM 22/03/2021
 
  
 >> EDUCATIVO
@@ -24,11 +24,11 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/templates/multirio2014/images/marca_multirio.png" group-title="Educativo", MultiRio (Rio de Janeiro/RJ)
-INDISPONÍVEL
+http://187.111.97.45:1935/webtv/webtv/chunklist_w2029527690.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Educativo", Rede Minas (Belo Horizonte/MG)
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1773568.m3u8?sts=st=1610568931~exp=1610575531~acl=/*~hmac=a19232046774558de92267706f84bde399dc157b9d1b016feb5538dcd28f3e45
- 
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1616431843~exp=1616438443~acl=/*~hmac=0dfedbb792f484f09cd612d189174df896d50106e68e71fa6e51d70ac7f5b04d
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil web
 https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FmSllpm2i1Y)r(fVR9ug)a(yRpjsA)p(d(2xc)k(q8U)m(Xr6Rmwk14-b8340T5cbkag)n(a(SU2ZgA)s(S94)'a(Ffp2Zg)s(AV8)))s(s(nww)b(nO95ZQ_hruxTaqhafMenCw06h-1uhE0rcPwOQbx6Vp76Vjch4Kr4aDE72gDua2VOJthbH9t_2ILJiKbJbw)'s(cGI)b(VC5Jg7g3aimKNPdvoiIn1VhrFV2ZDroZf2DjdbtBq4ptIWhrXRutYIQr0AFwH1Zpccor2S2R5xcl_Bo5xYvCJO08NlVfdCZzPCUab26R)'s(4vQ)b(0Bc7fe08))m(0))/1_index.m3u8
 
@@ -45,7 +45,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.infoescola.com/wp-content/uploads/2016/11/tv-ines.png" group-title="Educativo", TV INES
-INDISPONÍVEL
+https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(Fm645zABNrg)r(fVR9ug)a(s3F01A)p(d(2xc)k(q8Y)m(mxGkN4liwCoSUVvdZ2eAUg)n(a(LgE3rg)s(0pU)'a(8qQU_w)s(jMw)))s(s(x8Y)b(jXCAmpmGXDM7k3z0DjJ6tnMtrmwI3lLTonOm463nlof6BM1aHVLw8LkFbEkLipfisLSAjnPlPptkHUgogQ)'s(TLM)b(yfvDXcFoMp2GujLaXK63tBm0YW_dSOABrITxjXJgy5ycnv3znOXONjzgKuk-0lhpA72UefyGHwVFXibHa2qBIAvQZMt5lBwg44JhvQN-)'s(meM)b(dcLTiSzI))m(0))/tvines_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/themes/redeparanaeducativa/images/LOGO_TVPARANATURISMO.png" group-title="Educativo", TV Paraná Turismo (Curitiba/PR)
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
@@ -56,17 +56,20 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 
 >> UNIVERSITÁRIO
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_FURG_institucional.png/766px-Logo_FURG_institucional.png" group-title="Universitário", FURG TV (Rio Grande/RS)
+https://stream.furg.br/hls/furgtv_360p.m3u8
+
 #EXTINF:-1 tvg-logo="http://faap.br/tvfaap/images/tv-faap.png" group-title="Universitário", TV FAAP (São Paulo/SP)
 http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Universitário", TV UFOP (Ouro Preto/MG)
-https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(Fk8v8AFukfc)r(fVR9ug)a(yV8Iow)p(d(2xc)k(q8I)m(nnt3k5LpZw9KQ_9orqi5fw)n(a(ybJxQA)s(Lcg)'a(BVdGwg)s(8-E)))s(s(rmg)b(Fr4kctX2EtSntOM7wH2kHHKVB9LywpxdydyLFpCaWZ-ENZM9GPDHV288NsUhZMd_ZMwY9z2GqRf6te4eGA)'s(stM)b(qTPB2J66w7vzisqBiprHktCyLuHX1rjkHvMw6sAnumug58gqMe1dmxntkJdEc9247ZxE48h8XykmC-NDOqVZA9Mn2uf9veLw8U5Bqm0h)'s(4PE)b(Lzb-ogd_))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
+https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(Fm64_yEoOmU)r(fVR9ug)a(s3F01A)p(d(2xc)k(q8Y)m(uptB0mAW8vZX8JPYYSbzNA)n(a(Ob-wIA)s(Epw)'a(tcuOqw)s(9j4)))s(s(zzE)b(bTcfBc98TdJ-zLO2eqptEmOVQUSt4GLZOstxOLBulJH1zeHD1a7enNIrkyIY_PINmr_8PaFKA0uYPpHKfQ)'s(tiI)b(ZVEq91cJmC4xsLFYFVAqPR_7tIn5dui8xLQ2AVllnmkOqBkZLZFCEkWUL-ewH0A2zK6WbQcHCwyPx2KXvrlsUCmX-yJ2-G9cKORXYryW)'s(eiQ)b(q7_bR_69))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.faac.unesp.br/Home/arquivos_home/midiaecomunicacao/tvunesp.png" group-title="Universitário", TV Unesp (Bauru/SP)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Universitário", UnBTV (Brasília/DF)
-https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(Fk8wh8y0g6Y)r(fVR9ug)a(yV8Iow)p(d(2xc)k(q8I)m(yAbQmASrFsN-0zggPlWVdA)n(a(DET-JQ)s(9JQ)'a(0GeY-A)s(r8I)))s(s(lHk)b(0NRLigZL5Ialz4R7Xbo1_P-0vMWvvlmm-vcVsClossi1KooSGDGmvBBfMC5CkBWZGKGl5qQGFLvxkyvyQA)'s(dCU)b(KoBlaPEi-55a_FcCnGq2iRaCok-_NO85iDEwa88CMtgNmkCBnnHjqiJp3fHGP8JEm4UUQIk2nlrLf-qiQc5tE0My6AD9bq8sPHRNVy-h)'s(1jc)b(UJH19JK2))m(0))/unb_index.m3u8
+https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(Fm65EyAM3JE)r(fVR9ug)a(s3F01A)p(d(2xc)k(q8Y)m(ZTKz7dXblXA5Kcqx2je5fQ)n(a(GGX4PA)s(J-U)'a(oSuzBA)s(3Vg)))s(s(dVQ)b(TXUWIpAWx9d7fPpid8sWb9dS7RgI2BqsIF1PxtEVVM9ipfrh33Xr1TftQc0jtyTTsLXZ0b05Rm3XeyyxGw)'s(vuM)b(iIeZWB-q7-eX5JhQ6TTp5dq0e7YVv-GAuHHsF8OmBjVrO1tpSDdO7fPjXXUBYSBGwww8u4w36oGJyfI3qb2V10cJ6Qqe2zr7-ijqZMjS)'s(X0o)b(dDcqooaw))m(0))/unb_index.m3u8
 
 
 >> REGIONAL ABERTO
@@ -124,6 +127,9 @@ https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w152550
 
 
 >> REGIONAL FECHADO
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="Regional Fechado", Adesso TV (Garibaldi/RS)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/776ca0_d766969be6e148c7b1f0501a61354477~mv2.png" group-title="Regional Fechado", Alpha Channel (Barueri/SP)
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w1410636801.m3u8
@@ -307,6 +313,9 @@ https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w2132698760.m3u8
 #EXTINF:-1 tvg-logo="http://www.agrobrasiltv.com.br/images/logo_agrobrasil_v10.png" group-title="Agro", AgroBrasil TV (Campo Grande/MS)
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Agro", Canal Rural (São Paulo/SP)
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvterraviva.band.uol.com.br/images/terravivaHD_05.png" group-title="Agro", Terra Viva (São Paulo/SP)
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w2096267951.m3u8
 
@@ -316,11 +325,11 @@ https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w2096267951.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1000px-Arirang.svg.png" group-title="Mundo", Arirang (Coreia do Sul)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Mundo", Canal Once Internacional (México)
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w1810766211_b1300000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Mundo", Canal Once (México)
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="Mundo", Cubavisión Internacional (Cuba)	
-LINK INVÁLIDO
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Mundo", Galicia TV América (Espanha)
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
@@ -335,7 +344,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w847690276.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" group-title="Mundo", RTP 1 (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?token=1616562000_1ceea9b7615be4b5882f90172c7d8fd84937edbb
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="Mundo", RTP 2 (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8
@@ -386,7 +395,7 @@ https://cdn.jmvstream.com/w/AVJ-9086/playlist/chunklist.m3u8
 https://video01.kshost.com.br/d3420/d3420/chunklist_w200558085.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinasat.com.br/images/nova-logo-latina-site2.png" group-title="Web TV", Latina Sat (Fortaleza/CE)
-https://5e36c064a2f6a.streamlock.net:1936/8432/8432/chunklist_w1907831803.m3u8
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1076679968.m3u8
 
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Web TV", MKK Web TV (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/mkkweb/_definst_/mkkweb/chunklist_w1115662339.m3u8
@@ -396,6 +405,9 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1756041649.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvideonews.com.br/gallery_gen/14d7c4df234b97082360fffc2b54a7fe_500x375.png" group-title="Web TV", TVídeoNews (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w158065148.m3u8
+
+#EXTINF:-1 tvg-logo="https://urbantv.com.br/logotipo.png" group-title="Web TV", Urban TV Brasil (Florianópolis/SC)
+https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1410545589.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Taubaté/SP)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w151397012.m3u8
@@ -432,6 +444,12 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w63
 
 #EXTINF:-1 tvg-logo="http://sistema.interativafm.net/storage/contents/kdefnwRbGbaVKUJANwCO5YLSiYYSk5q9xQ44VKfc.png" group-title="Estúdio de Rádio", inTV - Interativa FM (Goiânia/GO)
 http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/chunklist.m3u8?28eb0884019fe88bc8c1f89731d57fa2
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdio de Rádio", Monte FM (Monte Carmelo/MG)
+https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioclube.com.br/img/20151118102333.png" group-title="Estúdio de Rádio", Rádio Clube Ararense (Araras/SP)
+https://virtues.es:1936/clubeararense/clubeararense/chunklist_w2021580311.m3u8
 
 #EXTINF:0 tvg-logo="https://radiojornal.ne10.uol.com.br/img/radio-jornal.png" group-title="Estúdio de Rádio", Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
