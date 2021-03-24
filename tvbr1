@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 22/03/2021
+ATUALIZADA EM 24/03/2021
 
  
 >> EDUCATIVO
@@ -147,6 +147,9 @@ https://59f2354c05961.streamlock.net:1443/itutv/_definst_/itutv/chunklist_w88839
 
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Regional Fechado", ComBrasilTV
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w284149015.m3u8
+
+#EXTINF:-1 tvg-logo="https://gentvplay.com.br/assets/logotop-4da130af3f80b87f51c0d491a90732a41b7ae00e33490fba7191842edf3ff868.png" group-title="Regional Fechado", GenTV (Chapecó/SC)
+https://cdn-gentv.ciclano.io:1443/gentv/gentv/chunklist_w12667920.m3u8
 
 #EXTINF:-1 tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png" group-title="Regional Fechado", RDCTV (Porto Alegre/RS)
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w598163388.m3u8
@@ -343,23 +346,11 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="Mundo", Porto Canal (Portugal)
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w847690276.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" group-title="Mundo", RTP 1 (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?token=1616562000_1ceea9b7615be4b5882f90172c7d8fd84937edbb
-
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="Mundo", RTP 2 (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="Mundo", RTP 3 (Portugal)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="Mundo", RTP África (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_positivo_horiz_RGB.png" group-title="Mundo", RTP Internacional (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPMemoria_positivo_horiz_RGB.png" group-title="Mundo", RTP Memória (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Mundo", Telemax (Argentina)
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w72696151_b1828000_sleng.m3u8
@@ -409,8 +400,11 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:-1 tvg-logo="http://urbantv.com.br/urbantv-logo.jpg" group-title="Web TV", Urban TV Brasil (Florianópolis/SC)
 https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1410545589.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.virtual.tv.br/assets/images/logotipo-virtual-tv-2000x2000.png" group-title="Web TV", VirtualTV (Francisco Beltrão/PR)
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1982860011.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Taubaté/SP)
-https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w151397012.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Web TV", Web TV Uai (Ubá/MG)
 INDISPONÍVEL
