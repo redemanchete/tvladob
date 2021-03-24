@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 22/03/2021
+ATUALIZADA EM 24/03/2021
  
 
 >> ARGENTINA
@@ -11,10 +11,10 @@ ATUALIZADA EM 22/03/2021
 #EXTINF:-1 tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="Argentina", 13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy-218x150.png" group-title="Argentina", Canal 7 JuyJuy
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy-218x150.png" group-title="Argentina", Canal 7 Jujuy
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina", Canal Provinical
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina", Canal Provincial/TeleRed
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-title="Argentina", EL TV10 Salta
@@ -39,10 +39,10 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/chunklist_w1594358321.m3u8
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT Plus
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w1801065707.m3u8
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Bolívia", RTP Bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
@@ -162,9 +162,6 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
  
 >> PARAGUAI
  
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_06/large.Logo-Gen.png.55593c1e6b09fbd0b142948f0dbcb900.png" group-title="Paraguai", GEN
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="Paraguai", Trece RPC
 http://174.138.118.252/live/trece_src.m3u8
  
@@ -217,7 +214,7 @@ https://5940924978228.streamlock.net/Directo3/Directo3/chunklist_w1310192224.m3u
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/chunklist_w1829875905.m3u8
  
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Espanha", Canal Extremadura
-https://upload.wikimedia.org/wikipedia/commons/7/7c/CEXMA_new.png
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV 1
 http://europa-crtvg.flumotion.com/playlist.m3u8
