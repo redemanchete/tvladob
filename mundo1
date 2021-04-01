@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 24/03/2021
+ATUALIZADA EM 01/04/2021
  
 
 >> ARGENTINA
@@ -50,7 +50,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
  
 >> CHILE
  
-#EXTINF:-1 tvg-logo="https://www.antofagasta.tv/wp-content/uploads/sites/3/2020/05/Logo-ATV.png" group-title="Chile", Antofagasta TV
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Antofafgasta_Chile.jpg" group-title="Chile", Antofagasta TV
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="Chile", Canal 21
@@ -71,7 +71,7 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pipiolatodalavida.files.wordpress.com/2014/05/logonegroumagtv.png" group-title="Chile", UMAG TV
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.utv.cl/img/logo_negro.jpg" group-title="Chile", UTV San Clemente
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-UTV-San-Clemente-vivo.jpg" group-title="Chile", UTV San Clemente
 https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
  
  
@@ -111,7 +111,7 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
  
 >> EL SALVADOR
  
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/img/wowoficiallogo2020.jpg" group-title="El Salvador", WOW TV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/images/wow.fw.png" group-title="El Salvador", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
  
  
