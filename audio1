@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 22/03/2021
+ATUALIZADA EM 01/04/2021
  
 
 >> RÁDIO FM - BRASIL
@@ -38,7 +38,7 @@ http://stream.7br.com.br:10114/stream?1604633272155
 #EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 91.7 - Catve FM (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5ed956347c466.png" group-title="Rádio FM - Brasil", 91.7 - RTL - Rádio e TV Litoral Prevent Senior (Santos/SP)
+#EXTINF:-1 tvg-logo="https://www.mussicom.com/images/inicio_rtl.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM - Rádio e TV Litoral (Santos/SP)
 https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/chunklist_w399071226.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Play_FM_logo.png/640px-Play_FM_logo.png" group-title="Rádio FM - Brasil", 92.1 - Play FM (São Paulo/SP)
@@ -116,6 +116,9 @@ https://audio.97fm.com.br/energia
 #EXTINF:-1 tvg-logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/rocket-logo.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
 http://cast.midiaip.com.br:9770/;
 
+#EXTINF:-1 tvg-logo="https://www.mussicom.com/images/inicio_hot98.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
+https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/chunklist_w1929358587.m3u8
+
 #EXTINF:-1 tvg-logo="https://radioglobo.globo.com/estaticos/img/compartilhamento/radio-globo-default.jpg" group-title="Rádio FM - Brasil", 98.1 - Rádio Globo (Rio de Janeiro/RJ)
 https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8?
 
@@ -171,7 +174,7 @@ http://198.24.165.180:9822/;
 http://192.99.4.205:8164/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5ff1e765baace.png" group-title="Rádio FM - Brasil", 101.5 - SpaceX (Vitória/ES)
-https://8948.brasilstream.com.br/stream
+http://station.radionanet.com:8090/;
  
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="Rádio FM - Brasil", 102.3 - 102.3 FM (Porto Alegre/RS)
 https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f77be75f-3539-4cbd-9032-f6c6843b8999.m3u8
@@ -192,7 +195,7 @@ http://cloud1.cdnseguro.com:26492/stream
 https://streamabc.gruposinos.com.br/radio.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5f19c626d418c.png" group-title="Rádio FM - Brasil", 103.3 - Cultura FM (São Paulo/SP)
-https://tvcultura.com.br/_radio/streaming.php?radio=fm
+https://radiocultura.jmvstream.com/stream
 
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 103.7 - Antena 1 Lite FM (Rio de Janeiro/RJ)
 https://a1rj.streams.com.br/stream
@@ -468,6 +471,12 @@ https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio22712_1530271971.png" group-title="Web Rádio - Brasil", Rádio Scalla (São Paulo/SP)
 https://player-ssl.kshost.com.br:9710/live
+
+#EXTINF:-1 tvg-logo="https://www.showtimeradio.com.br/wp-content/uploads/2021/01/cropped-showtime_transp-1.png" group-title="Web Rádio - Brasil", Rádio Showtime (São José dos Campos/SP)
+https://radios.poolwebwork.com.br/8016/stream
+
+#EXTINF:-1 tvg-logo="https://www.showtimeradio.com.br/wp-content/uploads/2021/01/cropped-showtime_transp-1.png" group-title="Web Rádio - Brasil", Rádio Showtime - Vídeo (São José dos Campos/SP)	
+https://5a57bda70564a.streamlock.net/mtvideo/mtvideo.sdp/chunklist_w1748055989.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5f/80/109900/1/c175.png" group-title="Web Rádio - Brasil", Rádio Viva o Samba (Rio de Janeiro/RJ)	
 http://74.63.237.84:8020/live
