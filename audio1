@@ -298,7 +298,7 @@ https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_da_R%C3%A1dio_Record.png" group-title="Rádio AM - Brasil", 1000 - Rádio Record (São Paulo/SP)
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/6020bc868d3ca.jpg" group-title="Rádio AM - Brasil", 1040 - Rádio Capital (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://capitalcomvoce.grupoblend.com.br/wp-content/uploads/2021/03/logo-capital.png" group-title="Rádio AM - Brasil", 1040 - Rádio Capital (São Paulo/SP)
 https://audio.capitalcomvoce.com.br/capital
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Rádio AM - Brasil", 1070 - Rádio Metropolitana (Mogi das Cruzes/SP)
@@ -449,7 +449,7 @@ https://shout25.crossradio.com.br:18006/1;
 http://servidor39.brlogic.com:8252/live?type=.m3u?ver=568
 
 #EXTINF:-1 tvg-logo="http://radiogonzagao.com.br/images/0270be98117065234f38a928b30f398c.jpg" group-title="Web Rádio - Brasil", Rádio Gonzagão (Recife/PE)
-https://s46.maxcast.com.br:8152/live?id=1614013672107
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.radiograviola.com/wp-content/uploads/2020/04/logo-radio-graviola-site-resize-1.png" group-title="Web Rádio - Brasil", Rádio Graviola (Rio de Janeiro/RJ)
 http://servidor30.brlogic.com:8262/live
