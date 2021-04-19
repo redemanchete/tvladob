@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 12/04/2021
+ATUALIZADA EM 19/04/2021
 
  
 >> EDUCATIVO
@@ -33,7 +33,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FmSllpm2i1Y)r(fVR9ug)a(yRpjsA)p(d(2xc)k(q8U)m(Xr6Rmwk14-b8340T5cbkag)n(a(SU2ZgA)s(S94)'a(Ffp2Zg)s(AV8)))s(s(nww)b(nO95ZQ_hruxTaqhafMenCw06h-1uhE0rcPwOQbx6Vp76Vjch4Kr4aDE72gDua2VOJthbH9t_2ILJiKbJbw)'s(cGI)b(VC5Jg7g3aimKNPdvoiIn1VhrFV2ZDroZf2DjdbtBq4ptIWhrXRutYIQr0AFwH1Zpccor2S2R5xcl_Bo5xYvCJO08NlVfdCZzPCUab26R)'s(4vQ)b(0Bc7fe08))m(0))/1_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Educativo", TV Cultura Pará (Belém/PA)
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w2134199127.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="Educativo", TVE (Porto Alegre/RS)
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
@@ -51,13 +51,13 @@ INDISPONÍVEL
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Educativo", Sesc TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a1cf2491-3657-4b42-abbb-56cc8f0ba378_index1080p.m3u8
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index1080p.m3u8
 
 
 >> UNIVERSITÁRIO
 
 #EXTINF:-1 tvg-logo="http://cnub.com.br/layouts/site/cnub/images/logotipo-rodape.png" group-title="Universitário", Fun Canal (Bauru/SP)
-http://video01.kshost.com.br/luiz68286/luiz68286/chunklist_w1573531317.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_FURG_institucional.png/766px-Logo_FURG_institucional.png" group-title="Universitário", FURG TV (Rio Grande/RS)
 https://stream.furg.br/hls/furgtv_360p.m3u8
@@ -81,7 +81,7 @@ https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(Fm65EyAM3JE)r(fVR9ug)a(s3F01A)
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1813744813.m3u8
 
 #EXTINF:-1 tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/03/Logo-RBTV-730x410-1.png" group-title="Regional Aberto", RBTV (São Paulo/SP)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w782464579.m3u8
+https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/chunklist_w1580136633.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png" group-title="Regional Aberto", Rede Família (Campinas/SP)
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
@@ -194,7 +194,7 @@ http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w110730727.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://tvzoom.com.br/wp-content/uploads/2019/03/cropped-logo1.png" group-title="Regional Fechado", TV Zoom (Nova Friburgo/RJ)
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+INDISPONÍVEL
 
 
 >> MUSICAL
@@ -323,16 +323,16 @@ INDISPONÍVEL
 >> AGRO
 
 #EXTINF:-1 tvg-logo="https://agromais.band.uol.com.br/assets/images/logo_agro.png" group-title="Agro", Agro+ (São Paulo/SP)
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.agrobrasiltv.com.br/images/logo_agrobrasil_v10.png" group-title="Agro", AgroBrasil TV (Campo Grande/MS)
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Agro", Agro Canal (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/527224514275288998806931.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/798304914679493065280297.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Agro", Canal do Boi (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/428167370837001681613970.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/537752524217285392219396.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Agro", Canal Rural (São Paulo/SP)
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
