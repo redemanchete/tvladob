@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 19/04/2021
+ATUALIZADA EM 22/04/2021
 
  
 >> EDUCATIVO
@@ -33,7 +33,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FmSllpm2i1Y)r(fVR9ug)a(yRpjsA)p(d(2xc)k(q8U)m(Xr6Rmwk14-b8340T5cbkag)n(a(SU2ZgA)s(S94)'a(Ffp2Zg)s(AV8)))s(s(nww)b(nO95ZQ_hruxTaqhafMenCw06h-1uhE0rcPwOQbx6Vp76Vjch4Kr4aDE72gDua2VOJthbH9t_2ILJiKbJbw)'s(cGI)b(VC5Jg7g3aimKNPdvoiIn1VhrFV2ZDroZf2DjdbtBq4ptIWhrXRutYIQr0AFwH1Zpccor2S2R5xcl_Bo5xYvCJO08NlVfdCZzPCUab26R)'s(4vQ)b(0Bc7fe08))m(0))/1_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Educativo", TV Cultura Pará (Belém/PA)
-INDISPONÍVEL
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="Educativo", TVE (Porto Alegre/RS)
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
@@ -57,7 +57,7 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 >> UNIVERSITÁRIO
 
 #EXTINF:-1 tvg-logo="http://cnub.com.br/layouts/site/cnub/images/logotipo-rodape.png" group-title="Universitário", Fun Canal (Bauru/SP)
-INDISPONÍVEL
+http://video01.kshost.com.br/luiz68286/luiz68286/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_FURG_institucional.png/766px-Logo_FURG_institucional.png" group-title="Universitário", FURG TV (Rio Grande/RS)
 https://stream.furg.br/hls/furgtv_360p.m3u8
@@ -194,7 +194,7 @@ http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w110730727.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://tvzoom.com.br/wp-content/uploads/2019/03/cropped-logo1.png" group-title="Regional Fechado", TV Zoom (Nova Friburgo/RJ)
-INDISPONÍVEL
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 
 >> MUSICAL
@@ -310,7 +310,13 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png" group-title="Esporte", Garage TV (Argentina)
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w986842119_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Esporte", Yeeaah (São Paulo/SP)
+
+>> CULTURA POP
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="Cultura Pop", Loading (São Paulo/SP)
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+
+#EXTINF:-1 tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Cultura Pop", Yeeaah (São Paulo/SP)
 https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w475265846.m3u8
 
 
@@ -412,6 +418,9 @@ https://59f2354c05961.streamlock.net:1443/mkkweb/_definst_/mkkweb/chunklist_w111
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1208603521412685825/C9p1Ff0h_400x400.jpg" group-title="Web TV", Rede UTV (Descalvado/SP)
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1756041649.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Web TV", TV A Folha (Palmas/PR)
+https://video02.kshost.com.br/elton3601/elton3601/chunklist_w1564265347.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvideonews.com.br/gallery_gen/14d7c4df234b97082360fffc2b54a7fe_500x375.png" group-title="Web TV", TVídeoNews (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w158065148.m3u8
 
@@ -421,11 +430,14 @@ https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.c
 #EXTINF:-1 tvg-logo="http://www.virtual.tv.br/assets/images/logotipo-virtual-tv-2000x2000.png" group-title="Web TV", VirtualTV (Francisco Beltrão/PR)
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1982860011.m3u8
 
+#EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Web TV", VRT Channel (Guarulhos/SP)	
+https://5f1ce9c7dc62b.streamlock.net/vrtchannel/vrtchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Taubaté/SP)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Web TV", Web TV Uai (Ubá/MG)
-INDISPONÍVEL
+https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_bb1cad15a0db43d09a3fe41e05a624ad~mv2.png" group-title="Web TV", Web Vintage TV (Cotia/SP)
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1709900199.m3u8
@@ -471,9 +483,6 @@ https://virtues.es:1936/clubeararense/clubeararense/chunklist_w2021580311.m3u8
 
 #EXTINF:0 tvg-logo="https://radiojornal.ne10.uol.com.br/img/radio-jornal.png" group-title="Estúdio de Rádio", Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.showtimeradio.com.br/wp-content/uploads/2021/01/cropped-showtime_transp-1.png" group-title="Estúdio de Rádio", Rádio Showtime (São José dos Campos/SP)	
-https://5a57bda70564a.streamlock.net/mtvideo/mtvideo.sdp/chunklist_w1748055989.m3u8
 
 #EXTINF:0 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/283/ec0be76e6415e85b6facbcaf009b8009.png" group-title="Estúdio de Rádio", Rádio Vibe Mundial (Jundiaí/SP)
 http://5953e7f9ae845.streamlock.net:1935/radiomundial/mundial.stream/chunklist_w921212648.m3u8
