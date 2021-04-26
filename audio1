@@ -3,8 +3,8 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 01/04/2021
- 
+ATUALIZADA EM 26/04/2021
+
 
 >> RÁDIO FM - BRASIL
 
@@ -113,7 +113,7 @@ https://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w888770065.m3u8??
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png" group-title="Rádio FM - Brasil", 97.7 - Energia 97 FM (São Paulo/SP)
 https://audio.97fm.com.br/energia
 
-#EXTINF:-1 tvg-logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/rocket-logo.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11579_1617107168.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
 http://cast.midiaip.com.br:9770/;
 
 #EXTINF:-1 tvg-logo="https://www.mussicom.com/images/inicio_hot98.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
@@ -183,7 +183,7 @@ https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f77be75f-3539-4cb
 http://www.radioideal.net:8026/stream
 
 #EXTINF:-1 tvg-logo="http://aovivo.bandvalefm.com.br/uploads/1/1/9/6/119632159/logo-rede-band-vale-fm.gif" group-title="Rádio FM - Brasil", 102.9 - Band Vale FM (São José dos Campos/SP)
-http://svrstream3.svreua.com:9010/;
+https://stream1.svrdedicado.org/8186/stream
 
 #EXTINF:-1 tvg-logo="https://assets.izap.com.br/cdlfm.com.br/uploads/tema/plusfiles/Novalogo2.png" group-title="Rádio FM - Brasil", 102.9 - CDL FM (Belo Horizonte/MG)
 http://9595.brasilstream.com.br/stream
@@ -201,7 +201,7 @@ https://radiocultura.jmvstream.com/stream
 https://a1rj.streams.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/fb/09/fb09d678d04a41ca612e6f809ddac82a.jpg" group-title="Rádio FM - Brasil", 103.9 - Stereo Vale FM (São José dos Campos/SP)
-http://svrstream3.svreua.com:9008/;
+https://stream1.svrdedicado.org/8194/stream
 
 #EXTINF:-1 tvg-logo="http://tempofm.com.br/wp-content/uploads/2018/08/logo-tempofm-1.png" group-title="Rádio FM - Brasil", 103.9 - Tempo FM (Fortaleza/CE)
 http://r13.ciclano.io:8609/live
