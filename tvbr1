@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 22/04/2021
+ATUALIZADA EM 26/04/2021
 
  
 >> EDUCATIVO
@@ -30,7 +30,7 @@ http://187.111.97.45:1935/webtv/webtv/chunklist_w2029527690.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1616431843~exp=1616438443~acl=/*~hmac=0dfedbb792f484f09cd612d189174df896d50106e68e71fa6e51d70ac7f5b04d
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil
-https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FmSllpm2i1Y)r(fVR9ug)a(yRpjsA)p(d(2xc)k(q8U)m(Xr6Rmwk14-b8340T5cbkag)n(a(SU2ZgA)s(S94)'a(Ffp2Zg)s(AV8)))s(s(nww)b(nO95ZQ_hruxTaqhafMenCw06h-1uhE0rcPwOQbx6Vp76Vjch4Kr4aDE72gDua2VOJthbH9t_2ILJiKbJbw)'s(cGI)b(VC5Jg7g3aimKNPdvoiIn1VhrFV2ZDroZf2DjdbtBq4ptIWhrXRutYIQr0AFwH1Zpccor2S2R5xcl_Bo5xYvCJO08NlVfdCZzPCUab26R)'s(4vQ)b(0Bc7fe08))m(0))/1_index.m3u8
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Educativo", TV Cultura Pará (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
@@ -45,7 +45,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.infoescola.com/wp-content/uploads/2016/11/tv-ines.png" group-title="Educativo", TV INES
-INDISPONÍVEL
+	
+https://edge-mt-01.eduplay.rnp.br/media/ocp(r(wT6qIg)t(AAAAAAAAAAA)p(d(_Qs)k(ins)m(lp-WeVNBuTg9W5UVVWbGXQ)n(a(yreT7Iexe8ZbJr04s7dR1M9RQQfz_k9y_eKGa7feMVAMwTc)s(VT0)'a(iY9lG2HRhvtfYbpryy1y8QrQ_CQnZGRO7yj0)s(UTs)'a(YamlQHYyGnXpQUhdcvAqDznE)s(gGM)))s(t(FU0)b(W5M3-QBxyEeR-QsdmzYj9SSs6KZVbHtXGHlOgop9yEldr_bsZWWAeFGtu6Ti13xq1KDx9ilwe4ri1y1XJ6X9l_1KVqB4Mbwd5rsLpg1CvaKSu-o4qdTkVDkl7bw52OFEWnpulRuuHVxoPmV3RpJ9p2pwGwDSfPH6uYxHQtrKlEpvYVSo_uZcENta5w)'t(nC4)b(pAP9ZKxs4z-4pPeV90ueOBiTzd1Ob_zV8Vo)))/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/themes/redeparanaeducativa/images/LOGO_TVPARANATURISMO.png" group-title="Educativo", TV Paraná Turismo (Curitiba/PR)
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
