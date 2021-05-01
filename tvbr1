@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 27/04/2021
+ATUALIZADA EM 01/05/2021
 
  
 >> EDUCATIVO
@@ -45,8 +45,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.infoescola.com/wp-content/uploads/2016/11/tv-ines.png" group-title="Educativo", TV INES
-	
-https://edge-mt-01.eduplay.rnp.br/media/ocp(r(wT6qIg)t(AAAAAAAAAAA)p(d(_Qs)k(ins)m(lp-WeVNBuTg9W5UVVWbGXQ)n(a(yreT7Iexe8ZbJr04s7dR1M9RQQfz_k9y_eKGa7feMVAMwTc)s(VT0)'a(iY9lG2HRhvtfYbpryy1y8QrQ_CQnZGRO7yj0)s(UTs)'a(YamlQHYyGnXpQUhdcvAqDznE)s(gGM)))s(t(FU0)b(W5M3-QBxyEeR-QsdmzYj9SSs6KZVbHtXGHlOgop9yEldr_bsZWWAeFGtu6Ti13xq1KDx9ilwe4ri1y1XJ6X9l_1KVqB4Mbwd5rsLpg1CvaKSu-o4qdTkVDkl7bw52OFEWnpulRuuHVxoPmV3RpJ9p2pwGwDSfPH6uYxHQtrKlEpvYVSo_uZcENta5w)'t(nC4)b(pAP9ZKxs4z-4pPeV90ueOBiTzd1Ob_zV8Vo)))/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/themes/redeparanaeducativa/images/LOGO_TVPARANATURISMO.png" group-title="Educativo", TV Paraná Turismo (Curitiba/PR)
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
@@ -67,13 +66,13 @@ https://stream.furg.br/hls/furgtv_360p.m3u8
 http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Universitário", TV UFOP (Ouro Preto/MG)
-INDISPONÍVEL
+https://edge-es-01.eduplay.rnp.br/media/ocp(r(wT6qIg)t(AAAAAAAAAAA)p(d(_Qs)k(ins)m(Cp0gFlQSawb-AHEUlKROgg)n(a(yreT7Iexe8ZbJr04s7dR1M9RQQfz_k9y_eKGa7feMVAMwTc)s(VT0)'a(iY9lG2HRhvtfYbpryy1y8QrQ_CQnZGRO7yj0)s(UTs)'a(YamlQHY6HXXpQUhdcvAqDznE)s(gGM)))s(t(FU0)b(W5M3-QBxyEeR-QsdmzYj9SSs6KZVbHtXGHlOgop9yEldr_bsZWWAeFGtu6Ti13xq1KDx9ilwe4ri1y1XJ6X9l_1KVqB4Mbwd5rsLpg1Cvpy0vukWpdTkVDkl7bw52OFEWnpulRuuHVxoPmV3Ro9gwjN5JgCPAfD5uapLeY_3lXc2e1Su07xnNdta5w)'t(nC4)b(pAP9ZKxs4z-4pPeV90ueOBiTzdpIYvrW8Vo)))/live_720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.faac.unesp.br/Home/arquivos_home/midiaecomunicacao/tvunesp.png" group-title="Universitário", TV Unesp (Bauru/SP)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Universitário", UnBTV (Brasília/DF)
-https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(Fm65EyAM3JE)r(fVR9ug)a(s3F01A)p(d(2xc)k(q8Y)m(ZTKz7dXblXA5Kcqx2je5fQ)n(a(GGX4PA)s(J-U)'a(oSuzBA)s(3Vg)))s(s(dVQ)b(TXUWIpAWx9d7fPpid8sWb9dS7RgI2BqsIF1PxtEVVM9ipfrh33Xr1TftQc0jtyTTsLXZ0b05Rm3XeyyxGw)'s(vuM)b(iIeZWB-q7-eX5JhQ6TTp5dq0e7YVv-GAuHHsF8OmBjVrO1tpSDdO7fPjXXUBYSBGwww8u4w36oGJyfI3qb2V10cJ6Qqe2zr7-ijqZMjS)'s(X0o)b(dDcqooaw))m(0))/unb_index.m3u8
+https://edge-pa-01.eduplay.rnp.br/media/ocp(r(wT6qIg)t(AAAAAAAAAAA)p(d(_Qs)k(ins)m(w3rrD1iLRpJ4PN3ZVtLIwg)n(a(yreT7Iexe8ZbJr04s7dR1M9RQQfz_k9y_eKGa7feMVAMwTc)s(VT0)'a(iY9lG2HRhvtfYbpryy1y8QrQ_CQnZGRO7yj0)s(UTs)'a(YamlQHYvD3XpQUhdcvAqDznE)s(gGM)))s(t(FU0)b(W5M3-QBxyEeR-QsdmzYj9SSs6KZVbHtXGHlOgop9yEldr_bsZWWAeFGtu6Ti13xq1KDx9ilwe4ri1y1XJ6X9l_1KVqB4Mbwd5rsLpg1Cvpyw9OoWudTkVDkl7bw52OFEWnpulRuuHVxoPmV3RqtQtTsFD3iIAsyP1qRHauzjlloPGkyHgdhTDula5w)'t(nC4)b(pAP9ZKxs4z-4pPeV90ueOBiTzdpJZf7R8Vo)))/live_1080_index.m3u8
 
 
 >> REGIONAL ABERTO
@@ -118,7 +117,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Regional Aberto", TV Thathi (Ribeirão Preto/SP)
-https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/tracks-v1a1/mono.m3u8
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvuniaobrasilia.com.br/wp-content/uploads/2020/01/Lg_Tv_Uniao_Bsb_Canal_Neg_300px.png" group-title="Regional Aberto", TV União (Brasília/DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
@@ -162,7 +161,7 @@ https://cdn-gentv.ciclano.io:1443/gentv/gentv/chunklist_w12667920.m3u8
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w598163388.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regional Fechado", Rede Premium TV (Osasco/SP)
-https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/3393/cabecalho-3393-20180515164408.png" group-title="Regional Fechado", Riviera Summer TV (Bertioga/SP)
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1345189999.m3u8
@@ -195,7 +194,7 @@ https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/c
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w110730727.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title="Regional Fechado", TV Sol (Patos/PB)
-INDISPONÍVEL
+https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvzoom.com.br/wp-content/uploads/2019/03/cropped-logo1.png" group-title="Regional Fechado", TV Zoom (Nova Friburgo/RJ)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -275,6 +274,9 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/5112C-BNjpL.png" group-title="Notícias", India Today Television (Índia)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1024px-Rai_News_24_-_Logo_2013.svg.png" group-title="Notícias", Rai News24 (Itália)
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title="Notícias", RT America (Rússia)
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 
@@ -295,9 +297,6 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 
 >> DOCUMENTÁRIOS
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Documentários", CGTN Español (China)
-https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentários", NASA TV (Estados Unidos)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -358,6 +357,9 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Mundo", Canal Once (México)
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Mundo", CGTN Español (China)
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="Mundo", Cubavisión Internacional (Cuba)	
 LINK INVÁLIDO
@@ -437,8 +439,11 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_
 #EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Web TV", VRT Channel (Guarulhos/SP)	
 https://5f1ce9c7dc62b.streamlock.net/vrtchannel/vrtchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Guaratinguetá/SP)
+https://cdn.cdnseguro.com/metroguara/metroguara/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Taubaté/SP)
-INDISPONÍVEL
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Web TV", Web TV Uai (Ubá/MG)
 https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
