@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 26/04/2021
+ATUALIZADA EM 01/05/2021
  
 
 >> ARGENTINA
@@ -36,7 +36,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 >> BOLÍVIA
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/870563676616577024/kn89ust_.jpg" group-title="Bolívia", Cristal TV
-http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/playlist.m3u8
@@ -156,9 +156,6 @@ https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.sched.co/a/94/7008491/avatar.jpg" group-title="Panamá", NexTV
 http://198.1.123.99:1935/live/myStream/chunklist_w746505505.m3u8
  
-#EXTINF:-1 tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="Panamá", RPC
-https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
- 
  
 >> PARAGUAI
  
@@ -209,12 +206,12 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Espanha", Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo3/Directo3/chunklist_w1310192224.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.Canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png" group-title="Espanha", Canal Costa
-https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/chunklist_w1829875905.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Espanha", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.Canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png" group-title="Espanha", Canalcosta
+https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/chunklist_w1829875905.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV 1
 http://europa-crtvg.flumotion.com/playlist.m3u8
