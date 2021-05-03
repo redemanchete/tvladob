@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 01/05/2021
+ATUALIZADA EM 03/05/2021
  
 
 >> ARGENTINA
@@ -23,7 +23,7 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina", Litus TV
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w4190183_b1531904.m3u8
  
-#EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="Argentina", Multivisión Federal
+#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="Argentina", Multivisión
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
  
 #EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="Argentina", Net TV
@@ -61,9 +61,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dc92ad_b04f3acd11fe450c86222ff792a35216~mv2.png" group-title="Chile", Tendencias Prime
 https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="Chile", TV Chile
-https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Chile", Uestv
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
@@ -138,7 +135,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848
  
 >> MÉXICO
  
-#EXTINF:-1 tvg-logo="https://www.canal10.tv/assets/Logo2.png" group-title="México", Canal 10
+#EXTINF:-1 tvg-logo="http://www.canal10.tv/assets/Logo2.png" group-title="México", Canal 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="México", Canal Once
@@ -198,14 +195,11 @@ https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3JcZaZZ1jSk/UvPH0MRh1XI/AAAAAAAAAD4/2V0hxQjBvJU/s1600/8TV+LA+JANDA+-+XL.jpg" group-title="Espanha", 8 La Janda
 http://185.210.20.13:8080/0.m3u8
  
-#EXTINF:-1 tvg-logo="https://9laloma.tv/wp-content/uploads/2016/12/LOGO-EN-NEGRO_web.png" group-title="Espanha", 9 La Loma
+#EXTINF:-1 tvg-logo="https://gtswiki.gt-beginners.net/decal/png/12/01/97/7286916560978970112_1.png" group-title="Espanha", 9 La Loma
 https://directo.9laloma.es/live/1080.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="Espanha", Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Espanha", Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo3/Directo3/chunklist_w1310192224.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Espanha", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
@@ -252,7 +246,7 @@ http://video.telesafor.com/hls/video_high.m3u8
 #EXTINF:-1 tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="Espanha", Trebujena TV
 https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une-300x300.png" group-title="Espanha", Une Vinalopo
+#EXTINF:-1 tvg-logo="https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une.png" group-title="Espanha", Une Vinalopó
 http://78.41.83.88:8880/hls/unesd.m3u8
  
  
