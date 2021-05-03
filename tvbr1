@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 01/05/2021
+ATUALIZADA EM 03/05/2021
 
  
 >> EDUCATIVO
@@ -166,7 +166,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/3393/cabecalho-3393-20180515164408.png" group-title="Regional Fechado", Riviera Summer TV (Bertioga/SP)
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1345189999.m3u8
 
-#EXTINF:-1 tvg-logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/272-x-90px.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
+#EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65NyfNQD/logo-login.gif" group-title="Regional Fechado", TV Aberta SP (São Paulo/SP)
@@ -205,10 +205,10 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="Musical", 1Muz (Bielorrússia)
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://onxtv.com/wp-content/uploads/2020/09/California_Music_Channel_Logo.png" group-title="Musical", CMC - California Music Channel (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Musical", CMC - California Music Channel (Estados Unidos)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://onxtv.com/wp-content/uploads/2020/09/California_Music_Channel_Logo.png" group-title="Musical", CMC-USA - Country Music Channel (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Musical", CMC-USA - Country Music Channel (Estados Unidos)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/936px-Radio_m2o_-_Logo_2019.svg.png" group-title="Musical", m2o TV (Itália)
@@ -310,7 +310,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/CDO-El-canal-del-Deporte-Olimpico-de-Chile-en-vivo-Online.png" group-title="Esporte", CDO (Chile)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png" group-title="Esporte", Garage TV (Argentina)
+#EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png" group-title="Esporte", Garage TV (Argentina)
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w986842119_b1296000_sleng.m3u8
 
 
@@ -367,7 +367,7 @@ LINK INVÁLIDO
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Mundo", Galicia TV América (Espanha)
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="Mundo", Multivisión Federal (Argentina)
+#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="Mundo", Multivisión (Argentina)
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" group-title="Mundo", NHK World (Japão)
@@ -439,12 +439,6 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_
 #EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Web TV", VRT Channel (Guarulhos/SP)	
 https://5f1ce9c7dc62b.streamlock.net/vrtchannel/vrtchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Guaratinguetá/SP)
-https://cdn.cdnseguro.com/metroguara/metroguara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Web TV", Web TV Metropolitana (Taubaté/SP)
-https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Web TV", Web TV Uai (Ubá/MG)
 https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
 
@@ -492,6 +486,9 @@ https://virtues.es:1936/clubeararense/clubeararense/chunklist_w2021580311.m3u8
 
 #EXTINF:0 tvg-logo="https://radiojornal.ne10.uol.com.br/img/radio-jornal.png" group-title="Estúdio de Rádio", Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.showtimeradio.com.br/wp-content/uploads/2021/01/cropped-showtime_transp-1.png" group-title="Estúdio de Rádio", Rádio Showtime (São José dos Campos/SP)	
+https://5a57bda70564a.streamlock.net/mtvideo/mtvideo.sdp/chunklist_w1748055989.m3u8
 
 #EXTINF:0 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/283/ec0be76e6415e85b6facbcaf009b8009.png" group-title="Estúdio de Rádio", Rádio Vibe Mundial (Jundiaí/SP)
 http://5953e7f9ae845.streamlock.net:1935/radiomundial/mundial.stream/chunklist_w921212648.m3u8
