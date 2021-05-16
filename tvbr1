@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 03/05/2021
+ATUALIZADA EM 16/05/2021
 
  
 >> EDUCATIVO
@@ -30,7 +30,7 @@ http://187.111.97.45:1935/webtv/webtv/chunklist_w2029527690.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1616431843~exp=1616438443~acl=/*~hmac=0dfedbb792f484f09cd612d189174df896d50106e68e71fa6e51d70ac7f5b04d
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil
-LINK INVÁLIDO
+https://edge-mg-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(d1YTSmXYQs9zWDb5DdlUDA)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdpunrQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuG_AaUF86vlMJtsMkooySBOlQbVM33PgsYPQdea2BJafjjc-BWtPRlStfmQ939PXcd844pid2JY82J6JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kYcqZf8MZQ)))/live_720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Educativo", TV Cultura Pará (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
@@ -66,22 +66,22 @@ https://stream.furg.br/hls/furgtv_360p.m3u8
 http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Universitário", TV UFOP (Ouro Preto/MG)
-https://edge-es-01.eduplay.rnp.br/media/ocp(r(wT6qIg)t(AAAAAAAAAAA)p(d(_Qs)k(ins)m(Cp0gFlQSawb-AHEUlKROgg)n(a(yreT7Iexe8ZbJr04s7dR1M9RQQfz_k9y_eKGa7feMVAMwTc)s(VT0)'a(iY9lG2HRhvtfYbpryy1y8QrQ_CQnZGRO7yj0)s(UTs)'a(YamlQHY6HXXpQUhdcvAqDznE)s(gGM)))s(t(FU0)b(W5M3-QBxyEeR-QsdmzYj9SSs6KZVbHtXGHlOgop9yEldr_bsZWWAeFGtu6Ti13xq1KDx9ilwe4ri1y1XJ6X9l_1KVqB4Mbwd5rsLpg1Cvpy0vukWpdTkVDkl7bw52OFEWnpulRuuHVxoPmV3Ro9gwjN5JgCPAfD5uapLeY_3lXc2e1Su07xnNdta5w)'t(nC4)b(pAP9ZKxs4z-4pPeV90ueOBiTzdpIYvrW8Vo)))/live_720_index.m3u8
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(o5jhHC3e5DnLM3H1NepasA)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSd3rXrQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuXyAosvuqvlMJtsMkooySBOlQbVM33PgsYPQdea2CdwV3jCwh3bEWxgkPO8qmBPQtt_5bUEV1Mi_2t1AjM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kcUr5z4MZQ)))/live_720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.faac.unesp.br/Home/arquivos_home/midiaecomunicacao/tvunesp.png" group-title="Universitário", TV Unesp (Bauru/SP)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Universitário", UnBTV (Brasília/DF)
-https://edge-pa-01.eduplay.rnp.br/media/ocp(r(wT6qIg)t(AAAAAAAAAAA)p(d(_Qs)k(ins)m(w3rrD1iLRpJ4PN3ZVtLIwg)n(a(yreT7Iexe8ZbJr04s7dR1M9RQQfz_k9y_eKGa7feMVAMwTc)s(VT0)'a(iY9lG2HRhvtfYbpryy1y8QrQ_CQnZGRO7yj0)s(UTs)'a(YamlQHYvD3XpQUhdcvAqDznE)s(gGM)))s(t(FU0)b(W5M3-QBxyEeR-QsdmzYj9SSs6KZVbHtXGHlOgop9yEldr_bsZWWAeFGtu6Ti13xq1KDx9ilwe4ri1y1XJ6X9l_1KVqB4Mbwd5rsLpg1Cvpyw9OoWudTkVDkl7bw52OFEWnpulRuuHVxoPmV3RqtQtTsFD3iIAsyP1qRHauzjlloPGkyHgdhTDula5w)'t(nC4)b(pAP9ZKxs4z-4pPeV90ueOBiTzdpJZf7R8Vo)))/live_1080_index.m3u8
+https://edge-rj-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(Yi0hRiS4LuJvU6F7O37EGQ)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSd2t3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuX9AbUB8KvlMJtsMkooySBOlQbVM33PgsYPQdea2BJ0ehzbwQ39JhRwi_LnomRVQOY02rJ-d2IH3hF-JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kcVqJj_MZQ)))/live_1080_index.m3u8
 
 
 >> REGIONAL ABERTO
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Regional Aberto", ISTV (Guarujá/SP)
-https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1813744813.m3u8
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/04/rbtv00000-678x381.jpeg" group-title="Regional Aberto", RBTV (São Paulo/SP)
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png" group-title="Regional Aberto", Rede Família (Campinas/SP)
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
@@ -96,7 +96,7 @@ https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w62143844.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/11/logo-site-tv8brasil.png" group-title="Regional Aberto", TV8 Brasil (São Paulo/SP)
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2596000.m3u8
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9dt6v7.jpg" group-title="Regional Aberto", TV Alternativa/Gazeta (São Luís/MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1044661007.m3u8
@@ -164,7 +164,7 @@ https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w59816338
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/3393/cabecalho-3393-20180515164408.png" group-title="Regional Fechado", Riviera Summer TV (Bertioga/SP)
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1345189999.m3u8
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
@@ -287,7 +287,7 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Notícias", TVE - 24 Horas (Espanha)
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Notícias", TV Guará/Record News (São Luís/MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w1693666342.m3u8
@@ -312,6 +312,9 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png" group-title="Esporte", Garage TV (Argentina)
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w986842119_b1296000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Esporte", Teledeporte (Espanha)
+https://rtvelivestream-lvlt.rtve.es/tdp_main_1080.m3u8
 
 
 >> CULTURA POP
@@ -386,10 +389,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w72696151_b1828000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="Mundo", TVE - La 1 (Espanha)
-https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
+https://rtvelivestream-lvlt.rtve.es/la1_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1097px-Logo_TVE-2.svg.png" group-title="Mundo", TVE - La 2 (Espanha)
-https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
+https://rtvelivestream-lvlt.rtve.es/la2_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Mundo", TVes (Venezuela)
 LINK INVÁLIDO
