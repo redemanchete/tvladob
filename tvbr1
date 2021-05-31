@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 26/05/2021
+ATUALIZADA EM 31/05/2021
 
  
 >> EDUCATIVO
@@ -30,7 +30,7 @@ http://187.111.97.45:1935/webtv/webtv/chunklist_w2029527690.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1616431843~exp=1616438443~acl=/*~hmac=0dfedbb792f484f09cd612d189174df896d50106e68e71fa6e51d70ac7f5b04d
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil
-https://edge-mg-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(d1YTSmXYQs9zWDb5DdlUDA)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdpunrQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuG_AaUF86vlMJtsMkooySBOlQbVM33PgsYPQdea2BJafjjc-BWtPRlStfmQ939PXcd844pid2JY82J6JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kYcqZf8MZQ)))/live_720_index.m3u8
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(D1TEJc6YeGoHzvDtAjFuCw)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_WaLg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwaHqxoi_hmjwDPQesnR3vo5p_nsv2wdNlANBHQqgjEmNSKWolPMjLvr4hLxfax19MeTQ2Pt0jCuSnjfv3Zg)'t(U-c)b(VNgRbfXOpTxHFGQ4nc7nVAJTjhJMOn-_3Yo)))/live_720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Educativo", TV Cultura Pará (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
@@ -51,7 +51,7 @@ INDISPONÍVEL
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Educativo", Sesc TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/df70b3d5-ad0f-4ebc-af74-696e65710e30_index1080p.m3u8
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
 
 
 >> UNIVERSITÁRIO
@@ -99,7 +99,7 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w62143844.m3
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9dt6v7.jpg" group-title="Regional Aberto", TV Alternativa/Gazeta (São Luís/MA)
-http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1044661007.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Regional Aberto", TV Arapuan/RedeTV! (João Pessoa/PB)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
@@ -116,7 +116,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="Regional Aberto", TV Santa Cecília (Santos/SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="Regional Aberto", TV Sim (Linhares/ES)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="Regional Aberto", TV Sim/TV Brasil (Linhares/ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Regional Aberto", TV Thathi (Ribeirão Preto/SP)
@@ -150,6 +150,7 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 https://59f2354c05961.streamlock.net:1443/itutv/_definst_/itutv/chunklist_w888393353.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Regional Fechado", CentralTV/Top TV Paraná (Curitiba/PR)
+REPETIÇÃO
 
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Regional Fechado", ComBrasilTV
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w284149015.m3u8
@@ -167,7 +168,7 @@ https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w59816338
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/3393/cabecalho-3393-20180515164408.png" group-title="Regional Fechado", Riviera Summer TV (Bertioga/SP)
-INDISPONÍVEL
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
@@ -245,7 +246,37 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1880977
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w63661159_b1864000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musical", Top Latino TV (Peru)
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w987131320.m3u8
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+
+>> CULTURA POP
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="Cultura Pop", Loading (São Paulo/SP)
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+
+#EXTINF:-1 tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Cultura Pop", Yeeaah (São Paulo/SP)
+https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w475265846.m3u8
+
+
+>> ESPORTE
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png" group-title="Esporte", All Sports TV (Brasil)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/CDO-El-canal-del-Deporte-Olimpico-de-Chile-en-vivo-Online.png" group-title="Esporte", CDO (Chile)
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png" group-title="Esporte", Garage TV (Argentina)
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w986842119_b1296000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Esporte", Teledeporte (Espanha)
+LINK INVÁLIDO
+
+
+>> TURISMO
+
+#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Turismo", 40 Graus TV (Lauro de Freitas/BA)
+https://video02.kshost.com.br/samuel4813/samuel4813/playlist.m3u8
 
 
 >> NOTÍCIAS
@@ -277,9 +308,6 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/5112C-BNjpL.png" group-title="Notícias", India Today Television (Índia)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1024px-Rai_News_24_-_Logo_2013.svg.png" group-title="Notícias", Rai News24 (Itália)
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title="Notícias", RT America (Rússia)
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 
@@ -304,35 +332,8 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentários", NASA TV (Estados Unidos)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-
->> ESPORTE
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png" group-title="Esporte", All Sports TV (Brasil)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/CDO-El-canal-del-Deporte-Olimpico-de-Chile-en-vivo-Online.png" group-title="Esporte", CDO (Chile)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png" group-title="Esporte", Garage TV (Argentina)
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w986842119_b1296000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Esporte", Teledeporte (Espanha)
-LINK INVÁLIDO
-
-
->> CULTURA POP
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/800px-Canal_Loading.png" group-title="Cultura Pop", Loading (São Paulo/SP)
-https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
-
-#EXTINF:-1 tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Cultura Pop", Yeeaah (São Paulo/SP)
-https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w475265846.m3u8
-
-
->> TURISMO
-
-#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Turismo", 40 Graus TV (Lauro de Freitas/BA)
-https://video02.kshost.com.br/samuel4813/samuel4813/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvbrics.com/images/Logo_mobile.png" group-title="Documentários", TV BRICS Português (Rússia)
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 
 >> AGRO
@@ -344,10 +345,10 @@ https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Agro", Agro Canal (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/798304914679493065280297.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/904616750196322858984598.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Agro", Canal do Boi (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/537752524217285392219396.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/909226750551162161359768.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Agro", Canal Rural (São Paulo/SP)
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
@@ -421,8 +422,14 @@ https://cdn.jmvstream.com/w/AVJ-9086/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://demaistv.com.br/assets/images/image01.png" group-title="Web TV", Demais TV (São Paulo/SP)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/1c4d815df07bfcc6e2f401a29510c810.jpg" group-title="Web TV", Elemental Channel (São Paulo/SP)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://latinasat.com.br/images/nova-logo-latina-site2.png" group-title="Web TV", Latina Sat (Fortaleza/CE)
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1076679968.m3u8
+
+#EXTINF:-1 tvg-logo="https://central.domustelecom.com.br/arquivos_publicos/tv_livechannel.png" group-title="Web TV", Life Channel Brasil (Indaiatuba/SP)
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
 
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Web TV", MKK Web TV (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/mkkweb/_definst_/mkkweb/chunklist_w1115662339.m3u8
@@ -432,6 +439,9 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1756041649.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Web TV", TV A Folha (Palmas/PR)
 https://video02.kshost.com.br/elton3601/elton3601/chunklist_w1564265347.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8200/cabecalho-8200-20201104212340.png" group-title="Web TV", TV Capital (Teresina/PI)
+https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvideonews.com.br/gallery_gen/14d7c4df234b97082360fffc2b54a7fe_500x375.png" group-title="Web TV", TVídeoNews (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w158065148.m3u8
