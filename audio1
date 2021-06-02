@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 26/05/2021
+ATUALIZADA EM 02/06/2021
 
 
 >> RÁDIO FM - BRASIL
@@ -13,6 +13,9 @@ https://audio.capitalcomvoce.com.br/capital
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_culturabrasilsp.png" group-title="Rádio FM - Brasil", 77.9 - Rádio Cultura Brasil (São Paulo/SP)
 https://radiocultura2.jmvstream.com/stream
+
+#EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/liberdade-260x96.png" group-title="Rádio FM - Brasil", 83.3 - Rádio Liberdade (Porto Alegre/RS)
+http://cast4.audiostream.com.br:8655/mp3
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a9753fd35117.png" group-title="Rádio FM - Brasil", 88.9 - Rádio Mania (Paraty/RJ)
 http://shout35.crossradio.com.br:8086/1/;
@@ -179,7 +182,7 @@ http://198.24.165.180:9822/;
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s220602g.png" group-title="Rádio FM - Brasil", 101.5 - Frei Caneca FM (Recife/PE)
 http://192.99.4.205:8164/stream
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5ff1e765baace.png" group-title="Rádio FM - Brasil", 101.5 - SpaceX (Vitória/ES)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5ff1e765baace.png" group-title="Rádio FM - Brasil", 101.5 - SpaceSex (Vitória/ES)
 http://station.radionanet.com:8090/;
  
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="Rádio FM - Brasil", 102.3 - 102.3 FM (Porto Alegre/RS)
@@ -188,8 +191,8 @@ https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f77be75f-3539-4cb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/R%C3%A1dio_Beach_Park_logo_2018.svg/1280px-R%C3%A1dio_Beach_Park_logo_2018.svg.png" group-title="Rádio FM - Brasil", 102.7 - Rádio Beach Park (Fortaleza/CE)
 http://www.radioideal.net:8026/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Band_Vale_FM_logo.svg/1024px-Band_Vale_FM_logo.svg.png" group-title="Rádio FM - Brasil", 102.9 - Band Vale FM (São José dos Campos/SP)
-https://stream1.svrdedicado.org/8186/stream
+#EXTINF:-1 tvg-logo="https://aovivo.bandvalefm.com.br/1029/compartilhe/bandvale1029.png" group-title="Rádio FM - Brasil", 102.9 - Band Vale FM (São José dos Campos/SP)
+https://centova5.transmissaodigital.com:20061/;
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_cdlfm1029.png" group-title="Rádio FM - Brasil", 102.9 - CDL FM (Belo Horizonte/MG)
 http://9595.brasilstream.com.br/stream
@@ -296,9 +299,6 @@ https://orelha.radiolivre.org/radiopaulofreire
 #EXTINF:-1 tvg-logo="http://inconfidencia.com.br/themes/inconfidencia_novo//vendor/imagens/logo-rodape.png" group-title="Rádio AM - Brasil", 880 - Rádio Inconfidência (Belo Horizonte/MG)
 http://srv39.brasilstream.com.br:8244/stream
 
-#EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/liberdade-260x96.png" group-title="Rádio AM - Brasil", 880 - Rádio Liberdade (Porto Alegre/RS)
-http://cast4.audiostream.com.br:8655/mp3
-
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio AM - Brasil", 980 - Rádio Nacional (Brasília/DF)
 https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
 
@@ -336,6 +336,9 @@ https://player-ssl.kshost.com.br:13038/live
 
 #EXTINF:-1 tvg-logo="https://radiointegracaofm.net/image/catalog/logotipo/logotipo_integracaofm.png" group-title="Radcom - Brasil", Rádio Integração FM 87.5 (São Paulo/SP)
 https://ssl1.transmissaodigital.com:2063/stream
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio35570_1506949504.jpg" group-title="Radcom - Brasil", Ipanema Comunitária FM 87.9 (Porto Alegre/RS)
+https://www.autodj.club:7820/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio25414_1588939573.jpg" group-title="Radcom - Brasil", Rádio Rocinha 107.3 (Rio de Janeiro/RJ)
 http://streaming01.hstbr.net:8272/live?1592873438790
@@ -435,6 +438,9 @@ https://s41.maxcast.com.br:8042/live?id=1316880626255
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio32695_1439401813.jpg" group-title="Web Rádio - Brasil", Rádio CUT (São Paulo/SP)
 http://r10.ciclano.io:8029/stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radiodeleite.com.br/admin/assets/img/users/6152-2021-05-24.jpg" group-title="Web Rádio - Brasil", Rádio Deleite (Vinhedo/SP)
+https://stream1.svrdedicado.org/8186/stream
 
 #EXTINF:-1 tvg-logo="http://www.radiofaap.com.br/images/logo-radio-faap-sem-10-anos.png" group-title="Web Rádio - Brasil", Rádio FAAP (São Paulo/SP)
 https://midia.faap.net/live/radiofaap/chunklist_w642118523.m3u8
