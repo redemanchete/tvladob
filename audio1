@@ -3,13 +3,10 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 02/06/2021
+ATUALIZADA EM 08/06/2021
 
 
 >> RÁDIO FM - BRASIL
-
-#EXTINF:-1 tvg-logo="https://capitalcomvoce.grupoblend.com.br/wp-content/uploads/2021/03/logo-capital.png" group-title="Rádio FM - Brasil", 77.5 - Rádio Capital (São Paulo/SP)
-https://audio.capitalcomvoce.com.br/capital
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_culturabrasilsp.png" group-title="Rádio FM - Brasil", 77.9 - Rádio Cultura Brasil (São Paulo/SP)
 https://radiocultura2.jmvstream.com/stream
@@ -21,7 +18,7 @@ http://cast4.audiostream.com.br:8655/mp3
 http://shout35.crossradio.com.br:8086/1/;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/NOVABRASIL_FM_logo_2020.png" group-title="Rádio FM - Brasil", 89.7 - NovaBrasil FM (São Paulo/SP)
-https://20283.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
+https://24383.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
 
 #EXTINF:0 tvg-logo="https://radiojornal.ne10.uol.com.br/img/radio-jornal.png" group-title="Rádio FM - Brasil", 90.3 - Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
@@ -105,7 +102,7 @@ https://8903.brasilstream.com.br/stream
 http://5953e7f9ae845.streamlock.net:1935/radiomundial/mundial.stream/chunklist_w921212648.m3u8
 
 #EXTINF:-1 tvg-logo="https://sulamericaparadiso.com.br/player/assets/img/logo-player-disco.jpg" group-title="Rádio FM - Brasil", 95.7 - SulAmérica Paradiso (Rio de Janeiro/RJ)
-https://22823.live.streamtheworld.com/SULAMERICAAAC.aac
+https://19303.live.streamtheworld.com/SULAMERICAAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Logotipo_da_Band_FM.png" group-title="Rádio FM - Brasil", 96.1 - Band FM (São Paulo/SP)
 https://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w1186128889.m3u8
@@ -147,7 +144,7 @@ http://142.44.230.74:9406/;
 https://216-155-149-154.webnow.com.br/diario.aac
 
 #EXTINF:-1 tvg-logo="https://lion-web-site.s3.sa-east-1.amazonaws.com/logo/NDk1Mw/1566590908-saudade-fm.jpg" group-title="Rádio FM - Brasil", 99.7 - Saudade FM (Santos/SP)
-https://r2.ciclano.io:15007/stream?1590770987967
+https://r18.ciclano.io:15078/stream?1623177434062
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/JB_FM_logo.png" group-title="Rádio FM - Brasil", 99.9 - JBFM (Rio de Janeiro/RJ)
 https://22213.live.streamtheworld.com/JBFMAAC_64KB.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=40db5c38-3102-44e1-a03f-25ab2c97de3f
@@ -240,7 +237,7 @@ http://200.129.133.210:8000/;stream.mp3
 https://fm.unesp.br/unespfm.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png" group-title="Rádio FM - Brasil", 106.3 - Mix FM (São Paulo/SP)
-https://shout12.crossradio.com.br:18002/1;
+https://15363.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
 
 #EXTINF:-1 tvg-logo="https://ucsfm.com.br/wp-content/uploads/2017/11/cropped-cropped-logo-cab134x40.png" group-title="Rádio FM - Brasil", 106.5 - UCS FM (Caxias do Sul/RS)
 https://play.radio.br:8089/UCS/FMCaxias/icecast.audio
@@ -270,7 +267,7 @@ https://8199.brasilstream.com.br/stream
 http://stm8.xcast.com.br:9770/;
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Jovem_Pan_News_logo_2018_%282%29.png" group-title="Rádio AM - Brasil", 620 - Jovem Pan News (São Paulo/SP)
-https://15373.live.streamtheworld.com/JP_SP_AMAAC.aac
+https://14943.live.streamtheworld.com/JP_SP_AMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ed/Logotipo_R%C3%A1dio_Clube_do_Par%C3%A1.jpg" group-title="Rádio AM - Brasil", 690 - Rádio Clube do Pará (Belém/PA)
 http://ice01.kshost.com.br:8000/live
@@ -353,7 +350,7 @@ http://20133.live.streamtheworld.com/RFMAAC_SC?1592868332084
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro?1590859854071
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5d5cda_645646f367ea437297e24ccf7cbf623c~mv2.png" group-title="Rádio FM - Mundo", 95.3 - Tropical FM (Lisboa/Portugal)
-https://servidor19-1.brlogic.com:7488/live
+https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
 
 #EXTINF:-1 tvg-logo="http://www.radiorebelde.cu/images/images/diseno/radio-rebelde.jpg" group-title="Rádio FM - Mundo", 96.7 - Radio Rebelde (Havana/Cuba)
 https://icecast.teveo.cu/zrXXWK9F
@@ -398,7 +395,7 @@ https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
 https://s23.maxcast.com.br:8130/live?id=398256527206
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61SsNM6LzhL.png" group-title="Web Rádio - Brasil", JB FM Classic (Rio de Janeiro/RJ)
-https://17973.live.streamtheworld.com/JBSMOOTHJAZZAAC_SC?1614964340390
+https://22983.live.streamtheworld.com/JBSMOOTHJAZZAAC.aac?1623178187039
 
 #EXTINF:-1 tvg-logo="https://radiolovetimes.com/radio-lovetimes-images/radio-lovetimes-webplayer.png" group-title="Web Rádio - Brasil", Lovetimes (São Paulo/SP)
 https://ssl1.transmissaodigital.com:2420/mp3
@@ -431,7 +428,13 @@ https://s12.maxcast.com.br:8292/live?id=1590807595549
 https://s09.hstbr.net:8238/live?1514038524061
 
 #EXTINF:-1 tvg-logo="https://voxnews.com.br/wp-content/uploads/2021/02/Logo_Cidade.png" group-title="Web Rádio - Brasil", Rádio Cidade (Rio de Janeiro/RJ)
-https://18593.live.streamtheworld.com/RADIOCIDADEAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&sbmid=e18d3754-fa29-478e-8037-ccf31a497ed7
+https://21933.live.streamtheworld.com/RADIOCIDADEAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&sbmid=8b401509-b4dd-4835-a870-1a55d5d800a2
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17288.v12.png" group-title="Web Rádio - Brasil", Rádio Cidade Classic Rock (Rio de Janeiro/RJ)
+https://20813.live.streamtheworld.com/CIDADECLASSICROCKAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&sbmid=88fdacfa-3639-4e24-f50f-094b3514a801
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/1/70511.v6.png" group-title="Web Rádio - Brasil", Rádio Cidade Drop 80 (Rio de Janeiro/RJ)
+https://19793.live.streamtheworld.com/OITENTONAAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%2C728x90&sbmid=34b90fb8-be20-404c-816b-18975734d829
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6c/bc/6cbcc5c144857e5ba840227e391fdffd.jpg" group-title="Web Rádio - Brasil", Rádio Continental 1120 (Porto Alegre/RS)
 https://s41.maxcast.com.br:8042/live?id=1316880626255
