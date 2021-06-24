@@ -45,7 +45,7 @@ http://stream.7br.com.br:10114/stream?1604633272155
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mussicom.com/images/inicio_rtl.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM - Rádio e TV Litoral (Santos/SP)
-https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/chunklist_w399071226.m3u8
+https://ice.fabricahost.com.br/rtl917
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Play_FM_logo.png/640px-Play_FM_logo.png" group-title="Rádio FM - Brasil", 92.1 - Play FM (São Paulo/SP)
 https://evpp.mm.uol.com.br/band/transito_sp/chunklist_w611331123.m3u8
@@ -123,7 +123,7 @@ https://audio.97fm.com.br/energia
 http://cast.midiaip.com.br:9770/;
 
 #EXTINF:-1 tvg-logo="https://www.mussicom.com/images/inicio_hot98.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
-https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/chunklist_w1929358587.m3u8
+https://ice.fabricahost.com.br/hot98santos
 
 #EXTINF:-1 tvg-logo="https://radioglobo.globo.com/estaticos/img/compartilhamento/radio-globo-default.jpg" group-title="Rádio FM - Brasil", 98.1 - Rádio Globo (Rio de Janeiro/RJ)
 https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8?
