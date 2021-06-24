@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 31/05/2021
+ATUALIZADA EM 24/06/2021
 
  
 >> EDUCATIVO
@@ -72,7 +72,7 @@ https://edge-rj-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Universitário", UnBTV (Brasília/DF)
-https://edge-rj-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(Yi0hRiS4LuJvU6F7O37EGQ)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSd2t3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuX9AbUB8KvlMJtsMkooySBOlQbVM33PgsYPQdea2BJ0ehzbwQ39JhRwi_LnomRVQOY02rJ-d2IH3hF-JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kcVqJj_MZQ)))/live_1080_index.m3u8
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(6NHUUyfMc8z-2ko9_BLY6A)n(a(DxioRnmXZXQYKOcq2k9k0lMsXHjdvyuE)s(mg0)'a(Qldt4E_Bfrg9RxIp_d3nHOoG)s(Ip8)))s(t(Pn4)b(vDhniGwxnXsJkJFcdmu8iydlkppOxm1AcEyuHstXltWq0RU0Zo4P5RvzTxAkNBSnR2kdYNn1Exzv0vIbyc4QwaWoxpi7hWjwDPQesnR3vo5p_nsv2wdNlANBHQqgjEmjTIGvretzNffaurcoPgZnLMWY4cNojCvNs0Tr3Zg)'t(U-c)b(VNgRbfXOpTxHFGQ4nc7nVAJTjhNFO3C83Yo)))/live_1080_index.m3u8
 
 
 >> REGIONAL ABERTO
@@ -81,7 +81,7 @@ https://edge-rj-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/04/rbtv00000-678x381.jpeg" group-title="Regional Aberto", RBTV (São Paulo/SP)
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png" group-title="Regional Aberto", Rede Família (Campinas/SP)
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
@@ -96,7 +96,7 @@ https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w62143844.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/11/logo-site-tv8brasil.png" group-title="Regional Aberto", TV8 Brasil/TV WA (São Paulo/SP)
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9dt6v7.jpg" group-title="Regional Aberto", TV Alternativa/Gazeta (São Luís/MA)
 INDISPONÍVEL
@@ -141,10 +141,10 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w1410636801.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bahtv.com.br/wp-content/themes/bahtv/assets/images/bah.png" group-title="Regional Fechado", Bah! (Porto Alegre/RS)
-https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b978000.m3u8
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SjoGWj.png" group-title="Regional Fechado", Canal 25 (Jundiaí/SP)
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://itu.tv.br/wp-content/uploads/2020/05/itvlogo.png" group-title="Regional Fechado", Canal ITV (Itu/SP)
 https://59f2354c05961.streamlock.net:1443/itutv/_definst_/itutv/chunklist_w888393353.m3u8
@@ -214,6 +214,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Musical", CMC-USA - Country Music Channel (Estados Unidos)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kisstv.png" group-title="Musical", Kiss TV (Brasil)
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/936px-Radio_m2o_-_Logo_2019.svg.png" group-title="Musical", m2o TV (Itália)
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
@@ -345,10 +348,14 @@ https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Agro", Agro Canal (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/904616750196322858984598.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
+
+> VER CÓDIGO-FONTE DO FRAME E PROCURAR POR streamId
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Agro", Canal do Boi (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/909226750551162161359768.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
+
+> IDEM AO AGROCANAL
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Agro", Canal Rural (São Paulo/SP)
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
@@ -426,7 +433,7 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinasat.com.br/images/nova-logo-latina-site2.png" group-title="Web TV", Latina Sat (Fortaleza/CE)
-https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1076679968.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://central.domustelecom.com.br/arquivos_publicos/tv_livechannel.png" group-title="Web TV", Life Channel Brasil (Indaiatuba/SP)
 https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
