@@ -230,10 +230,10 @@ http://r13.ciclano.io:8609/live
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e2eb7e_bb4c729e923945d98e58805715f20b0b~mv2.png" group-title="Rádio FM - Brasil", 104.1 - Estação 104 FM (Iguaba Grande/RJ)
 https://audio8.cmaudioevideo.com:10098/stream
 
-#EXTINF:-1 tvg-logo="https://topfmsp.com.br/wp-content/uploads/2018/09/logotop.png" group-title="Rádio FM - Brasil", 104.1 - Top FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Top_FM.png" group-title="Rádio FM - Brasil", 104.1 - Top FM (São Paulo/SP)
 https://centova.svdns.com.br:20019/stream
 
-#EXTINF:-1 tvg-logo="https://topfmsp.com.br/wp-content/uploads/2018/09/logotop.png" group-title="Rádio FM - Brasil", 104.3 - Dumont (Jundiaí/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1024px-Dumont_FM_logo.svg.png" group-title="Rádio FM - Brasil", 104.3 - Dumont (Jundiaí/SP)
 https://rrdns-dumont.webnow.com.br/dumont.aac
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/607dd431d6eb0.png" group-title="Rádio FM - Brasil", 104.5 - Positividade FM (Rio de Janeiro/RJ)
