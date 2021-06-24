@@ -350,12 +350,8 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Agro", Agro Canal (Campo Grande/MS)
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/444093179514252551699433.m3u8
 
-> VER CÓDIGO-FONTE DO FRAME E PROCURAR POR streamId
-
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Agro", Canal do Boi (Campo Grande/MS)
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
-
-> IDEM AO AGROCANAL
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Agro", Canal Rural (São Paulo/SP)
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
