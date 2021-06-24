@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 03/05/2021
+ATUALIZADA EM 24/06/2021
  
 
 >> ARGENTINA
@@ -69,7 +69,7 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-UTV-San-Clemente-vivo.jpg" group-title="Chile", UTV San Clemente
-https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+INDISPONÍVEL
  
  
 >> COLÔMBIA
@@ -89,9 +89,6 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
  
 >> COSTA RICA
  
-#EXTINF:-1 tvg-logo="http://www.canal15.ucr.ac.cr/wp-content/uploads/2018/06/CANALUCR_logo.png" group-title="Costa Rica", Canal UCR
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="Costa Rica", Telered
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w440465567.m3u8
  
@@ -102,8 +99,10 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 >> CUBA
  
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" group-title="Cuba", Cubaplay+
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="Cuba", Cubavisión Internacional
+LINK INVÁLIDO
  
  
 >> EL SALVADOR
@@ -143,16 +142,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Telemar_Mexico.jpg" group-title="México", Telemar
 https://59d39900ebfb8.streamlock.net/8410/8410/chunklist_w435418354.m3u8
- 
- 
->> PANAMÁ
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/OYE_TV_2017.png" group-title="Panamá", Oye TV
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
- 
-#EXTINF:-1 tvg-logo="https://avatars.sched.co/a/94/7008491/avatar.jpg" group-title="Panamá", NexTV
-http://198.1.123.99:1935/live/myStream/chunklist_w746505505.m3u8
- 
+
  
 >> PARAGUAI
  
@@ -229,7 +219,7 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.naturopatialacala.com/wp-content/uploads/2016/05/LOGOmijascomunicaci%C3%B3n-258x119.jpg" group-title="Espanha", Mijas Comunicación
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
+https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index_1.m3u8
  
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="Espanha", mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
