@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 24/06/2021
+ATUALIZADA EM 25/06/2021
 
 
 >> RÁDIO FM - BRASIL
@@ -429,6 +429,9 @@ https://ssl1.transmissaodigital.com:2420/mp3
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DeMUOUs3EIc/WIq5mPC6xXI/AAAAAAAARrw/qRw4qOdPI7Iv56GZthzSL5XfXLOEbOmRgCLcB/s1600/MKKWEBROCK.jpg" group-title="Web Rádio - Brasil", MKK Web Radio (São Paulo/SP)
 https://servidor34-1.brlogic.com:8096/live
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d1513c_b1de487fadee49dbbc20084ef8b5c2e0~mv2.png" group-title="Web Rádio - Brasil", Mutante Radio (São Paulo/SP)
+https://s30.maxcast.com.br:8190/live?id=1624640822121
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60418a49201d0.png" group-title="Web Rádio - Brasil", Panamby FM (São Paulo/SP)
 http://server01.stmsg.com.br:6776/;
