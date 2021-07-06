@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/06/2021
+ATUALIZADA EM 06/07/2021
 
 
 >> RÁDIO FM - BRASIL
@@ -93,7 +93,7 @@ https://antenaone.crossradio.com.br/stream/1;
 http://suaradio1.dyndns.ws:13551/stream
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s95342/images/logog.png?t=157800" group-title="Rádio FM - Brasil", 95.1 - Light FM (Curitiba/PR)	
-https://shout25.crossradio.com.br:19120/1;
+https://21933.live.streamtheworld.com/LIGHTAAC/HLS/768/0/5.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nativa_FM.svg/1280px-Nativa_FM.svg.png" group-title="Rádio FM - Brasil", 95.3 - Nativa FM (São Paulo/SP)
 https://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w1919743760.m3u8
@@ -188,7 +188,7 @@ https://21933.live.streamtheworld.com/RT_RJAAC
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_beiramarfm1015.png" group-title="Rádio FM - Brasil", 101.5 - Beira Mar FM (Ubatuba/SP)
 http://198.24.165.180:9822/;
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s220602g.png" group-title="Rádio FM - Brasil", 101.5 - Frei Caneca FM (Recife/PE)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27259_1623771181.png" group-title="Rádio FM - Brasil", 101.5 - Frei Caneca FM (Recife/PE)
 http://192.99.4.205:8164/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/5ff1e765baace.png" group-title="Rádio FM - Brasil", 101.5 - SpaceSex (Vitória/ES)
@@ -422,7 +422,7 @@ https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
 https://s23.maxcast.com.br:8130/live?id=398256527206
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61SsNM6LzhL.png" group-title="Web Rádio - Brasil", JB FM Classic (Rio de Janeiro/RJ)
-https://22983.live.streamtheworld.com/JBSMOOTHJAZZAAC.aac?1623178187039
+https://24383.live.streamtheworld.com/JBCLASSIC_S01AAC.aac
 
 #EXTINF:-1 tvg-logo="https://radiolovetimes.com/radio-lovetimes-images/radio-lovetimes-webplayer.png" group-title="Web Rádio - Brasil", Lovetimes (São Paulo/SP)
 https://ssl1.transmissaodigital.com:2420/mp3
