@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 06/07/2021
+ATUALIZADA EM 07/07/2021
 
  
 >> EDUCATIVO
@@ -225,7 +225,7 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="Musical", MusicTop (Argentina)
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1024px-Radio_Capital_logo_%282020%29.svg.png" group-title="Musical", Radio Capital TiVú (Itália)
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
@@ -246,7 +246,7 @@ https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w99593392.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1880977209_b1600000.m3u8?publisher=83
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/large.Logo_TierramiaTV.png.25bbdf4c531933e8e9111fb0f18dedbf.png" group-title="Musical", TierraMia TV (Argentina)
-https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musical", Top Latino TV (Peru)
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
@@ -291,7 +291,7 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1255371156_b130
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Notícias", Canal 26 (Argentina)
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="Notícias", CBS News (Estados Unidos)
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
@@ -393,7 +393,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Mundo", Telemax (Argentina)
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="Mundo", TVE - La 1 (Espanha)
 https://rtvelivestreamv3.akamaized.net/la1_main_dvr_1080.m3u8
