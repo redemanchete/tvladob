@@ -495,7 +495,7 @@ https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?7396e59bd10d4514fc32
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Estúdio de Rádio", FM O Dia (Rio de Janeiro/RJ)
-https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8
+https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mussicom.com/images/inicio_hot98.png" group-title="Estúdio de Rádio", Hot 98 FM Unimes (Santos/SP)
 https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/playlist.m3u8
