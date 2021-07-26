@@ -168,7 +168,7 @@ https://20823.live.streamtheworld.com/RT_SPAAC
 https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Rádio FM - Brasil", 100.5 - FM O Dia (Rio de Janeiro/RJ)
-https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8
+https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
 http://cast61.sitehosting.com.br:9800/live
