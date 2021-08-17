@@ -309,10 +309,10 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Notícias", Deutsche Welle English (Alemanha)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/index.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Notícias", Deutsche Welle Español (Alemanha)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/index.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="Notícias", France 24 Español (França)
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -381,7 +381,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="Mundo", Cubavisión Internacional (Cuba)	
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Mundo", Galicia TV América (Espanha)
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
@@ -411,7 +411,7 @@ https://rtvelivestreamv3.akamaized.net/la1_main_dvr_1080.m3u8
 https://rtvelivestreamv3.akamaized.net/la2_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Mundo", TVes (Venezuela)
-https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Mundo", TVM (Moçambique)
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2147398394_b714000_slpor.m3u8
@@ -455,17 +455,17 @@ https://video02.kshost.com.br/elton3601/elton3601/chunklist_w1564265347.m3u8
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8200/cabecalho-8200-20201104212340.png" group-title="Web TV", TV Capital (Teresina/PI)
 https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvideonews.com.br/gallery_gen/14d7c4df234b97082360fffc2b54a7fe_500x375.png" group-title="Web TV", TVídeoNews (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/54961b_1080fd42d84d4f9a9eef267b4fb40b40~mv2.png" group-title="Web TV", TVídeoNews (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w158065148.m3u8
 
 #EXTINF:-1 tvg-logo="http://urbantv.com.br/urbantv-logo.jpg" group-title="Web TV", Urban TV Brasil (Florianópolis/SC)
 https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1410545589.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.virtual.tv.br/assets/images/logotipo-virtual-tv-2000x2000.png" group-title="Web TV", VirtualTV (Francisco Beltrão/PR)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/38f1a6d7cbee0c2ad50deaa3d80efafc.png" group-title="Web TV", VirtualTV (Francisco Beltrão/PR)
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1982860011.m3u8
 
 #EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Web TV", VRT Channel (Guarulhos/SP)	
-https://5f1ce9c7dc62b.streamlock.net/vrtchannel/vrtchannel/playlist.m3u8
+https://stream.vrtchannel.tv.br:1936/vrtchannel/vrtchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Web TV", Web TV Uai (Ubá/MG)
 https://livefocamundo.com:8081/webtvuai/tracks-v1a1/mono.m3u8
