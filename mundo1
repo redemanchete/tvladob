@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 07/07/2021
+ATUALIZADA EM 23/11/2021
  
 
 >> ARGENTINA
@@ -18,7 +18,7 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunk
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-title="Argentina", EL TV10 Salta
-https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina", Litus TV
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w4190183_b1531904.m3u8
@@ -60,13 +60,13 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dc92ad_b04f3acd11fe450c86222ff792a35216~mv2.png" group-title="Chile", Tendencias Prime
-https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
+https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Chile", Uestv
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pipiolatodalavida.files.wordpress.com/2014/05/logonegroumagtv.png" group-title="Chile", UMAG TV
-http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-UTV-San-Clemente-vivo.jpg" group-title="Chile", UTV San Clemente
 INDISPONÍVEL
@@ -216,19 +216,19 @@ http://cultural-crtvg.flumotion.com/playlist.m3u8
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
  
 #EXTINF:-1 tvg-logo="http://rtvmarbella.tv/wp-content/themes/rtvmarbella/images/logos/class-naranja.png" group-title="Espanha", Marbella Televisión
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+https://limited41.todostreaming.es/live/marbellatv-livestream.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.naturopatialacala.com/wp-content/uploads/2016/05/LOGOmijascomunicaci%C3%B3n-258x119.jpg" group-title="Espanha", Mijas Comunicación
 https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index_1.m3u8
  
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="Espanha", mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png" group-title="Espanha", Navarra Televisión
 https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/NORTEvisi%C3%B3n-en-directo-Online-218x150.png" group-title="Espanha", NORTEvisión
-http://amaru.dyndns.org:8835/0.m3u8
+http://amaru.dyndns.org:8870/0.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889448960150183936/MjLSsZV8_400x400.jpg" group-title="Espanha", TeleSafor
 http://video.telesafor.com/hls/video_high.m3u8
@@ -237,7 +237,7 @@ http://video.telesafor.com/hls/video_high.m3u8
 https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une.png" group-title="Espanha", Une Vinalopó
-http://78.41.83.88:8880/hls/unesd.m3u8
+INDISPONÍVEL
  
  
 >> ITÁLIA
@@ -258,7 +258,7 @@ http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/TelemiaLogo.png" group-title="Itália", Telemia
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png" group-title="Itália", telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
