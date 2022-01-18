@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 23/11/2021
+ATUALIZADA EM 18/01/2022
  
 
 >> ARGENTINA
@@ -12,7 +12,7 @@ ATUALIZADA EM 23/11/2021
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy-218x150.png" group-title="Argentina", Canal 7 Jujuy
-https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist.m3u8
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina", Canal Provincial/TeleRed
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
@@ -21,7 +21,7 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina", Litus TV
-https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w4190183_b1531904.m3u8
+https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="Argentina", Multivisión
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
@@ -39,10 +39,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT Plus
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
+https://master.tucableip.com/pat/tracks-v1a1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Bolívia", RTP Bolivia
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
@@ -54,7 +51,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" group-title="Chile", Canal 21
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/120/square_150x150-2.jpg" group-title="Chile", El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
@@ -63,7 +60,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Chile", Uestv
-http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
+https://tls.cdnz.cl/uestv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pipiolatodalavida.files.wordpress.com/2014/05/logonegroumagtv.png" group-title="Chile", UMAG TV
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
@@ -81,7 +78,7 @@ http://vbox.cehis.net/live-calitv/calitv1/chunklist.m3u8
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_b2250000.m3u8
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="Colômbia", Teleislas
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Colômbia", Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
@@ -90,7 +87,7 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 >> COSTA RICA
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="Costa Rica", Telered
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w440465567.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="https://telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png" group-title="Costa Rica", Telesur Costa Rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
@@ -138,10 +135,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="México", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Telemar_Mexico.jpg" group-title="México", Telemar
-https://59d39900ebfb8.streamlock.net/8410/8410/chunklist_w435418354.m3u8
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
 
  
 >> PARAGUAI
