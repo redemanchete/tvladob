@@ -275,6 +275,9 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Musical", Rock TV (Romênia)
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_0f618658a9854ea095b0160262984285~mv2.png" group-title="Musical", RTL Classics (Brasil)
+https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/tierramia-icon.png" group-title="Musical", TierraMia TV (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
