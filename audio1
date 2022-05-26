@@ -438,7 +438,7 @@ https://player-ssl.kshost.com.br:9214/live
 https://24383.live.streamtheworld.com/JBCLASSIC_S01AAC
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_267a7bd3eef345d1a97991f730c23260~mv2.png" group-title="Web Rádio - Brasil", Litoral Jazz (Santos/SP)
-https://f40.fabricahost.com.br/litoraljazz
+https://ice.fabricahost.com.br/litoraljazz
 
 #EXTINF:-1 tvg-logo="https://radiolovetimes.com/radio-lovetimes-images/radio-lovetimes-webplayer.png" group-title="Web Rádio - Brasil", Lovetimes (São Paulo/SP)
 https://ssl1.transmissaodigital.com:2420/mp3
@@ -651,4 +651,4 @@ https://usa2.fastcast4u.com/proxy/radiosabia?mp=/1
 https://20863.live.streamtheworld.com/GR80SRFMAAC
 
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfmsite/images/logo18_Oceano.png" group-title="Web Rádio - Mundo", RFM Oceano Pacífico (Portugal)
-https://22713.live.streamtheworld.com/OCEANPACIFICAAC
+https://20723.live.streamtheworld.com/OCEANPACIFICAAC
