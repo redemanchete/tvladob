@@ -559,3 +559,6 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_db91e55b44464411a7044752dc2fe85e~mv2.png" group-title="Estúdio de Rádio", RTL FM - Rádio e TV Litoral (Santos/SP)
 https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/chunklist_w399071226.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hfnews.com.br/img/ic_cidade.ae9643a3.png" group-title="Estúdio de Rádio", Web Rádio Cidade (Vitória/ES)
+https://hfnews.brasilstream.com.br/hls/hfnews/index.m3u8
