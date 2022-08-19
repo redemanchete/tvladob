@@ -17,7 +17,7 @@ https://radiocultura2.jmvstream.com/stream
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_superadiosaopaulo.png" group-title="Rádio FM - Brasil", 80.7 - Super Rádio (São Paulo/SP)
 http://cloud1.cdnseguro.com:13244/;
 
-#EXTINF:-1 tvg-logo="hhttps://www.redepampa.com.br/wp-content/uploads/2020/08/logo-november-e1635793821404.png" group-title="Rádio FM - Brasil", 83.3 - Rádio Liberdade (Porto Alegre/RS)
+#EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/logo-november-e1635793821404.png" group-title="Rádio FM - Brasil", 83.3 - Rádio Liberdade (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8655/mp3
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio FM - Brasil", 87.1 - Rádio Nacional (São Paulo/SP)
@@ -472,9 +472,6 @@ http://live.paineldj.com.br:8604/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio201038_1654886579.png" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - Popular (Belo Horizonte/MG)
 http://live.paineldj.com.br:8085/stream
-
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio201038_1654886579.png" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - Soft (Belo Horizonte/MG)
-https://live.paineldj.com.br/proxy/rcnova
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6c/bc/6cbcc5c144857e5ba840227e391fdffd.jpg" group-title="Web Rádio - Brasil", Rádio Continental 1120 (Porto Alegre/RS)
 https://s41.maxcast.com.br:8042/live?id=1316880626255
