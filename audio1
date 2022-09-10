@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 18/08/2022
+ATUALIZADA EM 10/09/2022
 
 
 >> RÁDIO FM - BRASIL
@@ -129,7 +129,7 @@ https://ice.fabricahost.com.br/difusorathathi
 https://audio.97fm.com.br/energia
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11579_1617107168.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
-http://cast.midiaip.com.br:9770/;
+https://8817.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
 https://ice.fabricahost.com.br/hot98santos
@@ -433,6 +433,9 @@ https://servidor34-1.brlogic.com:8096/live
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d1513c_b1de487fadee49dbbc20084ef8b5c2e0~mv2.png" group-title="Web Rádio - Brasil", Mutante Radio (São Paulo/SP)
 https://s30.maxcast.com.br:8190/live?id=1624640822121
+
+#EXTINF:-1 tvg-logo="https://radionanet.com/channel/DATA/1/images/logocapital-app.png" group-title="Web Rádio - Brasil", O Som da Capital Retrô (Vila Velha/ES)
+http://cast.midiaip.com.br:9770/;
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60418a49201d0.png" group-title="Web Rádio - Brasil", Panamby FM (São Paulo/SP)
 http://server01.stmsg.com.br:6776/;
