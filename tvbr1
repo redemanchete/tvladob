@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 18/08/2022
+ATUALIZADA EM 10/09/2022
 
  
 >> EDUCATIVO
@@ -27,13 +27,13 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795
 http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Educativo", Rede Minas (Belo Horizonte/MG)
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b647168.m3u8?sts=st=1650563068~exp=1650569668~acl=/*~hmac=21b22703747d43a36c69b351faaa9a92fcdf7a80353a55613376c35cd467e6d6
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b610304.m3u8?sts=st=1662780430~exp=1662787030~acl=/*~hmac=8e70883e9aa5c906e90fa61222f9496bd9c1fdd5d32055c37444df13cbeba36b
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Educativo", Sesc TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil Web
-https://edge-mg-01.eduplay.rnp.br/media/ocp(r(IjwxTg)t(Fwyb8LfF8FE)p(d(hrw)k(tOs)m(cYYySOH21NwMJG_A82QSPg)n(a(ZYho7tH1xNllRpkfyzpK6dEG7LC_yrZ-_OQe)s(dqA)'a(y_PeoI9uJE6P8Sk9JvfX0uG4)s(AfM)))s(t(1oQ)b(E4Ijkw0grhRspw36ntR2ywGsRCKCOcjSls2kDY03sPI9rQ6AuOlt7iaqrT5p220iwA8knQ4H0hY-fTQM9ljuX52VA8YWgf3B8jpKPNtS2KQ9QwE3gPDF0xWyYaIpWFOPKZzXSSpFDmif_YO7u2ayZK2eJyP2JmKn801iLUY65NVu)'t(JMw)b(HPNF8KmZ3pSsYXKQkHm3v5GbppfjpOsvKsI)))/720_index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil
+https://edge-rj-01.eduplay.rnp.br/media/ocp(r(JCm1RA)t(FxNil3BAu6g)p(d(wb4)k(tTc)m(gYcEYNWpJbqiuWSyrbZ8AQ)n(a(IZ8L609jMI4cBj4yTWa3VwvKEBe2-utDQhgZ)s(tfk)'a(8-RKAD0RRVsSMAe2XBeF2KbV)s(GDk)))s(t(Zfg)b(t-yleztoCFHZdsUzWBDEksT5w8xFP0WAHRCTLiC0yM_Us3d4reA0y9EilVbl-bPv6UBBm9nVcc8DBkrW1qtn1LBMu75kHbXsoG6q6Ab3m2RmdnNZ8BAdZgdYyFz9OyGu1HCfdMQHv1JGpQk0Y3tQ2OdtF1gX7hE5v_UME-sfsBlF)'t(iWs)b(1T8VUEHl48dcKEdPA4csVcK9LvdFiXpgpkA)))/720_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.candides.com/images/xtv_candides.png.pagespeed.ic.iv-Ox4ApfF.png" group-title="Educativo", TV Candidés/TV Cultura (Divinópolis/MG)
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
@@ -61,9 +61,6 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1518467066.m3u8
 
 
 >> UNIVERSITÁRIO
-
-#EXTINF:-1 tvg-logo="http://cnub.com.br/layouts/site/cnub/images/logotipo-rodape.png" group-title="Universitário", Fun Canal (Bauru/SP)
-https://video01.kshost.com.br:4443/luiz68286/luiz68286/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_FURG_institucional.png/766px-Logo_FURG_institucional.png" group-title="Universitário", FURG TV (Rio Grande/RS)
 https://stream.furg.br/hls/furgtv_360p.m3u8
@@ -297,7 +294,7 @@ INDISPONÍVEL
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1578585497.554491.png" group-title="Esporte", Yeeaah (São Paulo/SP)
-https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w475265846.m3u8
+INDISPONÍVEL
 
 
 >> TURISMO
@@ -336,7 +333,7 @@ LINK INVÁLIDO
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/5112C-BNjpL.png" group-title="Notícias", India Today Television (Índia)
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1024px-Rai_News_24_-_Logo_2013.svg.png" group-title="Notícias", Rai News24 (Itália)
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
@@ -378,10 +375,10 @@ INDISPONÍVEL
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Agro", Agro Canal (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/992021213118303755629811.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/361826445095418785973450.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Agro", Canal do Boi (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/960701084884059731062845.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/293732657225160076823212.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Agro", Canal Rural (São Paulo/SP)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
@@ -394,6 +391,9 @@ https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w2096267951.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1000px-Arirang.svg.png" group-title="Mundo", Arirang (Coreia do Sul)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Mundo", BraziTV (Estados Unidos)
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Mundo", Canal Once (México)
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
@@ -469,12 +469,6 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Web TV", MKK Web TV (São Paulo/SP)
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Web TV", Rede UTV (Descalvado/SP)
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1756041649.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Web TV", Rede UTV (Rede 2) (Descalvado/SP)	
-https://srv2.zcast.com.br/redetv2/redetv2/chunklist_w1954269343.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Web TV", TV A Folha (Palmas/PR)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
