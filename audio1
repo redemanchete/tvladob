@@ -36,7 +36,7 @@ https://24383.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Rádio FM - Brasil", 90.5 - CBN (São Paulo/SP)
-https://live-as-04-13.video.globo.com/nu/f(i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8
+https://26493.live.streamtheworld.com/CBN_SP_ADP
 
 #EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/files/48e91b059744c3a031cf.png" group-title="Rádio FM - Brasil", 90.9 - Rádio Bandeirantes (São Paulo/SP)
 https://24083.live.streamtheworld.com/RADIOBANDEIRANTESAAC
@@ -309,7 +309,7 @@ https://ssl.xcast.com.br:9810//;
 https://8244.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_da_R%C3%A1dio_Record.png" group-title="Rádio AM - Brasil", 1000 - Rádio Record (São Paulo/SP)
-https://tudo.radio/proxy/stm2.mestrestream.xyz:7098/stream
+http://stm2.mestrestream.xyz:7098/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Rádio AM - Brasil", 1070 - Rádio Metropolitana (Mogi das Cruzes/SP)
 http://cloud.cdnseguro.com:8006/;
@@ -345,7 +345,7 @@ http://servidor27.brlogic.com:8534/live?type=.m3u
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://radiointegracaofm.net/image/catalog/logotipo/logotipo_integracaofm.png" group-title="Radcom - Brasil", Rádio Integração FM 87.5 (São Paulo/SP)
-https://cast.tendaweb.com.br/proxy/radiointegracaofm
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio26980_1553623588.jpg" group-title="Radcom - Brasil", Rádio Show FM 87.5 (São Paulo/SP)
 https://servidor19-1.brlogic.com:7592/live
@@ -357,7 +357,7 @@ https://stream02.ouveai.com.br/8058/stream
 http://stm11.srvaudio.com.br:10920/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14418_1439401461.jpg" group-title="Radcom - Brasil", RJ FM 98.7 (Rio de Janeiro/RJ)
-https://live.paineldj.com.br/proxy/radiorjfm
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio25414_1588939573.jpg" group-title="Radcom - Brasil", Rádio Rocinha 107.3 (Rio de Janeiro/RJ)
 http://streaming01.hstbr.net:8272/live?1592873438790
