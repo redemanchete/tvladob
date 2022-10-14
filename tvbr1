@@ -470,7 +470,7 @@ https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t8SL1PO.png" group-title="Web TV", Ilhabela TV (Ilhabela/SP)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1590605590.2523696.png group-title="Web TV", Life Channel Brasil (Adamantina/SP)
+#EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1590605590.2523696.png" group-title="Web TV", Life Channel Brasil (Adamantina/SP)
 https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Web TV", MKK Web TV (São Paulo/SP)
@@ -507,7 +507,7 @@ https://streamabc.gruposinos.com.br/radio.m3u8
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Estúdio de Rádio", CBN (São Paulo/SP)
-https://live-01.edge-vivo-se-sp.video.globo.com/nu/f(i=2)/cbnsp24ha/playlist.m3u8
+https://live-as-04-13.video.globo.com/nu/f(i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8
 
 #EXTINF:-1 tvg-logo="https://clube.fm/brasilia/wp-content/uploads/sites/2/2019/11/logo-clube-brasilia.png" group-title="Estúdio de Rádio", Clube FM (Brasília/DF)
 https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/chunklist_w1934546685.m3u8
