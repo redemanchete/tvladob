@@ -92,7 +92,7 @@ LINK INVÁLIDO
  
 >> EL SALVADOR
  
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/images/wow.fw.png" group-title="El Salvador", WOW TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="El Salvador", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
  
  
@@ -107,7 +107,7 @@ http://192.99.56.185/hechosecuador/live.m3u8
  
 >> HONDURAS
  
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_12/large.966817584_QeihuboTV.png.b9fefc4cba1051230cb13d3b4346bb55.png" group-title="Honduras", Q'hubo TV
+#EXTINF:-1 tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Honduras", Q'hubo TV
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1139968861.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2017/05/TENmin.png" group-title="Honduras", Ten TV
@@ -116,7 +116,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848
  
 >> MÉXICO
  
-#EXTINF:-1 tvg-logo="http://www.canal10.tv/assets/Logo2.png" group-title="México", Canal 10
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/Canal10_squ-Square.png" group-title="México", Canal 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="México", Canal Once
