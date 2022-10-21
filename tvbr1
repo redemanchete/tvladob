@@ -33,7 +33,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil
-INDISPONÍVEL
+https://edge-mg-01.eduplay.rnp.br/media/ocp(r(xucQ-g)t(Fx_sVQfeSlg)p(d(XJ4)k(7os)m(bwCS7sRQcGNeiqRe5ew3lg)n(a(Aeu2ZJqSMCVjE-u0yv6-srAxJGwaefc7Fjgn)s(svk)'a(JI7VuKhre9jO5zWJS9XutcEK)s(Qb8)))s(t(ZvQ)b(73pf2l5FMaaU1Grmmr95dvxrL1U4Rkz7hsPENAJHjjvYn1MQ23LGMJ7gWfmJMDaeOYP5LaMFwfkn2qDKxCyqFcYWf2iApK5jh3fYHDk51BfRcoNIo06ghh2dUPi4duEWYuWE28dmCVxcMnF0nFj9QD1F3SGlfq_3ZDfYrfyj4cSq)'t(rb0)b(mH_MFOFdwVhCaTEhd6BzPocF0VoeZ2mAQgU)))/720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Educativo", TV Cultura Pará (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
@@ -66,13 +66,13 @@ https://stream.furg.br/hls/furgtv_360p.m3u8
 http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Universitário", TV UFOP (Ouro Preto/MG)
-INDISPONÍVEL
+https://edge-rj-01.eduplay.rnp.br/media/ocp(r(xucQ-g)t(Fx_sOA4UjA4)p(d(XJ4)k(7os)m(Bvtio4d50l3icuSGnuY6mA)n(a(IFXgvF9vF23Ztiq4u346FVsVupzIN-btcol0)s(D6s)'a(mFMjmndEqRplr0bgd2S4El-f)s(hqI)))s(t(iZc)b(yt1XlB8oO4kxgVX6GcHVyZT4FUgHMFYO4-VyFC8g0YiDVoDQ6UKvlDYL5etflN3ww0VKHfArI0ev5KAL22MoXJ-vQJccpyJtAzQGt60JfCUPRHV7LrebeXiov4BtocGiOMbrMffhHMrdx5Vo682EjiyZWUB9a65G6DR0r_RDykwt)'t(-ug)b(-xA00KwEqj9VIInXZbUtUjtuvCwVMO8CLp4)))/720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.faac.unesp.br/Home/arquivos_home/midiaecomunicacao/tvunesp.png" group-title="Universitário", TV Unesp (Bauru/SP)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Universitário", UNBTV (Brasília/DF)
-INDISPONÍVEL
+https://edge-rj-01.eduplay.rnp.br/media/ocp(r(xucQ-g)t(Fx_sSzTQBfM)p(d(XJ4)k(7os)m(4eyxU2WBQ_cL8jV1UUh-Qw)n(a(EMu3mavjhCxdFIZrupvWOHG6Zhv3xXn9Yvi-)s(Zko)'a(PXeA72zMW8xovrGjKOMx6QPX)s(Twk)))s(t(-5c)b(qkh29E6lfQCUPJXrzQNd6jqFS0kmcsjJNsLRmGdYEFVRhigxZu799_WXHXQv5zULmuiSS5E4SQg1Sxceyg7CnSnYXe-uwcSHKlyqMAS7LqVFhzcYWzr8dKPevDRNADj9M5rUPv2olG6hyl5TWCCOfpgwghMS4ju7DIE51NjdJ0oj)'t(A6s)b(iEW-w62s7kV-Y145uV0Lu3kUjNdsNpupF8A)))/720_index.m3u8
 
 
 >> REGIONAL ABERTO
@@ -300,7 +300,7 @@ INDISPONÍVEL
 >> TURISMO
 
 #EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Turismo", 40 Graus TV (Lauro de Freitas/BA)
-INDISPONÍVEL
+https://livefocamundo.com:8081/40graustv/tracks-v1a1/mono.m3u8
 
 
 >> NOTÍCIAS
@@ -330,7 +330,7 @@ LINK INVÁLIDO
 LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Notícias", Euronews em Português (França)
-https://stream.ads.ottera.tv/cl/a0c480a8-2edc-450e-804f-633aba49f778/1280x720_1500000_0_f.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="Notícias", France 24 Español (França)
 INDISPONÍVEL
@@ -432,7 +432,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Mundo", TVes (Venezuela)
-LINK INVÁLIDO
+https://video.twimg.com/ext_tw_video/1550515164918824965/pu/pl/640x352/WXbOtI52eRgiIaa7.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Mundo", TVM (Moçambique)
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2147398394_b714000_slpor.m3u8
