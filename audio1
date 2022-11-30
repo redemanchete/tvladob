@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 14/10/2022
+ATUALIZADA EM 29/11/2022
 
 
 >> RÁDIO FM - BRASIL
@@ -27,7 +27,7 @@ https://radio2.lflr.com.br/ebc-live/radio-nacional-am/playlist.m3u8
 http://shout35.crossradio.com.br:8086/1/;
 
 #EXTINF:-1 tvg-logo="https://www.radiorock.com.br/wp-content/themes/89FM/static/img/logo89.png" group-title="Rádio FM - Brasil", 89.1 - 89 FM A Rádio Rock (São Paulo/SP)
-https://18423.live.streamtheworld.com/RADIO_89FM_ADP
+https://24253.live.streamtheworld.com/RADIO_89FMAAC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/NOVABRASIL_FM_logo_2020.png" group-title="Rádio FM - Brasil", 89.7 - NovaBrasil FM (São Paulo/SP)
 https://24383.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
@@ -42,16 +42,13 @@ https://26493.live.streamtheworld.com/CBN_SP_ADP
 https://24083.live.streamtheworld.com/RADIOBANDEIRANTESAAC
 
 #EXTINF:-1 tvg-logo="https://www.moodfm.com.br/wp-content/themes/moodfm/_player/imagens/thumb-capa.jpg" group-title="Rádio FM - Brasil", 91.1 - Mood FM (Rio de Janeiro/RJ)
-http://radio.servercsi.com.br:9422/stream
+https://radio.saopaulo01.com.br:10971/;
 
 #EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/Cidreira-FM-1-260x69.png" group-title="Rádio FM - Brasil", 91.3 - Cidreira FM (Cidreira/RS)
 http://cast4.audiostream.com.br:8657/mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/26/Logotipo_da_R%C3%A1dio_Disney_Brasil.png" group-title="Rádio FM - Brasil", 91.3 - Rádio Disney (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3?dist=web-radiodisney-disneylatino
-
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a4d453338657.png" group-title="Rádio FM - Brasil", 91.3 - Rádio ECOA (Sobral/CE)
-http://str.7br.com.br:8150/stream
 
 #EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 91.7 - Catve FM (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
@@ -65,7 +62,7 @@ https://26603.live.streamtheworld.com/PLAY_SPAAC
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_kissfmsaopaulo.png" group-title="Rádio FM - Brasil", 92.5 - Kiss FM (São Paulo/SP)
 https://cloud2.cdnseguro.com:20000/;
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio45741_1611083997.png" group-title="Rádio FM - Brasil", 93.3 - Estilo FM (São Vicente/SP)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio45741_1611083997.png" group-title="Rádio FM - Brasil", 93.3 - Estilo FM (Cubatão/SP)
 http://cloud1.cdnseguro.com:26492/stream
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Rádio FM - Brasil", 93.7 - Cultura FM (Belém/PA)
@@ -153,7 +150,7 @@ http://142.44.230.74:9406/;
 https://216-155-149-154.webnow.com.br/diario.aac
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s85253/images/logod.png?t=636326" group-title="Rádio FM - Brasil", 99.7 - Saudade FM (Santos/SP)
-https://24443.live.streamtheworld.com/SAUDADE_FMAAC
+https://26523.live.streamtheworld.com/SAUDADE_FM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/JB_FM_logo.png" group-title="Rádio FM - Brasil", 99.9 - JBFM (Rio de Janeiro/RJ)
 https://26643.live.streamtheworld.com/JBFMAAC1
@@ -176,7 +173,7 @@ https://26503.live.streamtheworld.com/013_FMAAC
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
 http://cast61.sitehosting.com.br:9800/live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/R%C3%A1dio_Inconfid%C3%AAncia_logo.png" group-title="Rádio FM - Brasil", 100.9 - Inconfidência FM (Belo Horizonte/MG)
+#EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio FM - Brasil", 100.9 - Inconfidência FM (Belo Horizonte/MG)
 http://srv39.brasilstream.com.br:8446/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_beiramarfm1015.png" group-title="Rádio FM - Brasil", 101.5 - Beira Mar FM (Ubatuba/SP)
@@ -189,7 +186,7 @@ http://192.99.4.205:8164/stream
 https://9158.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_alphafm1017.png" group-title="Rádio FM - Brasil", 101.7 - Alpha FM (São Paulo/SP)
-https://19803.live.streamtheworld.com/RADIO_ALPHAFM_ADP
+https://21933.live.streamtheworld.com/RADIO_ALPHAFMAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="Rádio FM - Brasil", 102.3 - 102.3 FM (Porto Alegre/RS)
 https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f77be75f-3539-4cbd-9032-f6c6843b8999.m3u8
@@ -293,7 +290,7 @@ https://c1.audiostream.com.br:20029/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14495_1508409250.jpg" group-title="Rádio AM - Brasil", 740 - Rádio Trianon (São Paulo/SP)
 http://afiliadamix2.crossradio.com.br:9008/;
 
-#EXTINF:-1 tvg-logo="https://radiomanchete.com.br/wp-content/uploads/2018/10/radio-manchete-logo.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Niterói/RJ)
+#EXTINF:-1 tvg-logo="https://radiomanchete.com.br/wp-content/uploads/2022/08/radio-manchete.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Niterói/RJ)
 http://192.163.213.186:9300/;
 
 #EXTINF:-1 tvg-logo="http://salaceciliameireles.rj.gov.br/wp-content/uploads/2019/12/radiomec_LOGO-NOVA-300x127.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
@@ -305,7 +302,7 @@ https://orelha.radiolivre.org/radiopaulofreire
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/606325a71585d.png" group-title="Rádio AM - Brasil", 830 - Rádio Tropical AM (Nova Iguaçu/RJ)
 https://ssl.xcast.com.br:9810//;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/R%C3%A1dio_Inconfid%C3%AAncia_logo.png" group-title="Rádio AM - Brasil", 880 - Rádio Inconfidência (Belo Horizonte/MG)
+#EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio AM - Brasil", 880 - Rádio Inconfidência (Belo Horizonte/MG)
 https://8244.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_da_R%C3%A1dio_Record.png" group-title="Rádio AM - Brasil", 1000 - Rádio Record (São Paulo/SP)
@@ -315,7 +312,7 @@ http://stm2.mestrestream.xyz:7098/stream
 http://cloud.cdnseguro.com:8006/;
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio AM - Brasil", 1130 - Rádio Nacional (Rio de Janeiro/RJ)
-https://radio2.lflr.com.br/ebc-live/radio-nacional-rj/playlist.m3u8
+https://radionacionalrio-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/61d35fedbc666.png" group-title="Rádio AM - Brasil", 1260 - Nova Morada (São Paulo/SP)
 http://144.217.192.196:8050/live
@@ -342,7 +339,7 @@ http://wz3.dnip.com.br/sc_canta/sc_canta.stream/chunklist_w433975153.m3u8
 http://servidor27.brlogic.com:8534/live?type=.m3u
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bb7474_0c44c87ab9834d8796a91bf134706e8e~mv2.jpg" group-title="Radcom - Brasil", Rádio Heliópolis 87.5 (São Paulo/SP)
-INDISPONÍVEL
+https://hts07.kshost.com.br:13038/live
 
 #EXTINF:-1 tvg-logo="https://radiointegracaofm.net/image/catalog/logotipo/logotipo_integracaofm.png" group-title="Radcom - Brasil", Rádio Integração FM 87.5 (São Paulo/SP)
 LINK INVÁLIDO
@@ -416,6 +413,9 @@ https://centova5.transmissaodigital.com:20104/live
 #EXTINF:-1 tvg-logo="https://www.vip-radios.fm/wp-content/uploads/fly-images/227/Bossa-Nova-Brazil-600x600-314x314-c.jpg" group-title="Web Rádio - Brasil", Bossa Nova Brazil (Rio de Janeiro/RJ)
 https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio29852_1539802542.jpg" group-title="Web Rádio - Brasil", Dance Music 90 (São Paulo/SP)
+http://stm17.xcast.com.br:9404/stream?1669772788958
+
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio25236_1464190289.png" group-title="Web Rádio - Brasil", Difusora 960 (São Paulo/SP)
 https://s23.maxcast.com.br:8130/live?id=398256527206
 
@@ -435,7 +435,7 @@ https://eu10.fastcast4u.com/iloverio
 https://24383.live.streamtheworld.com/JBCLASSIC_S01AAC
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_267a7bd3eef345d1a97991f730c23260~mv2.png" group-title="Web Rádio - Brasil", Litoral Jazz (Santos/SP)
-https://ice.fabricahost.com.br/litoraljazz
+LINK INVÁLIDO (APONTA PARA OUTRA PROGRAMAÇÃO)
 
 #EXTINF:-1 tvg-logo="https://radiolovetimes.com/radio-lovetimes-images/radio-lovetimes-webplayer.png" group-title="Web Rádio - Brasil", Lovetimes (São Paulo/SP)
 https://c15.radioboss.fm:18152/stream
@@ -470,6 +470,12 @@ http://euroticast5.euroti.com.br:8070/;
 #EXTINF:-1 tvg-logo="https://www.mateusvaladares.com/app/uploads/2016/06/identidade-institutomoreirasalles-radiobatuta-02-1200x800.png" group-title="Web Rádio - Brasil", Rádio Batuta (São Paulo/SP)
 https://radioims.out.airtime.pro/radioims_a
 
+#EXTINF:-1 tvg-logo="https://radioblackchic.com/imagens/e144a55dd166fedee5b19e2fac4e93c9.png" group-title="Web Rádio - Brasil", Rádio Black Chic (São Paulo/SP)
+https://s42.maxcast.com.br:8324/live?id=1166873921463
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio29203_1575737479.png" group-title="Web Rádio - Brasil", Rádio Black in Love (São Paulo/SP)
+https://hts05.kshost.com.br:9890/live
+
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio24172_1579285971.jpg" group-title="Web Rádio - Brasil", Rádio Black Finesse (São Paulo/SP)
 https://servidor36-4.brlogic.com:8446/live
 
@@ -497,6 +503,9 @@ http://r10.ciclano.io:8029/stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radiodeleite.com.br/admin/assets/img/users/6152-2021-05-24.jpg" group-title="Web Rádio - Brasil", Rádio Deleite (Vinhedo/SP)
 https://stream1.svrdedicado.org/8186/stream
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a4d453338657.png" group-title="Web Rádio - Brasil", Rádio ECOA (Sobral/CE)
+http://str.7br.com.br:8150/stream
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qd61pQQ/512x512.png" group-title="Web Rádio - Brasil", Rádio Forró Tradicional (Rio de Janeiro/RJ)
 https://forrotradicional.com.br/radio/8000/aac
 
@@ -510,7 +519,7 @@ https://shout25.crossradio.com.br:18006/1;
 http://servidor39.brlogic.com:8252/live?type=.m3u?ver=568
 
 #EXTINF:-1 tvg-logo="http://radiogonzagao.com.br/images/0270be98117065234f38a928b30f398c.jpg" group-title="Web Rádio - Brasil", Rádio Gonzagão (Exu/PE)
-https://s46.maxcast.com.br:8152/live?id=1630091659396
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://radiograviola.com/wp-content/themes/radio-graviola/dist/assets/img/shared/radio-graviola-icon.png" group-title="Web Rádio - Brasil", Rádio Graviola (Rio de Janeiro/RJ)
 http://servidor30.brlogic.com:8262/live
@@ -518,7 +527,7 @@ http://servidor30.brlogic.com:8262/live
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio85035_1560454859.png" group-title="Web Rádio - Brasil", Rádio Laranjeira (Taboão da Serra/SP)
 https://ssl.xcast.com.br:13180/;
 
-#EXTINF:-1 tvg-logo="https://radiomadalena.com.br/wp-content/uploads/2019/04/logo_radio200x.jpg" group-title="Web Rádio - Brasil", Rádio Madalena (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://radiomadalena.com.br/wp-content/uploads/2021/12/RadioMadalena_Identidade-PEQ.png" group-title="Web Rádio - Brasil", Rádio Madalena (São Paulo/SP)
 https://servidor36-2.brlogic.com:8276/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio54541_1504720356.jpg" group-title="Web Rádio - Brasil", Rádio Manchete (Santa Luzia/PB)
@@ -535,6 +544,9 @@ https://stream.radio.co/s5df157d4f/listen
 
 #EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/LOGO_RADIO-PRINCESA_ATUALIZADA-01-1-260x81.png" group-title="Web Rádio - Brasil", Rádio Princesa (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8016/mp3
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio199001_1650648048.jpg" group-title="Web Rádio - Brasil", Rádio Referência do Samba (São Paulo/SP)
+https://stm6.srvvox.com.br:7290/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio22712_1530271971.png" group-title="Web Rádio - Brasil", Rádio Scalla (São Paulo/SP)
 https://hts02.kshost.com.br:9710/live
