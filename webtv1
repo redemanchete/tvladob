@@ -1,9 +1,9 @@
->> COMPILADA DE DADOS EXISTENTES EM LISTAIPTV.GRATIS
+>> COMPILADA DE DADOS EXISTENTES EM LISTAIPTV.GRATIS E CXTV.COM.BR
 
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 14/10/2022
+ATUALIZADA EM 29/11/2022
 
 
 >> FILMES E SÉRIES
@@ -45,7 +45,6 @@ https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 
-
 >> DESENHOS
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="Desenhos", anitv
@@ -56,3 +55,6 @@ https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Desenhos", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.boxbrazilplay.tv.br/assets/images/logos-canais/tvteen-COLO.png" group-title="Desenhos", TV TeenNet
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
