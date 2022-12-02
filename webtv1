@@ -47,11 +47,12 @@ https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 >> DESENHOS
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="Desenhos", anitv
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Desenhos", Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="Desenhos", Geekdot
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Desenhos", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
