@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 29/11/2022
+ATUALIZADA EM 13/12/2022
 
  
 >> EDUCATIVO
@@ -302,6 +302,12 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Turismo", 40 Graus TV (Lauro de Freitas/BA)
 https://livefocamundo.com:8081/40graustv/tracks-v1a1/mono.m3u8
+
+
+>> VARIEDADES
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Variedades", PlayTV (São Paulo/SP)
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 
 
 >> NOTÍCIAS
