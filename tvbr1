@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 13/12/2022
+ATUALIZADA EM 14/12/2022
 
  
 >> EDUCATIVO
@@ -48,7 +48,7 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Educativo", TV Escola
-http://177.12.121.132/tvEscola/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://faap.br/tvfaap/images/tv-faap.png" group-title="Educativo", TV FAAP (São Paulo/SP)
 http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
@@ -94,7 +94,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b162800
 https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://redemetropole.com/wp-content/uploads/2020/08/rede-metropole.png" group-title="Regional Aberto", Rede Metrópole/Meio Norte (Formiga/MG)
-INDISPONÍVEL
+https://ebocast.ebosystems.com.br:3456/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Regional Aberto", Rede NGT (São Paulo/SP)
 https://ebocast.ebosystems.com.br:3922/live/redengtlive.m3u8
@@ -107,6 +107,9 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Regional Aberto", TV Arapuan/RedeTV! (João Pessoa/PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Regional Aberto", TV Grão Pará/Gazeta (Belém/PA)
+https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Regional Aberto", TV Metrópole (Caucaia/CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
@@ -139,7 +142,7 @@ INDISPONÍVEL
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/776ca0_d766969be6e148c7b1f0501a61354477~mv2.png" group-title="Regional Fechado", Alpha Channel (Barueri/SP)
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w1410636801.m3u8
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bahtv.com.br/wp-content/themes/bahtv/assets/images/bah.png" group-title="Regional Fechado", Bah! (Porto Alegre/RS)
 https://streaming03.zas.media:1936/bahtv/bahtv/playlist.m3u8
@@ -298,15 +301,12 @@ INDISPONÍVEL
 INDISPONÍVEL
 
 
->> TURISMO
+>> FECHADOS
 
-#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Turismo", 40 Graus TV (Lauro de Freitas/BA)
+#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Fechados", 40 Graus TV (Lauro de Freitas/BA)
 https://livefocamundo.com:8081/40graustv/tracks-v1a1/mono.m3u8
 
-
->> VARIEDADES
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Variedades", PlayTV (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Fechados", PlayTV (São Paulo/SP)
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 
 
@@ -328,7 +328,7 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias", CNN Brasil
-http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Notícias", Deutsche Welle English (Alemanha)
 LINK INVÁLIDO
@@ -361,7 +361,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Notícias", TVE - 24 Horas (Espanha)
-https://rtvelivestreamv6.akamaized.net/segments/24h/24h_main_720.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Notícias", TVPE Noticias (Peru)
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
@@ -500,6 +500,9 @@ https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8200/cabecalho-8200-20201104212340.png" group-title="Web TV", TV Capital (Teresina/PI)
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w457351823.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4823/cabecalho-4823-20190801074559.png" group-title="Web TV", TV Centro Sul (Iguatu/CE)
+https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/54961b_1080fd42d84d4f9a9eef267b4fb40b40~mv2.png" group-title="Web TV", TVídeoNews (São Paulo/SP)
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w158065148.m3u8
