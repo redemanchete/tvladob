@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 29/11/2022
+ATUALIZADA EM 02/01/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -19,6 +19,9 @@ http://cloud1.cdnseguro.com:13244/;
 
 #EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/logo-november-e1635793821404.png" group-title="Rádio FM - Brasil", 83.3 - Rádio Liberdade (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8655/mp3
+
+#EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/files/48e91b059744c3a031cf.png" group-title="Rádio FM - Brasil", 86.3 - Rádio Bandeirantes (São Paulo/SP)
+https://24083.live.streamtheworld.com/RADIOBANDEIRANTESAAC
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio FM - Brasil", 87.1 - Rádio Nacional (São Paulo/SP)
 https://radio2.lflr.com.br/ebc-live/radio-nacional-am/playlist.m3u8
@@ -38,9 +41,6 @@ https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Rádio FM - Brasil", 90.5 - CBN (São Paulo/SP)
 https://26493.live.streamtheworld.com/CBN_SP_ADP
 
-#EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/files/48e91b059744c3a031cf.png" group-title="Rádio FM - Brasil", 90.9 - Rádio Bandeirantes (São Paulo/SP)
-https://24083.live.streamtheworld.com/RADIOBANDEIRANTESAAC
-
 #EXTINF:-1 tvg-logo="https://www.moodfm.com.br/wp-content/themes/moodfm/_player/imagens/thumb-capa.jpg" group-title="Rádio FM - Brasil", 91.1 - Mood FM (Rio de Janeiro/RJ)
 https://radio.saopaulo01.com.br:10971/;
 
@@ -53,10 +53,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.
 #EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 91.7 - Catve FM (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/622f9051c3200.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM (Santos/SP)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM (Santos/SP)
 https://ice.fabricahost.com.br/rtl917
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Play_FM_logo.png/640px-Play_FM_logo.png" group-title="Rádio FM - Brasil", 92.1 - Play FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Play_FM_logo.png/640px-Play_FM_logo.png" group-title="Rádio FM - Brasil", 92.1 - Play FM - extinta no dial (São Paulo/SP)
 https://26603.live.streamtheworld.com/PLAY_SPAAC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_kissfmsaopaulo.png" group-title="Rádio FM - Brasil", 92.5 - Kiss FM (São Paulo/SP)
@@ -167,7 +167,7 @@ https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Rádio FM - Brasil", 100.5 - FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio49006_1634588295.png" group-title="Rádio FM - Brasil", 100.7 - Blue Med 013 FM Lite Rock (Santos/SP)
+#EXTINF:-1 tvg-logo="https://www.013fm.com.br/assets/application/img/bg-013.png" group-title="Rádio FM - Brasil", 100.7 - 013 FM Lite Rock (Santos/SP)
 https://26503.live.streamtheworld.com/013_FMAAC
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
@@ -228,7 +228,7 @@ https://rrdns-dumont.webnow.com.br/dumont.aac
 https://20823.live.streamtheworld.com/POSITIVIDADE_FMAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio48_1560184021.png" group-title="Rádio FM - Brasil", 104.7 - Educativa FM 104 (Campo Grande/MS)
-http://midiacentro.digilab.com.br:8200/stream
+http://stream.digilab.com.br:8081/fertel/radio/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_transfm1047sp.png" group-title="Rádio FM - Brasil", 104.7 - Transcontinental FM (Mogi das Cruzes/SP)
 https://ice.fabricahost.com.br/transcontinentalsp48
