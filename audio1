@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 02/01/2023
+ATUALIZADA EM 16/01/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -111,7 +111,7 @@ https://26643.live.streamtheworld.com/SULAMERICAAAC
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio FM - Brasil", 96.1 - Nacional FM (Brasília/DF)
-https://radio2.lflr.com.br/ebc-live/radio-nacional-fm/playlist.m3u8
+https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/l_3702_889950044_38415.aac
 
 #EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png" group-title="Rádio FM - Brasil", 96.5 - Super Rádio Tupi (Rio de Janeiro/RJ)
 https://8923.brasilstream.com.br/stream?nocache=25961111
@@ -141,7 +141,7 @@ https://centova2.svdns.com.br:20029/stream
 https://ice.fabricahost.com.br/metropolitana985sp
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio24568_1505303126.png" group-title="Rádio FM - Brasil", 98.9 - Rádio Brasil Atual (Mogi das Cruzes/SP)
-http://r4.ciclano.io:10217/;
+https://corp.tvt.org.br:8083/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_Cidade_FM_%28Fortaleza%29.png" group-title="Rádio FM - Brasil", 99.1 - Cidade FM (Fortaleza/CE)
 http://142.44.230.74:9406/;
@@ -288,13 +288,13 @@ http://centova11.ipstm.net:13008/stream?1614963490110
 https://c1.audiostream.com.br:20029/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14495_1508409250.jpg" group-title="Rádio AM - Brasil", 740 - Rádio Trianon (São Paulo/SP)
-http://afiliadamix2.crossradio.com.br:9008/;
+https://shout25.crossradio.com.br:18014/1;
 
 #EXTINF:-1 tvg-logo="https://radiomanchete.com.br/wp-content/uploads/2022/08/radio-manchete.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Niterói/RJ)
-http://192.163.213.186:9300/;
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://salaceciliameireles.rj.gov.br/wp-content/uploads/2019/12/radiomec_LOGO-NOVA-300x127.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
-https://radiomec-stream.ebc.com.br/index.m3u8
+https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bf99abc38cb4.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
 https://orelha.radiolivre.org/radiopaulofreire
@@ -312,7 +312,7 @@ http://stm2.mestrestream.xyz:7098/stream
 http://cloud.cdnseguro.com:8006/;
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio AM - Brasil", 1130 - Rádio Nacional (Rio de Janeiro/RJ)
-https://radionacionalrio-stream.ebc.com.br/index.m3u8
+https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/61d35fedbc666.png" group-title="Rádio AM - Brasil", 1260 - Nova Morada (São Paulo/SP)
 http://144.217.192.196:8050/live
@@ -357,7 +357,7 @@ http://stm11.srvaudio.com.br:10920/stream
 LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio25414_1588939573.jpg" group-title="Radcom - Brasil", Rádio Rocinha 107.3 (Rio de Janeiro/RJ)
-http://streaming01.hstbr.net:8272/live?1592873438790
+https://s46.maxcast.com.br:8751/live?id=164163593280
 
 
 >> RÁDIO FM - MUNDO
@@ -488,10 +488,10 @@ https://s09.hstbr.net:8238/live?1514038524061
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/62b505c5676f6.png" group-title="Web Rádio - Brasil", Rádio Cidade (Rio de Janeiro/RJ)
 https://24383.live.streamtheworld.com/RADIOCIDADEAAC
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio201038_1654886579.png" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - MPB (Belo Horizonte/MG)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio201038_1664218640.png" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - MPB (Belo Horizonte/MG)
 http://live.paineldj.com.br:8604/stream
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio201038_1654886579.png" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - Popular (Belo Horizonte/MG)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio202939_1669378777.jpg" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - Pop (Belo Horizonte/MG)
 http://live.paineldj.com.br:8085/stream
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6c/bc/6cbcc5c144857e5ba840227e391fdffd.jpg" group-title="Web Rádio - Brasil", Rádio Continental 1120 (Porto Alegre/RS)
