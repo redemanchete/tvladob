@@ -300,7 +300,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w986842119_b1296000_s
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="Esporte", Red Bull TV (Estados Unidos)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="Web TV", Urban Sports (Florianópolis/SC)
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="Esporte", Urban Sports (Florianópolis/SC)
 https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1578585497.554491.png" group-title="Esporte", Yeeaah (São Paulo/SP)
