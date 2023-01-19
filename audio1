@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 16/01/2023
+ATUALIZADA EM 18/01/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -167,7 +167,7 @@ https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Rádio FM - Brasil", 100.5 - FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.013fm.com.br/assets/application/img/bg-013.png" group-title="Rádio FM - Brasil", 100.7 - 013 FM Lite Rock (Santos/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/616da1d1558a8.png" group-title="Rádio FM - Brasil", 100.7 - 013 FM Lite Rock (Santos/SP)
 https://26503.live.streamtheworld.com/013_FMAAC
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
@@ -175,6 +175,9 @@ http://cast61.sitehosting.com.br:9800/live
 
 #EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio FM - Brasil", 100.9 - Inconfidência FM (Belo Horizonte/MG)
 http://srv39.brasilstream.com.br:8446/stream
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Rádio FM - Brasil", 100.9 - Rádio Clube (Foz do Iguaçu/PR)
+https://9105.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_beiramarfm1015.png" group-title="Rádio FM - Brasil", 101.5 - Beira Mar FM (Ubatuba/SP)
 http://198.24.165.180:9822/;
@@ -303,7 +306,7 @@ https://orelha.radiolivre.org/radiopaulofreire
 https://ssl.xcast.com.br:9810//;
 
 #EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio AM - Brasil", 880 - Rádio Inconfidência (Belo Horizonte/MG)
-https://8244.brasilstream.com.br/stream
+https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_da_R%C3%A1dio_Record.png" group-title="Rádio AM - Brasil", 1000 - Rádio Record (São Paulo/SP)
 http://stm2.mestrestream.xyz:7098/stream
@@ -562,24 +565,6 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.sindifisconacional-santos.org.br/wp-content/uploads/2021/07/rba-litoral.jpg" group-title="Web Rádio - Brasil", RBA Litoral - Rádio Web (São Vicente/SP)
 https://servidor30-5.brlogic.com:8708/live
-
-#EXTINF:-1 tvg-logo="https://radioromantica.com.br/wp-content/uploads/2020/05/player-dance-300x300.png" group-title="Web Rádio - Brasil", Romântica Dance (São Paulo/SP)
-https://s11.w3bserver.com/radio/8140/dance64.aac
-
-#EXTINF:-1 tvg-logo="https://radioromantica.com.br/wp-content/uploads/2019/10/player-fm-300x300.png" group-title="Web Rádio - Brasil", Romântica FM (São Paulo/SP)
-https://s11.w3bserver.com/radio/8020/romantica64.aac
-
-#EXTINF:-1 tvg-logo="https://radioromantica.com.br/wp-content/uploads/2019/10/player-love-300x300.png" group-title="Web Rádio - Brasil", Romântica Love (São Paulo/SP)
-https://s11.w3bserver.com/radio/8030/love64.aac
-
-#EXTINF:-1 tvg-logo="https://radioromantica.com.br/wp-content/uploads/2019/10/player-mpb-300x300.png" group-title="Web Rádio - Brasil", Romântica MPB (São Paulo/SP)
-https://s11.w3bserver.com/radio/8040/mpb64.aac
-
-#EXTINF:-1 tvg-logo="https://radioromantica.com.br/wp-content/uploads/2019/10/player-pop-300x300.png" group-title="Web Rádio - Brasil", Romântica Pop (São Paulo/SP)
-https://s11.w3bserver.com/radio/8050/pop64.aac
-
-#EXTINF:-1 tvg-logo="https://radioromantica.com.br/wp-content/uploads/2021/04/player-rock-300x300.png" group-title="Web Rádio - Brasil", Romântica Rock (São Paulo/SP)
-https://s11.w3bserver.com/radio/8110/rock64.aac
 
 #EXTINF:-1 tvg-logo="https://sambafm.com.br/wp-content/uploads/2021/04/logo_redonfo_brilho_500.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
 http://hts01.kshost.com.br:8428/;
