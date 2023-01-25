@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 29/11/2022
+ATUALIZADA EM 25/01/2023
  
 
 >> ARGENTINA
@@ -17,6 +17,9 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina", Canal Provincial/TeleRed
 https://streaming.telered.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png" group-title="Argentina", Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina", Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
  
@@ -25,6 +28,9 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
  
 #EXTINF:-1 tvg-logo="https://canalnet.tv/_templates/desktop/includes/img/_logo-alt.png" group-title="Argentina", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="Argentina", Pakapaka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/telemax_logo.png" group-title="Argentina", Telemax HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
@@ -238,7 +244,7 @@ http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/chunklist_w2041032948.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1024px-Rai_News_24_-_Logo_2013.svg.png" group-title="Itália", Rai News24
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="Itália", RTC Telecalabria
 http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
