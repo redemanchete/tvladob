@@ -1,0 +1,69 @@
+>> COMPILADA DE DADOS EXISTENTES EM LISTAIPTV.GRATIS E CXTV.COM.BR
+
+>> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
+
+
+ATUALIZADA EM 02/03/2022
+
+
+>> FILMES E SÉRIES
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="Filmes e Séries", Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Filmes e Séries", Classique TV
+https://stmv1.painelvideo.top/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Filmes e Séries", Classique TV Western
+https://stmv1.painelvideo.top/classiquew/classiquew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes e Séries", Darkflix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/07/logo-cghost.png" group-title="Filmes e Séries", Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 1 - As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 2 - A Mulher Biônica
+https://stmv1.painelvideo.top/tvserie2/tvserie2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 3 - Jornada nas Estrelas
+https://stmv1.painelvideo.top/tvserie3/tvserie3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 4 - Chips
+https://stmv1.painelvideo.top/tvserie4/tvserie4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 5 - Guerra Sombra e Água Fresca
+https://stmv1.painelvideo.top/tvserie5/tvserie5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 6 - Os Três Patetas
+https://stmv1.painelvideo.top/tvserie6/tvserie6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 7 - Agente 86
+https://stmv1.painelvideo.top/tvserie7/tvserie7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 8 - O Homem de Seis Milhões de Dólares
+https://stmv1.painelvideo.top/tvserie8/tvserie8/playlist.m3u8
+
+
+>> DESENHOS
+
+#EXTINF:-1 tvg-logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png" group-title="Desenhos", Geekdot
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Desenhos", Jetsons TV
+https://stmv1.painelvideo.top/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Desenhos", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.boxbrazilplay.tv.br/assets/images/logos-canais/tvteen-COLO.png" group-title="Desenhos", TV TeenNet
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
+
+
+>> HUMOR
+
+#EXTINF:-1 tvg-logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png" group-title="Humor", Fora Tédio TV
+https://video03.logicahost.com.br/foratedio/foratedio/playlist.m3u8
