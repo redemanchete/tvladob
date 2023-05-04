@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 27/03/2022
+ATUALIZADA EM 04/05/2023
 
 
 >> FILMES E SÉRIES
@@ -14,11 +14,8 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Filmes e Séries", Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Filmes e Séries", Classique TV 2
-https://stmv1.painelvideo.top/classiquetv1/classiquetv1/playlist2.m3u8
-
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Filmes e Séries", Classique TV Western
-https://stmv1.painelvideo.top/classiquew/classiquew/playlist.m3u8
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes e Séries", Darkflix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -27,50 +24,47 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 1 - As Panteras
-https://stmv1.painelvideo.top/tvserie/tvserie/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 2 - A Mulher Biônica
-https://stmv1.painelvideo.top/tvserie2/tvserie2/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 3 - Jornada nas Estrelas
-https://stmv1.painelvideo.top/tvserie3/tvserie3/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 4 - Chips
-https://stmv1.painelvideo.top/tvserie4/tvserie4/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 5 - Guerra Sombra e Água Fresca
-https://stmv1.painelvideo.top/tvserie5/tvserie5/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 6 - Os Três Patetas
-https://stmv1.painelvideo.top/tvserie6/tvserie6/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 7 - Agente 86
-https://stmv1.painelvideo.top/tvserie7/tvserie7/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 8 - O Homem de Seis Milhões de Dólares
-https://stmv1.painelvideo.top/tvserie8/tvserie8/playlist.m3u8
+INDISPONÍVEL
 
 
 >> DESENHOS
 
 
 #EXTINF: -1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/pantera.png" group-title="Desenhos", A Pantera Cor de Rosa
-https://stmv1.painelvideo.top/pinktv/pinktv/playlist.m3u8
+INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/anitv.jpg" group-title="Desenhos", Geekdot
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://geekdot.live/wp-content/uploads/2023/02/gkdt-website.png" group-title="Desenhos", Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Desenhos", Jetsons TV
-https://stmv1.painelvideo.top/jetsontv/jetsontv/playlist.m3u8
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Desenhos", Loading Web TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Desenhos", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/teennet.png" group-title="Desenhos", TV TeenNet
-https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
-
-
->> HUMOR
-
-#EXTINF:-1 tvg-logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png" group-title="Humor", Fora Tédio TV
-https://video03.logicahost.com.br/foratedio/foratedio/playlist.m3u8
+INDISPONÍVEL
