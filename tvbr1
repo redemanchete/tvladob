@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 14/04/2023
+ATUALIZADA EM 04/05/2023
 
  
 >> EDUCATIVO
@@ -20,14 +20,14 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_2_branca.png" group-title="Educativo", CATVE 2 (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
  
-#EXTINF:-1 tvg-logo="http://catve.com/portal/img/master_hd.png" group-title="Educativo", MasterTV (Cascavel/PR)
+#EXTINF:-1 tvg-logo="http://catve.com/portal/img/master_hd.png" group-title="Educativo", MasterTV/Univesp TV (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/templates/multirio2014/images/marca_multirio.png" group-title="Educativo", MultiRio (Rio de Janeiro/RJ)
-INDISPONÍVEL
+http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Educativo", Rede Minas (Belo Horizonte/MG)
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b610304.m3u8?sts=st=1662780430~exp=1662787030~acl=/*~hmac=8e70883e9aa5c906e90fa61222f9496bd9c1fdd5d32055c37444df13cbeba36b
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b303104.m3u8?sts=st=1683221604~exp=1683228204~acl=/*~hmac=8b8c4463295a7ff462c06ede39d025cd33a92a562889cadb8aeda4351527107d
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Educativo", Sesc TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
@@ -106,7 +106,7 @@ https://acesso.ecast.site:3456/stream/play.m3u8
 http://streaming.jornalmn.com.br/live/tvmn.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Regional Aberto", Rede NGT (São Paulo/SP)
-https://streaming.cloudecast.com/memfs/d82529b5-3d6f-4995-acb1-6b0a2c3164fa_output_0.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6234/cabecalho-6234-20201128201422.png" group-title="Regional Aberto", TV8 RO (Porto Velho/RO)
 INDISPONÍVEL
@@ -199,7 +199,7 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://paraibamaster.com.br/wp-content/uploads/2018/09/oferecimento-tv-master.jpg" group-title="Regional Fechado", TV Master (João Pessoa/PB)
-https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Regional Fechado", TV Max (Rio de Janeiro/RJ)
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
@@ -280,7 +280,7 @@ https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musical", Top Latino TV (Peru)
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/1024px-Top_TV_logo.svg.png" group-title="Musical", Top TV São Paulo (Brasil)
 INDISPONÍVEL
@@ -394,10 +394,10 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Agro", Canal do Boi (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/577816251906375103810199.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Agro", Canal Rural (São Paulo/SP)
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1397384771_b2596000_sleng.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://tvterraviva.band.uol.com.br/images/terravivaHD_05.png" group-title="Agro", Terra Viva (São Paulo/SP)
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w2096267951.m3u8
@@ -480,6 +480,9 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XE1KtQw.png" group-title="Web TV", Elemental Channel (São Paulo/SP)
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png" group-title="Web TV", Fora Tédio TV (São Paulo/SP)
+https://video03.logicahost.com.br/foratedio/foratedio/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/t8SL1PO.png" group-title="Web TV", Ilhabela TV (Ilhabela/SP)
 INDISPONÍVEL
 
@@ -508,7 +511,7 @@ https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w4573
 https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/TVCIDADE.png" group-title="Web TV", TV Cidade (Rio de Janeiro/RJ)
-https://stream.ichibantv.ga:3827/hybrid/play.m3u8
+https://stream.ichibantv.com/p/3827/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/54961b_1080fd42d84d4f9a9eef267b4fb40b40~mv2.png" group-title="Web TV", TVídeoNews (Osasco/SP)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
