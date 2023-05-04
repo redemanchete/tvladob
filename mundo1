@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/01/2023
+ATUALIZADA EM 04/05/2023
  
 
 >> ARGENTINA
@@ -37,8 +37,11 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="Argentina", TelPin
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Viajar_Tv_logo.svg/1280px-Viajar_Tv_logo.svg.png" group-title="Argentina", Viajar TV
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8 
  
- 
+
 >> BOLÍVIA
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolívia", PAT
@@ -72,23 +75,22 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="Colômbia", Canal Trece
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_b2250000.m3u8
+LINK INVÁLIDO
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="Colômbia", Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Colômbia", Telepacífico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+LINK INVÁLIDO
  
  
 >> COSTA RICA
- 
+
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2022/03/logo-repretel.png" group-title="Costa Rica", Repretel Canal 2
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal2_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2022/03/logo-repretel.png" group-title="Costa Rica", Repretel Canal 6
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2022/03/logo-repretel.png" group-title="Costa Rica", Repretel Canal 11
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telered.png" group-title="Costa Rica", Telered
 https://video20.klm99.com:3558/live/teleredlive.m3u8
@@ -109,7 +111,7 @@ LINK INVÁLIDO
 >> EL SALVADOR
  
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiomorazan.net/wp-content/uploads/2020/09/cropped-soltv_logo.png" group-title="El Salvador", Sol TV
-https://rtmp.info/soltv/envivo/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="El Salvador", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -151,10 +153,10 @@ https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
 >> PARAGUAI
  
 #EXTINF:-1 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="Paraguai", Trece RPC
-http://174.138.118.252/live/trece_src.m3u8
+INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="Paraguai", Unicanal
-http://45.55.127.106/live/unicanal_mid.m3u8
+INDISPONÍVEL
  
  
 >> PERU
@@ -199,10 +201,10 @@ http://185.210.20.13:8080/0.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Espanha", Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.Canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png" group-title="Espanha", Canalcosta
-https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/chunklist_w1829875905.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV 1
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -220,13 +222,10 @@ http://musigal-crtvg.flumotion.com/playlist.m3u8
 http://cultural-crtvg.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://rtvmarbella.tv/wp-content/themes/rtvmarbella/images/logos/class-naranja.png" group-title="Espanha", Marbella Televisión
-https://limited41.todostreaming.es/live/marbellatv-livestream.m3u8
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
  
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="Espanha", mtmad 24h
 INDISPONÍVEL
- 
-#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png" group-title="Espanha", Navarra Televisión
-https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/NORTEvisi%C3%B3n-en-directo-Online-218x150.png" group-title="Espanha", NORTEvisión
 http://amaru.dyndns.org:8870/0.m3u8
@@ -240,7 +239,7 @@ http://video.telesafor.com/hls/video_high.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="Itália", Esperia TV 18
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.primocanale.it//img/logo_nl.png" group-title="Itália", Primocanale
+#EXTINF:-1 tvg-logo="https://www.primocanale.it/images/logo_nl.png" group-title="Itália", Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/chunklist_w2041032948.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1024px-Rai_News_24_-_Logo_2013.svg.png" group-title="Itália", Rai News24
@@ -258,11 +257,11 @@ http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 #EXTINF:-1 tvg-logo="http://tvavicenza.gruppovideomedia.it/img/tvavicenza_logo_new.png" group-title="Itália", TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.veratv.it/wp-content/uploads/2018/02/logo_veratv_264x143.gif" group-title="Itália", Vera TV
+#EXTINF:-1 tvg-logo="https://veratv.it/wp-content/uploads/2022/06/logo-veratv2.png" group-title="Itália", Vera TV
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.dinamobasket.com/sites/default/files/videolina2012_tr.png" group-title="Itália", Videolina
 http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.videomediterraneo.it/images/website/assets/vm-logo-official.png" group-title="Itália", Video Mediterraneo
-https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S23348473/u5bWX5Bh1fDx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.videomediterraneo.it/wp-content/uploads/2022/05/videomediterraneo_logo.png" group-title="Itália", Video Mediterraneo
+https://streamcdnc1-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
