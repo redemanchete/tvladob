@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 04/05/2023
+ATUALIZADA EM 30/05/2023
 
 
 >> FILMES E SÉRIES
@@ -68,3 +68,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/teennet.png" group-title="Desenhos", TV TeenNet
 INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jAxYS14.png" group-title="Desenhos", Xtreme TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
