@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 09/05/2023
+ATUALIZADA EM 30/05/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -99,7 +99,7 @@ http://suaradio1.dyndns.ws:13551/stream
 https://24383.live.streamtheworld.com/NATIVA_SPAAC
 
 #EXTINF:-1 tvg-logo="http://radiomorada.com.br/moradalitoral/wp-content/uploads/2018/12/Logo_Morada_White.png" group-title="Rádio FM - Brasil", 95.5 - Morada FM (São Sebastião/SP)
-INDISPONÍVEL
+https://painelstream.net/player-ssl/rvn01/8080
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/62260a9f385c2.png" group-title="Rádio FM - Brasil", 95.7 - Rádio Itatiaia (Belo Horizonte/MG)
 https://8903.brasilstream.com.br/stream
@@ -114,7 +114,7 @@ https://26643.live.streamtheworld.com/SULAMERICAAAC
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio FM - Brasil", 96.1 - Nacional FM (Brasília/DF)
-https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/playlist.m3u8
+https://radio2.lflr.com.br/ebc-live/radio-nacional-fm/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png" group-title="Rádio FM - Brasil", 96.5 - Super Rádio Tupi (Rio de Janeiro/RJ)
 https://8923.brasilstream.com.br/stream?nocache=25961111
@@ -300,10 +300,10 @@ https://c1.audiostream.com.br:20029/stream
 https://shout25.crossradio.com.br:18014/1;
 
 #EXTINF:-1 tvg-logo="https://radiomanchete.com.br/wp-content/uploads/2022/08/radio-manchete.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Niterói/RJ)
-https://aovivo2.radiomanchete.com.br/;
+https://aovivo3.radiomanchete.com.br/;
 
 #EXTINF:-1 tvg-logo="http://salaceciliameireles.rj.gov.br/wp-content/uploads/2019/12/radiomec_LOGO-NOVA-300x127.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
-https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
+https://radio2.lflr.com.br/ebc-live/radio-mec/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bf99abc38cb4.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
 https://orelha.radiolivre.org/radiopaulofreire
@@ -345,7 +345,7 @@ http://wz3.dnip.com.br/sc_canta/sc_canta.stream/chunklist_w433975153.m3u8
 http://servidor27.brlogic.com:8534/live?type=.m3u
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bb7474_0c44c87ab9834d8796a91bf134706e8e~mv2.jpg" group-title="Radcom - Brasil", Rádio Heliópolis 87.5 (São Paulo/SP)
-INDISPONÍVEL
+https://hts07.kshost.com.br:13038/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio35570_1506949504.jpg" group-title="Radcom - Brasil", Ipanema Comunitária FM 87.9 (Porto Alegre/RS)
 https://stream02.ouveai.com.br/8058/stream
