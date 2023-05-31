@@ -3,13 +3,10 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 30/05/2023
+ATUALIZADA EM 31/05/2023
 
 
 >> FILMES E SÉRIES
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="Filmes e Séries", Bons Tempos TV
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Filmes e Séries", Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -20,8 +17,8 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes e Séries", Darkflix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/07/logo-cghost.png" group-title="Filmes e Séries", Ghost TV
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png", MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Filmes e Séries", TV Séries 1 - As Panteras
 INDISPONÍVEL
@@ -58,7 +55,7 @@ INDISPONÍVEL
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Desenhos", Jetsons TV
-INDISPONÍVEL
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Desenhos", Loading Web TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
