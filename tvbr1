@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 30/05/2023
+ATUALIZADA EM 31/05/2023
 
  
 >> EDUCATIVO
@@ -324,6 +324,9 @@ https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/66/dd/1f/66dd1ffb-35c5-6564-0390-23276ddf5516/source/512x512bb.jpg" group-title="Notícias", 24/7 Canal de Noticias (Argentina)
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1255371156_b1300000_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1024px-ABC_News_logo_2021.svg.png" group-title="Notícias", ABC News (Estados Unidos)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/wp-content/uploads/2020/09/news-updates.jpeg" group-title="Notícias", Al Jazeera English (Catar)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -333,11 +336,20 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias", Bloomberg TV (Estados Unidos)
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias", Bloomberg TV Brasil (Estados Unidos)
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Notícias", Canal 26 (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1280px-CBS_News.svg.png" group-title="Notícias", CBS News (Estados Unidos)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias", CNN Brasil
 INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Notícias", CNN Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTYgQU0maGFzaF92YWx1ZT1kTVpMLzRhTis3Ukc0Wk9uSXRUNEx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjhmN2M3NmItNzQ3Yy00Y2IwLWE4MDktMDdmNTNkOWRlZGJk/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Notícias", Deutsche Welle English (Alemanha)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -346,13 +358,19 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Notícias", Euronews em Português (França)
-INDISPONÍVEL
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="Notícias", France 24 Español (França)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/5112C-BNjpL.png" group-title="Notícias", India Today Television (Índia)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png" group-title="Notícias", HispanTV (Irã)
+https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" group-title="Notícias", NBC News Now (Estados Unidos)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Notícias", Record News (Brasil)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1098196047.m3u8
@@ -433,7 +451,7 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="Mundo", Porto Canal (Portugal)
-INDISPONÍVEL
+https://stream-09.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0v4nfPby_BmGeMAx1v2NEyqjJ5UGcyBMxpWytbdVKzCr)/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="Mundo", RTP África (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
@@ -444,11 +462,20 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Mundo", SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Mundo", TDM - Teledifusão de Macau (Macau)
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Mundo", Telemax (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Mundo", TVes (Venezuela)
 LINK INVÁLIDO
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Mundo", TVI (Portugal)
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTYgQU0maGFzaF92YWx1ZT1vclBkaXNJeWV3ZXcyVlRhZkxNWUhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWVkZTFmMjYtNWZiMy00ODAzLTkxY2YtYTU4ZGMyNjA3NTQ1/
+
+#EXTINF:-1 tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png" group-title="Mundo", TVI Internacional (Portugal)
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTcgQU0maGFzaF92YWx1ZT1lWkNnSkYwN25MNWg5V0FmYlg3SENnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjZjMTg4YzctZmYxMS00ODYyLTlkMWYtMjEzOGZmZmY3NjA3/
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Mundo", TVM (Moçambique)
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2147398394_b714000_slpor.m3u8
