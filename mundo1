@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 04/05/2023
+ATUALIZADA EM 31/05/2023
  
 
 >> ARGENTINA
@@ -207,19 +207,22 @@ https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlis
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV 1
-http://europa-crtvg.flumotion.com/playlist.m3u8
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV América
+https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Momentos
-http://momentog-crtvg.flumotion.com/playlist.m3u8
+https://momentog-crtvg.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Infantil
-http://infantil-crtvg.flumotion.com/playlist.m3u8
+https://infantil-crtvg.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Musical
-http://musigal-crtvg.flumotion.com/playlist.m3u8
+https://musigal-crtvg.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Espanha", Galicia TV Cultural
-http://cultural-crtvg.flumotion.com/playlist.m3u8
+https://cultural-crtvg.flumotion.com/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://rtvmarbella.tv/wp-content/themes/rtvmarbella/images/logos/class-naranja.png" group-title="Espanha", Marbella Televisión
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
@@ -229,6 +232,9 @@ INDISPONÍVEL
  
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/NORTEvisi%C3%B3n-en-directo-Online-218x150.png" group-title="Espanha", NORTEvisión
 http://amaru.dyndns.org:8870/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1024px-TeleMadrid.svg.png" group-title="Espanha", TeleMadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889448960150183936/MjLSsZV8_400x400.jpg" group-title="Espanha", TeleSafor
 http://video.telesafor.com/hls/video_high.m3u8
@@ -265,3 +271,27 @@ http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.videomediterraneo.it/wp-content/uploads/2022/05/videomediterraneo_logo.png" group-title="Itália", Video Mediterraneo
 https://streamcdnc1-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+
+
+>> PORTUGAL
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg" group-title="Portugal", Fama TV
+https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png" group-title="Portugal", Porto Canal
+https://stream-09.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0v4nfPby_BmGeMAx1v2NEyqjJ5UGcyBMxpWytbdVKzCr)/dm/3/x8egnb8/s/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png" group-title="Portugal", TVI Internacional
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTcgQU0maGFzaF92YWx1ZT1lWkNnSkYwN25MNWg5V0FmYlg3SENnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjZjMTg4YzctZmYxMS00ODYyLTlkMWYtMjEzOGZmZmY3NjA3/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png" group-title="Portugal", TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png" group-title="Portugal", TVI Reality
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTcgQU0maGFzaF92YWx1ZT1yN1lMUDdUYVBIQ3hRM3Z3eTNqSmt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjQxYmQyNGEtOTNiMC00NjQ3LTlmMjgtOTI2NWJmZWUzODg5/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Portugal", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Novelas.png" group-title="Portugal", SIC Novelas
+https://eventos.live.impresa.pt/opto_in2.m3u8
