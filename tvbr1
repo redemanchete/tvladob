@@ -186,6 +186,9 @@ https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regional Fechado", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Regional Fechado", Rede UTV Brasil (Descalvado/SP)
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
@@ -462,7 +465,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Mundo", SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Mundo", TDM - Teledifusão de Macau (Macau)
+#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Mundo", TDM - Teledifusão de Macau (China)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Mundo", Telemax (Argentina)
@@ -485,75 +488,6 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Mundo", Venezolana de Televisión (Venezuela)
 INDISPONÍVEL
-
-
->> WEB TV
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_RcMeXwcuzJQ/TE9i_U1H87I/AAAAAAAAAPI/127W0otbqTY/S1600-R/Logo-Blog.png" group-title="Web TV", allTV (São Paulo/SP)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Web TV", AWTV (São Paulo/SP)
-https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/WgtkCkp.png" group-title="Web TV", Caraguá TV (Caraguatatuba/SP)
-https://cdn.jmvstream.com/w/AVJ-13048/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Web TV", Chroma TV (São Paulo/SP)
-https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://demaistv.com.br/assets/images/image01.png" group-title="Web TV", Demais TV (São Paulo/SP)
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XE1KtQw.png" group-title="Web TV", Elemental Channel (São Paulo/SP)
-https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png" group-title="Web TV", Fora Tédio (São Paulo/SP)
-https://srv5.zcast.com.br/foratedio/foratedio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/t8SL1PO.png" group-title="Web TV", Ilhabela TV (Ilhabela/SP)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1590605590.2523696.png" group-title="Web TV", Life Channel Brasil (Adamantina/SP)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Web TV", MKK Web TV (São Paulo/SP)
-https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Web TV", Rede UTV Brasil (Descalvado/SP)
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/soutv.com.br/images/logo/logo_358208234.png" group-title="Web TV", Sou TV (Gravataí/RS)
-https://video01.kshost.com.br/tiago4725/tiago4725/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Web TV", TV A Folha (Palmas/PR)
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Web TV", TV Aracati (Aracati/CE)
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8200/cabecalho-8200-20201104212340.png" group-title="Web TV", TV Capital (Teresina/PI)
-https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w457351823.m3u8
-
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4823/cabecalho-4823-20190801074559.png" group-title="Web TV", TV Centro Sul (Iguatu/CE)
-https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/TVCIDADE.png" group-title="Web TV", TV Cidade (Rio de Janeiro/RJ)
-https://stream.ichibantv.com/p/3827/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/54961b_1080fd42d84d4f9a9eef267b4fb40b40~mv2.png" group-title="Web TV", TVídeoNews (Osasco/SP)
-https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://urbantv.com.br/canais/logo-urbantv.jpg" group-title="Web TV", Urban TV Brasil (Florianópolis/SC)
-https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_bb1cad15a0db43d09a3fe41e05a624ad~mv2.png" group-title="Web TV", Vintage TV (Cotia/SP)
-https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://virtual.tv.br/uploads/logo/logo_63f2fa5c2d7278-59448001-67555148.png" group-title="Web TV", VirtualTV (Francisco Beltrão/PR)
-https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1982860011.m3u8
-
-#EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Web TV", VRT Channel (Guarulhos/SP)	
-https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 
 
 >> ESTÚDIO DE RÁDIO
