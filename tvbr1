@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 31/05/2023
+ATUALIZADA EM 05/06/2023
 
  
 >> EDUCATIVO
@@ -186,6 +186,9 @@ https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regional Fechado", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/SEM-FUNDO.png" group-title="Regional Fechado", Rede QDM (Hortolândia/SP)
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Regional Fechado", Rede UTV Brasil (Descalvado/SP)
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
@@ -315,11 +318,27 @@ https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Fechados", 40 Graus TV (Lauro de Freitas/BA)
 https://acesso.ecast.site:3125/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/blits.jpg" group-title="Fechados", Blits TV (Hortolândia/SP)
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/kids.png" group-title="Fechados", Kids Mais (Hortolândia/SP)
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Fechados", PlayTV (São Paulo/SP)
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/Qtal.jpg" group-title="Fechados", QTAL Channel (Hortolândia/SP)
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1578585497.554491.png" group-title="Fechados", Yeeaah (São Paulo/SP)
 https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
+
+
+
+
+
+
+
 
 
 >> NOTÍCIAS
@@ -350,9 +369,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias", CNN Brasil
 INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Notícias", CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTYgQU0maGFzaF92YWx1ZT1kTVpMLzRhTis3Ukc0Wk9uSXRUNEx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjhmN2M3NmItNzQ3Yy00Y2IwLWE4MDktMDdmNTNkOWRlZGJk/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Notícias", Deutsche Welle English (Alemanha)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -462,7 +478,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Mundo", SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Mundo", TDM - Teledifusão de Macau (China)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Mundo", TDM - Teledifusão de Macau (China)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Mundo", Telemax (Argentina)
@@ -470,12 +486,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Mundo", TVes (Venezuela)
 LINK INVÁLIDO
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Mundo", TVI (Portugal)
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTYgQU0maGFzaF92YWx1ZT1vclBkaXNJeWV3ZXcyVlRhZkxNWUhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWVkZTFmMjYtNWZiMy00ODAzLTkxY2YtYTU4ZGMyNjA3NTQ1/
-
-#EXTINF:-1 tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png" group-title="Mundo", TVI Internacional (Portugal)
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIzIDI6NTI6NTcgQU0maGFzaF92YWx1ZT1lWkNnSkYwN25MNWg5V0FmYlg3SENnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjZjMTg4YzctZmYxMS00ODYyLTlkMWYtMjEzOGZmZmY3NjA3/
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Mundo", TVM (Moçambique)
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2147398394_b714000_slpor.m3u8
