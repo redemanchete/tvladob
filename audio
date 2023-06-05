@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 30/05/2023
+ATUALIZADA EM 05/06/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -150,7 +150,7 @@ https://corp.tvt.org.br:8083/stream
 https://r10.ciclano.io:15057/stream
 
 #EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/diario-fm-997_crop_200x200.jpg" group-title="Rádio FM - Brasil", 99.7 - Diário FM (Ribeirão Preto/SP)
-https://216-155-149-154.webnow.com.br/diario.aac
+https://rrdns-megasistema.webnow.com.br/diario.aac
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s85253/images/logod.png?t=636326" group-title="Rádio FM - Brasil", 99.7 - Saudade FM (Santos/SP)
 https://26523.live.streamtheworld.com/SAUDADE_FM
@@ -170,7 +170,7 @@ https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Rádio FM - Brasil", 100.5 - FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/616da1d1558a8.png" group-title="Rádio FM - Brasil", 100.7 - 013 FM Lite Rock (Santos/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64755ad9803c6.png" group-title="Rádio FM - Brasil", 100.7 - 013 FM Lite Rock (Santos/SP)
 https://26503.live.streamtheworld.com/013_FMAAC
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
