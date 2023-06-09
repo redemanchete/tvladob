@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 05/06/2023
+ATUALIZADA EM 09/06/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -114,7 +114,7 @@ https://26643.live.streamtheworld.com/SULAMERICAAAC
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio FM - Brasil", 96.1 - Nacional FM (Brasília/DF)
-https://radio2.lflr.com.br/ebc-live/radio-nacional-fm/chunks.m3u8
+https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png" group-title="Rádio FM - Brasil", 96.5 - Super Rádio Tupi (Rio de Janeiro/RJ)
 https://8923.brasilstream.com.br/stream?nocache=25961111
@@ -239,6 +239,9 @@ http://stream.digilab.com.br:8081/fertel/radio/icecast.audio
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_transfm1047sp.png" group-title="Rádio FM - Brasil", 104.7 - Transcontinental FM (Mogi das Cruzes/SP)
 https://ice.fabricahost.com.br/transcontinentalsp48
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5d1be7e5c042b.png" group-title="Rádio FM - Brasil", 104.9 - Rádio Eldorado (Porto Alegre/RS)
+http://cast4.audiostream.com.br:8652/mp3
+
 #EXTINF:-1 tvg-logo="https://www.radio105fm.com.br/wp-content/uploads/2020/05/cropped-logo-site-3.png" group-title="Rádio FM - Brasil", 105.1 - 105 FM (Jundiaí/SP)
 http://148.72.158.239:8010/live
 
@@ -300,10 +303,10 @@ https://c1.audiostream.com.br:20029/stream
 https://shout25.crossradio.com.br:18014/1;
 
 #EXTINF:-1 tvg-logo="https://radiomanchete.com.br/wp-content/uploads/2022/08/radio-manchete.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Niterói/RJ)
-https://aovivo3.radiomanchete.com.br/;
+https://servidor13.brlogic.com:7050/live
 
 #EXTINF:-1 tvg-logo="http://salaceciliameireles.rj.gov.br/wp-content/uploads/2019/12/radiomec_LOGO-NOVA-300x127.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
-https://radio2.lflr.com.br/ebc-live/radio-mec/chunks.m3u8
+https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bf99abc38cb4.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
 https://orelha.radiolivre.org/radiopaulofreire
@@ -321,7 +324,7 @@ https://stm2.painelcast.com:7532/stream
 http://cloud.cdnseguro.com:8006/;
 
 #EXTINF:-1 tvg-logo="https://agenciabrasil.ebc.com.br/sites/default/themes/agenciabrasil_v2/assets/images/simbolo-ebc.png" group-title="Rádio AM - Brasil", 1130 - Rádio Nacional (Rio de Janeiro/RJ)
-https://radio2.lflr.com.br/ebc-live/radio-nacional-rj/chunks.m3u8
+https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioterra.png" group-title="Rádio AM - Brasil", 1330 - Rádio Terra (São Paulo/SP)
 https://cloud1.cdnseguro.com:16020/stream
@@ -528,13 +531,16 @@ INDISPONÍVEL
 http://servidor30.brlogic.com:8262/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio85035_1560454859.png" group-title="Web Rádio - Brasil", Rádio Laranjeira (Taboão da Serra/SP)
-https://ssl.xcast.com.br:13180/;
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://radiomadalena.com.br/wp-content/uploads/2021/12/RadioMadalena_Identidade-PEQ.png" group-title="Web Rádio - Brasil", Rádio Madalena (São Paulo/SP)
 https://servidor36-2.brlogic.com:8276/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio54541_1504720356.jpg" group-title="Web Rádio - Brasil", Rádio Manchete (Santa Luzia/PB)
 https://s13.maxcast.com.br:8010/live?1590808423437
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio185786_1626704064.png" group-title="Web Rádio - Brasil", Rádio Manchete DJs (Salvador/BA)
+https://player-ssl.painelstream.net:8992/live
 
 #EXTINF:-1 tvg-logo="https://www.radiomotel.com/wp-content/uploads/2018/08/PNG_RADIOMOTELCOM-150x150.png" group-title="Web Rádio - Brasil", Rádio Motel (São Paulo/SP)
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
