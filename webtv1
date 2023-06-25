@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 31/05/2023
+ATUALIZADA EM 24/06/2023
 
 
 >> WEB TV - FILMES E SÉRIES
@@ -59,7 +59,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WgtkCkp.png" group-title="Web TV - Variadas", Caraguá TV (Caraguatatuba/SP)
-https://cdn.jmvstream.com/w/AVJ-13048/playlist/playlist.m3u8
+https://video01.kshost.com.br/cesar3193/cesar3193/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Web TV - Variadas", Chroma TV (São Paulo/SP)
 INDISPONÍVEL
@@ -81,6 +81,9 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Web TV - Variadas", MKK WebTV (São Paulo/SP)
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/petlovers.jpg" group-title="Web TV - Variadas", Petlovers TV (São Paulo/SP)
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/soutv.com.br/images/logo/logo_358208234.png" group-title="Web TV - Variadas", Sou TV (Gravataí/RS)
 https://video01.kshost.com.br/tiago4725/tiago4725/playlist.m3u8
@@ -109,5 +112,5 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/canais/logo-urbantv.jpg" group-title="Web TV - Variadas", Urban TV Brasil (Florianópolis/SC)
 https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Web TV - Variadas", VRT Channel (Guarulhos/SP)	
-https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Web TV - Variadas", VRT Channel (Guarulhos/SP)
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
