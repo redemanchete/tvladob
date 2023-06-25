@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 05/06/2023
+ATUALIZADA EM 24/06/2023
 
  
 >> EDUCATIVO
@@ -11,12 +11,15 @@ ATUALIZADA EM 05/06/2023
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_do_Canal_FDR.png" group-title="Educativo", Canal FDR/Futura (Fortaleza/CE)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w545353741.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/canaleducacao.jpeg" group-title="Educativo", Canal Educação
+#EXTINF:-1 tvg-logo="https://eduplay.rnp.br/portal/assets/contents/img/userchannel/1651086049328.png" group-title="Educativo", Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://eduplay.rnp.br/portal/assets/contents/img/userchannel/1651085561426.png" group-title="Educativo", Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://infovaletelecom.com.br/logo_tvs/canal_saude.png" group-title="Educativo", Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://catve.com/portal/img/catve_hd_branca.png" group-title="Educativo", CATVE/TV Cultura (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
  
@@ -30,16 +33,19 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795
 http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Educativo", Rede Minas (Belo Horizonte/MG)
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b405504.m3u8?sts=st=1685484812~exp=1685491412~acl=/*~hmac=237531d6d8ae010d0e5b402824975e7b396f46333d0838e04f2700a7b63a3b0b
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Educativo", Sesc TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Educativo", TV Brasil
 https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abc.go.gov.br/images/LOGO/TV/TBC_MAIS.png" group-title="Educativo", TV Brasil Central/TV Cultura (Goiânia/GO)
 https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Educativo", TV Ceará (Fortaleza/CE)
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Educativo", TV Cultura Pará (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
@@ -76,7 +82,6 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Educativo", UNBTV (Brasília/DF)
 INDISPONÍVEL
-
 
 
 >> REGIONAL ABERTO
@@ -119,6 +124,12 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Regional Aberto", TV Arapuan/RedeTV! (João Pessoa/PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lirp.cdn-website.com/65670a26/dms3rep/multi/opt/site+logo-TVG-679w.png" group-title="Regional Aberto", TV da Gente (Pacajus/CE)
+https://srv6.zcast.com.br/tvdagente/tvdagente/chunklist_w983317007.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="Regional Aberto", TV Diário (Fortaleza/CE)
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Regional Aberto", TV Grão Pará/Gazeta (Belém/PA)
 https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
@@ -334,13 +345,6 @@ https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
 https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
 
 
-
-
-
-
-
-
-
 >> NOTÍCIAS
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/66/dd/1f/66dd1ffb-35c5-6564-0390-23276ddf5516/source/512x512bb.jpg" group-title="Notícias", 24/7 Canal de Noticias (Argentina)
@@ -407,7 +411,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Notícias", TVPE Noticias (Peru)
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
 
 
 >> DOCUMENTÁRIOS
@@ -490,8 +494,8 @@ LINK INVÁLIDO
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Mundo", TVM (Moçambique)
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2147398394_b714000_slpor.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Mundo", TV Perú (Peru)
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Mundo", TV Perú Internacional (Peru)
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Mundo", Venezolana de Televisión (Venezuela)
 INDISPONÍVEL
