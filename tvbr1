@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 24/06/2023
+ATUALIZADA EM 05/07/2023
 
  
 >> EDUCATIVO
@@ -197,12 +197,6 @@ https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regional Fechado", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/SEM-FUNDO.png" group-title="Regional Fechado", Rede QDM (Hortolândia/SP)
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Regional Fechado", Rede UTV Brasil (Descalvado/SP)
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
@@ -234,7 +228,7 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title="Regional Fechado", TV Sol (Patos/PB)
-https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/playlist.m3u8
+https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="Regional Fechado", TV Sol Comunidade (Indaiatuba/SP)
 https://tv02.zas.media:1936/tvsol/tvsol/playlist.m3u8
@@ -336,10 +330,19 @@ https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Fechados", PlayTV (São Paulo/SP)
-https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pixtv.com.br/wp-content/uploads/2022/04/pixtv.jpg" group-title="Fechados", PIXTV (Garopaba/SC)
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/Qtal.jpg" group-title="Fechados", QTAL Channel (Hortolândia/SP)
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/SEM-FUNDO.png" group-title="Fechados", Rede QDM (Hortolândia/SP)
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Fechados", Rede UTV Brasil (Descalvado/SP)
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1578585497.554491.png" group-title="Fechados", Yeeaah (São Paulo/SP)
 https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
