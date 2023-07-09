@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 30/05/2023
+ATUALIZADA EM 08/07/2023
 
 
 >> CÂMERAS AO VIVO - BRASIL
@@ -12,8 +12,14 @@ ATUALIZADA EM 30/05/2023
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Andradas/MG - Pico do Gavião
 ttps://cdn.jmvstream.com/w/IPC-6753/camera.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Balneário Camboriú/SC - Praia Central
+https://inst-n58ab-srs-fullhd.camerite.services/s2/hls/ec642fe0-c7bc-11eb-ad5d-eb395d8f3730/ec642fe0-c7bc-11eb-ad5d-eb395d8f3730.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Brasília/DF - Asa Sul
 https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cidreira/RS - Praia
+https://5a2b083e9f360.streamlock.net/plataforma2/plataforma2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Panorâmica
 https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/playlist.m3u8
@@ -32,6 +38,9 @@ https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Passo de Torres/SC - Praia
 https://vid1.streaming.websul.net.br/live/ods-torres.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Copacabana
+https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Copacabana Posto 6
 https://live-sa.oceanpact.com:8443/imu/posto6/playlist.m3u8
