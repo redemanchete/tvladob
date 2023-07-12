@@ -1,9 +1,7 @@
->> TODOS OS CANAIS LISTADOS TÊM TRANSMISSÃO ABERTA E GRATUITA DISPONIBILIZADA EM SEUS SITES
-
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 05/07/2023
+ATUALIZADA EM 11/07/2023
 
  
 >> EDUCATIVO
@@ -96,7 +94,7 @@ https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://redeamericatv.com.br/wp-content/uploads/2023/01/Logo-rede-america-tv.png" group-title="Regional Aberto", Rede América (Pouso Alegre/MG)
-INDISPONÍVEL
+https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Regional Aberto", Rede Brasil (São Paulo/SP)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -124,9 +122,6 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Regional Aberto", TV Arapuan/RedeTV! (João Pessoa/PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lirp.cdn-website.com/65670a26/dms3rep/multi/opt/site+logo-TVG-679w.png" group-title="Regional Aberto", TV da Gente (Pacajus/CE)
-https://srv6.zcast.com.br/tvdagente/tvdagente/chunklist_w983317007.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="Regional Aberto", TV Diário (Fortaleza/CE)
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
@@ -285,7 +280,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Musical", Rock TV (Romênia)
-INDISPONÍVEL
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/cropped-Telemusicax512.png" group-title="Musical", TELEMUSICA Tv (Colômbia)
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
