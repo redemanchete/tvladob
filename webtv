@@ -1,15 +1,16 @@
->> COMPILADA DE DADOS EXISTENTES EM LISTAIPTV.GRATIS E CXTV.COM.BR
-
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 24/06/2023
+ATUALIZADA EM 11/07/2023
 
 
 >> WEB TV - FILMES E SÉRIES
 
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Web TV - Filmes e Séries", AWTV (São Paulo/SP)
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="Web TV - Filmes e Séries", Cindie (Inglaterra)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6182c195f4e62961d9c2ccf3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=CDPkXX4-DEpyuzx8MA-x
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Web TV - Filmes e Séries", Classique TV (Brasil)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -20,37 +21,78 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Web TV - Filmes e Séries", Darkflix (Brasil)
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Web TV - Filmes e Séries", Grjngo 1 (Internacional)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=CDPkXX4-DEpyuzx8MA-x
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Web TV - Filmes e Séries", Grjngo 2 (Internacional)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c/variant.m3u8?url=edd4a5cc52ac2c1ce624442cde417d1d-36e420ed382ffa9ee984ac677a972cd8cfc28a4bd494cacd2faa51edb53f90e1b846c2d03d2cf22087bbedeaf64d636c793f2fcd4c8350f59462c32f642b644a7850deb1fc2de1eacbde9c97cacbae5b3f96de46c05f91cb0e590030ad574bb397fad5b05eab0e0cb2269104f8499b4a21b69fe4757bdd36d369080004ad5317d262d48c04565f0dd32f860675968b97fa8c6cc335db78f91330480b68e7259ceb69c1929e1c43fc29a8abb929445ee23e79747924acc674336447ba85bc66de1b3cc3367c254424c2de9e7fb5882d00&x-plex-token=CDPkXX4-DEpyuzx8MA-x&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-provider-streaming-start=1687611078
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Web TV - Filmes e Séries", MyTime Movie Network (Internacional)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Web TV - Filmes e Séries", Runtime (Internacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Web TV - Filmes e Séries", Runtime Ação (Internacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Web TV - Filmes e Séries", Runtime Comédia (Internacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Web TV - Filmes e Séries", Runtime Crime (Internacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Web TV - Filmes e Séries", Runtime Espanto (Internacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Web TV - Filmes e Séries", Runtime Romance (Internacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheF1Ugl-R1Nu_rEtqPk_AEP5V7PnMvTMsHHQcOubfiqj3dDt5xbeFgG13im3xndRDXjarp2B03zEY7JZrtH6QfiySBE2sQiwwy_AJKCranEp-ISN-MtneytInH9XkJ_HC7S79hlWAcxJTGSEXygAC6F_DFG40pIZhxlCFkzVL5WheG6RcF4EY5p-o/s16000/WhatsApp%20Image%202023-06-03%20at%2015.14.03.png" group-title="Web TV - Filmes e Séries", TV Clássicos (São Paulo/SP)
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiT8rTTMZzg3GcVNjbI70g0C15xy4zH673ZMDqNn-0QaR9Kq_uISudMYjHyRI-bzQmqEX2d-IOEuZ0WrqhpYWzafkFpiCv5lEZvaSjcOaWkjSrmQNm6bwL8v2wMqiOPB0-Kv5TC7E14Gw3_fo7PR5uhbOmIBj3ikMkyEH2U1IzzdrsVBa4XqPglg5zvw/w1200-h630-p-k-no-nu/LOGO%20TV%202%20(1).png" group-title="Web TV - Filmes e Séries", TV Clássicos do Cinema (Manaus/AM)
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_bb1cad15a0db43d09a3fe41e05a624ad~mv2.png" group-title="Web TV - Filmes e Séries", Vintage TV (Cotia/SP)
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 
->> WEB TV - DESENHOS
+>> WEB TV - GEEK E CARTOON
 
 
-#EXTINF: -1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/pantera.png" group-title="Web TV - Desenhos", A Pantera Cor de Rosa (Brasil)
+#EXTINF: -1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/pantera.png" group-title="Web TV - Geek e Cartoon", A Pantera Cor de Rosa (Brasil)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/72c55aa33ecba6da806c4106c98e8440.png" group-title="Web TV - Desenhos", Geekdot (Brasil)
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/72c55aa33ecba6da806c4106c98e8440.png" group-title="Web TV - Geek e Cartoon", Geekdot (Brasil)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Web TV - Desenhos", Jetsons TV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Web TV - Geek e Cartoon", Jetsons TV (Brasil)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Web TV - Desenhos", Loading Web TV (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Web TV - Geek e Cartoon", Loading Web TV (São Paulo/SP)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Web TV - Desenhos", Retrô Cartoon (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Web TV - Geek e Cartoon", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/teennet.png" group-title="Web TV - Desenhos", TV TeenNet (Pompeia/SP)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/teennet.png" group-title="Web TV - Geek e Cartoon", TV TeenNet (Pompeia/SP)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jAxYS14.png" group-title="Web TV - Desenhos", Xtreme TV (Camaquã/RS)
+#EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Web TV - Geek e Cartoon", TV ZYN / SBT (São Paulo/SP)
+https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jAxYS14.png" group-title="Web TV - Geek e Cartoon", Xtreme TV (Camaquã/RS)
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
+
+>> WEB TV - GLOBO FAST
+
+#EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" group-title="Web TV - Globo FAST", ge FAST
+https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo-1100x619.jpg" group-title="Web TV - Globo FAST", Receitas FAST
+https://dl27mmj7tlts0.cloudfront.net/index.m3u8
 
 
 >> WEB TV - VARIADAS
@@ -96,9 +138,6 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8200/cabecalho-8200-20201104212340.png" group-title="Web TV - Variadas", TV Capital (Teresina/PI)
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w457351823.m3u8
-
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4823/cabecalho-4823-20190801074559.png" group-title="Web TV - Variadas", TV Centro Sul (Iguatu/CE)
-https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/TVCIDADE.png" group-title="Web TV - Variadas", TV Cidade (Rio de Janeiro/RJ)
 https://stream.ichibantv.com/p/3827/hybrid/play.m3u8
