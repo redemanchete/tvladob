@@ -21,11 +21,8 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Web TV - Filmes e Séries", Darkflix (Brasil)
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Web TV - Filmes e Séries", Grjngo 1 (Internacional)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Web TV - Filmes e Séries", Grjngo (Internacional)
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=CDPkXX4-DEpyuzx8MA-x
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Web TV - Filmes e Séries", Grjngo 2 (Internacional)
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c/variant.m3u8?url=edd4a5cc52ac2c1ce624442cde417d1d-36e420ed382ffa9ee984ac677a972cd8cfc28a4bd494cacd2faa51edb53f90e1b846c2d03d2cf22087bbedeaf64d636c793f2fcd4c8350f59462c32f642b644a7850deb1fc2de1eacbde9c97cacbae5b3f96de46c05f91cb0e590030ad574bb397fad5b05eab0e0cb2269104f8499b4a21b69fe4757bdd36d369080004ad5317d262d48c04565f0dd32f860675968b97fa8c6cc335db78f91330480b68e7259ceb69c1929e1c43fc29a8abb929445ee23e79747924acc674336447ba85bc66de1b3cc3367c254424c2de9e7fb5882d00&x-plex-token=CDPkXX4-DEpyuzx8MA-x&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-provider-streaming-start=1687611078
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Web TV - Filmes e Séries", MyTime Movie Network (Internacional)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
