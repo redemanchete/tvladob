@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 09/06/2023
+ATUALIZADA EM 19/07/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -59,9 +59,6 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM (Santos/SP)
 https://ice.fabricahost.com.br/rtl917
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Play_FM_logo.png/640px-Play_FM_logo.png" group-title="Rádio FM - Brasil", 92.1 - Play FM - extinta no dial (São Paulo/SP)
-https://26603.live.streamtheworld.com/PLAY_SPAAC
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_kissfmsaopaulo.png" group-title="Rádio FM - Brasil", 92.5 - Kiss FM (São Paulo/SP)
 https://cloud2.cdnseguro.com:20000/;
 
@@ -72,7 +69,7 @@ http://cloud1.cdnseguro.com:26492/stream
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_da_Itapema_FM.png" group-title="Rádio FM - Brasil", 93.7 - Itapema FM (Florianópolis/SC)
-https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/chunklist_a9a16300-d425-4ee0-b5b7-581661ec81f3.m3u8
+https://22823.live.streamtheworld.com/ITA_FLOAAC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_uspfm937sp.png" group-title="Rádio FM - Brasil", 93.7 - Rádio USP (São Paulo/SP)
 http://flow.emm.usp.br:8007/radiousp-48.mp3
@@ -108,7 +105,7 @@ https://8903.brasilstream.com.br/stream
 https://servidor13.brlogic.com:7262/live
 
 #EXTINF:-1 tvg-logo="https://sulamericaparadiso.com.br/player/assets/img/logo-player-disco.jpg" group-title="Rádio FM - Brasil", 95.7 - SulAmérica Paradiso (Rio de Janeiro/RJ)
-https://26643.live.streamtheworld.com/SULAMERICAAAC
+https://26583.live.streamtheworld.com/SULAMERICAAAC_SC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Logotipo_da_Band_FM.png" group-title="Rádio FM - Brasil", 96.1 - Band FM (São Paulo/SP)
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
@@ -156,7 +153,7 @@ https://rrdns-megasistema.webnow.com.br/diario.aac
 https://26523.live.streamtheworld.com/SAUDADE_FM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/JB_FM_logo.png" group-title="Rádio FM - Brasil", 99.9 - JBFM (Rio de Janeiro/RJ)
-https://26643.live.streamtheworld.com/JBFMAAC1
+https://26673.live.streamtheworld.com/JBFMAAC
 
 #EXTINF:-1 tvg-logo="https://www.upf.br/_uploads/8d2fc46a-5efc-4397-b61e-4e9f1f106812.png" group-title="Rádio FM - Brasil", 99.9 - Rádio UPF (Passo Fundo/RS)
 http://servidor38.brlogic.com:8134/live?1590771443870
@@ -171,7 +168,7 @@ https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64755ad9803c6.png" group-title="Rádio FM - Brasil", 100.7 - 013 FM Lite Rock (Santos/SP)
-https://26503.live.streamtheworld.com/013_FMAAC
+https://r16.ciclano.io:15043/stream
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
 http://cast61.sitehosting.com.br:9800/live
@@ -231,7 +228,7 @@ https://centova.svdns.com.br:20019/stream
 https://rrdns-dumont.webnow.com.br/dumont.aac
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/607dd431d6eb0.png" group-title="Rádio FM - Brasil", 104.5 - Positividade FM (Rio de Janeiro/RJ)
-https://26573.live.streamtheworld.com/POSITIVIDADE_FMAAC
+https://27393.live.streamtheworld.com/POSITIVIDADE_FMAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio48_1676400275.jpg" group-title="Rádio FM - Brasil", 104.7 - Educativa FM 104 (Campo Grande/MS)
 http://stream.digilab.com.br:8081/fertel/radio/icecast.audio
@@ -371,11 +368,14 @@ https://s46.maxcast.com.br:8751/live?id=164163593280
 
 >> RÁDIO FM - MUNDO
 
+#EXTINF:-1 tvg-logo="https://cdn.bndlyr.com/nr1mnwosex/_design/m/nr117Antfg.png" group-title="Rádio FM - Mundo", 90.4 - Super Bock Super Rock FM (Lisboa/Portugal)
+https://centova.radios.pt/proxy/435?mp=/stream
+
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfm/logo_rfm_b7034118c.png" group-title="Rádio FM - Mundo", 93.2 - RFM (Lisboa/Portugal)
 https://20723.live.streamtheworld.com/RFMAAC
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/AeYKCAWSaH.png" group-title="Rádio FM - Mundo", 95.1 - Metro (Buenos Aires/Argentina)
-https://26653.live.streamtheworld.com/METROAAC
+https://24083.live.streamtheworld.com/METROAAC
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5d5cda_645646f367ea437297e24ccf7cbf623c~mv2.png" group-title="Rádio FM - Mundo", 95.3 - Tropical FM (Lisboa/Portugal)
 https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
@@ -388,6 +388,9 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw-bkp/60a2745ff943100826
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Radio-Veronica-logo.jpg" group-title="Rádio FM - Mundo", 103.5 - Radio Veronica (Amsterdã/Países Baixos)
 https://22713.live.streamtheworld.com/VERONICA.mp3
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio147438_1593786812.jpg" group-title="Rádio FM - Mundo", 105.0 - Rádio Fama (Porto/Portugal)
+http://digitalfm.dynu.com:8000/digitalfm64
 
 #EXTINF:-1 tvg-logo="https://www.antenna1.fm/wp-content/uploads/2021/03/LOGO-RADIO.png" group-title="Rádio FM - Mundo", 107.1 - Radio Antenna1 (Roma/Itália)
 https://a1-it.newradio.it/stream?1593287260515
@@ -564,7 +567,7 @@ INDISPONÍVEL
 https://radios.poolwebwork.com.br/8016/stream
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5f/80/109900/1/c175.png" group-title="Web Rádio - Brasil", Rádio Viva o Samba (Rio de Janeiro/RJ)	
-http://74.63.237.84:8020/live
+https://servidor33-3.brlogic.com:8020/live
 
 #EXTINF:-1 tvg-logo="https://radiovozes.com/wp-content/uploads/2020/05/cropped-Logo_radiovozes_Grey-2.png" group-title="Web Rádio - Brasil", Rádio Vozes (São Paulo/SP)
 INDISPONÍVEL
