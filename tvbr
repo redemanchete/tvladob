@@ -249,6 +249,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist
 #EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Musical", Deluxe Music (Alemanha)
 INDISPONÍVEL
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg" group-title="Musical", Fama TV (Portugal)
+https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kisstv.png" group-title="Musical", Kiss TV (Brasil)
 INDISPONÍVEL
 
