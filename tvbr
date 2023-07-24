@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 11/07/2023
+ATUALIZADA EM 231/07/2023
 
  
 >> EDUCATIVO
@@ -63,6 +63,9 @@ http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
 #EXTINF:-1 tvg-logo="https://www.infoescola.com/wp-content/uploads/2016/11/tv-ines.png" group-title="Educativo", TV INES
 INDISPONÍVEL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/1024px-TV_Mackenzie_logo.svg.png" group-title="Educativo", TV Mackenzie (São Paulo/SP)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" group-title="Educativo", TV Nova Nordeste/TV Cultura (Olinda/PE)
 https://live.comets.com.br/tvnovanordeste/tracks-v1a1/mono.m3u8
 
@@ -80,6 +83,9 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Educativo", UNBTV (Brasília/DF)
 INDISPONÍVEL
+
+#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Educativo", Viva e Eduque (São Paulo/SP)
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 
 
 >> REGIONAL ABERTO
@@ -194,6 +200,9 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Regional Fechado", TV+ ABC
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65NyfNQD/logo-login.gif" group-title="Regional Fechado", TV Aberta SP (São Paulo/SP)
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1377853025.m3u8
@@ -318,11 +327,23 @@ https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 
 >> FECHADOS
 
-#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Fechados", 40 Graus TV (Lauro de Freitas/BA)
+#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Fechados", 40 Graus TV/Gazeta (Lauro de Freitas/BA)
 https://acesso.ecast.site:3125/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/blits.jpg" group-title="Fechados", Blits TV (Hortolândia/SP)
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Fechados", Canal Curta! (Rio de Janeiro/RJ)
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/entretendo_newLogo.png" group-title="Fechados", Entretendo (São Paulo/SP)
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/hello_newLogo.png" group-title="Fechados", Hello TV (São Paulo/SP)
+http://cdn.connectbr.com.br/Hello/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/inspire_newLogo.png" group-title="Fechados", Inspire (São Paulo/SP)
+http://cdn.connectbr.com.br/Inspire/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/kids.png" group-title="Fechados", Kids Mais (Hortolândia/SP)
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
@@ -336,14 +357,23 @@ https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/Qtal.jpg" group-title="Fechados", QTAL Channel (Hortolândia/SP)
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/mosaico_newLogo.png" group-title="Fechados", Rede Mosaico (São Paulo/SP)
+http://cdn.connectbr.com.br/Mosaico/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/SEM-FUNDO.png" group-title="Fechados", Rede QDM (Hortolândia/SP)
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Fechados", Rede UTV Brasil (Descalvado/SP)
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/up_newLogo.png" group-title="Fechados", Up Channel (São Paulo/SP)
+http://cdn.connectbr.com.br/UPChannel/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1578585497.554491.png" group-title="Fechados", Yeeaah (São Paulo/SP)
 https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/life_newLogo.png" group-title="Fechados", Yes Life (São Paulo/SP)
+http://cdn.connectbr.com.br/Life/index.m3u8
 
 
 >> NOTÍCIAS
