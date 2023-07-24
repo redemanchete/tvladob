@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 11/07/2023
+ATUALIZADA EM 23/07/2023
 
 
 >> WEB TV - FILMES E SÉRIES
@@ -9,14 +9,20 @@ ATUALIZADA EM 11/07/2023
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Web TV - Filmes e Séries", AWTV (São Paulo/SP)
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="Web TV - Filmes e Séries", Cindie (Inglaterra)
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6182c195f4e62961d9c2ccf3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=CDPkXX4-DEpyuzx8MA-x
+#EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="Web TV - Filmes e Séries", Cindie Lite (Inglaterra)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Web TV - Filmes e Séries", Classique TV (Brasil)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Web TV - Filmes e Séries", Classique TV Western (Brasil)
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="Web TV - Filmes e Séries", Chaves
+https://ythls.onrender.com/video/V98Ej5Odk_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.darkmattertv.com/wp-content/uploads/elementor/thumbs/logo-pmkjklm6thnwih7vveoaubuha1vmpivcbqaod0kptq.png" group-title="Web TV - Filmes e Séries", Dark Matter TV (Internacional)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Web TV - Filmes e Séries", Darkflix (Brasil)
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -45,6 +51,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Web TV - Filmes e Séries", Runtime Romance (Internacional)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
+#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="Web TV - Filmes e Séries", Soul Cine Clube
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheF1Ugl-R1Nu_rEtqPk_AEP5V7PnMvTMsHHQcOubfiqj3dDt5xbeFgG13im3xndRDXjarp2B03zEY7JZrtH6QfiySBE2sQiwwy_AJKCranEp-ISN-MtneytInH9XkJ_HC7S79hlWAcxJTGSEXygAC6F_DFG40pIZhxlCFkzVL5WheG6RcF4EY5p-o/s16000/WhatsApp%20Image%202023-06-03%20at%2015.14.03.png" group-title="Web TV - Filmes e Séries", TV Clássicos (São Paulo/SP)
 INDISPONÍVEL
 
@@ -53,6 +62,9 @@ https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_bb1cad15a0db43d09a3fe41e05a624ad~mv2.png" group-title="Web TV - Filmes e Séries", Vintage TV (Cotia/SP)
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/4/thumb_logo-urbanseries-1642531559.png" group-title="Web TV - Filmes e Séries", Urban Séries (Florianópolis/SC)
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 
 >> WEB TV - GEEK E CARTOON
@@ -76,20 +88,35 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/teennet.png" group-title="Web TV - Geek e Cartoon", TV TeenNet (Pompeia/SP)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Web TV - Geek e Cartoon", TV ZYN / SBT (São Paulo/SP)
-https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/3/thumb_logo-urbankids-1642531497.png" group-title="Web TV - Geek e Cartoon", Urban Kids (Florianópolis/SC)
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jAxYS14.png" group-title="Web TV - Geek e Cartoon", Xtreme TV (Camaquã/RS)
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 
->> WEB TV - GLOBO FAST
+>> CANAIS FAST
 
-#EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" group-title="Web TV - Globo FAST", ge FAST
+#EXTINF:-1 tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="Canais Fast", Demand Africa
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1280px-Filmrise.svg.png" group-title="Canais Fast", Filmrise Séries Gratuitas
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+
+#EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" group-title="Canais Fast", ge fast / Globo
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo-1100x619.jpg" group-title="Web TV - Globo FAST", Receitas FAST
+#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais Fast", Novelando
+http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo-1100x619.jpg" group-title="Canais Fast", Receitas fast / Globo
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NFb7LgL.png" group-title="Canais Fast", Revry Brasil
+https://dletvjdknba4f.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Canais Fast", TV ZYN / SBT (São Paulo/SP)
+https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
 
 
 >> WEB TV - VARIADAS
