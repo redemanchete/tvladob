@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 231/07/2023
+ATUALIZADA EM 25/07/2023
 
  
 >> EDUCATIVO
@@ -201,7 +201,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regional Fechado", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Regional Fechado", TV+ ABC
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Regional Fechado", TV+ ABC (São Bernardo do Campo/SP)
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65NyfNQD/logo-login.gif" group-title="Regional Fechado", TV Aberta SP (São Paulo/SP)
@@ -549,6 +549,9 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/1/logo-clube.png" group-title="Estúdio de Rádio", Clube FM (Ribeirão Preto/SP)
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?7396e59bd10d4514fc3237bcb584ca86
 
+#EXTINF:-1 tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="Estúdio de Rádio", Clube FM 99 (Patos de Minas/MG)
+https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=3544591251197230000
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdio de Rádio", Cultura FM (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
 
@@ -564,6 +567,9 @@ https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/pl
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/622d2b98870ac.png" group-title="Estúdio de Rádio", JK FM (Brasília/DF)
 https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logomarca_nova_da_Massa_FM.png" group-title="Estúdio de Rádio", Massa FM (São Paulo/SP)
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdio de Rádio", Monte FM (Monte Carmelo/MG)
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 
@@ -573,8 +579,19 @@ https://radioclube.brasilstream.com.br/hls/radioclube/index.m3u8
 #EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_jornal903recife.png" group-title="Estúdio de Rádio", Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
 
+#EXTINF:0 tvg-logo="https://radioq.com.br/wp-content/uploads/2017/10/logo2x.png" group-title="Estúdio de Rádio", Rádio Q FM (Viçosa/MG)
+https://qfm.ddns.net/hlsq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdio de Rádio", Rádio Tupi (Rio de Janeiro/RJ)
+https://ythls.onrender.com/video/dw54p_YXMIE.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdio de Rádio", Rede Metropolitana (Taubaté/SP)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Estúdio de Rádio", RTL FM (Santos/SP)
 https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdio de Rádio", Rede Metropolitana (Taubaté/SP)
+
+#EXTINF:-1 tvg-logo="http://www.suprafm.com.br/images/logo-supra-fm.png" group-title="Estúdio de Rádio", Supra FM (Gama/DF)
+https://live.cdn.upx.com/00079/myStream.sdp/playlist.m3u8
