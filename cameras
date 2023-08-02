@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/07/2023
+ATUALIZADA EM 01/08/2023
 
 
 >> CÂMERAS AO VIVO - BRASIL
@@ -15,7 +15,10 @@ https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Brasília/DF - Asa Sul
 https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cidreira/RS - Praia
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cidreira/RS - Plataforma de pesca
 https://5a2b083e9f360.streamlock.net/plataforma2/plataforma2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Panorâmica
@@ -27,14 +30,17 @@ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/p
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Goiânia/GO - Panorâmica
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist7.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Panorâmica
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Guaratuba/PR - Praia Central
 https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Imbé/RS - Praia
+https://vid1.streaming.websul.net.br/live/ods-imb.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Passo de Torres/SC - Praia
 https://vid1.streaming.websul.net.br/live/ods-torres.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Porto Alegre/RS - Porto Guaíba
+https://ythls.onrender.com/video/CWKnJDEsaog.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Copacabana
 https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
