@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/07/2023
+ATUALIZADA EM 01/08/2023
 
 
 >> WEB TV - FILMES E SÉRIES
@@ -9,14 +9,20 @@ ATUALIZADA EM 25/07/2023
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Web TV - Filmes e Séries", AWTV (São Paulo/SP)
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Web TV - Filmes e Séries", Classique TV (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Web TV - Filmes e Séries", Classique TV (Brasil)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/classique/imagens/logo_classiqueTV_site.png" group-title="Web TV - Filmes e Séries", Classique TV Western (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Web TV - Filmes e Séries", Classique TV Séries (Brasil)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Web TV - Filmes e Séries", Classique TV Western (Brasil)
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="Web TV - Filmes e Séries", Chaves (Brasil)
-https://ythls.onrender.com/video/V98Ej5Odk_0.m3u8
+http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="Web TV - Filmes e Séries", Chaves 2 (Brasil)
+https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CsEFfvK1Xrd3mEK9Rd-QnRbl0Suy9LYj_PVsTA1bT_5L-VBfNOxlg4xCE5MlCyeAHvONugaZ2B2qpsv2oKEicS-AQoiuY-ZhfxFjBvjyvrRqoYvWRhm6BpGyPonNtPiKgSW_wvKKjKi-4DjaCCaLk0oEHf5HN86y75psi2jUrZWACUKC7Q1tvmWevodotY__f_-AmBj9GX8aGp-d6XH_m0eERJJbxdYLwWj4EsL5sdo9yupmeRG60EboWAjvhilZtvePNlPjEz9YdL-op7j8zO5G_tBC-TGPVTWllI-X-YpSJTFc2P_Oe-jxbEuf33QVAy2t2IwfdiPifkxUVSgZAAy9W0800bcZVEawEspVCeAge-2t_NMoOcA7DZM-aNlOTM8tHhv41uw5KNlfIE3h28AtkVbTf_5Cxa-jA7CBK0wHK2q7HlUtEEW6s6eL4r3BVqITpQ08jQ-HjtH8bCm2fNfab4qM1AbfZu6zwCCFg6CHIgC8vfI1uG-1tfaRg0MslZmm12oa5L_l-aAOe2hXUTr1F5Di5Pv6Icai3W_Tgn2VWfuKXnFAnra0qLLOrv1cEJHtJxzXgjbfP5w_veYhLRxlkkTDYjd4sBi14Q9zEulFyN_DTJFj0JfGp-Adbzm5aUm3cTt-psR55Hq9fR_G6-ldOw63wGjKfH2zt_SSftaXiElTQdOGM7SgpXQCH0t43wkhmwf8B8KHhBs2Y93Le0KrVdkfSgZqm_P4ivFTeg7PnLkA8rxmmpX7slFElWVuwPPjW_ehCNyuoSo3wHoGRwgT6Bbt4SfzBQdlviueopSuW7deKGAIYG_tv67TczO_3Kmgp90hj8gYmBm1JQrZ8d3P80FjL6LGNH902o0QPfF0UO56lvCXJkBwFTpYV-zK76LuB6PzvQclo_rOt4bno2gZ4L16VzjCdoAaHaEhoAEDM680Ggw3ZLoYlQiGfNDMSV8gASoJdXMtZWFzdC0yMJUH.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheF1Ugl-R1Nu_rEtqPk_AEP5V7PnMvTMsHHQcOubfiqj3dDt5xbeFgG13im3xndRDXjarp2B03zEY7JZrtH6QfiySBE2sQiwwy_AJKCranEp-ISN-MtneytInH9XkJ_HC7S79hlWAcxJTGSEXygAC6F_DFG40pIZhxlCFkzVL5WheG6RcF4EY5p-o/s16000/WhatsApp%20Image%202023-06-03%20at%2015.14.03.png" group-title="Web TV - Filmes e Séries", TV Clássicos (São Paulo/SP)
 INDISPONÍVEL
