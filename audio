@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 01/08/2023
+ATUALIZADA EM 08/08/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -108,7 +108,7 @@ https://26583.live.streamtheworld.com/SULAMERICAAAC_SC
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/EBC_logo_2023.svg/1280px-EBC_logo_2023.svg.png" group-title="Rádio FM - Brasil", 96.1 - Nacional FM (Brasília/DF)
-https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/playlist.m3u8
+https://radio2.lflr.com.br/ebc-live/radio-nacional-fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png" group-title="Rádio FM - Brasil", 96.5 - Super Rádio Tupi (Rio de Janeiro/RJ)
 https://8923.brasilstream.com.br/stream?nocache=25961111
@@ -281,7 +281,7 @@ https://8199.brasilstream.com.br/stream
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5f7cb0c2baa53.png" group-title="Rádio AM - Brasil", 540 - Rádio Real News (Canoas/RS)
 http://stm8.xcast.com.br:9770/;
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/63fcfa273aec2.png" group-title="Rádio AM - Brasil", 610 - FYFM (Mogi Mirim/SP)
+#EXTINF:-1 tvg-logo="https://fyfm.com.br/wp-content/uploads/2023/05/cropped-LOGO-BRANCO-COM-COR-ROXO-NO-PLAY.png" group-title="Rádio AM - Brasil", 610 - FYFM (Mogi Mirim/SP)
 https://cast.hoost.com.br:8310/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ed/Logotipo_R%C3%A1dio_Clube_do_Par%C3%A1.jpg" group-title="Rádio AM - Brasil", 690 - Rádio Clube do Pará (Belém/PA)
@@ -300,7 +300,7 @@ https://shout25.crossradio.com.br:18014/1;
 https://servidor13.brlogic.com:7050/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/EBC_logo_2023.svg/1280px-EBC_logo_2023.svg.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
-https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
+https://radio2.lflr.com.br/ebc-live/radio-mec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bf99abc38cb4.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
 https://orelha.radiolivre.org/radiopaulofreire
@@ -312,7 +312,7 @@ https://ssl.xcast.com.br:9810//;
 https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_da_R%C3%A1dio_Record.png" group-title="Rádio AM - Brasil", 1000 - Rádio Record (São Paulo/SP)
-https://stm2.painelcast.com:7532/stream
+https://stm10.voxhd.com.br:9702/stream//?1691552156079
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Rádio AM - Brasil", 1070 - Rádio Metropolitana (Mogi das Cruzes/SP)
 http://cloud.cdnseguro.com:8006/;
