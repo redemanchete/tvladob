@@ -310,30 +310,6 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 INDISPONÍVEL
 
 
->> ESPORTE
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png" group-title="Esporte", All Sports TV (Brasília/DF)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Esporte", DeporTV (Argentina)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
-https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png" group-title="Esporte", Garage TV (Argentina)
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="Esporte", Red Bull TV (Estados Unidos)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="Esporte", Urban Sports (Florianópolis/SC)
-https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Esporte", Urban Turbo (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
-
-
 >> FECHADOS
 
 #EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Fechados", 40 Graus TV/Gazeta (Lauro de Freitas/BA)
@@ -394,6 +370,30 @@ https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
 http://cdn.connectbr.com.br/Life/index.m3u8
 
 
+>> ESPORTE
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png" group-title="Esporte", All Sports TV (Brasília/DF)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Esporte", DeporTV (Argentina)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png" group-title="Esporte", Garage TV (Argentina)
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="Esporte", Red Bull TV (Estados Unidos)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="Esporte", Urban Sports (Florianópolis/SC)
+https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Esporte", Urban Turbo (Florianópolis/SC)
+https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
+
+
 >> NOTÍCIAS
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/66/dd/1f/66dd1ffb-35c5-6564-0390-23276ddf5516/source/512x512bb.jpg" group-title="Notícias", 24/7 Canal de Noticias (Argentina)
@@ -416,6 +416,9 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Notícias", Canal 26 (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Notícias", C5N (Argentina)
+https://ythls.onrender.com/video/ekid6Im1dOc.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1280px-CBS_News.svg.png" group-title="Notícias", CBS News (Estados Unidos)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -455,6 +458,9 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="Notícias", teleSUR (Venezuela)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1024px-TN_todo_noticias_logo.svg.png" group-title="Notícias", Todo Noticias (Argentina)
+https://ythls.onrender.com/video/HPiv1pzIPRc.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Notícias", TVE - 24 Horas (Espanha)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
