@@ -23,9 +23,6 @@ https://streaming.telered.com.ar/provincial/streaming/mystreamProvincialHSMed.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1024px-Cine.Ar_logo.svg.png" group-title="Argentina", Cine.ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina", El Nueve
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/9ca4e591-6372-4da6-8fbd-4290ce3b6ec3/5.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png" group-title="Argentina", Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
