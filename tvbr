@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/08/2023
+ATUALIZADA EM 17/08/2023
 
  
 >> EDUCATIVO
@@ -286,10 +286,10 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1385453133_b750000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="Musical", Retro Plus (Chile)
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w449754668.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="Musical", Retro Plus - Señal Dos (Chile)
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1611474223.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rewindtv.cl/wp-content/uploads/2020/06/LOGO-2022-HORIZONTAL-1.png" group-title="Musical", Rewind Televisión (Chile)
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
@@ -399,6 +399,9 @@ https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/66/dd/1f/66dd1ffb-35c5-6564-0390-23276ddf5516/source/512x512bb.jpg" group-title="Notícias", 24/7 Canal de Noticias (Argentina)
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1255371156_b1300000_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="Notícias", 24h News (São Paulo/SP)
+http://cdn.connectbr.com.br/24_news/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1024px-ABC_News_logo_2021.svg.png" group-title="Notícias", ABC News (Estados Unidos)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -464,6 +467,9 @@ https://ythls.onrender.com/video/HPiv1pzIPRc.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Notícias", TVE - 24 Horas (Espanha)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="Notícias", TVL News (Luzilândia/GO)
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Notícias", TVPE Noticias (Peru)
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
