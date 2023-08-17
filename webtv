@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/08/2023
+ATUALIZADA EM 17/08/2023
 
 
 >> WEB TV - FILMES E SÉRIES
@@ -20,6 +20,9 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="Web TV - Filmes e Séries", Chaves (Brasil)
 http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="Web TV - Filmes e Séries", Chaves - Canal 2 (Brasil)
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheF1Ugl-R1Nu_rEtqPk_AEP5V7PnMvTMsHHQcOubfiqj3dDt5xbeFgG13im3xndRDXjarp2B03zEY7JZrtH6QfiySBE2sQiwwy_AJKCranEp-ISN-MtneytInH9XkJ_HC7S79hlWAcxJTGSEXygAC6F_DFG40pIZhxlCFkzVL5WheG6RcF4EY5p-o/s16000/WhatsApp%20Image%202023-06-03%20at%2015.14.03.png" group-title="Web TV - Filmes e Séries", TV Clássicos (São Paulo/SP)
 INDISPONÍVEL
@@ -55,6 +58,12 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Web TV - Geek e Cartoon", Loading Web TV (São Paulo/SP)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Web TV - Geek e Cartoon", Peppa Pig (Brasil)
+https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZuxItLa.jpg" group-title="Web TV - Geek e Cartoon", Pica-Pau (Brasil)
+https://ythlsgo.onrender.com/video/DBmn7jwpYqg.m3u8
+
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Web TV - Geek e Cartoon", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
@@ -74,7 +83,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WgtkCkp.png" group-title="Web TV - Variadas", Caraguá TV (Caraguatatuba/SP)
-https://video01.kshost.com.br/cesar3193/cesar3193/playlist.m3u8
+https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Web TV - Variadas", Chroma TV (São Paulo/SP)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -180,6 +189,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais Fast", Novelando
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="Canais Fast", Pop Bola
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvOxt14.png" group-title="Canais Fast", Rakuten Documentários
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
