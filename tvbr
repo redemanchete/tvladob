@@ -206,6 +206,52 @@ https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 
 
+>> REGIONAIS AMÉRICA LATINA 
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Regionais América Latina", BHTV (Peru)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="Regionais América Latina", BTA TV (Venezuela)
+https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Canal_Siete_Jujuy.png" group-title="Regionais América Latina", Canal 7 Jujuy/Telefe (Argentina)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/Canal10_squ-Square.png" group-title="Regionais América Latina", Canal 10 (México)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Regionais América Latina", Canal Provincial/TeleRed (Argentina)
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL-avc1_1499968=10002.m3u8
+
+#EXTINF:-1 tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png" group-title="Regionais América Latina", Catatumbo TV (Venezuela)
+https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="Regionais América Latina", Ecotel Tv (Equador)
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="Regionais América Latina", Hechos (Equador)
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/promar-tv-logo-F5F1A86FDB-seeklogo.com.gif" group-title="Regionais América Latina", Promar TV (Venezuela)
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="Regionais América Latina", Teleislas (Colômbia)
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="Regionais América Latina", TelPin TV Pinamar (Argentina)
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TVO-2015.png" group-title="Regionais América Latina", TVO - Televisora de Oriente (Venezuela)
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+
+#EXTINF:-1 tvg-logo="https://vepaco.tv/wp-content/uploads/2022/09/logovepacotv_mediano.png" group-title="Regionais América Latina", Vepaco TV (Venezuela)
+https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="Regionais América Latina", WOW TV (El Salvador)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+
+
 >> PÚBLICOS/EDUCATIVOS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos", BraziTV/TV Cultura (EUA)
@@ -312,11 +358,35 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Públicos/Educativos", Canal Once (México)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Públicos/Educativos", CGTN Español (China)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="úblicos/Educativos", Cubavisión Internacional (Cuba)	
+LINK INVÁLIDO
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1024px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Públicos/Educativos", TVP (Argentina)
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Públicos/Educativos", Cultura 24 TV (Peru)
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Públicos/Educativos", Litus TV (Argentina)
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Públicos/Educativos", Telepacífico (Colômbia)
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Públicos/Educativos", TV Perú (Peru)
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Públicos/Educativos", TV Perú Internacional (Peru)
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Públicos/Educativos", TVes (Venezuela)
+LINK INVÁLIDO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Públicos/Educativos", Venezolana de Televisión (Venezuela)
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Públicos/Educativos", UESTV (Chile)
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
@@ -809,7 +879,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/42887ec2-a7de-47af-b491-617c3e237008/altrdtv_free_logoredux.png" group-title="Estilo de Vida", ALTRD.TV - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60bfd0907c60b7002c9765de.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 channel-id="pluto-63974ebedcd9100008c2f59c" tvg-id="63974ebedcd9100008c2f59c" tvg-chno="1229" tvg-logo="https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png" group-title="Estilo de Vida", Fashion TV - Pluto TV (México)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png" group-title="Estilo de Vida", Fashion TV - Pluto TV (México)
 https://i.mjh.nz/PlutoTV/63974ebedcd9100008c2f59c-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Estilo de Vida", INFASTV - Samsung TV Plus (Canadá)
@@ -1350,6 +1420,9 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" group-title="Infantil e Desenhos", Caillou - Samsung TV Plus (Espanha)
 https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantil e Desenhos", IPe (Peru)
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Infantil e Desenhos", Galicia TV Infantil (Galiza)
 https://infantil-crtvg.flumotion.com/playlist.m3u8
@@ -2043,6 +2116,9 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" group-title="Notícias", NBC News Now (EUA)
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" group-title="Notícias", NHK World (Japão)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Notícias", Pluto TV News (EUA)
 https://i.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
 
@@ -2313,7 +2389,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Variedades - Mundo", SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Variedades - Mundo", TDM - Teledifusão de Macau
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Variedades - Mundo", TDM (Macau)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Variedades - Mundo", TVM (Moçambique)
@@ -2327,17 +2403,11 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Variedades - Mundo", Azteca Internacional - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Canal_Siete_Jujuy.png" group-title="Variedades - Mundo", Canal 7 Jujuy/Telefe (Argentina)
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Variedades - Mundo", CGTN Español (China)
-https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Variedades - Mundo", RTP (Bolivia)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvdaldia.cl/wp-content/uploads/2022/07/chv-contigo.jpg" group-title="Variedades - Mundo", Chilevision Contigo - Pluto TV (México)
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="Variedades - Mundo", Cubavisión Internacional (Cuba)	
-LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variedades - Mundo", EstrellaTV - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5cf0622da00ca1e2f6fac712-alt.m3u8
@@ -2357,28 +2427,34 @@ https://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="Variedades - Mundo", Multivisión (Argentina)
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="Variedades - Mundo", Panamericana Televisión (Peru)
+https://cdn75.iblups.com/hls/2/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Variedades - Mundo", Telemax (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="Variedades - Mundo", TelPin TV Pinamar (Argentina)
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telemax.com.mx/wp//wp-content/uploads/2022/08/telemax-logo-white.png" group-title="Variedades - Mundo", Telemax (México)
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Variedades - Mundo", TVes (Venezuela)
-LINK INVÁLIDO
+#EXTINF:-1 tvg-logo="https://teleredtelevision.com/wp-content/uploads/2022/11/312847001_548277857303684_6907620241315278046_n.jpg" group-title="Variedades - Mundo", Telered (Costa Rica)
+https://video20.klm99.com:3558/live/teleredlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Variedades - Mundo", TV Perú Internacional (Peru)
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2017/05/TENmin.png" group-title="Variedades - Mundo", Ten TV (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Variedades - Mundo", Venezolana de Televisión (Venezuela)
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://trece.com.py/wp-content/uploads/sites/2/2022/09/trece.jpg" group-title="Variedades - Mundo", Trece (Paraguai)
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2022/03/logo-repretel.png" group-title="Variedades - Mundo", Repretel Canal 2 (Costa Rica)
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal2_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2022/03/logo-repretel.png" group-title="Variedades - Mundo", Repretel Canal 6 (Costa Rica)
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
 
 ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1000px-Arirang.svg.png" group-title="Variedades - Mundo", Arirang (Coreia do Sul)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" group-title="Variedades - Mundo", NHK World (Japão)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 
 
