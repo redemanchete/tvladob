@@ -3,90 +3,255 @@
 ATUALIZADA EM 30/08/2023
 
 
->> REGIONAIS ABERTOS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/Amazon_sat_logo_2022.svg/1200px-Amazon_sat_logo_2022.svg.png" group-title="Regionais Abertos", Amazon Sat (Manaus/AM)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+>> PÚBLICOS/EDUCATIVOS
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Regionais Abertos", AstralTV (São Paulo/SP)
-https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos", BraziTV/TV Cultura (EUA)
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Regionais Abertos", ISTV (Guarujá/SP)
-https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_do_Canal_FDR.png" group-title="Públicos/Educativos", Canal FDR/Futura (Fortaleza/CE)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w545353741.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Regionais Abertos", RBATV/Band (Belém/PA)
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/canaleducacao.jpeg" group-title="Públicos/Educativos", Canal Educação (Brasil)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Regionais Abertos", Rede Brasil (São Paulo/SP)
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="Públicos/Educativos", Canal Gov (Brasil)
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://redeamericatv.com.br/wp-content/uploads/2023/01/Logo-rede-america-tv.png" group-title="Regionais Abertos", Rede América (Pouso Alegre/MG)
-https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/canallibras-1.png" group-title="Públicos/Educativos", Canal Libras (Brasil)
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.meionorte.com/uploads/imagens/2021/10/4/veja-outras-redes-sociais-em-que-voce-pode-acompanhar-a-rede-meio-norte-3f44fdb5-e14e-4755-b08f-b791c6479879.jpg" group-title="Regionais Abertos", Rede Meio Norte (Teresina/PI)
-http://streaming.jornalmn.com.br/live/tvmn.m3u8
+#EXTINF:-1 tvg-logo="https://infovaletelecom.com.br/logo_tvs/canal_saude.png" group-title="Públicos/Educativos", Canal Saúde (Brasil)
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://redemetropole.com/wp-content/uploads/2020/08/rede-metropole.png" group-title="Regionais Abertos", Rede Metrópole/Meio Norte (Formiga/MG)
-https://acesso.ecast.site:3456/stream/play.m3u8
+#EXTINF:-1 tvg-logo="http://catve.com/portal/img/catve_hd_branca.png" group-title="Públicos/Educativos", CATVE/TV Cultura (Cascavel/PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_2_branca.png" group-title="Públicos/Educativos", CATVE 2 (Cascavel/PR)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Regionais Abertos", Rede NGT (São Paulo/SP)
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_fmu.jpg" group-title="Públicos/Educativos", FMU TV (São Paulo/SP)
+https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://catve.com/portal/img/master_hd.png" group-title="Públicos/Educativos", MasterTV/Univesp TV (Cascavel/PR)
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/36/Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png" group-title="Regionais Abertos", Rede Sul (Porto Alegre/RS)
-https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/templates/multirio2014/images/marca_multirio.png" group-title="Públicos/Educativos", MultiRio (Rio de Janeiro/RJ)
+http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos", Rede Minas (Belo Horizonte/MG)
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/RFTV_logo_2023.png" group-title="Regionais Abertos", RFTV (Campinas/SP)
-https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Públicos/Educativos", Rede UTV Brasil/TV Brasil (Descalvado/SP)
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hub.framesites.com/uploads/clients/64d3d966a1948/design-logo/xs-9ddd3d457d9e7a88d1f25b3191134b05.png" group-title="Regionais Abertos", RTN TV/TV A Crítica (São Paulo/SP)
-https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Públicos/Educativos", Sesc TV (São Paulo/SP)
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrio.png" group-title="Regionais Abertos", SBT Rio - YouTube (Rio de Janeiro/RJ)
-https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TvBrasil23.png/1024px-TvBrasil23.png" group-title="Públicos/Educativos", TV Brasil
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="Regionais Abertos", SBT RS - YouTube (Porto Alegre/RS)
-https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.abc.go.gov.br/images/LOGO/TV/TBC_MAIS.png" group-title="Públicos/Educativos", TV Brasil Central/TV Cultura (Goiânia/GO)
+https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/cabecalho-7296-20211201143202.png" group-title="Regionais Abertos", TV Alternativa/Gazeta (São Luís/MA)
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Públicos/Educativos", TV Ceará/TV Cultura (Fortaleza/CE)
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Regionais Abertos", TV Arapuan/RedeTV! (João Pessoa/PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Públicos/Educativos", TV Cultura - Pluto TV (Brasil)
+https://i.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="Regionais Abertos", TV Diário (Fortaleza/CE)
-https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Públicos/Educativos", TV Cultura Pará (Belém/PA)
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="Regionais Abertos", TV Euro News (Curitiba/PR)
-https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Públicos/Educativos", TVE (Porto Alegre/RS)
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Regionais Abertos", TV Grão Pará/Gazeta (Belém/PA)
-https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/1024px-TVE_Bahia_logo_%282022%29.svg.png" group-title="Públicos/Educativos", TVE Bahia (Salvador/BA)
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Regionais Abertos", TV Jornal/SBT (Recife/PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Regionais Abertos", TV Pampa/RedeTV! (Porto Alegre/RS)
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos", TV Santa Cecília (Santos/SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Regionais Abertos", TV Thathi (Ribeirão Preto/SP)
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Regionais Abertos", TV Tropical/Record (Natal/RN)
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="Regionais Abertos", TV Vila Real/Record (Cuiabá/MT)
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvuniaobrasilia.com.br/wp-content/uploads/2020/01/Lg_Tv_Uniao_Bsb_Canal_Neg_300px.png" group-title="Regionais Abertos", TV União (Brasília/DF)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Públicos/Educativos", TV Escola
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos", TV União (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="https://www.sejabixo.com.br/wp-content/uploads/2022/10/FAAP_ArqMarcas_FAAP-Brasa%CC%83o.png" group-title="Públicos/Educativos", TV FAAP (São Paulo/SP)
+http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="Públicos/Educativos", TV Mackenzie (São Paulo/SP)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Públicos/Educativos", TV Metrópole/Canal Educação (Caucaia/CE)
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" group-title="Públicos/Educativos", TV Nova Nordeste/TV Cultura (Olinda/PE)
+https://live.comets.com.br/tvnovanordeste/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/themes/redeparanaeducativa/images/LOGO_TVPARANATURISMO.png" group-title="Públicos/Educativos", TV Paraná Turismo/TV Brasil (Curitiba/PR)
+http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvplan.com.br/img/logo_tvplan.png" group-title="Públicos/Educativos", TV Plan/TV Brasil (Poços de Caldas/MG)
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="Públicos/Educativos", TV Sim/TV Brasil (Vitória/ES)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1518467066.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Públicos/Educativos", TV UFOP (Ouro Preto/MG)
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(jw6hRQ)t(F4BQdiW_QfE)p(d(n3g)k(6Q4)m(B00w9fwDM6j6ykvvteXjIw)n(a(rvXDI6Ml58lS9oeGGDo39vQWFyA)s(aGM)'a(0X0i3EC2KIWvQqkPKSaOa_l9)s(0qY)))s(t(Pj4)b(fnuWCQg44PTzhDlpN8ud9jiz_7jzA0rNBpTN7Ue1n-ZsySRFKOyTd0_AQry_JkSTrf7inAZHC0nnU04KzhtoRGSNBigYuv5OQq2E1S---w2svyaRzu3fXI717Ss8qYwNi5yFMKW8sEHJPiKuj6OSa-Pr0qZxbGPKT5S1m4E)'t(8XM)b(mcOIZfox-0RCjBooUsZThIkvRjNNPIUdKCM)))/720_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos", UNBTV (Brasília/DF)
+https://edge-es-01.eduplay.rnp.br/media/ocp(r(jw6hRQ)t(F4BQbLcQU4I)p(d(n3g)k(6Q4)m(OcTKHkYe6L4WV44wPr1Z9g)n(a(EJ2tyG3kbTa7zg5IWZOMzSOB4cE)s(Q_4)'a(6-28ZYyNy9t4u9Cs4cnf_kq0)s(6Jc)))s(t(OtU)b(PctS03pwZRL73KVhuoSb0e1Ma2h3Sy0Mwov1SW6sqhwoOxzcPzFNkPOLCkGieqdgouZC11r0299c1baqd4UZdasZoby0yg0qtvyQOQ0hZn4KGN9ov0q5lcvo3of42WNGSS5XDP0DrCpxVRGGbxL8IjMecDGdWIgUg2DXJ94)'t(dRo)b(fcnP6pK1tKgvfqPvE-8MaC5_yCgQ46576J4)))/720_index.m3u8
+
+#EXTINF: -1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos", UNITV/TV Cultura (Tubarão/SC)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
+
+#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Públicos/Educativos", Viva e Eduque (São Paulo/SP)
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+
+---
+
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP África (Portugal)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP Internacional (Portugal)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Variedades - Mundo", TDM (Macau)
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Variedades - Mundo", TVM (Moçambique)
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Variedades - Mundo", TVM Internacional (Moçambique)
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+
+---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Públicos/Educativos", Canal Once (México)
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Públicos/Educativos", CGTN Español (China)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="úblicos/Educativos", Cubavisión Internacional (Cuba)	
+LINK INVÁLIDO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1024px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Públicos/Educativos", TVP (Argentina)
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Públicos/Educativos", Cultura 24 TV (Peru)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Públicos/Educativos", Litus TV (Argentina)
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Públicos/Educativos", Telepacífico (Colômbia)
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Públicos/Educativos", TV Perú (Peru)
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Públicos/Educativos", TV Perú Internacional (Peru)
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Públicos/Educativos", TVes (Venezuela)
+LINK INVÁLIDO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Públicos/Educativos", Venezolana de Televisión (Venezuela)
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Públicos/Educativos", UESTV (Chile)
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_658c226857c341e9a88848c3f48d1e49~mv2.png" group-title="Públicos/Educativos", UMAGTV (Chile)
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_658c226857c341e9a88848c3f48d1e49~mv2.png" group-title="Públicos/Educativos", UMAGTV 2 (Chile)
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+
+
+
+>> REGIONAIS ABERTOS BRASIL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/Amazon_sat_logo_2022.svg/1200px-Amazon_sat_logo_2022.svg.png" group-title="Regionais Abertos Brasil", Amazon Sat (Manaus/AM)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Regionais Abertos Brasil", AstralTV (São Paulo/SP)
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Regionais Abertos Brasil", ISTV (Guarujá/SP)
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Regionais Abertos Brasil", RBATV/Band (Belém/PA)
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Regionais Abertos Brasil", Rede Brasil (São Paulo/SP)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://redeamericatv.com.br/wp-content/uploads/2023/01/Logo-rede-america-tv.png" group-title="Regionais Abertos Brasil", Rede América (Pouso Alegre/MG)
+https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.meionorte.com/uploads/imagens/2021/10/4/veja-outras-redes-sociais-em-que-voce-pode-acompanhar-a-rede-meio-norte-3f44fdb5-e14e-4755-b08f-b791c6479879.jpg" group-title="Regionais Abertos Brasil", Rede Meio Norte (Teresina/PI)
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
+
+#EXTINF:-1 tvg-logo="http://redemetropole.com/wp-content/uploads/2020/08/rede-metropole.png" group-title="Regionais Abertos Brasil", Rede Metrópole/Meio Norte (Formiga/MG)
+https://acesso.ecast.site:3456/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Regionais Abertos Brasil", Rede NGT (São Paulo/SP)
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/36/Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png" group-title="Regionais Abertos Brasil", Rede Sul (Porto Alegre/RS)
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/RFTV_logo_2023.png" group-title="Regionais Abertos Brasil", RFTV (Campinas/SP)
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hub.framesites.com/uploads/clients/64d3d966a1948/design-logo/xs-9ddd3d457d9e7a88d1f25b3191134b05.png" group-title="Regionais Abertos Brasil", RTN TV/TV A Crítica (São Paulo/SP)
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrio.png" group-title="Regionais Abertos Brasil", SBT Rio - YouTube (Rio de Janeiro/RJ)
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="Regionais Abertos Brasil", SBT RS - YouTube (Porto Alegre/RS)
+https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/cabecalho-7296-20211201143202.png" group-title="Regionais Abertos Brasil", TV Alternativa/Gazeta (São Luís/MA)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Regionais Abertos Brasil", TV Arapuan/RedeTV! (João Pessoa/PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="Regionais Abertos Brasil", TV Diário (Fortaleza/CE)
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="Regionais Abertos Brasil", TV Euro News (Curitiba/PR)
+https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Regionais Abertos Brasil", TV Grão Pará/Gazeta (Belém/PA)
+https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Regionais Abertos Brasil", TV Jornal/SBT (Recife/PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Regionais Abertos Brasil", TV Pampa/RedeTV! (Porto Alegre/RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos Brasil", TV Santa Cecília (Santos/SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Regionais Abertos Brasil", TV Thathi (Ribeirão Preto/SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Regionais Abertos Brasil", TV Tropical/Record (Natal/RN)
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="Regionais Abertos Brasil", TV Vila Real/Record (Cuiabá/MT)
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvuniaobrasilia.com.br/wp-content/uploads/2020/01/Lg_Tv_Uniao_Bsb_Canal_Neg_300px.png" group-title="Regionais Abertos Brasil", TV União (Brasília/DF)
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
 https://stmv1.samcast.com.br/josealberto9608/josealberto9608/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png" group-title="Regionais Abertos", TV União (Natal/RN)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
 INDISPONÍVEL
 
 
@@ -117,17 +282,11 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WgtkCkp.png" group-title="Regionais Fechados/Web", Caraguá TV (Caraguatatuba/SP)
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Regionais Fechados/Web", CentralTV (Curitiba/PR)
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Regionais Fechados/Web", ComBrasiltv (Brasília/DF)
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Regionais Fechados/Web", Chroma TV (São Paulo/SP)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://demaistv.com.br/assets/images/image01.png" group-title="Regionais Fechados/Web", Demais TV (São Paulo/SP)
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
 
 #EXTINF:-1 tvg-logo="https://lirp-cdn.multiscreensite.com/ec690164/dms3rep/multi/opt/logo_conectv_com_nome-1920w.png" group-title="Regionais Fechados/Web", ConecTv (Osasco/SP)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
@@ -163,7 +322,7 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w457351823.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/TVCIDADE.png" group-title="Regionais Fechados/Web", TV Cidade (Rio de Janeiro/RJ)
-https://stream.ichibantv.com/p/3827/hybrid/play.m3u8
+https://stream.ichibantv.com:3827/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="Regionais Fechados/Web", TV Cidade Canal 9 (Teresópolis/RJ)
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
@@ -172,10 +331,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m
 https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Regionais Fechados/Web", TV Diário do Sertão (Cajazeiras/PB)
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmae.png" group-title="Regionais Fechados/Web", TV Mar (Maceió/AL)
-https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="Regionais Fechados/Web", TV Master (João Pessoa/PB)
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
@@ -260,9 +419,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 >> VARIEDADES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="Variedades", Canal UOL (São Paulo/SP)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
-
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="Variedades", Canal UOL - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/64b9370b409629000802d32b-alt.m3u8
 
@@ -271,6 +427,12 @@ https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YkM3Gd4.png" group-title="Variedades", Canal Viver Brasil (Belo Horizonte/MG)
 https://ythlsgo.onrender.com/video/IG0gI8DWiQA.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Variedades", CentralTV (Curitiba/PR)
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://demaistv.com.br/assets/images/image01.png" group-title="Variedades", Demais TV (São Paulo/SP)
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XE1KtQw.png" group-title="Variedades", Elemental Channel (São Paulo/SP)
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
@@ -287,13 +449,10 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pixtv.com.br/wp-content/uploads/2022/04/pixtv.jpg" group-title="Variedades", PIXTV (Garopaba/SC)
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P0kFCD3.png" group-title="Variedades", Philly USA TV (EUA)
-https://tv02.zas.media:1936/phillyusa/phillyusa/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/SEM-FUNDO.png" group-title="Variedades", Rede QDM (Hortolândia/SP)
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/soutv.com.br/images/logo/logo_358208234.png" group-title="Variedades", Sou TV (Gravataí/RS)
+#EXTINF:-1 tvg-logo="https://spaceks.net/sites/soutv.com.br/images/logo/logo_358208234.png" group-title="Variedades", sou[tv.] (Gravataí/RS)
 https://video01.kshost.com.br/tiago4725/tiago4725/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="Variedades", TV CNB (EUA)
@@ -315,23 +474,8 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 >> VARIEDADES - MUNDO
 
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP África (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP Internacional (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Variedades - Mundo", SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Variedades - Mundo", TDM (Macau)
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Variedades - Mundo", TVM (Moçambique)
-http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Variedades - Mundo", TVM Internacional (Moçambique)
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="Variedades - Mundo", TV Portuguesa - Soul TV (Brasil)
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
@@ -403,156 +547,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 
 
 
->> PÚBLICOS/EDUCATIVOS
-
-#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos", BraziTV/TV Cultura (EUA)
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_do_Canal_FDR.png" group-title="Públicos/Educativos", Canal FDR/Futura (Fortaleza/CE)
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w545353741.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/canaleducacao.jpeg" group-title="Públicos/Educativos", Canal Educação (Brasil)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="Públicos/Educativos", Canal Gov (Brasil)
-https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/canallibras-1.png" group-title="Públicos/Educativos", Canal Libras (Brasil)
-https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://infovaletelecom.com.br/logo_tvs/canal_saude.png" group-title="Públicos/Educativos", Canal Saúde (Brasil)
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://catve.com/portal/img/catve_hd_branca.png" group-title="Públicos/Educativos", CATVE/TV Cultura (Cascavel/PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
- 
-#EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_2_branca.png" group-title="Públicos/Educativos", CATVE 2 (Cascavel/PR)
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_fmu.jpg" group-title="Públicos/Educativos", FMU TV (São Paulo/SP)
-https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://catve.com/portal/img/master_hd.png" group-title="Públicos/Educativos", MasterTV/Univesp TV (Cascavel/PR)
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/templates/multirio2014/images/marca_multirio.png" group-title="Públicos/Educativos", MultiRio (Rio de Janeiro/RJ)
-http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos", Rede Minas (Belo Horizonte/MG)
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Públicos/Educativos", Rede UTV Brasil/TV Brasil (Descalvado/SP)
-https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Públicos/Educativos", Sesc TV (São Paulo/SP)
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TvBrasil23.png/1024px-TvBrasil23.png" group-title="Públicos/Educativos", TV Brasil
-https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.abc.go.gov.br/images/LOGO/TV/TBC_MAIS.png" group-title="Públicos/Educativos", TV Brasil Central/TV Cultura (Goiânia/GO)
-https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Públicos/Educativos", TV Ceará (Fortaleza/CE)
-https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Públicos/Educativos", TV Cultura - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Públicos/Educativos", TV Cultura Pará (Belém/PA)
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Públicos/Educativos", TVE (Porto Alegre/RS)
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/1024px-TVE_Bahia_logo_%282022%29.svg.png" group-title="Públicos/Educativos", TVE Bahia (Salvador/BA)
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Públicos/Educativos", TV Escola
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://www.sejabixo.com.br/wp-content/uploads/2022/10/FAAP_ArqMarcas_FAAP-Brasa%CC%83o.png" group-title="Públicos/Educativos", TV FAAP (São Paulo/SP)
-http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w1134510553.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="Públicos/Educativos", TV Mackenzie (São Paulo/SP)
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Públicos/Educativos", TV Metrópole/Canal Educação (Caucaia/CE)
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" group-title="Públicos/Educativos", TV Nova Nordeste/TV Cultura (Olinda/PE)
-https://live.comets.com.br/tvnovanordeste/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/themes/redeparanaeducativa/images/LOGO_TVPARANATURISMO.png" group-title="Públicos/Educativos", TV Paraná Turismo/TV Brasil (Curitiba/PR)
-http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvplan.com.br/img/logo_tvplan.png" group-title="Públicos/Educativos", TV Plan/TV Brasil (Poços de Caldas/MG)
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="Públicos/Educativos", TV Sim/TV Brasil (Vitória/ES)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1518467066.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Identidade_Visual_da_TV_UFMA.png" group-title="Públicos/Educativos", TV UFMA (São Luís/MA)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Públicos/Educativos", TV UFOP (Ouro Preto/MG)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos", UNBTV (Brasília/DF)
-INDISPONÍVEL
-
-#EXTINF: -1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos", UNITV/TV Cultura (Tubarão/SC)
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
-
-#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Públicos/Educativos", Viva e Eduque (São Paulo/SP)
-https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-
----
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Públicos/Educativos", Canal Once (México)
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Públicos/Educativos", CGTN Español (China)
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="úblicos/Educativos", Cubavisión Internacional (Cuba)	
-LINK INVÁLIDO
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1024px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Públicos/Educativos", TVP (Argentina)
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Públicos/Educativos", Cultura 24 TV (Peru)
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Públicos/Educativos", Litus TV (Argentina)
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Públicos/Educativos", Telepacífico (Colômbia)
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Públicos/Educativos", TV Perú (Peru)
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Públicos/Educativos", TV Perú Internacional (Peru)
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Públicos/Educativos", TVes (Venezuela)
-LINK INVÁLIDO
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Públicos/Educativos", Venezolana de Televisión (Venezuela)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Públicos/Educativos", UESTV (Chile)
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_658c226857c341e9a88848c3f48d1e49~mv2.png" group-title="Públicos/Educativos", UMAGTV (Chile)
-https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_658c226857c341e9a88848c3f48d1e49~mv2.png" group-title="Públicos/Educativos", UMAGTV 2 (Chile)
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
-
-
-
 >> CASA E DESIGN
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Casa e Design", Ideas en 5 Minutos - Samsung TV Plus (Espanha)
@@ -608,6 +602,9 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/A_Culpa_%C3%A9_do_Cabral.png" group-title="Comédia", A Culpa é do Cabral - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Comédia", Canal da Praça - SBT (Brasil)
+https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8
@@ -1124,7 +1121,7 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?7396e59bd10d4514fc3237bcb584ca86
 
 #EXTINF:-1 tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="Estúdios de Rádio", Clube FM 99 (Patos de Minas/MG)
-https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=3544591251197230000
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdios de Rádio", Cultura FM (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
@@ -1151,7 +1148,7 @@ https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Estúdios de Rádio", Rádio Clube (Foz do Iguaçu/PR)
-https://radioclube.brasilstream.com.br/hls/radioclube/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="Estúdios de Rádio", Rádio Difusora FM (Patos de Minas/MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
@@ -1547,6 +1544,9 @@ https://i.mjh.nz/PlutoTV/62e01661a3e6270007f4ec9e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Geek e Anime", Pluto TV Geek e Tech (Brasil)
 https://i.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbCyjVv4dvkgasrNGO3J5hggwl3OHsiXSN1Hug0NgZipEnMc2uCTImuqSLkEQYcpKfBGAqR-HRv0yRBtpWtMpPEu78FIIK2IqqkCdq36-gyS2Zk76fONtEyzy9ynEJKRCexJIyrwIZmdkSMxo-r8bQ90b0RyU8guswGf3DAvR6ZqhyBpMCiERtNhUs9g/w320-h82/Logo_ST_2023.png" group-title="Geek e Anime", Polidóro TV (São Paulo/SP)
+https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/startv.png" group-title="Geek e Anime", Start (São Paulo/SP)
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
@@ -1556,14 +1556,15 @@ https://i.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Geek e Anime", Tokusato - PlutoTV (Brasil)
 https://i.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://demo.cdn.tv.br/logo/1578585497.554491.png" group-title="Geek e Anime", Yeeaah (São Paulo/SP)
-https://stmv1.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="Geek e Anime", Wording TV (Paraíso do Tocantins/TO)
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jAxYS14.png" group-title="Geek e Anime", Xtreme TV (Camaquã/RS)
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/71-713842_transparent-yugioh-logo-yu-gi-oh-the-art.png" group-title="Geek e Anime", Yu-Gi-Oh - PlutoTV (Brasil)
 https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jAxYS14.png" group-title="Geek e Anime", Xtreme TV (Camaquã/RS)
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 
 
@@ -1586,6 +1587,9 @@ https://i.mjh.nz/PlutoTV/5f4fb4cf605ddf000748e16f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1280px-Bob_esponja_logotipo.svg.png" group-title="Infantil e Desenhos", Bob Esponja Calça Quadrada - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Symbol.png" group-title="Infantil e Desenhos", Cartoon Network - site oficial (Brasil)
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png" group-title="Infantil e Desenhos", Clubinho Fun (São Paulo/SP)
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
@@ -1967,11 +1971,11 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Música", Rock TV (Romênia)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tScmQ85.png" group-title="Música", Rock TV - Virtual TV (Brasil)
-https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Música", Rock TV - Samsung TV Plus (Itália)
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8?ads.wurl_channel=1367&ads.wurl_name=RockTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tScmQ85.png" group-title="Música", Rock TV - Virtual TV (Brasil)
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20230712T021349SQUARE.png_20230712021349.png" group-title="Música", Sol Música - Samsung TV Plus (Espanha)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -2580,6 +2584,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Starskyandhutch-logo.svg/1024px-Starskyandhutch-logo.svg.png" group-title="Retrô", Starsky & Hutch - Justiça em Dobro - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="Retrô", TV Clássicos (Rio de Janeiro/RJ)
+https://live01.livemustv.com.br/tv1716/tv1716/chunklist_w294859121.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiT8rTTMZzg3GcVNjbI70g0C15xy4zH673ZMDqNn-0QaR9Kq_uISudMYjHyRI-bzQmqEX2d-IOEuZ0WrqhpYWzafkFpiCv5lEZvaSjcOaWkjSrmQNm6bwL8v2wMqiOPB0-Kv5TC7E14Gw3_fo7PR5uhbOmIBj3ikMkyEH2U1IzzdrsVBa4XqPglg5zvw/w1200-h630-p-k-no-nu/LOGO%20TV%202%20(1).png" group-title="Retrô", TV Clássicos do Cinema (Manaus/AM)
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
