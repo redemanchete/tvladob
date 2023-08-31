@@ -1589,7 +1589,7 @@ https://i.mjh.nz/PlutoTV/5f4fb4cf605ddf000748e16f-alt.m3u8
 https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Symbol.png" group-title="Infantil e Desenhos", Cartoon Network - site oficial (Brasil)
-http://cdn.connectbr.com.br/Clubinho/index.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png" group-title="Infantil e Desenhos", Clubinho Fun (São Paulo/SP)
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
