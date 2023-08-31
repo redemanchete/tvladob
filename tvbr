@@ -629,9 +629,6 @@ https://i.mjh.nz/PlutoTV/5f36f2346ede750007332d11-alt.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="Comédia", AFV Español - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lLLqfp2.png" group-title="Comédia", Chive TV (EUA)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20221109T010642SQUARE.png_20221109010642.png" group-title="Comédia", Comedia Made in Spain - Pluto TV (Espanha)
 https://i.mjh.nz/PlutoTV/5f1abce155a03d0007718834-alt.m3u8
 
@@ -892,6 +889,9 @@ https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Drew_Barrymore_Show_logo.svg/1024px-Drew_Barrymore_Show_logo.svg.png" group-title="Entretenimento", Best of The Drew Barrymore Show - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63eb9b26c111bc0008fea494-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lLLqfp2.png" group-title="Entretenimento", Chive TV (EUA)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/12/abca6e60-cbf4-4c45-80b7-e523a12dec6b/thumbnail/1200x630/a63a6b4edbf698f36a50bc9fc410f0b3/mixible-logo-1920-1080.jpg" group-title="Entretenimento", Mixible - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5dc0c78281eddb0009a02d5e-alt.m3u8
