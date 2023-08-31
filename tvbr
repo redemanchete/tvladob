@@ -1935,9 +1935,6 @@ https://i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Music (Reino Unido)
 https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Shows por Stingray (Brasil)
-https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Summer Hits (França)
 https://i.mjh.nz/PlutoTV/625e810f0035910007da288b-alt.m3u8
 
@@ -2024,6 +2021,9 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stingray-classica-logo.svg/1024px-Stingray-classica-logo.svg.png" group-title="Música", Stingray Classica - Pluto TV (França)
 https://i.mjh.nz/PlutoTV/6267dc92cc905f00087ee623-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Música", Stingray Qello Concerts - Pluto TV (Brasil)
+https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Música", Stingray Qello Concerts - Samsung TV Plus (Suíça)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ch_stingrayqello_001.m3u8?ads.caid=stingrayqello&ads.csid=samsungtvplus_ch_stingrayqello_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=CH&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=187&ads.xumo_contentName=stingray&ads.xumo_providerId=187&ads.xumo_providerName=stingray&ads.xumo_channelId=9992555&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=qelloconcertsbystingray_ch&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
