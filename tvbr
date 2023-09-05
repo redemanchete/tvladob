@@ -1,6 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 04/09/2023
+ATUALIZADA EM 05/09/2023
 
 
 
@@ -2252,6 +2252,9 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias", Bloomberg TV Brasil (EUA)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias", BM&C NEWS (São Paulo/SP)
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CpwFe-pF0J5m038ACOmU8MvY4aa-sf9-37PuaLMJ7WAGilkxed8BATegEpyM-TDTbhIayM7_tk8P-aZml7VoxgYnAItdTkW86yqLotNKfepgA2WytbywecbvK03w-Q3V2Fd4Up_Qu5795LlwF5KPQ-Jr8r-AvIdqKCNK4a6Ekye-NDpc2PalZwnpeEJd_cfORNGIqSpZYb4719rx93TryO2TWX_g0FdWYHDDKWZsnYA6V8z0tI6JvguIkGP3_9JAcHDixROW8qO3cGvDyNKEwWFqaDQCPCiLybozhYreagU6tNwRnF5mPaPi2AXD_LVb3P5j2sje6I5pHkxEhtyjYa7qFP2wv-yrp5FM4IYg43aF1Tyu5gxtElyTc2eAF2VAtUHVKw8CZ8PNsN4lK7HBXI2KjvIzgDX2p-PQz2CDbMyuesO3EEDU31-0EMNqEsdxLaVv_0y2ZgAUB3ECW-C3Ife-HsEcj9bTtiNaML_XVRUrU-8Fji_DaAMEbRC_pKGV1os9ZwpX1Lkn8lSyt3FhfVogkExwoDvPtO32bAx1tdRIfa7J_5nks8rYMXs6gCO1Aq_v3M5vekky980Qok5y3rXyTqvIK7QScgzLiPCnVYid5q0fm9cdPxa2StZWtkVimOM0tzQPB696aWdhELa6n_2q6yyGPjy62Z728jjjoiqS6rDUbmf5XF1DzSJ-HZ-OAZ7p-KtGdrzFFQ0fcF9ShicREXmfMncg2UwRq6CN5FWBwIqqI-ZObh6Jrhwpt6rXePbc-1tJHCn3g3hAdxzlEZbU-fQ4vCOvLgSHJp31g1dEBEE6d8mfeRyRdZEO3SeH7fW-L0UqFMBMjzHgvKr0xN8ZLEQSczKqe9zSLqO-7y4zQNsS4rA85gHEBW09jMkaDMMBhWCxuosRRhrSSSABKgl1cy13ZXN0LTIwuQc.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias", Canal Empreender (São Paulo/SP)
 https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
 
@@ -2628,6 +2631,9 @@ https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Pós-TV", 5-Minute Crafts - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Pós-TV", Ideas en 5 Minutos - Samsung TV Plus (Espanha)
+https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
+
 #EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Pós-TV", Bider King: TV para gatos - YouTube (EUA)
 https://ythlsgo.onrender.com/video/vu-w69B-7Qk.m3u8
 
@@ -2648,9 +2654,6 @@ https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Pós-TV", Fireplace 4K - Samsung TV Plus (Reino Unido)
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Pós-TV", Ideas en 5 Minutos - Samsung TV Plus (Espanha)
-https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 
 #EXTINF:-1 tvg-logo="https://imgur.com/u8OVYJ3.png" group-title="Pós-TV", Japan 4K - YouTube
 https://ythls.onrender.com/channel/UCZ0fkEaTm106vBdvd4PK_sA.m3u8
