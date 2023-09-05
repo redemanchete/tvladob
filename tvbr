@@ -751,7 +751,7 @@ https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="Documentários", Urban Docs (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvdocs/urbantvdocs/playlist.m3u8
+INDISPONÍVEL
 
 ---
 
@@ -935,7 +935,7 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Esporte", Urban Turbo (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvturbo/urbantvturbo/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NRdlPpn.png" group-title="Esporte", Vitrine Esportiva (Rio de Janeiro/RJ)
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
@@ -1033,7 +1033,7 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 http://cdn.connectbr.com.br/UPChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fjU0OKj.png" group-title="Estilo de Vida", Urban Travel (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvtravel/urbantvtravel/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Estilo de Vida", Viajando pelo Brasil - Soul TV (Brasil)
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
@@ -1335,7 +1335,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://i.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ce0WVu2.png" group-title="Filmes e Séries", Urban Movies (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvmovies/urbantvmovies/playlist.m3u8
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="Filmes e Séries", Urban Séries (Florianópolis/SC)
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
@@ -2609,7 +2609,7 @@ https://5ad482a77183d.streamlock.net/urbantvretro/urbantvretro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Retrô", Vintage TV (Cotia/SP)
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
-https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8
+LINK INVÁLIDO
 
 ---
 
