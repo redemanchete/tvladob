@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 28/08/2023
+ATUALIZADA EM 04/09/2023
 
 
 >> CÂMERAS AO VIVO - BRASIL
@@ -27,11 +27,11 @@ https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Ponte da Amizade
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Goiânia/GO - Av. Castelo Branco
-https://5a7d54e35f9d2.streamlock.net/avt7/avt7.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Goiânia/GO - Av. Jamel Cecílio
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Goiânia/GO - Panorâmica
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist7.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Goiânia/GO - Panorâmica / Morro do Além
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Guaratuba/PR - Praia Central
 https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/playlist.m3u8
@@ -41,9 +41,6 @@ https://vid1.streaming.websul.net.br/live/ods-imb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Passo de Torres/SC - Praia
 https://vid1.streaming.websul.net.br/live/ods-torres.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Porto Alegre/RS - Porto Guaíba
-https://ythls.onrender.com/video/JsQNYIw6VpE.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Copacabana
 https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
