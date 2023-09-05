@@ -751,7 +751,7 @@ https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="Documentários", Urban Docs (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
+https://5ad482a77183d.streamlock.net/urbantvdocs/urbantvdocs/playlist.m3u8
 
 ---
 
@@ -935,7 +935,7 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Esporte", Urban Turbo (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
+https://5ad482a77183d.streamlock.net/urbantvturbo/urbantvturbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NRdlPpn.png" group-title="Esporte", Vitrine Esportiva (Rio de Janeiro/RJ)
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
@@ -1033,7 +1033,7 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 http://cdn.connectbr.com.br/UPChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fjU0OKj.png" group-title="Estilo de Vida", Urban Travel (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.com/playlist.m3u8
+https://5ad482a77183d.streamlock.net/urbantvtravel/urbantvtravel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Estilo de Vida", Viajando pelo Brasil - Soul TV (Brasil)
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
@@ -1335,7 +1335,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://i.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ce0WVu2.png" group-title="Filmes e Séries", Urban Movies (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
+https://5ad482a77183d.streamlock.net/urbantvmovies/urbantvmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="Filmes e Séries", Urban Séries (Florianópolis/SC)
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
@@ -2253,7 +2253,7 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias", BM&C NEWS (São Paulo/SP)
-https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CpwFe-pF0J5m038ACOmU8MvY4aa-sf9-37PuaLMJ7WAGilkxed8BATegEpyM-TDTbhIayM7_tk8P-aZml7VoxgYnAItdTkW86yqLotNKfepgA2WytbywecbvK03w-Q3V2Fd4Up_Qu5795LlwF5KPQ-Jr8r-AvIdqKCNK4a6Ekye-NDpc2PalZwnpeEJd_cfORNGIqSpZYb4719rx93TryO2TWX_g0FdWYHDDKWZsnYA6V8z0tI6JvguIkGP3_9JAcHDixROW8qO3cGvDyNKEwWFqaDQCPCiLybozhYreagU6tNwRnF5mPaPi2AXD_LVb3P5j2sje6I5pHkxEhtyjYa7qFP2wv-yrp5FM4IYg43aF1Tyu5gxtElyTc2eAF2VAtUHVKw8CZ8PNsN4lK7HBXI2KjvIzgDX2p-PQz2CDbMyuesO3EEDU31-0EMNqEsdxLaVv_0y2ZgAUB3ECW-C3Ife-HsEcj9bTtiNaML_XVRUrU-8Fji_DaAMEbRC_pKGV1os9ZwpX1Lkn8lSyt3FhfVogkExwoDvPtO32bAx1tdRIfa7J_5nks8rYMXs6gCO1Aq_v3M5vekky980Qok5y3rXyTqvIK7QScgzLiPCnVYid5q0fm9cdPxa2StZWtkVimOM0tzQPB696aWdhELa6n_2q6yyGPjy62Z728jjjoiqS6rDUbmf5XF1DzSJ-HZ-OAZ7p-KtGdrzFFQ0fcF9ShicREXmfMncg2UwRq6CN5FWBwIqqI-ZObh6Jrhwpt6rXePbc-1tJHCn3g3hAdxzlEZbU-fQ4vCOvLgSHJp31g1dEBEE6d8mfeRyRdZEO3SeH7fW-L0UqFMBMjzHgvKr0xN8ZLEQSczKqe9zSLqO-7y4zQNsS4rA85gHEBW09jMkaDMMBhWCxuosRRhrSSSABKgl1cy13ZXN0LTIwuQc.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias", Canal Empreender (São Paulo/SP)
 https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
@@ -2605,11 +2605,11 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="Retrô", Urban Retro (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvretrogmail.com/urbantvretrogmail.com/playlist.m3u8
+https://5ad482a77183d.streamlock.net/urbantvretro/urbantvretro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Retrô", Vintage TV (Cotia/SP)
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w677875688.m3u8
+https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8
 
 ---
 
