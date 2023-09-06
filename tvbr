@@ -935,7 +935,7 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Esporte", Urban Turbo (Florianópolis/SC)
-INDISPONÍVEL
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NRdlPpn.png" group-title="Esporte", Vitrine Esportiva (Rio de Janeiro/RJ)
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
@@ -1033,7 +1033,7 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 http://cdn.connectbr.com.br/UPChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fjU0OKj.png" group-title="Estilo de Vida", Urban Travel (Florianópolis/SC)
-INDISPONÍVEL
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Estilo de Vida", Viajando pelo Brasil - Soul TV (Brasil)
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
@@ -2605,10 +2605,9 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="Retrô", Urban Retro (Florianópolis/SC)
-https://5ad482a77183d.streamlock.net/urbantvretro/urbantvretro/playlist.m3u8
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Retrô", Vintage TV (Cotia/SP)
-https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 LINK INVÁLIDO
 
 ---
