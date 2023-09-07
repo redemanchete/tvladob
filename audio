@@ -168,7 +168,7 @@ https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Rádio FM - Brasil", 100.5 - FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radioisfm.com.br/assets/application/img/bg-013.png" group-title="Rádio FM - Brasil", 100.7 - ISFM (Santos/SP)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio49006_1690984388.png" group-title="Rádio FM - Brasil", 100.7 - ISFM (Santos/SP)
 https://r16.ciclano.io:15043/stream
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
