@@ -364,7 +364,7 @@ http://stm11.srvaudio.com.br:10920/stream
 LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio40204_1475521599.jpg" group-title="Radcom - Brasil", The Beat FM 99.3 (São Paulo/SP)
-http://centova4.transmissaodigital.com:8384/;
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio25414_1588939573.jpg" group-title="Radcom - Brasil", Rádio Rocinha 107.3 (Rio de Janeiro/RJ)
 https://s46.maxcast.com.br:8751/live?id=164163593280
@@ -551,6 +551,9 @@ https://player-ssl.painelstream.net:8992/live
 
 #EXTINF:-1 tvg-logo="https://www.radiomotel.com/wp-content/uploads/2018/08/PNG_RADIOMOTELCOM-150x150.png" group-title="Web Rádio - Brasil", Rádio Motel (São Paulo/SP)
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
+
+#EXTINF:-1 tvg-logo="https://radionovasat.com.br/radionovalogo.png" group-title="Web Rádio - Brasil", Rádio Nova (São Paulo/SP)
+http://centova4.sua.radio.br:8336/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio59105_1510573548.jpg" group-title="Web Rádio - Brasil", Rádio Pagu (São Carlos/SP)
 https://servidor28-1.brlogic.com:8354/live
