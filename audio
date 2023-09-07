@@ -3,10 +3,14 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/08/2023
+ATUALIZADA EM 07/09/2023
 
 
 >> RÁDIO FM - BRASIL
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f1/Classic_Pan.png" group-title="Rádio FM - Brasil", 76.7 - Classic Pan (São Paulo/SP)
+https://sc1s.cdn.upx.com:8032/stream
 
 #EXTINF:-1 tvg-logo="https://capitalcomvoce.com.br/img/logo-2.png" group-title="Rádio FM - Brasil", 77.5 - Rádio Capital (São Paulo/SP)
 https://ice.fabricahost.com.br/capitalfmsp
@@ -20,9 +24,6 @@ http://cloud1.cdnseguro.com:13244/;
 #EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/logo-november-e1635793821404.png" group-title="Rádio FM - Brasil", 83.3 - Rádio Liberdade (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8655/mp3
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/61d35fedbc666.png" group-title="Rádio FM - Brasil", 84.3 - Nova Morada (São Paulo/SP)
-https://r13.ciclano.io:15219/stream
-
 #EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/files/48e91b059744c3a031cf.png" group-title="Rádio FM - Brasil", 86.3 - Rádio Bandeirantes (São Paulo/SP)
 https://24083.live.streamtheworld.com/RADIOBANDEIRANTESAAC
 
@@ -34,6 +35,9 @@ https://24253.live.streamtheworld.com/RADIO_89FMAAC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/NOVABRASIL_FM_logo_2020.png" group-title="Rádio FM - Brasil", 89.7 - NovaBrasil FM (São Paulo/SP)
 https://24383.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaa4ba6c73.png" group-title="Rádio FM - Brasil", 90.1 - RBC FM (Goiânia/GO)
+https://server01.srvsh.com.br:8578/stream
 
 #EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_jornal903recife.png" group-title="Rádio FM - Brasil", 90.3 - Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
@@ -83,7 +87,7 @@ http://radio01.logicahost.com.br:8300/stream;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="Rádio FM - Brasil", 94.3 - Atlântida (Porto Alegre/RS)
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=1741966852
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_unifm945curitiba.png" group-title="Rádio FM - Brasil", 94.5 - UNIFM (Curitiba/PR)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64dec95acf533.png" group-title="Rádio FM - Brasil", 94.5 - UNIFM (Curitiba/PR)
 http://cast62.sitehosting.com.br:8371/live?1590728088485
 
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 94.7 - Antena 1 (São Paulo/SP)
@@ -107,8 +111,8 @@ https://26583.live.streamtheworld.com/SULAMERICAAAC_SC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Logotipo_da_Band_FM.png" group-title="Rádio FM - Brasil", 96.1 - Band FM (São Paulo/SP)
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/EBC_logo_2023.svg/1280px-EBC_logo_2023.svg.png" group-title="Rádio FM - Brasil", 96.1 - Nacional FM (Brasília/DF)
-https://radio2.lflr.com.br/ebc-live/radio-nacional-fm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa0c75747.png" group-title="Rádio FM - Brasil", 96.1 - Nacional FM (Brasília/DF)
+https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png" group-title="Rádio FM - Brasil", 96.5 - Super Rádio Tupi (Rio de Janeiro/RJ)
 https://8923.brasilstream.com.br/stream?nocache=25961111
@@ -164,7 +168,7 @@ https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Rádio FM - Brasil", 100.5 - FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64755ad9803c6.png" group-title="Rádio FM - Brasil", 100.7 - 013 FM Lite Rock (Santos/SP)
+#EXTINF:-1 tvg-logo="https://www.radioisfm.com.br/assets/application/img/bg-013.png" group-title="Rádio FM - Brasil", 100.7 - ISFM (Santos/SP)
 https://r16.ciclano.io:15043/stream
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
@@ -299,8 +303,8 @@ https://shout25.crossradio.com.br:18014/1;
 #EXTINF:-1 tvg-logo="https://radiomanchete.com.br/wp-content/uploads/2022/08/radio-manchete.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Niterói/RJ)
 https://servidor13.brlogic.com:7050/live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/EBC_logo_2023.svg/1280px-EBC_logo_2023.svg.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
-https://radio2.lflr.com.br/ebc-live/radio-mec/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa57c9977.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
+https://radiomec-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bf99abc38cb4.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
 https://orelha.radiolivre.org/radiopaulofreire
@@ -317,7 +321,7 @@ https://stm10.voxhd.com.br:9702/stream//?1691552156079
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Rádio AM - Brasil", 1070 - Rádio Metropolitana (Mogi das Cruzes/SP)
 http://cloud.cdnseguro.com:8006/;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/EBC_logo_2023.svg/1280px-EBC_logo_2023.svg.pngg" group-title="Rádio AM - Brasil", 1130 - Rádio Nacional (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa0c75747.png" group-title="Rádio AM - Brasil", 1130 - Rádio Nacional (Rio de Janeiro/RJ)
 https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioterra.png" group-title="Rádio AM - Brasil", 1330 - Rádio Terra (São Paulo/SP)
