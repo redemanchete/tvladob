@@ -25,16 +25,16 @@ http://cloud1.cdnseguro.com:13244/;
 http://cast4.audiostream.com.br:8655/mp3
 
 #EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/files/48e91b059744c3a031cf.png" group-title="Rádio FM - Brasil", 86.3 - Rádio Bandeirantes (São Paulo/SP)
-https://24083.live.streamtheworld.com/RADIOBANDEIRANTESAAC
+https://stm23.xcast.com.br:11284/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a9753fd35117.png" group-title="Rádio FM - Brasil", 88.9 - Rádio Mania (Paraty/RJ)
 http://shout35.crossradio.com.br:8086/1/;
 
 #EXTINF:-1 tvg-logo="https://www.radiorock.com.br/wp-content/themes/89FM/static/img/logo89.png" group-title="Rádio FM - Brasil", 89.1 - 89 FM A Rádio Rock (São Paulo/SP)
-https://24253.live.streamtheworld.com/RADIO_89FMAAC
+https://27593.live.streamtheworld.com/RADIO_89FMAAC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/NOVABRASIL_FM_logo_2020.png" group-title="Rádio FM - Brasil", 89.7 - NovaBrasil FM (São Paulo/SP)
-https://24383.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
+https://14203.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaa4ba6c73.png" group-title="Rádio FM - Brasil", 90.1 - RBC FM (Goiânia/GO)
 https://server01.srvsh.com.br:8578/stream
@@ -43,7 +43,7 @@ https://server01.srvsh.com.br:8578/stream
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Rádio FM - Brasil", 90.5 - CBN (São Paulo/SP)
-https://26733.live.streamtheworld.com/CBN_SPAAC
+https://26573.live.streamtheworld.com/CBN_SPAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio206011_1677677215.png" group-title="Rádio FM - Brasil", 90.7 - LongPlay (Capão Bonito/SP)
 http://svrstream1.svreua.com:8214/stream?1679958490262
@@ -73,10 +73,10 @@ http://cloud1.cdnseguro.com:26492/stream
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_da_Itapema_FM.png" group-title="Rádio FM - Brasil", 93.7 - Itapema FM (Florianópolis/SC)
-https://22823.live.streamtheworld.com/ITA_FLOAAC
+https://24493.live.streamtheworld.com/ITA_FLOAAC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_uspfm937sp.png" group-title="Rádio FM - Brasil", 93.7 - Rádio USP (São Paulo/SP)
-http://flow.emm.usp.br:8007/radiousp-48.mp3
+https://flow.emm.usp.br:8008/radiousp-128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.mundolivrefm.com.br/wp-content/themes/mundolivre/img/default_ml.png" group-title="Rádio FM - Brasil", 93.9 - Mundo Livre FM (Curitiba/PR)
 https://rrdns-continental.webnow.com.br:80/mundolivre.mp3
@@ -151,7 +151,7 @@ https://r10.ciclano.io:15057/stream
 https://rrdns-megasistema.webnow.com.br/diario.aac
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s85253/images/logod.png?t=636326" group-title="Rádio FM - Brasil", 99.7 - Saudade FM (Santos/SP)
-https://26523.live.streamtheworld.com/SAUDADE_FM
+https://26643.live.streamtheworld.com/SAUDADE_FM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/JB_FM_logo.png" group-title="Rádio FM - Brasil", 99.9 - JBFM (Rio de Janeiro/RJ)
 https://26673.live.streamtheworld.com/JBFMAAC
@@ -159,8 +159,8 @@ https://26673.live.streamtheworld.com/JBFMAAC
 #EXTINF:-1 tvg-logo="https://www.upf.br/_uploads/8d2fc46a-5efc-4397-b61e-4e9f1f106812.png" group-title="Rádio FM - Brasil", 99.9 - Rádio UPF (Passo Fundo/RS)
 http://servidor38.brlogic.com:8134/live?1590771443870
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png" group-title="Rádio FM - Brasil", 100.1 - Transamérica (São Paulo/SP)	
-https://24073.live.streamtheworld.com/RT_SPAAC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png" group-title="Rádio FM - Brasil", 100.1 - Transamérica (São Paulo/SP)
+https://27033.live.streamtheworld.com/RT_SPAAC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_kboingfm1003.png" group-title="Rádio FM - Brasil", 100.3 - Kboing FM (São José do Rio Preto/SP)
 https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
