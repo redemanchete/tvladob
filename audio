@@ -273,6 +273,9 @@ https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_Educadora_FM.png" group-title="Rádio FM - Brasil", 107.5 - Educadora FM (Salvador/BA)
 https://streaming.educadora.irdeb.ba.gov.br/stream-01
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_FM_Cultura.png" group-title="Rádio FM - Brasil", 107.7 - FM Cultura (Porto Alegre/RS)
+http://streaming.procergs.com.br:1935/fmcultura/sfmcultura/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_santaceciliafm.png" group-title="Rádio FM - Brasil", 107.7 - Santa Cecília FM (Santos/SP)
 http://shout35.crossradio.com.br:14022/1
 
