@@ -1,6 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 05/09/2023
+ATUALIZADA EM 07/09/2023
 
 
 
@@ -130,8 +130,8 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Públicos/Educativos", CGTN Español (China)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/cubavision-internacional.png" group-title="úblicos/Educativos", Cubavisión Internacional (Cuba)	
-LINK INVÁLIDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cubavisi%C3%B3n_tv.jpg" group-title="Públicos/Educativos", Cubavisión Internacional (Cuba)	
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1024px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Públicos/Educativos", TVP (Argentina)
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
@@ -204,7 +204,7 @@ https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hub.framesites.com/uploads/clients/64d3d966a1948/design-logo/xs-9ddd3d457d9e7a88d1f25b3191134b05.png" group-title="Regionais Abertos Brasil", RTN TV/TV A Crítica (São Paulo/SP)
-INDISPONÍVEL
+https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrio.png" group-title="Regionais Abertos Brasil", SBT Rio - YouTube (Rio de Janeiro/RJ)
 https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
@@ -224,6 +224,9 @@ https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/in
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="Regionais Abertos Brasil", TV Euro News (Curitiba/PR)
 https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Regionais Abertos Brasil", TV Globo (São Paulo/SP)
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Regionais Abertos Brasil", TV Grão Pará/Gazeta (Belém/PA)
 https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 
@@ -232,6 +235,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Regionais Abertos Brasil", TV Pampa/RedeTV! (Porto Alegre/RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WckRWld.png" group-title="Regionais Abertos Brasil", TV Paraense/SBT (Castanhal/PA)
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos Brasil", TV Santa Cecília (Santos/SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
@@ -291,6 +297,9 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lirp-cdn.multiscreensite.com/ec690164/dms3rep/multi/opt/logo_conectv_com_nome-1920w.png" group-title="Regionais Fechados/Web", ConecTv (Osasco/SP)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="Regionais Fechados/Web", CWB TV (Curitiba/PR)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Regionais Fechados/Web", ESFLIX TV (Vitória/ES)
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
@@ -318,7 +327,7 @@ https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Regionais Fechados/Web", TV A Folha (Palmas/PR)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65NyfNQD/logo-login.gif" group-title="Regionais Fechados/Web", TV Aberta SP (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="Regionais Fechados/Web", TV Aberta SP (São Paulo/SP)
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1377853025.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Regionais Fechados/Web", TV Aracati (Aracati/CE)
@@ -333,8 +342,20 @@ https://stream.ichibantv.com:3827/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="Regionais Fechados/Web", TV Cidade Canal 9 (Teresópolis/RJ)
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvcomunitaria.rio/storage/138/config/kcQ78NuI2OHLqJKNF84Ya7YO3rS6EeFUKMgdPQSc.png" group-title="Regionais Fechados/Web", TVC-Rio (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="Regionais Fechados/Web", TV Cidade Oeste (Mossoró/RN)
+https://srv6.zcast.com.br/tvcidadeoeste/tvcidadeoeste/chunklist_w746287978.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="Regionais Fechados/Web", TV Com (Santos/SP)
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1anXdqS.png" group-title="Regionais Fechados/Web", TVC-Rio (Rio de Janeiro/RJ)
 https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://imgur.com/or8rkdG.png" group-title="Regionais Fechados/Web", TVCOM (Maceió/AL)
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="Regionais Fechados/Web", TVCOMDF (Brasília/DF)
+https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Regionais Fechados/Web", TV Diário do Sertão (Cajazeiras/PB)
 INDISPONÍVEL
@@ -354,8 +375,8 @@ https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Regionais Fechados/Web", TV Mon (Montenegro/RS)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvvnatal.jpg" group-title="Regionais Fechados/Web", TV Natal (Natal/RN)
-INDISPONÍVEL
+#EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web", TV Nordestina (Campina Grande/PB)
+https://ythlsgo.onrender.com/video/0wRhAVRIB1U.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Fechados/Web", TV Padre Cícero (Juazeiro do Norte/CE)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
@@ -2289,6 +2310,9 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logotipo_de_Chilevisi%C3%B3n_Noticias.svg/1280px-Logotipo_de_Chilevisi%C3%B3n_Noticias.svg.png" group-title="Notícias", Chilevision Noticias - Pluto TV (Espanha)
 https://i.mjh.nz/PlutoTV/627d1b936d4ded0007d7642f-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Notícias", Crónica TV (Argentina)
+https://ythlsgo.onrender.com/video/avly0uwZzOE.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png" group-title="Notícias", CNN Resumen - Samsung TV Plus (EUA)
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
