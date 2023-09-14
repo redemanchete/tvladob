@@ -3,6 +3,7 @@
 ATUALIZADA EM 14/09/2023
 
 
+
 >> PÚBLICOS/EDUCATIVOS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos", BraziTV/TV Cultura (EUA)
@@ -777,7 +778,7 @@ https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="Documentários", Urban Docs (Florianópolis/SC)
-INDISPONÍVEL
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 ---
 
