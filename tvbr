@@ -186,7 +186,7 @@ https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b10
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Regionais Abertos Brasil", ISTV (Guarujá/SP)
-https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Regionais Abertos Brasil", RBATV/Band (Belém/PA)
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
@@ -227,6 +227,9 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Regionais Abertos Brasil", TV Arapuan/RedeTV! (João Pessoa/PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvcidadeverde.nyc3.digitaloceanspaces.com/storage/webdisco/logos/7a9eb07eebb551b15089321850f06644.png" group-title="Regionais Abertos Brasil", TV Cidade Verde (Cuiabá/MT)
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1024px-TV_Di%C3%A1rio_logo.svg.png" group-title="Regionais Abertos Brasil", TV Diário (Fortaleza/CE)
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 
@@ -247,9 +250,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Regionais Abertos Brasil", TV Pampa/RedeTV! (Porto Alegre/RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/WckRWld.png" group-title="Regionais Abertos Brasil", TV Paraense/SBT (Castanhal/PA)
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos Brasil", TV Santa Cecília (Santos/SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
@@ -407,6 +407,9 @@ https://ythlsgo.onrender.com/video/0wRhAVRIB1U.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Fechados/Web", TV Padre Cícero (Juazeiro do Norte/CE)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WckRWld.png" group-title="Regionais Fechados/Web", TV Paraense (Castanhal/PA)
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title="Regionais Fechados/Web", TV Sol (Patos/PB)
 https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8
