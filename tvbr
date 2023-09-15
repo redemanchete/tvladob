@@ -1,6 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 14/09/2023
+ATUALIZADA EM 15/09/2023
+
 
 
 >> PÚBLICOS/EDUCATIVOS
@@ -42,7 +43,7 @@ http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="Públicos/Educativos", Rede UTV Brasil/TV Brasil (Descalvado/SP)
-https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Públicos/Educativos", Sesc TV (São Paulo/SP)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index1080p.m3u8
@@ -96,10 +97,10 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1518467066.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Públicos/Educativos", TV UFOP (Ouro Preto/MG)
-https://edge-sp-01.eduplay.rnp.br/media/ocp(r(jw6hRQ)t(F4BQdiW_QfE)p(d(n3g)k(6Q4)m(B00w9fwDM6j6ykvvteXjIw)n(a(rvXDI6Ml58lS9oeGGDo39vQWFyA)s(aGM)'a(0X0i3EC2KIWvQqkPKSaOa_l9)s(0qY)))s(t(Pj4)b(fnuWCQg44PTzhDlpN8ud9jiz_7jzA0rNBpTN7Ue1n-ZsySRFKOyTd0_AQry_JkSTrf7inAZHC0nnU04KzhtoRGSNBigYuv5OQq2E1S---w2svyaRzu3fXI717Ss8qYwNi5yFMKW8sEHJPiKuj6OSa-Pr0qZxbGPKT5S1m4E)'t(8XM)b(mcOIZfox-0RCjBooUsZThIkvRjNNPIUdKCM)))/720_index.m3u8
+https://edge-ms-01.eduplay.rnp.br/media/ocp(r(d3KC0Q)t(F4UlM6ipwf0)p(d(l5o)k(lwk)m(XI_TAaMWH2HXwKjDXfSapA)n(a(-E3pKCTQ4EKaIQfBECqk9-WQROA)s(fEA)'a(k21tjk2XHkpwX--5HffHup0g)s(_iU)))s(t(u5E)b(gC5wPL1fU34n3LcGA25C3BkvRusVUtqCZ4azpx8ooUX7KYnkxv3v0V24ExeeU8Uyg_rrkmb4zt5MCvNiLiDXPiLVwnwS5UYLfH-o6_ia1vFfmQWelruSZoVVdPYhlzBziF-xJUVe_cPomrLVGNn7NpkUcOP6ueXgpTh8Usw)'t(8N8)b(chObBh18DLsGzW3XCaThx--D5LV0PgoP82A)))/720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos", UNBTV (Brasília/DF)
-https://edge-es-01.eduplay.rnp.br/media/ocp(r(jw6hRQ)t(F4BQbLcQU4I)p(d(n3g)k(6Q4)m(OcTKHkYe6L4WV44wPr1Z9g)n(a(EJ2tyG3kbTa7zg5IWZOMzSOB4cE)s(Q_4)'a(6-28ZYyNy9t4u9Cs4cnf_kq0)s(6Jc)))s(t(OtU)b(PctS03pwZRL73KVhuoSb0e1Ma2h3Sy0Mwov1SW6sqhwoOxzcPzFNkPOLCkGieqdgouZC11r0299c1baqd4UZdasZoby0yg0qtvyQOQ0hZn4KGN9ov0q5lcvo3of42WNGSS5XDP0DrCpxVRGGbxL8IjMecDGdWIgUg2DXJ94)'t(dRo)b(fcnP6pK1tKgvfqPvE-8MaC5_yCgQ46576J4)))/720_index.m3u8
+https://edge-ms-01.eduplay.rnp.br/media/ocp(r(d3KC0Q)t(F4UlKuMse2E)p(d(l5o)k(lwk)m(gBmB8eIdYzvWhMuc8Ty0ag)n(a(Ra4dy8MfUUP7lfCflbFgjZoK54M)s(A4M)'a(FeWt8IRUAwzMAq5xqgwYN2sQ)s(qbw)))s(t(Q28)b(EvdpOnQ2CZKocMO_xtBJORGhGnJW4LrXuwXCagU0NDsL_MJ1iWH9pwVgfF9kq3M7xhOnIEzSthSydcRp10E2fIVJ0sM23sIz2n2chPgz69YmiCLZUzkwcI7r0BdpCa32GPIn1CcE8mgsZp5HRoJSQkrYAHOu3FjDe6cw2qs)'t(tVA)b(jtz3k-Q62TvK4csp9xWHLZtRlAZBEKB8WSo)))/720_index.m3u8
 
 #EXTINF: -1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos", UNITV/TV Cultura (Tubarão/SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
@@ -154,7 +155,7 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Públicos/Educativos", TVes (Venezuela)
-LINK INVÁLIDO
+https://ls.tves.gob.ve/hls/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Públicos/Educativos", Venezolana de Televisión (Venezuela)
 INDISPONÍVEL
@@ -178,10 +179,10 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Regionais Abertos Brasil", AstralTV (São Paulo/SP)
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="Regionais Abertos Brasil", BR8 TV - TVRO (São José do Rio Preto/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="Regionais Abertos Brasil", BR8 TV - aberto TVRO (São José do Rio Preto/SP)
 https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1013840.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Regionais Abertos Brasil", CentralTV - TVRO (Curitiba/PR)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Regionais Abertos Brasil", CentralTV - aberto TVRO (Curitiba/PR)
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Regionais Abertos Brasil", ISTV (Guarujá/SP)
@@ -235,7 +236,7 @@ https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Regionais Abertos Brasil", TV Globo (São Paulo/SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="Regionais Abertos Brasil", TV Gazin - TVRO (Palotina/PR)
+#EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="Regionais Abertos Brasil", TV Gazin - aberto TVRO (Palotina/PR)
 https://caikron.com.br:19360/canal1/canal1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Regionais Abertos Brasil", TV Grão Pará/Gazeta (Belém/PA)
@@ -274,7 +275,7 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="Regionais Abertos Brasil", TVM (Belém/PA)
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="Regionais Abertos Brasil", Vivax TV - TVRO (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="Regionais Abertos Brasil", Vivax TV - aberto TVRO (São Paulo/SP)
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 
 
@@ -1842,9 +1843,6 @@ https://i.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Biggest Pop - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Block Party - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Classic - Pluto TV (Dinamarca)
 https://i.mjh.nz/PlutoTV/6329ceeac55af500083077e3-alt.m3u8
 
@@ -1859,6 +1857,9 @@ https://i.mjh.nz/PlutoTV/6329cf28ef924b00078a9dc1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV En Vivo - Pluto TV (Espanha)
 https://i.mjh.nz/PlutoTV/6130d6f3f3f7bb0007dbd092-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Flou Latino - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Alemanha)
 https://i.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
@@ -2017,7 +2018,7 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rewindtv.cl/wp-content/uploads/2020/06/LOGO-2022-HORIZONTAL-1.png" group-title="Música", Rewind Televisión (Chile)
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Música", Rock TV (Romênia)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
