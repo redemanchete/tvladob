@@ -3,7 +3,6 @@
 ATUALIZADA EM 14/09/2023
 
 
-
 >> PÚBLICOS/EDUCATIVOS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos", BraziTV/TV Cultura (EUA)
@@ -47,6 +46,9 @@ https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual0
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Públicos/Educativos", Sesc TV (São Paulo/SP)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index1080p.m3u8
+
+#EXTINF: -1 tvg-logo="https://imgur.com/2LFfC8B.png" group-title="Públicos/Educativos", TV Aldeia (Rio Branco/AC)
+https://stmv1.samcast.com.br/giovane7843/giovane7843/chunklist_w505858583.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TvBrasil23.png/1024px-TvBrasil23.png" group-title="Públicos/Educativos", TV Brasil
 https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
@@ -269,6 +271,9 @@ https://stmv1.samcast.com.br/josealberto9608/josealberto9608/playlist.m3u8
 #EXTINF:-1 tag-logo="https://static.wixstatic.com/media/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
 INDISPONÍVEL
 
+#EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="Regionais Abertos Brasil", TVM (Belém/PA)
+https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="Regionais Abertos Brasil", Vivax TV - TVRO (São Paulo/SP)
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 
@@ -309,6 +314,9 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="Regionais Fechados/Web", CWB TV (Curitiba/PR)
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="Regionais Fechados/Web", Diário TV (Teresópolis/RJ)
+https://ythls.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Regionais Fechados/Web", ESFLIX TV (Vitória/ES)
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
@@ -327,6 +335,9 @@ https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regionais Fechados/Web", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="Regionais Fechados/Web", Studio TV (Veranópolis/RS)
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regionais Fechados/Web", TCM 10 (Mossoró/RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
@@ -339,8 +350,14 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="Regionais Fechados/Web", TV Aberta SP (São Paulo/SP)
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1377853025.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/4ag7oxK.png" group-title="Regionais Fechados/Web", TV Aplateia (Santana do Livramento/RS)
+https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Regionais Fechados/Web", TV Aracati (Aracati/CE)
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="Regionais Fechados/Web", TV Brusque (Brusque/SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8200/cabecalho-8200-20201104212340.png" group-title="Regionais Fechados/Web", TV Capital (Teresina/PI)
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w457351823.m3u8
@@ -634,7 +651,7 @@ https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Comédia", Canal da Praça - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telesintese.com.br/wp-content/uploads/2022/12/Samsung-TV-Plus-app.jpg" group-title="Comédia", Comédia Brasil - Samsung TV Plus
+#EXTINF:-1 tvg-logo="https://imgur.com/uflSiKs.png" group-title="Comédia", Comédia Brasil - Samsung TV Plus
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central - Pluto TV (Brasil)
