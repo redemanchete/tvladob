@@ -274,7 +274,7 @@ https://stream-cdn.uniaoplus.com/l8SnNK6SEB/cef3db0e459d981c982e7021567052f2.sdp
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
 https://stmv1.samcast.com.br/josealberto9608/josealberto9608/playlist.m3u8
 
-#EXTINF:-1 tag-logo="https://static.wixstatic.com/media/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
+#EXTINF:-1 tag-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Rio Branco/AC)
@@ -1758,7 +1758,7 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="Infantil e Desenhos", Pakapaka (Argentina)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/zaz/thumbh_20220411_193252.png" group-title="Infantil e Desenhos", Faz TV - DistroTV (México)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/zaz/thumbh_20220411_193252.png" group-title="Infantil e Desenhos", Zaz TV - DistroTV (México)
 https://stream-us-east-1.getpublica.com/cl/230918ck4ai38v7e97qfba7ep0/654x480_2762351_2_f.m3u8?i=513_2369
 
 ---
