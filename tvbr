@@ -274,7 +274,7 @@ https://stream-cdn.uniaoplus.com/l8SnNK6SEB/cef3db0e459d981c982e7021567052f2.sdp
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
 https://stmv1.samcast.com.br/josealberto9608/josealberto9608/playlist.m3u8
 
-#EXTINF:-1 tag-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
+#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Rio Branco/AC)
