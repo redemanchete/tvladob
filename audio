@@ -603,7 +603,7 @@ http://hts01.kshost.com.br:8428/;
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio167865_1606821927.png" group-title="Web Rádio - Brasil", Smoothjazz Brasil (Campinas/SP)
 http://ingest4sc.cdn.upx.com:8176/stream?1679958990718
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Música", Web Rádio Guetto SP (Embu das Artes/SP)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Web Rádio - Brasil", Web Rádio Guetto SP (Embu das Artes/SP)
 https://stm20.xcast.com.br:12882/;
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio198665_1649959067.jpg" group-title="Web Rádio - Brasil", Web Vintage Brasil (Cotia/SP)
