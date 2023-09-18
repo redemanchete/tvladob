@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 14/09/2023
+ATUALIZADA EM 18/09/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -54,7 +54,7 @@ https://radio.saopaulo01.com.br:10971/;
 #EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/Cidreira-FM-1-260x69.png" group-title="Rádio FM - Brasil", 91.3 - Cidreira FM (Cidreira/RS)
 http://cast4.audiostream.com.br:8657/mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/26/Logotipo_da_R%C3%A1dio_Disney_Brasil.png" group-title="Rádio FM - Brasil", 91.3 - Rádio Disney (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64ffcd3d16543.png" group-title="Rádio FM - Brasil", 91.3 - Rádio Disney (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3?dist=web-radiodisney-disneylatino
 
 #EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 91.7 - Catve FM (Cascavel/PR)
@@ -74,6 +74,9 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w63
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_da_Itapema_FM.png" group-title="Rádio FM - Brasil", 93.7 - Itapema FM (Florianópolis/SC)
 https://24493.live.streamtheworld.com/ITA_FLOAAC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/R%C3%A1dio_Ga%C3%BAcha_logo.png" group-title="Rádio FM - Brasil", 93.7 - Rádio Gaúcha (Porto Alegre/RS)
+https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_uspfm937sp.png" group-title="Rádio FM - Brasil", 93.7 - Rádio USP (São Paulo/SP)
 https://flow.emm.usp.br:8008/radiousp-128.mp3
@@ -102,11 +105,14 @@ https://24383.live.streamtheworld.com/NATIVA_SPAAC
 #EXTINF:-1 tvg-logo="http://radiomorada.com.br/moradalitoral/wp-content/uploads/2018/12/Logo_Morada_White.png" group-title="Rádio FM - Brasil", 95.5 - Morada FM (São Sebastião/SP)
 https://painelstream.net/player-ssl/rvn01/8080
 
+#EXTINF:-1 tvg-logo="https://sulamericaparadiso.com.br/assets/img/logo_horizontal_colorida.png" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
+https://26583.live.streamtheworld.com/SULAMERICAAAC_SC
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A1dio_Itatiaia_logo_2022.svg/1024px-R%C3%A1dio_Itatiaia_logo_2022.svg.png" group-title="Rádio FM - Brasil", 95.7 - Rádio Itatiaia (Belo Horizonte/MG)
+https://8903.brasilstream.com.br/stream
+
 #EXTINF:0 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/283/ec0be76e6415e85b6facbcaf009b8009.png" group-title="Rádio FM - Brasil", 95.7 - Rádio Vibe Mundial (Jundiaí/SP)
 https://servidor13.brlogic.com:7262/live
-
-#EXTINF:-1 tvg-logo="https://sulamericaparadiso.com.br/player/assets/img/logo-player-disco.jpg" group-title="Rádio FM - Brasil", 95.7 - SulAmérica Paradiso (Rio de Janeiro/RJ)
-https://26583.live.streamtheworld.com/SULAMERICAAAC_SC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Logotipo_da_Band_FM.png" group-title="Rádio FM - Brasil", 96.1 - Band FM (São Paulo/SP)
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
@@ -125,6 +131,9 @@ https://ice.fabricahost.com.br/difusorathathi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png" group-title="Rádio FM - Brasil", 97.7 - Energia 97 FM (São Paulo/SP)
 https://audio.97fm.com.br/energia
+
+#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Rádio FM - Brasil", 97.7 - Rádio Encontro das Águas (Manaus/AM)
+https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11579_1617107168.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
 https://8817.brasilstream.com.br/stream
@@ -249,6 +258,9 @@ http://148.72.158.239:8010/live
 #EXTINF:-1 tvg-logo="https://www.uniaofm.com.br/wp-content/themes/radiouniaotheme/images/logo-radio-uniao.png" group-title="Rádio FM - Brasil", 105.3 - União FM (Novo Hamburgo/RS)
 https://stream.ouveai.com.br/proxy/uniaonh?mp=/stream
 
+#EXTINF:-1 tvg-logo="https://clube.fm/brasilia/wp-content/uploads/sites/2/2019/11/logo-clube-brasilia.png" group-title="Rádio FM - Brasil", 105.5 - Clube FM (Brasília/DF)
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14751_1505473106.jpg" group-title="Rádio FM - Brasil", 105.5 - Rádio Tabajara (João Pessoa/PB)
 https://ssl.hdradios.net:7844/stream
 
@@ -265,7 +277,7 @@ https://26643.live.streamtheworld.com/MIXFM_SAOPAULOAAC
 https://play.radio.br:8089/UCS/FMCaxias/icecast.audio
 
 #EXTINF:-1 tvg-logo="http://www.radiofavelafm.com.br/imagens/logo_aut.png" group-title="Rádio FM - Brasil", 106.7 - Autêntica Favela FM (Belo Horizonte/MG)
-INDISPONÍVEL
+https://s30.maxcast.com.br:8114/live
 
 #EXTINF:-1 tvg-logo="http://www.universidadefm.ufma.br/wp-content/uploads/2021/07/TEASER-04_1_CARD-Copia.png" group-title="Rádio FM - Brasil", 106.9 - Universidade FM (São Luís/MA)
 https://s26.maxcast.com.br:8280/live
@@ -591,7 +603,10 @@ http://hts01.kshost.com.br:8428/;
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio167865_1606821927.png" group-title="Web Rádio - Brasil", Smoothjazz Brasil (Campinas/SP)
 http://ingest4sc.cdn.upx.com:8176/stream?1679958990718
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio198665_1649959067.jpg" group-title="Web Rádio - Brasil", Vintage Brasil (Cotia/SP)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Música", Web Rádio Guetto SP (Embu das Artes/SP)
+https://stm20.xcast.com.br:12882/;
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio198665_1649959067.jpg" group-title="Web Rádio - Brasil", Web Vintage Brasil (Cotia/SP)
 http://hts05.kshost.com.br:11668/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio198308_1648809034.jpg" group-title="Web Rádio - Brasil", Web Vintage 70 (Cotia/SP)
