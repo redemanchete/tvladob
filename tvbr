@@ -1,7 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 15/09/2023
-
+ATUALIZADA EM 18/09/2023
 
 
 >> PÚBLICOS/EDUCATIVOS
@@ -71,6 +70,9 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/1024px-TVE_Bahia_logo_%282022%29.svg.png" group-title="Públicos/Educativos", TVE Bahia (Salvador/BA)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Públicos/Educativos", TV Encontro das Águas/TV Brasil (Manaus/AM)
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Públicos/Educativos", TV Escola
 INDISPONÍVEL
@@ -248,6 +250,9 @@ https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Regionais Abertos Brasil", TV Jornal/SBT (Recife/PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Abertos Brasil", TV Padre Cícero - aberto TVRO (Juazeiro do Norte/CE)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Regionais Abertos Brasil", TV Pampa/RedeTV! (Porto Alegre/RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
@@ -264,13 +269,16 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvuniaobrasilia.com.br/wp-content/uploads/2020/01/Lg_Tv_Uniao_Bsb_Canal_Neg_300px.png" group-title="Regionais Abertos Brasil", TV União (Brasília/DF)
-INDISPONÍVEL
+https://stream-cdn.uniaoplus.com/l8SnNK6SEB/cef3db0e459d981c982e7021567052f2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
 https://stmv1.samcast.com.br/josealberto9608/josealberto9608/playlist.m3u8
 
 #EXTINF:-1 tag-logo="https://static.wixstatic.com/media/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
-INDISPONÍVEL
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Rio Branco/AC)
+https://stream-cdn.uniaoplus.com/j47fsfH8PB/a228b840d301c58a90271cbbdbfdb5cd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="Regionais Abertos Brasil", TVM (Belém/PA)
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
@@ -404,9 +412,6 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web", TV Nordestina (Campina Grande/PB)
 https://ythlsgo.onrender.com/video/0wRhAVRIB1U.m3u8
-
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Fechados/Web", TV Padre Cícero (Juazeiro do Norte/CE)
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WckRWld.png" group-title="Regionais Fechados/Web", TV Paraense (Castanhal/PA)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
@@ -1170,7 +1175,7 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?7396e59bd10d4514fc3237bcb584ca86
 
 #EXTINF:-1 tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="Estúdios de Rádio", Clube FM 99 (Patos de Minas/MG)
-INDISPONÍVEL
+https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdios de Rádio", Cultura FM (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
@@ -1197,10 +1202,13 @@ https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Estúdios de Rádio", Rádio Clube (Foz do Iguaçu/PR)
-INDISPONÍVEL
+https://radioclube.brasilstream.com.br/hls/radioclube/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="Estúdios de Rádio", Rádio Difusora FM (Patos de Minas/MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
+
+#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Estúdios de Rádio", Rádio Encontro das Águas (Manaus/AM)
+https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_jornal903recife.png" group-title="Estúdios de Rádio", Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
@@ -1807,6 +1815,9 @@ https://i.mjh.nz/PlutoTV/600ad8f86e1eba00081da3ce-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Música", CMC - California Music Channel (EUA)
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Música", Deluxe Music (Alemanha)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6507f2f64024b_13018905_2309180649_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500413A_20220323T073637SQUARE.png_20220323073639.png" group-title="Música", Deluxe Lounge HD - Samsung TV Plus (Alemanha)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
@@ -1969,8 +1980,14 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" group-title="Música", Now 80s - Samsung TV Plus (Reino Unido)
 https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C3%93%C4%8Dko_Expres_logo.png" group-title="Música", Ocko Express (República Tcheca)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png" group-title="Música", Ocko Star (República Tcheca)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png" group-title="Música", Ocko TV (República Tcheca)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/b9dzDiD.png" group-title="Música", Otto FM TV (Itália)
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
@@ -2080,11 +2097,20 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stingray-classica-logo.svg/1024px-Stingray-classica-logo.svg.png" group-title="Música", Stingray Classica - Pluto TV (França)
 https://i.mjh.nz/PlutoTV/6267dc92cc905f00087ee623-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Música", Pulse TV (Estados Unidos)
+https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Música", Stingray Qello Concerts - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Música", Stingray Qello Concerts - Samsung TV Plus (Suíça)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ch_stingrayqello_001.m3u8?ads.caid=stingrayqello&ads.csid=samsungtvplus_ch_stingrayqello_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=CH&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=187&ads.xumo_contentName=stingray&ads.xumo_providerId=187&ads.xumo_providerName=stingray&ads.xumo_channelId=9992555&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=qelloconcertsbystingray_ch&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/real-music/logo_20220801_203358_68.png" group-title="Música", Real Music TV (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/fcf6cce0-a8be-4a1b-b593-6aae5f65765c/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png" group-title="Música", Sonus FM (Alemanha)
+https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cxUae8h.png" group-title="Música", Super Classics TV (Argentina)
 https://stmv1.cnarlatam.com/megaclassics/megaclassics//chunklist_w723619.m3u8
@@ -2094,6 +2120,18 @@ https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/cropped-Telemusicax512.png" group-title="Música", TELEMUSICA Tv (Colômbia)
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio - YouTube (Alemanha)
+https://ythlsgo.onrender.com/video/36YnV9STBqc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio: Chillout Lounge - YouTube (Alemanha)
+https://ythlsgo.onrender.com/video/9UMxZofMNbA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio: Chillout Music Mix - YouTube (Alemanha)
+https://ythlsgo.onrender.com/video/m52ynxt1mOo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio: Deep House Radio - YouTube (Alemanha)
+https://ythlsgo.onrender.com/video/19hKXI1ENrY.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="Música", The Retro Channel (Porto Rico)
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
@@ -2271,6 +2309,9 @@ https://i.mjh.nz/PlutoTV/626180ec537f210007e94b52-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="Música", Vivaldi - Samsung TV Plus (Espanha)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Música", Web TV Guetto SP (Embu das Artes/SP)
+https://srv1.zcast.com.br/cristiano1178/cristiano1178/chunklist_w1683033015.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20220525T021952SQUARE.png_20220525021952.png" group-title="Música", XITE 80s Flashback - Samsung TV Plus (EUA)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -2699,6 +2740,36 @@ https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftss
 #EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Pós-TV", Bider King: TV para gatos - YouTube (EUA)
 https://ythlsgo.onrender.com/video/vu-w69B-7Qk.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/thumbh_20220510_225206.jpg" group-title="Pós-TV", DistroTV: Autumn Escape (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/c85ba53d-d31e-4da0-afc4-eeccc64f9801/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/thumbh_20220608_205112.png" group-title="Pós-TV", DistroTV: Fireplace Lounge (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/b86670cc-5de5-408f-a01a-70106f33062e/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/thumbh_20220608_205303.png" group-title="Pós-TV", DistroTV: Island Escape (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/4a0cd934-a4c7-4d43-9712-89aaf82f7745/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/thumbh_20210330_005021.jpg" group-title="Pós-TV", DistroTV: Quietude 4K (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/d8fca1b2-9679-4c21-bc69-96f3317d179a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/thumbh_20220608_205345.png" group-title="Pós-TV", DistroTV: Relaxing Rain (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/105ea9b8-fcd2-478f-985b-bae3910e984a/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/thumbh_20220510_231303.jpg" group-title="Pós-TV", DistroTV: Relaxing Winterscapes (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/153e7505-d353-442b-add5-5c0fdde3415d/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/thumbh_20230706_042628.png" group-title="Pós-TV", DistroTV: SoniCentric (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/5b10731c-cf01-4ca8-8005-0b709ad4edd2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/thumbh_20220510_231806.jpg" group-title="Pós-TV", DistroTV: Spring Escape (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/a05c5979-d2a3-4fc7-a09c-afce2ad63c2f/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/thumbh_20220510_232149.jpg" group-title="Pós-TV", DistroTV: Study Lounge (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/f27de4bf-7da8-4254-aea3-4213f0db80f8/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/thumbh_20220608_205521.png" group-title="Pós-TV", DistroTV: Tranquil Thunderstorms (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/7bb60af6-8cd7-488b-b69e-8aeee8a12783/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Animais Selvagens da África - YouTube (EUA)
 https://ythlsgo.onrender.com/video/83iuZBEVVYs.m3u8
 
@@ -2717,6 +2788,9 @@ https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Pós-TV", Fireplace 4K - Samsung TV Plus (Reino Unido)
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/thumbh_20220608_205210.png" group-title="Pós-TV", Fish Tank - DistroTV (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/f491127a-a4bd-41f4-87e8-91bd87382c42/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/u8OVYJ3.png" group-title="Pós-TV", Japan 4K - YouTube
 https://ythls.onrender.com/channel/UCZ0fkEaTm106vBdvd4PK_sA.m3u8
 
@@ -2728,6 +2802,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="Pós-TV", Natural Wonders - YouTube (Estados Unidos)
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20201029_014047_68.png" group-title="Pós-TV", Screendreams by Invincible (Estados Unidos)
+https://stream-us-east-1.getpublica.com/cl/230918ck49t06ptu7cme8t1g0g/1280x720_2862226_0_f.m3u8?i=513_5301
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" group-title="Pós-TV", Stingray Naturescape - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8
