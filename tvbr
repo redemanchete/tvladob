@@ -1111,6 +1111,9 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Estilo de Vida", INFASTV - LG Channels (Espanha)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-lges/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/logo_20220517_183911_68.png" group-title="Estilo de Vida", Life Style by Triptic - DistroTV (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/c76233ca-2cb1-41ab-95b6-abaff44c14e6/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida", Pluto TV Viajes (Espanha)
 https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
 
@@ -1122,6 +1125,9 @@ https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-tel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Viajar_Tv_logo.svg/1280px-Viajar_Tv_logo.svg.png" group-title="Estilo de Vida", Viajar TV (Argentina)
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/thumbh_20220106_211625.png" group-title="Estilo de Vida", WappTV - DistroTV (Chile)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/43be1baf-b48a-40ac-b714-a01fe55df597/2.m3u8
 
 ---
 
@@ -1540,6 +1546,9 @@ https://d1umqk43psclrr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200006AL_20230222T042938SQUARE.png_20230222042939.png" group-title="Gastronomia", Bon Appétit - Samsung TV Plus (EUA)
 https://d2oaqmizhqjqau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4wdain833nzhm/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/FOOD2-logo.png" group-title="Gastronomia", Food Food - DistroTV (Índia)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/a9b5852c-cee4-4d21-88d9-e30fc14261e8/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500021YQ_20230208T101253SQUARE.png_20230208101254.png" group-title="Gastronomia", Gusto TV - Samsung TV Plus (Canadá)
 https://d16mfeqqufiw9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw0q246thq1dh-ssai-prd/amggustotv/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -1748,6 +1757,9 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="Infantil e Desenhos", Pakapaka (Argentina)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/zaz/thumbh_20220411_193252.png" group-title="Infantil e Desenhos", Faz TV - DistroTV (México)
+https://stream-us-east-1.getpublica.com/cl/230918ck4ai38v7e97qfba7ep0/654x480_2762351_2_f.m3u8?i=513_2369
 
 ---
 
@@ -2741,37 +2753,37 @@ https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftss
 https://ythlsgo.onrender.com/video/vu-w69B-7Qk.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/thumbh_20220510_225206.jpg" group-title="Pós-TV", DistroTV: Autumn Escape (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/c85ba53d-d31e-4da0-afc4-eeccc64f9801/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/27125bce-4d64-48c2-a87a-7983e7c87229/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/thumbh_20220608_205112.png" group-title="Pós-TV", DistroTV: Fireplace Lounge (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/b86670cc-5de5-408f-a01a-70106f33062e/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/a76d9679-854a-40d9-b31f-58b6986cf1e3/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/thumbh_20220608_205210.png" group-title="Pós-TV", DistroTV: Fish Tank(Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/f491127a-a4bd-41f4-87e8-91bd87382c42/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/thumbh_20220608_205210.png" group-title="Pós-TV", DistroTV: Fish Tank (Estados Unidos)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ff67b0d9-40eb-4392-9f4a-088c5d2b232b/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/thumbh_20220608_205303.png" group-title="Pós-TV", DistroTV: Island Escape (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/4a0cd934-a4c7-4d43-9712-89aaf82f7745/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/5e4cefc3-2ff8-4ac5-b610-09e4dff588bf/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/thumbh_20210330_005021.jpg" group-title="Pós-TV", DistroTV: Quietude 4K (Estados Unidos)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/ba9cc5a5-764e-41e9-bc4c-e7f256ae21e6/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/thumbh_20220608_205345.png" group-title="Pós-TV", DistroTV: Relaxing Rain (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/105ea9b8-fcd2-478f-985b-bae3910e984a/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/4b13d488-80ea-4d6b-909f-9fb5bcd5d5d5/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/thumbh_20220510_231303.jpg" group-title="Pós-TV", DistroTV: Relaxing Winterscapes (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/153e7505-d353-442b-add5-5c0fdde3415d/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/ee9f90ee-68eb-4eb8-bf34-142f8e4ac23e/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/thumbh_20230706_042628.png" group-title="Pós-TV", DistroTV: SoniCentric (Estados Unidos)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/41e13d72-f6e2-4d1c-b999-15ef0d08788a/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/thumbh_20220510_231806.jpg" group-title="Pós-TV", DistroTV: Spring Escape (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/a05c5979-d2a3-4fc7-a09c-afce2ad63c2f/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/9018ac3e-b487-4fa6-a4a5-1a8953925d64/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/thumbh_20220510_232149.jpg" group-title="Pós-TV", DistroTV: Study Lounge (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/f27de4bf-7da8-4254-aea3-4213f0db80f8/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/747abffc-031d-402d-af69-b3e1c780ed04/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/thumbh_20220608_205521.png" group-title="Pós-TV", DistroTV: Tranquil Thunderstorms (Estados Unidos)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/7bb60af6-8cd7-488b-b69e-8aeee8a12783/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/f82ff492-1411-4ec7-a2e3-592802a7743e/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Animais Selvagens da África - YouTube (EUA)
 https://ythlsgo.onrender.com/video/83iuZBEVVYs.m3u8
