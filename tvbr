@@ -2773,41 +2773,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Pós-TV", Ideas en 5 Minutos - Samsung TV Plus (Espanha)
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 
-#EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Pós-TV", Bider King: TV para gatos - YouTube (EUA)
-https://ythlsgo.onrender.com/video/vu-w69B-7Qk.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/thumbh_20220510_225206.jpg" group-title="Pós-TV", DistroTV: Autumn Escape (EUA)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/thumbh_20220510_225206.jpg" group-title="Pós-TV", Autumn Escape - DistroTV (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/27125bce-4d64-48c2-a87a-7983e7c87229/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/thumbh_20220608_205112.png" group-title="Pós-TV", DistroTV: Fireplace Lounge (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/a76d9679-854a-40d9-b31f-58b6986cf1e3/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/thumbh_20220608_205210.png" group-title="Pós-TV", DistroTV: Fish Tank (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ff67b0d9-40eb-4392-9f4a-088c5d2b232b/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/thumbh_20220608_205303.png" group-title="Pós-TV", DistroTV: Island Escape (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/5e4cefc3-2ff8-4ac5-b610-09e4dff588bf/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/thumbh_20210330_005021.jpg" group-title="Pós-TV", DistroTV: Quietude 4K (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/ba9cc5a5-764e-41e9-bc4c-e7f256ae21e6/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/thumbh_20220608_205345.png" group-title="Pós-TV", DistroTV: Relaxing Rain (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/4b13d488-80ea-4d6b-909f-9fb5bcd5d5d5/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/thumbh_20220510_231303.jpg" group-title="Pós-TV", DistroTV: Relaxing Winterscapes (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/ee9f90ee-68eb-4eb8-bf34-142f8e4ac23e/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/thumbh_20230706_042628.png" group-title="Pós-TV", DistroTV: SoniCentric (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/41e13d72-f6e2-4d1c-b999-15ef0d08788a/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/thumbh_20220510_231806.jpg" group-title="Pós-TV", DistroTV: Spring Escape (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/9018ac3e-b487-4fa6-a4a5-1a8953925d64/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/thumbh_20220510_232149.jpg" group-title="Pós-TV", DistroTV: Study Lounge (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/747abffc-031d-402d-af69-b3e1c780ed04/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/thumbh_20220608_205521.png" group-title="Pós-TV", DistroTV: Tranquil Thunderstorms (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/f82ff492-1411-4ec7-a2e3-592802a7743e/2.m3u8
+#EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Pós-TV", Bider King: TV para gatos - YouTube (EUA)
+https://ythlsgo.onrender.com/video/vu-w69B-7Qk.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Animais Selvagens da África - YouTube (EUA)
 https://ythlsgo.onrender.com/video/83iuZBEVVYs.m3u8
@@ -2827,6 +2797,15 @@ https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Pós-TV", Fireplace 4K - Samsung TV Plus (Reino Unido)
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/thumbh_20220608_205112.png" group-title="Pós-TV", Fireplace Lounge - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/a76d9679-854a-40d9-b31f-58b6986cf1e3/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/thumbh_20220608_205210.png" group-title="Pós-TV", Fish Tank - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ff67b0d9-40eb-4392-9f4a-088c5d2b232b/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/thumbh_20220608_205303.png" group-title="Pós-TV", Island Escape - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/5e4cefc3-2ff8-4ac5-b610-09e4dff588bf/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/u8OVYJ3.png" group-title="Pós-TV", Japan 4K - YouTube
 https://ythls.onrender.com/channel/UCZ0fkEaTm106vBdvd4PK_sA.m3u8
 
@@ -2839,11 +2818,32 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="Pós-TV", Natural Wonders - YouTube (EUA)
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20201029_014047_68.png" group-title="Pós-TV", Screendreams by Invincible (EUA)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/thumbh_20210330_005021.jpg" group-title="Pós-TV", Quietude 4K - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/ba9cc5a5-764e-41e9-bc4c-e7f256ae21e6/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/thumbh_20220608_205345.png" group-title="Pós-TV", Relaxing Rain - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/4b13d488-80ea-4d6b-909f-9fb5bcd5d5d5/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/thumbh_20220510_231303.jpg" group-title="Pós-TV", Relaxing Winterscapes - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/ee9f90ee-68eb-4eb8-bf34-142f8e4ac23e/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/thumbh_20230706_042628.png" group-title="Pós-TV", SoniCentric - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/41e13d72-f6e2-4d1c-b999-15ef0d08788a/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20201029_014047_68.png" group-title="Pós-TV", Screendreams by Invincible - DistroTV (EUA)
 https://stream-us-east-1.getpublica.com/cl/230918ck49t06ptu7cme8t1g0g/1280x720_2862226_0_f.m3u8?i=513_5301
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/thumbh_20220510_231806.jpg" group-title="Pós-TV", Spring Escape - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/9018ac3e-b487-4fa6-a4a5-1a8953925d64/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" group-title="Pós-TV", Stingray Naturescape - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" group-title="Pós-TV", Stingray Naturescape - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/thumbh_20220510_232149.jpg" group-title="Pós-TV", Study Lounge - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/747abffc-031d-402d-af69-b3e1c780ed04/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/thumbh_20220608_205521.png" group-title="Pós-TV", Tranquil Thunderstorms - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/f82ff492-1411-4ec7-a2e3-592802a7743e/2.m3u8
