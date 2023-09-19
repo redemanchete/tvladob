@@ -47,7 +47,7 @@ https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Públicos/Educativos", Sesc TV (São Paulo/SP)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index1080p.m3u8
 
-#EXTINF: -1 tvg-logo="https://imgur.com/2LFfC8B.png" group-title="Públicos/Educativos", TV Aldeia (Rio Branco/AC)
+#EXTINF:-1 tvg-logo="https://imgur.com/2LFfC8B.png" group-title="Públicos/Educativos", TV Aldeia (Rio Branco/AC)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/chunklist_w505858583.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TvBrasil23.png/1024px-TvBrasil23.png" group-title="Públicos/Educativos", TV Brasil
@@ -104,10 +104,10 @@ https://edge-ms-01.eduplay.rnp.br/media/ocp(r(d3KC0Q)t(F4UlM6ipwf0)p(d(l5o)k(lwk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos", UNBTV (Brasília/DF)
 https://edge-ms-01.eduplay.rnp.br/media/ocp(r(d3KC0Q)t(F4UlKuMse2E)p(d(l5o)k(lwk)m(gBmB8eIdYzvWhMuc8Ty0ag)n(a(Ra4dy8MfUUP7lfCflbFgjZoK54M)s(A4M)'a(FeWt8IRUAwzMAq5xqgwYN2sQ)s(qbw)))s(t(Q28)b(EvdpOnQ2CZKocMO_xtBJORGhGnJW4LrXuwXCagU0NDsL_MJ1iWH9pwVgfF9kq3M7xhOnIEzSthSydcRp10E2fIVJ0sM23sIz2n2chPgz69YmiCLZUzkwcI7r0BdpCa32GPIn1CcE8mgsZp5HRoJSQkrYAHOu3FjDe6cw2qs)'t(tVA)b(jtz3k-Q62TvK4csp9xWHLZtRlAZBEKB8WSo)))/720_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos", UNITV/TV Cultura (Tubarão/SC)
+#EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos", UNITV/TV Cultura (Tubarão/SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 
-#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Públicos/Educativos", Viva e Eduque (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Públicos/Educativos", Viva e Eduque (São Paulo/SP)
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 
 ---
@@ -179,6 +179,9 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Regionais Abertos Brasil", AstralTV (São Paulo/SP)
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Regionais Abertos Brasil", AstralTV - canal alternativo (São Paulo/SP)
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="Regionais Abertos Brasil", BR8 TV - aberto TVRO (São José do Rio Preto/SP)
@@ -1021,6 +1024,9 @@ https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" group-title="Esporte", DAZN Women's Football - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/thumbh_20210929_171410.png" group-title="Esporte", MotoAmerica TV - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/5b9b45e3-7564-42ae-a589-8fe5534838d4/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20221026T004633SQUARE.png_20221026004634.png" group-title="Esporte", MotorRacing - Samsung TV Plus (Reino Unido)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a1d5dfb7-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
@@ -1111,7 +1117,10 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Estilo de Vida", INFASTV - LG Channels (Espanha)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-lges/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/logo_20220517_183911_68.png" group-title="Estilo de Vida", Life Style by Triptic - DistroTV (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23024/lifefit/thumbh_20221121_183141.png" group-title="Estilo de Vida", LifeFit by Triptic - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/c33565d2-ffef-44fb-b995-b35a5f1172b4/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/logo_20220517_183911_68.png" group-title="Estilo de Vida", Life Style by Triptic - DistroTV (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/c76233ca-2cb1-41ab-95b6-abaff44c14e6/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida", Pluto TV Viajes (Espanha)
@@ -1435,6 +1444,9 @@ https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/081915bd-d376-48b0-a326-cc7bb03ebb1e/globi_channel_logo_bright_-_Thomas_Zaleskirdx.png" group-title="Filmes e Séries", Globi TV - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6376815e19284e58c4553833.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/indiebox/logo_20220801_202835_68.png" group-title="Filmes e Séries", IndieBox - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/indiebox/14ec8637-5350-4710-b910-68cbefc0a8f9/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes e Séries", Pluto TV Classic Movies (EUA)
 https://i.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
@@ -1772,6 +1784,9 @@ https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000286F_20220323T071116SQUARE.png_20220323071119.png" group-title="Infantil e Desenhos", Teletubbies - Samsung TV Plus (Reino Unido)
 https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8?ads.wurl_channel=667&ads.wurl_name=WildBrainPresentsTeletubbies&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" group-title="Infantil e Desenhos", Whatch it Kid! - DistroTV (EUA)
+https://stream-us-east-1.getpublica.com/cl/230918ck4e3vggv6tgl61tkn40/654x486_3279696_2_f.m3u8?i=513_2256
+
 
 
 >> LGBTQIA+
@@ -1795,6 +1810,9 @@ https://d36jpyyja698yd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Revry_Logo_Dark-v2.png" group-title="LGBTQIA+", Revry - Samsung TV Plus (Reino Unido)
 https://7041a5e5082141909787fd4088914042.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Revry/playlist.m3u8?ads.wurl_channel=706&ads.wurl_name=Revry&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22919/revry-her/logo_20220927_163152_68.png" group-title="LGBTQIA+", Revry Her - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/f8b1e7e2-7118-423c-bd35-d50f44cad609/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" group-title="LGBTQIA+", RevryNews - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f458dded93f4a0041cb1f63.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
@@ -2109,7 +2127,7 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stingray-classica-logo.svg/1024px-Stingray-classica-logo.svg.png" group-title="Música", Stingray Classica - Pluto TV (França)
 https://i.mjh.nz/PlutoTV/6267dc92cc905f00087ee623-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Música", Pulse TV (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Música", Pulse TV (EUA)
 https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Música", Stingray Qello Concerts - Pluto TV (Brasil)
@@ -2118,7 +2136,7 @@ https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Música", Stingray Qello Concerts - Samsung TV Plus (Suíça)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ch_stingrayqello_001.m3u8?ads.caid=stingrayqello&ads.csid=samsungtvplus_ch_stingrayqello_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=CH&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=187&ads.xumo_contentName=stingray&ads.xumo_providerId=187&ads.xumo_providerName=stingray&ads.xumo_channelId=9992555&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=qelloconcertsbystingray_ch&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/real-music/logo_20220801_203358_68.png" group-title="Música", Real Music TV (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/real-music/logo_20220801_203358_68.png" group-title="Música", Real Music TV (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/fcf6cce0-a8be-4a1b-b593-6aae5f65765c/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png" group-title="Música", Sonus FM (Alemanha)
@@ -2724,7 +2742,7 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Retrô", Vintage TV (Cotia/SP)
-LINK INVÁLIDO
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
 ---
 
@@ -2733,8 +2751,14 @@ https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 ---
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22969/bowery-classics/thumbh_20211018_170611.png" group-title="Retrô", Bowery Classics - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowery-classics/01310ee3-9efb-4ab9-936a-40d058ebc2e3/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fox/images/6/64/Marriedwithchildren.jpg" group-title="Retrô", Married with Children - Pluto TV (Reino Unido)
 https://i.mjh.nz/PlutoTV/6152d75abd229300079c7078-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/thumbh_20230403_172556.jpg" group-title="Retrô", NOST - DistroTV (EUA)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/classic-reruns-tv/38b3cbb3-c312-4eaa-b369-748b0b36eaec/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/The_Ed_Sullivan_Show.png" group-title="Retrô", The Ed Sullivan Show - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
@@ -2752,37 +2776,37 @@ https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftss
 #EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Pós-TV", Bider King: TV para gatos - YouTube (EUA)
 https://ythlsgo.onrender.com/video/vu-w69B-7Qk.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/thumbh_20220510_225206.jpg" group-title="Pós-TV", DistroTV: Autumn Escape (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/thumbh_20220510_225206.jpg" group-title="Pós-TV", DistroTV: Autumn Escape (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/27125bce-4d64-48c2-a87a-7983e7c87229/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/thumbh_20220608_205112.png" group-title="Pós-TV", DistroTV: Fireplace Lounge (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/thumbh_20220608_205112.png" group-title="Pós-TV", DistroTV: Fireplace Lounge (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/a76d9679-854a-40d9-b31f-58b6986cf1e3/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/thumbh_20220608_205210.png" group-title="Pós-TV", DistroTV: Fish Tank (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/thumbh_20220608_205210.png" group-title="Pós-TV", DistroTV: Fish Tank (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ff67b0d9-40eb-4392-9f4a-088c5d2b232b/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/thumbh_20220608_205303.png" group-title="Pós-TV", DistroTV: Island Escape (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/thumbh_20220608_205303.png" group-title="Pós-TV", DistroTV: Island Escape (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/5e4cefc3-2ff8-4ac5-b610-09e4dff588bf/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/thumbh_20210330_005021.jpg" group-title="Pós-TV", DistroTV: Quietude 4K (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/thumbh_20210330_005021.jpg" group-title="Pós-TV", DistroTV: Quietude 4K (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/ba9cc5a5-764e-41e9-bc4c-e7f256ae21e6/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/thumbh_20220608_205345.png" group-title="Pós-TV", DistroTV: Relaxing Rain (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/thumbh_20220608_205345.png" group-title="Pós-TV", DistroTV: Relaxing Rain (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/4b13d488-80ea-4d6b-909f-9fb5bcd5d5d5/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/thumbh_20220510_231303.jpg" group-title="Pós-TV", DistroTV: Relaxing Winterscapes (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/thumbh_20220510_231303.jpg" group-title="Pós-TV", DistroTV: Relaxing Winterscapes (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/ee9f90ee-68eb-4eb8-bf34-142f8e4ac23e/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/thumbh_20230706_042628.png" group-title="Pós-TV", DistroTV: SoniCentric (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/thumbh_20230706_042628.png" group-title="Pós-TV", DistroTV: SoniCentric (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/41e13d72-f6e2-4d1c-b999-15ef0d08788a/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/thumbh_20220510_231806.jpg" group-title="Pós-TV", DistroTV: Spring Escape (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/thumbh_20220510_231806.jpg" group-title="Pós-TV", DistroTV: Spring Escape (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/9018ac3e-b487-4fa6-a4a5-1a8953925d64/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/thumbh_20220510_232149.jpg" group-title="Pós-TV", DistroTV: Study Lounge (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/thumbh_20220510_232149.jpg" group-title="Pós-TV", DistroTV: Study Lounge (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/747abffc-031d-402d-af69-b3e1c780ed04/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/thumbh_20220608_205521.png" group-title="Pós-TV", DistroTV: Tranquil Thunderstorms (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/thumbh_20220608_205521.png" group-title="Pós-TV", DistroTV: Tranquil Thunderstorms (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/f82ff492-1411-4ec7-a2e3-592802a7743e/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Animais Selvagens da África - YouTube (EUA)
@@ -2812,10 +2836,10 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://imgur.com/8TMPtNG.png" group-title="Pós-TV", Nature Stream TV - Roku (Internacional)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/673ab6b7-ae9f-4305-ba72-fbaf367ca747/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="Pós-TV", Natural Wonders - YouTube (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="Pós-TV", Natural Wonders - YouTube (EUA)
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20201029_014047_68.png" group-title="Pós-TV", Screendreams by Invincible (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20201029_014047_68.png" group-title="Pós-TV", Screendreams by Invincible (EUA)
 https://stream-us-east-1.getpublica.com/cl/230918ck49t06ptu7cme8t1g0g/1280x720_2862226_0_f.m3u8?i=513_5301
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" group-title="Pós-TV", Stingray Naturescape - Pluto TV (Brasil)
