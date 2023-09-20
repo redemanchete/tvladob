@@ -1295,7 +1295,7 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Filmes e Séries", CineBRASiL TV (Rio de Janeiro/RJ)
-https://cdn-1.nxplay.com.br/cinebrasil/index.m3u8
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CSI_Miami_Logo.png" group-title="Filmes e Séries", CSI: Miami - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
