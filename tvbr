@@ -1,6 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 18/09/2023
+ATUALIZADA EM 19/09/2023
 
 
 >> PÚBLICOS/EDUCATIVOS
@@ -203,7 +203,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.meionorte.com/uploads/imagens/2021/10/4/veja-outras-redes-sociais-em-que-voce-pode-acompanhar-a-rede-meio-norte-3f44fdb5-e14e-4755-b08f-b791c6479879.jpg" group-title="Regionais Abertos Brasil", Rede Meio Norte (Teresina/PI)
-http://streaming.jornalmn.com.br/live/tvmn.m3u8
+http://streaming.jornalmn.com.br:80/live/tvmn.m3u8
 
 #EXTINF:-1 tvg-logo="http://redemetropole.com/wp-content/uploads/2020/08/rede-metropole.png" group-title="Regionais Abertos Brasil", Rede Metrópole/Meio Norte (Formiga/MG)
 https://acesso.ecast.site:3456/stream/play.m3u8
@@ -241,11 +241,14 @@ https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/in
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="Regionais Abertos Brasil", TV Euro News (Curitiba/PR)
 https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Regionais Abertos Brasil", TV Globo (São Paulo/SP)
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="Regionais Abertos Brasil", TV Gazeta Goiás/Gazeta (Goiânia/GO)
+https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="Regionais Abertos Brasil", TV Gazin - aberto TVRO (Palotina/PR)
 https://caikron.com.br:19360/canal1/canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Regionais Abertos Brasil", TV Globo (São Paulo/SP)
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Regionais Abertos Brasil", TV Grão Pará/Gazeta (Belém/PA)
 https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
@@ -315,7 +318,7 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Regionais Fechados/Web", ComBrasiltv (Brasília/DF)
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1269192400.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Regionais Fechados/Web", Chroma TV (São Paulo/SP)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -342,7 +345,7 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 http://177.74.174.57:8080/hls/primertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png" group-title="Regionais Fechados/Web", RDCTV (Porto Alegre/RS)
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w1460588134.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regionais Fechados/Web", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
@@ -381,7 +384,7 @@ https://stream.ichibantv.com:3827/stream/play.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="Regionais Fechados/Web", TV Cidade Oeste (Mossoró/RN)
-https://srv6.zcast.com.br/tvcidadeoeste/tvcidadeoeste/chunklist_w746287978.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="Regionais Fechados/Web", TV Com (Santos/SP)
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
@@ -1062,7 +1065,10 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 >> ESTILO DE VIDA
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QTfmOoQ.png" group-title="Estilo de Vida", BCC Television - Soul TV (Brasil)
-https://video01.kshost.com.br:4443/bccinternational523/bccinternational523/chunklist_w945587718.m3u8
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://canalk.tv.br/website/wp-content/uploads/2022/07/logo-canal-k-header.png" group-title="Estilo de Vida", Canal K (São Paulo/SP)
+https://cdn-1.nxplay.com.br/cheftv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/inspire_newLogo.png" group-title="Estilo de Vida", Inspire (São Paulo/SP)
 http://cdn.connectbr.com.br/Inspire/index.m3u8
@@ -1279,14 +1285,17 @@ https://i.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/blits.jpg" group-title="Filmes e Séries", Blits TV (Hortolândia/SP)
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Filmes e Séries", Canal Curta! (Rio de Janeiro/RJ)
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png" group-title="Filmes e Séries", Bora (São Paulo/SP)
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="Filmes e Séries", Cindie Lite - Samsung TV Plus (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Filmes e Séries", CineBRASiL TV (Rio de Janeiro/RJ)
+https://cdn-1.nxplay.com.br/cinebrasiltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Filmes e Séries", Curta! (Rio de Janeiro/RJ)
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CSI_Miami_Logo.png" group-title="Filmes e Séries", CSI: Miami - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
@@ -1445,7 +1454,7 @@ https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/081915bd-d376-48b0-a326-cc7bb03ebb1e/globi_channel_logo_bright_-_Thomas_Zaleskirdx.png" group-title="Filmes e Séries", Globi TV - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6376815e19284e58c4553833.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/indiebox/logo_20220801_202835_68.png" group-title="Filmes e Séries", IndieBox - DistroTV (EUA)
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23077/indiebox/logo_20220801_202835_68.png" group-title="Filmes e Séries", Indie Box - DistroTV (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/indiebox/14ec8637-5350-4710-b910-68cbefc0a8f9/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes e Séries", Pluto TV Classic Movies (EUA)
@@ -1785,7 +1794,7 @@ https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8?ads.wurl_channel=667&ads.wurl_name=WildBrainPresentsTeletubbies&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" group-title="Infantil e Desenhos", Whatch it Kid! - DistroTV (EUA)
-https://stream-us-east-1.getpublica.com/cl/230918ck4e3vggv6tgl61tkn40/654x486_3279696_2_f.m3u8?i=513_2256
+INDISPONÍVEL
 
 
 
@@ -2758,7 +2767,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://i.mjh.nz/PlutoTV/6152d75abd229300079c7078-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/thumbh_20230403_172556.jpg" group-title="Retrô", NOST - DistroTV (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/classic-reruns-tv/38b3cbb3-c312-4eaa-b369-748b0b36eaec/0.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/The_Ed_Sullivan_Show.png" group-title="Retrô", The Ed Sullivan Show - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
