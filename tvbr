@@ -110,7 +110,10 @@ https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos", UNBTV (Brasília/DF)
 https://edge-ms-01.eduplay.rnp.br/media/ocp(r(d3KC0Q)t(F4UlKuMse2E)p(d(l5o)k(lwk)m(gBmB8eIdYzvWhMuc8Ty0ag)n(a(Ra4dy8MfUUP7lfCflbFgjZoK54M)s(A4M)'a(FeWt8IRUAwzMAq5xqgwYN2sQ)s(qbw)))s(t(Q28)b(EvdpOnQ2CZKocMO_xtBJORGhGnJW4LrXuwXCagU0NDsL_MJ1iWH9pwVgfF9kq3M7xhOnIEzSthSydcRp10E2fIVJ0sM23sIz2n2chPgz69YmiCLZUzkwcI7r0BdpCa32GPIn1CcE8mgsZp5HRoJSQkrYAHOu3FjDe6cw2qs)'t(tVA)b(jtz3k-Q62TvK4csp9xWHLZtRlAZBEKB8WSo)))/720_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos", UNITV/TV Cultura (Tubarão/SC)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-universidade-de-porto-alegre_m.png" group-title="Públicos/Educativos", UNITV (Porto Alegre/RS)
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos", UNITV-SC/TV Cultura (Tubarão/SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Públicos/Educativos", Viva e Eduque (São Paulo/SP)
