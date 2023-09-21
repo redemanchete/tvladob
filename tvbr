@@ -318,7 +318,7 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Regionais Fechados/Web", ComBrasiltv (Brasília/DF)
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Regionais Fechados/Web", Chroma TV (São Paulo/SP)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -345,7 +345,7 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 http://177.74.174.57:8080/hls/primertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png" group-title="Regionais Fechados/Web", RDCTV (Porto Alegre/RS)
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regionais Fechados/Web", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
@@ -884,7 +884,7 @@ https://d1t832jhtoignv.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 >> ENTRETENIMENTO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/j9fmTSw.png" group-title="Entretenimento", Chic Brasil TV (Rio de Janeiro/RJ)
-https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png" group-title="Entretenimento", DiaTV - YouTube (São Paulo/SP)
 https://ythls.onrender.com/video/E-7BGdeFSn4.m3u8
