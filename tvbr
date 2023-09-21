@@ -303,7 +303,7 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/776ca0_d766969be6e148c7b1f0501a61354477~mv2.png" group-title="Regionais Fechados/Web", Alpha Channel (Barueri/SP)
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://www.bahtv.com.br/wp-content/themes/bahtv/assets/images/bah.png" group-title="Regionais Fechados/Web", Bah! (Porto Alegre/RS)
 https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1860008834.m3u8
@@ -318,7 +318,7 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Regionais Fechados/Web", ComBrasiltv (Brasília/DF)
-https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1269192400.m3u8
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Regionais Fechados/Web", Chroma TV (São Paulo/SP)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -345,7 +345,7 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 http://177.74.174.57:8080/hls/primertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png" group-title="Regionais Fechados/Web", RDCTV (Porto Alegre/RS)
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w1460588134.m3u8
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regionais Fechados/Web", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
@@ -354,7 +354,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regionais Fechados/Web", TCM 10 (Mossoró/RN)
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Regionais Fechados/Web", TV+ ABC (São Bernardo do Campo/SP)
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
@@ -371,7 +371,7 @@ https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Regionais Fechados/Web", TV Aracati (Aracati/CE)
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="Regionais Fechados/Web", TV Brusque (Brusque/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="Regionais Fechados/Web", TV Brusque/Rede Brasil (Brusque/SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8200/cabecalho-8200-20201104212340.png" group-title="Regionais Fechados/Web", TV Capital (Teresina/PI)
@@ -429,10 +429,10 @@ https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8
 https://tv02.zas.media:1936/tvsol/tvsol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvzoom.com.br/wp-content/uploads/2019/03/cropped-logo1.png" group-title="Regionais Fechados/Web", TV Zoom (Nova Friburgo/RJ)
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://virtual.tv.br/assets/images/index-meta.jpg" group-title="Regionais Fechados/Web", Virtual TV/Rede Brasil (Curitiba/PR)
-https://st-srv02.alfamax.com.br/VirtualTV/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://virtual.tv.br/assets/images/virtual2-meta.jpg" group-title="Regionais Fechados/Web", Virtual TV 2/RBTV (Curitiba/PR)
 https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
@@ -514,6 +514,9 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pixtv.com.br/wp-content/uploads/2022/04/pixtv.jpg" group-title="Variedades", PIXTV (Garopaba/SC)
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/2023/04/logo-rede-itv-e1688146662407.png" group-title="Variedades", Rede iTV (Brasil)
+https://stmv1.paineltv.net/miguel1318/miguel1318/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/SEM-FUNDO.png" group-title="Variedades", Rede QDM (Hortolândia/SP)
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
@@ -582,7 +585,7 @@ https://momentog-crtvg.flumotion.com/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/931px-Panamericana-tv.svg.png" group-title="Variedades - Mundo", Panamericana Televisión (Peru)
-https://cdn75.iblups.com/hls/2/stream.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Variedades - Mundo", RTP (Bolivia)
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
@@ -594,7 +597,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleredtelevision.com/wp-content/uploads/2022/11/312847001_548277857303684_6907620241315278046_n.jpg" group-title="Variedades - Mundo", Telered (Costa Rica)
-https://video20.klm99.com:3558/live/teleredlive.m3u8
+https://video20.klm99.com:3558/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2017/05/TENmin.png" group-title="Variedades - Mundo", Ten TV (Honduras)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
@@ -975,9 +978,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="Esporte", Fifa Plus - LG Channels (Brasil)
-https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Esporte", Fuel TV - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6144d088516ea8000739076a-alt.m3u8
 
@@ -1026,6 +1026,9 @@ https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" group-title="Esporte", DAZN Women's Football - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="Esporte", Fifa Plus - LG Channels (Brasil)
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/thumbh_20210929_171410.png" group-title="Esporte", MotoAmerica TV - DistroTV (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/5b9b45e3-7564-42ae-a589-8fe5534838d4/4.m3u8
@@ -1779,9 +1782,6 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="Infantil e Desenhos", Pakapaka (Argentina)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22915/zaz/thumbh_20220411_193252.png" group-title="Infantil e Desenhos", Zaz TV - DistroTV (México)
-https://stream-us-east-1.getpublica.com/cl/230918ck4ai38v7e97qfba7ep0/654x480_2762351_2_f.m3u8?i=513_2369
-
 ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Barney_%26_Friends_logo.svg/1024px-Barney_%26_Friends_logo.svg.png" group-title="Infantil e Desenhos", Barney & Friends - Pluto TV (Reino Unido)
@@ -1834,7 +1834,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f458dded93f
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="Música", Amordiscos Tv (Colômbia)
-https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/X6eSUoC.png" group-title="Música", Blast Channel TV (Brasil)
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
@@ -1888,7 +1888,7 @@ INDISPONÍVEL
 https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/melodychannel.png" group-title="Música", Melody Channel TV (Colômbia)
-https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Approved Hip Hop - Pluto TV (Alemanha)
 https://i.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
@@ -2158,7 +2158,7 @@ https://stmv1.cnarlatam.com/megaclassics/megaclassics//chunklist_w723619.m3u8
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://telemusica.tv/wp-content/uploads/2022/08/cropped-Telemusicax512.png" group-title="Música", TELEMUSICA Tv (Colômbia)
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio - YouTube (Alemanha)
 https://ythlsgo.onrender.com/video/36YnV9STBqc.m3u8
@@ -2586,9 +2586,6 @@ https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w2096267951.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="Notícias Agro",TV Folha do Campo (Hortolândia/SP)
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w754860603.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="Notícias Agro", TV MilAgro Brasil (São Paulo/SP)
-http://201.87.136.36:8091/hls/tvmilagro.m3u8
-
 
 
 >> NOVELAS
@@ -2737,6 +2734,9 @@ https://i.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Retrô", Séries Classic - TV Mon (Montenegro/RS)
+https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Starskyandhutch-logo.svg/1024px-Starskyandhutch-logo.svg.png" group-title="Retrô", Starsky & Hutch - Justiça em Dobro - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
