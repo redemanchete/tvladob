@@ -1,6 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 19/09/2023
+ATUALIZADA EM 20/09/2023
 
 
 >> PÚBLICOS/EDUCATIVOS
@@ -56,7 +56,7 @@ https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.go.gov.br/images/LOGO/TV/TBC_MAIS.png" group-title="Públicos/Educativos", TV Brasil Central/TV Cultura (Goiânia/GO)
 https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Públicos/Educativos", TV Ceará/TV Cultura (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Públicos/Educativos", TV Ceará (Fortaleza/CE)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Públicos/Educativos", TV Cultura - Pluto TV (Brasil)
@@ -98,8 +98,14 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="Públicos/Educativos", TV Sim/TV Brasil (Vitória/ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1518467066.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="Públicos/Educativos", TV UFSC/TV Brasil (Florianópolis/SC)
+http://150.162.188.10:8080/hls/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Públicos/Educativos", TV UFOP (Ouro Preto/MG)
 https://edge-ms-01.eduplay.rnp.br/media/ocp(r(d3KC0Q)t(F4UlM6ipwf0)p(d(l5o)k(lwk)m(XI_TAaMWH2HXwKjDXfSapA)n(a(-E3pKCTQ4EKaIQfBECqk9-WQROA)s(fEA)'a(k21tjk2XHkpwX--5HffHup0g)s(_iU)))s(t(u5E)b(gC5wPL1fU34n3LcGA25C3BkvRusVUtqCZ4azpx8ooUX7KYnkxv3v0V24ExeeU8Uyg_rrkmb4zt5MCvNiLiDXPiLVwnwS5UYLfH-o6_ia1vFfmQWelruSZoVVdPYhlzBziF-xJUVe_cPomrLVGNn7NpkUcOP6ueXgpTh8Usw)'t(8N8)b(chObBh18DLsGzW3XCaThx--D5LV0PgoP82A)))/720_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="Públicos/Educativos", TV Vale/Rede Minas (Diamantina/MG)
+https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos", UNBTV (Brasília/DF)
 https://edge-ms-01.eduplay.rnp.br/media/ocp(r(d3KC0Q)t(F4UlKuMse2E)p(d(l5o)k(lwk)m(gBmB8eIdYzvWhMuc8Ty0ag)n(a(Ra4dy8MfUUP7lfCflbFgjZoK54M)s(A4M)'a(FeWt8IRUAwzMAq5xqgwYN2sQ)s(qbw)))s(t(Q28)b(EvdpOnQ2CZKocMO_xtBJORGhGnJW4LrXuwXCagU0NDsL_MJ1iWH9pwVgfF9kq3M7xhOnIEzSthSydcRp10E2fIVJ0sM23sIz2n2chPgz69YmiCLZUzkwcI7r0BdpCa32GPIn1CcE8mgsZp5HRoJSQkrYAHOu3FjDe6cw2qs)'t(tVA)b(jtz3k-Q62TvK4csp9xWHLZtRlAZBEKB8WSo)))/720_index.m3u8
@@ -157,7 +163,7 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Públicos/Educativos", TVes (Venezuela)
-https://ls.tves.gob.ve/hls/tves.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Públicos/Educativos", Venezolana de Televisión (Venezuela)
 INDISPONÍVEL
@@ -400,6 +406,9 @@ https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Regionais Fechados/Web", TV Diário do Sertão (Cajazeiras/PB)
 INDISPONÍVEL
+
+#EXTINF: -1 tvg-logo="https://imgur.com/ZqOn5uN.png" group-title="Regionais Fechados/Web", TV Educadora (Limeira/SP)
+https://5a2b083e9f360.streamlock.net/rog/rog.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmae.png" group-title="Regionais Fechados/Web", TV Mar (Maceió/AL)
 INDISPONÍVEL
@@ -922,11 +931,11 @@ https://i.mjh.nz/PlutoTV/5f9b05a99547eb0007676b02-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Programa_P%C3%A2nico.png" group-title="Entretenimento", Pânico - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Entretenimento", RedeTV! Pluto TV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Entretenimento", RedeTV! - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Entretenimento", SBT Internacional - LG Channels (Brasil)
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Entretenimento", Sony One Shark Tank - Samsung TV Plus (Brasil)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
@@ -1860,6 +1869,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6507f2f64024b_1
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500413A_20220323T073637SQUARE.png_20220323073639.png" group-title="Música", Deluxe Lounge HD - Samsung TV Plus (Alemanha)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ElCNIbG.png" group-title="Música", Eurodance 90 - HedexTV (Hungria)
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg" group-title="Música", Fama TV (Portugal)
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 
@@ -2173,7 +2185,7 @@ https://ythlsgo.onrender.com/video/m52ynxt1mOo.m3u8
 https://ythlsgo.onrender.com/video/19hKXI1ENrY.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="Música", The Retro Channel (Porto Rico)
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/tierramia-icon.png" group-title="Música", TierraMia TV (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
