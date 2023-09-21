@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 18/09/2023
+ATUALIZADA EM 20/09/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -330,6 +330,9 @@ https://orelha.radiolivre.org/radiopaulofreire
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/606325a71585d.png" group-title="Rádio AM - Brasil", 830 - Rádio Tropical AM (Nova Iguaçu/RJ)
 https://ssl.xcast.com.br:9810//;
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/615b6979ac232.png" group-title="Rádio AM - Brasil", 870 - Rádio Universitária (Goiânia/GO)
+https://streaming.ufg.br:8443/radiouniversitaria
+
 #EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio AM - Brasil", 880 - Rádio Inconfidência (Belo Horizonte/MG)
 https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream
 
@@ -341,6 +344,9 @@ http://cloud.cdnseguro.com:8006/;
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa0c75747.png" group-title="Rádio AM - Brasil", 1130 - Rádio Nacional (Rio de Janeiro/RJ)
 https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaafb4662c.png" group-title="Rádio AM - Brasil", 1270 - Rádio Brasil Central (Goiânia/GO)
+https://server01.srvsh.com.br:8568/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioterra.png" group-title="Rádio AM - Brasil", 1330 - Rádio Terra (São Paulo/SP)
 https://cloud1.cdnseguro.com:16020/stream
