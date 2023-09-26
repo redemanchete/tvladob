@@ -1208,7 +1208,7 @@ https://e803f254d1a1441089fe8e2eb07bd09b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" group-title="Estilo de Vida", Televisión Consciente - Samsung TV Plus (Espanha)
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://fedetur.cl/wp-content/uploads/2020/08/logo-fedetur.png" group-title="Estilo de Vida", Turismo Travel TV (Chile)	
+#EXTINF:-1 tvg-logo="https://www.expreso.info/files/2019-10/Chile_Fedetur.jpg" group-title="Estilo de Vida", Turismo Travel TV (Chile)	
 https://vdo.panelstreaming.live:3740/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Viajar_Tv_logo.svg/1280px-Viajar_Tv_logo.svg.png" group-title="Estilo de Vida", Viajar TV (Argentina)
@@ -1218,6 +1218,9 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/42887ec2-a7de-47af-b491-617c3e237008/altrdtv_free_logoredux.png" group-title="Estilo de Vida", ALTRD.TV - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60bfd0907c60b7002c9765de.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://d2culxnxbccemt.cloudfront.net/craft/content/uploads/2023/04/27110026/logo-craftsytv-1920x1080-colored-transparent-e1682611408928.png" group-title="Estilo de Vida", CraftsyTV - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6365779dde08f8eec6c3f21f/variant.m3u8?url=8c4c9730918fe5bb1a7628713f61d959-346b83ce2b97cd9c3cf047f8a23ecb0a2873a8f49054e6ab5657f499ed22ce8ad33e8aff22a15b40f3dcefb23cfd15e08dd1db884851b7640297861417b896f72174660ca100d6e5495eb6605fb9f6d2cf8db1006e45fd0e322b67a1da5be174447ae614e4ddf35a97e549891b5ce2a2c84ae2210640d1b14cf37217b883abf36f8c4fbfc518b4b7cd0088f6a80b3cb6f3df7dab4f666fa315722c08aeb744748852d418ec2688b8df3e16d2fad89a5575857a5981b1d5c61f949772d8cb10d5f0cf986a2449a42a9e9b1084e7606a61&x-plex-token=EisvgeyqMBTpGahEz4Jb&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1695752873
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20220323T072552SQUARE.png_20220323072555.png" group-title="Estilo de Vida", FashionTV - LG Channels (Brasil)
 https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
@@ -1636,9 +1639,6 @@ https://d2oaqmizhqjqau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/cooking-panda.jpg" group-title="Gastronomia", Cooking Panda - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f07e9fdf313eb0041bbecda/variant.m3u8?url=2dc654a8316eae5d6cc302f6b870e881-4a6d77f4d9a8407e5c0665a106b8b304cc679408c0649252559c3001665499422c6742bc4a6ff9f7ecf3e32f7551dd52d859197040fe0cb80460c9cca077c8bee45ef677f99831102075babb26bcde1673b00b015c6b44e23fb0b5a338102b97&x-plex-token=6QatyfzUxJ3uSa2JV7Wd&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1695752664
-
-#EXTINF:-1 tvg-logo="https://d2culxnxbccemt.cloudfront.net/craft/content/uploads/2023/04/27110026/logo-craftsytv-1920x1080-colored-transparent-e1682611408928.png" group-title="Gastronomia", CraftsyTV - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6365779dde08f8eec6c3f21f/variant.m3u8?url=8c4c9730918fe5bb1a7628713f61d959-346b83ce2b97cd9c3cf047f8a23ecb0a2873a8f49054e6ab5657f499ed22ce8ad33e8aff22a15b40f3dcefb23cfd15e08dd1db884851b7640297861417b896f72174660ca100d6e5495eb6605fb9f6d2cf8db1006e45fd0e322b67a1da5be174447ae614e4ddf35a97e549891b5ce2a2c84ae2210640d1b14cf37217b883abf36f8c4fbfc518b4b7cd0088f6a80b3cb6f3df7dab4f666fa315722c08aeb744748852d418ec2688b8df3e16d2fad89a5575857a5981b1d5c61f949772d8cb10d5f0cf986a2449a42a9e9b1084e7606a61&x-plex-token=EisvgeyqMBTpGahEz4Jb&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1695752873
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500021YQ_20230208T101253SQUARE.png_20230208101254.png" group-title="Gastronomia", Gusto TV - Samsung TV Plus (Canadá)
 https://d16mfeqqufiw9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw0q246thq1dh-ssai-prd/amggustotv/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -2528,6 +2528,9 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png" group-title="Notícias", HispanTV (Irã)
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/02/La-Nacion-Mas-en-vivo-Online.png" group-title="Notícias", LN+ / La Nación (Argentina)
+https://ythlsgo.onrender.com/video/4e8Iw3Frf1A.m3u8
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Notícias", Noticias Univision 24/7 - Samsung TV Plus (EUA)
 https://d16r1xu1wyfpuv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-87r3xa31ab1y6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
