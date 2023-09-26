@@ -618,6 +618,9 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_film-arts-hd_m.png" group-title="Arte e Cultura", Film&Arts (Brasil)
 https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Arte e Cultura", Prime Box Brazil (Porto Alegre/RS)
+http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Arte e Cultura", Sesc TV (São Paulo/SP)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index1080p.m3u8
 
@@ -628,6 +631,9 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Arte e Cultura", Litus TV (Argentina)
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Arte e Cultura", Galicia TV Musical (Galiza)
+https://musigal-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Arte e Cultura", UESTV (Chile)
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
@@ -1400,9 +1406,6 @@ https://i.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes e Séries", Pluto TV Séries Sci-Fi (Brasil)
 https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Filmes e Séries", Prime Box Brazil (Porto Alegre/RS)
-http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://clube.atitudenew.com/wp-content/uploads/2022/09/Qtal.jpg" group-title="Filmes e Séries", QTAL Channel (Hortolândia/SP)
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
 
@@ -1875,9 +1878,6 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg" group-title="Música", Fama TV (Portugal)
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Música", Galicia TV Musical (Galiza)
-https://musigal-crtvg.flumotion.com/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Jr0O3cn.png" group-title="Música", GO-RTV (Países Baixos)
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8
 
@@ -2076,6 +2076,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8f
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Música", Qwest TV - Pluto TV (França)
 https://i.mjh.nz/PlutoTV/60db3aef7b85d300073db507-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Música", Pulse TV (EUA)
+https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1024px-Radio_Capital_logo_%282020%29.svg.png" group-title="Música", Radio Capital (Itália)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
@@ -2153,9 +2156,6 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stingray-classica-logo.svg/1024px-Stingray-classica-logo.svg.png" group-title="Música", Stingray Classica - Pluto TV (França)
 https://i.mjh.nz/PlutoTV/6267dc92cc905f00087ee623-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Música", Pulse TV (EUA)
-https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="Música", Stingray Qello Concerts - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
