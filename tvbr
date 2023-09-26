@@ -1040,7 +1040,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esporte", BandSports (São Paulo/SP)
-https://cdn-1.nxplay.com.br/BAND_SPORTS_NXPLAY/index.m3u8
+https://cdn-1.nxplay.com.br/BAND_SPORTS_NX_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
@@ -1198,9 +1198,6 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Estilo de Vida", INFASTV - LG Channels (Espanha)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-lges/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/mexico-travel-channel-logo-544x180-px-transparente.png" group-title="Estilo de Vida", Mexico Travel Channel (México)
-https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w29793059.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDU6MTA6MDkgUE0maGFzaF92YWx1ZT0wWEVlYytFL1JQOFpJaEVLN21JM1VRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida", Pluto TV Viajes (Espanha)
 https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
