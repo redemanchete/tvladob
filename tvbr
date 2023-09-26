@@ -518,13 +518,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Variedades - Mundo", SIC (Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Públicos/Educativos", TDM (Macau)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Variedades - Mundo", TDM (Macau)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Públicos/Educativos", TVM (Moçambique)
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Variedades - Mundo", TVM (Moçambique)
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Públicos/Educativos", TVM Internacional (Moçambique)
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="Variedades - Mundo", TVM Internacional (Moçambique)
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="Variedades - Mundo", TV Portuguesa - Soul TV (Brasil)
@@ -1040,7 +1040,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esporte", BandSports (São Paulo/SP)
-https://cdn-1.nxplay.com.br/BAND_SPORTS_NX_TK/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
