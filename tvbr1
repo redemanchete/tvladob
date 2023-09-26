@@ -1383,7 +1383,7 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Filmes e Séries", Grjngo - Samsung TV Plus (Brasil)
-http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Filmes e Séries", MyTime Movie Network - Samsung TV Plus (Brasil)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
