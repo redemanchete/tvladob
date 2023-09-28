@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 20/09/2023
+ATUALIZADA EM 28/09/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -384,9 +384,6 @@ http://stm11.srvaudio.com.br:10920/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14418_1439401461.jpg" group-title="Radcom - Brasil", RJ FM 98.7 (Rio de Janeiro/RJ)
 LINK INVÁLIDO
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio40204_1475521599.jpg" group-title="Radcom - Brasil", The Beat FM 99.3 (São Paulo/SP)
-INDISPONÍVEL
-
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio25414_1588939573.jpg" group-title="Radcom - Brasil", Rádio Rocinha 107.3 (Rio de Janeiro/RJ)
 https://s46.maxcast.com.br:8751/live?id=164163593280
 
@@ -573,9 +570,6 @@ https://player-ssl.painelstream.net:8992/live
 #EXTINF:-1 tvg-logo="https://www.radiomotel.com/wp-content/uploads/2018/08/PNG_RADIOMOTELCOM-150x150.png" group-title="Web Rádio - Brasil", Rádio Motel (São Paulo/SP)
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
 
-#EXTINF:-1 tvg-logo="https://radionovasat.com.br/radionovalogo.png" group-title="Web Rádio - Brasil", Rádio Nova (São Paulo/SP)
-http://centova4.sua.radio.br:8336/stream
-
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio59105_1510573548.jpg" group-title="Web Rádio - Brasil", Rádio Pagu (São Carlos/SP)
 https://servidor28-1.brlogic.com:8354/live
 
@@ -608,6 +602,9 @@ http://hts01.kshost.com.br:8428/;
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio167865_1606821927.png" group-title="Web Rádio - Brasil", Smoothjazz Brasil (Campinas/SP)
 http://ingest4sc.cdn.upx.com:8176/stream?1679958990718
+
+#EXTINF:-1 tvg-logo="https://www.thebeatfm.com.br/img/6504bce866203.png" group-title="Web Rádio - Brasil", The Beat (São Paulo/SP)
+https://centova4.transmissaodigital.com:20001/;type=mp3
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Web Rádio - Brasil", Web Rádio Guetto SP (Embu das Artes/SP)
 https://stm20.xcast.com.br:12882/;
