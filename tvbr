@@ -1,6 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 28/09/2023
+ATUALIZADA EM 29/09/2023
 
 
 
@@ -193,9 +193,6 @@ https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="Regionais Abertos Brasil", TV Gazeta Goiás/Gazeta (Goiânia/GO)
 https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="Regionais Abertos Brasil", TV Gazin - aberto TVRO (Palotina/PR)
-https://caikron.com.br:19360/floripa/canal1.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Regionais Abertos Brasil", TV Globo (São Paulo/SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
@@ -294,7 +291,7 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 http://177.74.174.57:8080/hls/primertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png" group-title="Regionais Fechados/Web", RDCTV (Porto Alegre/RS)
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w1155476433.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Regionais Fechados/Web", Rede Premium TV (Osasco/SP)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
@@ -304,9 +301,6 @@ https://streamingtv.ddoti.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regionais Fechados/Web", TCM 10 (Mossoró/RN)
 INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Regionais Fechados/Web", TV+ ABC (São Bernardo do Campo/SP)
-https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Regionais Fechados/Web", TV A Folha (Palmas/PR)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
@@ -330,7 +324,7 @@ https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w4573
 https://stream.ichibantv.com:3827/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="Regionais Fechados/Web", TV Cidade Canal 9 (Teresópolis/RJ)
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="Regionais Fechados/Web", TV Cidade Oeste (Mossoró/RN)
 INDISPONÍVEL
@@ -2346,7 +2340,7 @@ https://dljikifwgal69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música", Vevo '80s - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 
-#EXTINF:-1 ttvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música", Vevo '80s - Samsung TV Plus (Canadá)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música", Vevo '80s - Samsung TV Plus (Canadá)
 https://d21vna6fcjp4e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-63v0wk06v7jub/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música", Vevo '80s - Samsung TV Plus (EUA)
@@ -2370,7 +2364,7 @@ https://d13icwgnyyemwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" group-title="Música", Vevo '90s & '00s - Samsung TV Plus (Reino Unido)
 https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 ctvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música", Vevo 2K - Pluto TV (EUA)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música", Vevo 2K - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música", Vevo 2K - Samsung TV Plus (Canadá)
@@ -2906,6 +2900,22 @@ https://i.mjh.nz/PlutoTV/6152d75abd229300079c7078-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/The_Ed_Sullivan_Show.png" group-title="Retrô", The Ed Sullivan Show - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
+
+
+
+>> TELEVENDAS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="Televendas", 1001 Noites (Curitiba/PR)
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="Televendas", TV Gazin (Palotina/PR)
+https://caikron.com.br:19360/floripa/canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="Televendas", TV Tudo BH (Belo Horizonte/MG)
+https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Televendas", TV+ ABC (São Bernardo do Campo/SP)
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 
 
 
