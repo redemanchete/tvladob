@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 28/09/2023
+ATUALIZADA EM 29/09/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -102,10 +102,16 @@ http://suaradio1.dyndns.ws:13551/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nativa_FM.svg/1280px-Nativa_FM.svg.png" group-title="Rádio FM - Brasil", 95.3 - Nativa FM (São Paulo/SP)
 https://24383.live.streamtheworld.com/NATIVA_SPAAC
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14951_1669648029.png" group-title="Rádio FM - Brasil", 95.3 - Rádio UFScar (São Carlos/SP)
+http://200.136.219.172:8000/radioufscar96.mp3
+
 #EXTINF:-1 tvg-logo="http://radiomorada.com.br/moradalitoral/wp-content/uploads/2018/12/Logo_Morada_White.png" group-title="Rádio FM - Brasil", 95.5 - Morada FM (São Sebastião/SP)
 https://painelstream.net/player-ssl/rvn01/8080
 
-#EXTINF:-1 tvg-logo="https://sulamericaparadiso.com.br/assets/img/logo_horizontal_colorida.png" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio212646_1675340347.png" group-title="Rádio FM - Brasil", 95.7 - EP FM (Araraquara/SP)
+https://streaming.empresaspioneiras.com.br/epfmararaquara/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14223_1695126365.png" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
 https://26583.live.streamtheworld.com/SULAMERICAAAC_SC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A1dio_Itatiaia_logo_2022.svg/1024px-R%C3%A1dio_Itatiaia_logo_2022.svg.png" group-title="Rádio FM - Brasil", 95.7 - Rádio Itatiaia (Belo Horizonte/MG)
@@ -233,9 +239,6 @@ http://r13.ciclano.io:8609/live
 
 #EXTINF:-1 tvg-logo="https://www.estacao104fm.com.br/imagens/logo2.png" group-title="Rádio FM - Brasil", 104.1 - Estação 104 FM (Iguaba Grande/RJ)
 https://cloud1.cdnseguro.com:20060/stream
-
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/63b6f28dd1343.jpeg" group-title="Rádio FM - Brasil", 104.1 - Top FM (São Paulo/SP)
-https://centova.svdns.com.br:20019/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1024px-Dumont_FM_logo.svg.png" group-title="Rádio FM - Brasil", 104.3 - Dumont (Jundiaí/SP)
 https://rrdns-dumont.webnow.com.br/dumont.aac
@@ -603,7 +606,7 @@ http://hts01.kshost.com.br:8428/;
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio167865_1606821927.png" group-title="Web Rádio - Brasil", Smoothjazz Brasil (Campinas/SP)
 http://ingest4sc.cdn.upx.com:8176/stream?1679958990718
 
-#EXTINF:-1 tvg-logo="https://www.thebeatfm.com.br/img/6504bce866203.png" group-title="Web Rádio - Brasil", The Beat (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio40204_1695383073.jpeg" group-title="Web Rádio - Brasil", The Beat (São Paulo/SP)
 https://centova4.transmissaodigital.com:20001/;type=mp3
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Web Rádio - Brasil", Web Rádio Guetto SP (Embu das Artes/SP)
