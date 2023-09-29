@@ -1972,7 +1972,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://www.bachstiftung.ch/wp-content/uploads/2023/02/Just_Classical_LOGO300x300.png" group-title="Música", Just Classical - Pluto TV (Alemanha)
-https://i.mjh.nz/PlutoTV/61923f794527a900078717b4-alt.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3428
 
 #EXTINF:-1 tvg-logo="https://imgur.com/LN0KVDo.png" group-title="Música", Kerrang! TV (Reino Unido)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
@@ -2211,10 +2211,7 @@ https://i.mjh.nz/PlutoTV/63170335b6fb51000723fae8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400004TU_20221109T010911SQUARE.png_20221109010912.png" group-title="Música", Stingray Cmusic - Samsung TV Plus (Itália)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_it_stingraycmusic_001.m3u8?ads.caid=stingraycmusic&ads.csid=samsungtvplus_it_stingraycmusic_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=nl&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=IT&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3853&ads.xumo_contentName=stingraycmusicitaly&ads.xumo_providerId=3853&ads.xumo_providerName=stingraycmusicitaly&ads.xumo_channelId=88826000&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=stingraycmusic_it&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Música", Stingray Music: Alternative - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Música", Stingray Music: Classic Rock - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Música", Stingray Music: Classic Rock - Plex (EUA)
 https://stream-us-east-1.getpublica.com/cl/230928ckaqprov7e9f332ni7eg/1920x1080_1856404_1_f.m3u8?i=513_1942
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Música", Stingray Music: Easy Listening - Plex (EUA)
@@ -2238,16 +2235,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded05
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="Música", Stingray Music: Pop Adult - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="Música", Stingray Music: Remember The '80s - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="Música", Stingray Music: Remember The '80s - Plex (EUA)
 https://stream-us-east-1.getpublica.com/cl/230928ckaqqf67d38s402ddvk0/1920x1080_1856404_1_f.m3u8?i=513_1948
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="Música", Stingray Music: Rock Alternative - Plex (EUA)
-https://stream.ads.ottera.tv/cl/230928ckaqt9tnk7tv1t55fsqg/1920x1080_1790800_1_f.m3u8?i=475_3026
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Música", Stingray Music: Rock Alternative - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Música", Stingray Music: Smooth Jazz - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Música", Stingray Music: Soul Storm - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/84bbc4c9-ab36-47c0-88f8-d2d2e67f657a/Soul_Storm.png" group-title="Música", Stingray Music: Soul Storm - Plex (EUA)
 https://stream-us-east-1.getpublica.com/cl/230928ckaqrn8ji6simjqn0cng/1920x1080_1856404_1_f.m3u8?i=513_1950
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="Música", Stingray Music: The Spa - Plex (EUA)
@@ -2465,6 +2462,9 @@ https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Summer Vibes - Pluto TV (Itália)
 https://i.mjh.nz/PlutoTV/626180ec537f210007e94b52-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Música", Vintage TV (Brasil)
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="Música", Vivaldi - Samsung TV Plus (Espanha)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -2884,9 +2884,6 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="Retrô", Urban Retro (Florianópolis/SC)
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Retrô", Vintage TV (Cotia/SP)
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
 ---
 
