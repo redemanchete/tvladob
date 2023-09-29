@@ -484,13 +484,16 @@ https://servidor34-1.brlogic.com:8096/live
 https://s30.maxcast.com.br:8190/live?id=1624640822121
 
 #EXTINF:-1 tvg-logo="https://radionanet.com/channel/DATA/1/images/logocapital-app.png" group-title="Web Rádio - Brasil", O Som da Capital Retrô (Vila Velha/ES)
-http://cast.midiaip.com.br:9770/;
+http://station.radionanet.com:8000/;
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60418a49201d0.png" group-title="Web Rádio - Brasil", Panamby FM (São Paulo/SP)
 http://server01.stmsg.com.br:6776/;
 
 #EXTINF:-1 tvg-logo="https://www.ilove.rio/wp-content/uploads/2021/09/BIG-LOGO.png" group-title="Web Rádio - Brasil", Paul in Rio Radio (Rio de Janeiro/RJ)
 https://usa10.fastcast4u.com/paulinrio
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14722_1682027028.png" group-title="Web Rádio - Brasil", Play FM (São Paulo/SP)
+https://24383.live.streamtheworld.com/PLAY_SPAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio22982_1479841481.jpg" group-title="Web Rádio - Brasil", Pool FM (São Paulo/SP)
 https://radios.poolwebwork.com.br/8010/stream
@@ -541,7 +544,7 @@ http://r10.ciclano.io:8029/stream.mp3
 https://stream1.svrdedicado.org/8186/stream
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qd61pQQ/512x512.png" group-title="Web Rádio - Brasil", Rádio Forró Tradicional (Rio de Janeiro/RJ)
-https://forrotradicional.com.br/listen/forrotradicional/mp3
+https://forrotradicional.com.br/listen/radioforrotradicional/mp3
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio35883_1551365798.jpg" group-title="Web Rádio - Brasil", Rádio Frevo (Recife/PE)
 https://node-24.zeno.fm/13k5az19srquv?1614966795282=&rj-tok=AAABeAOO1voASXBFAhvFIWJ0Cw&rj-ttl=5
