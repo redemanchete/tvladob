@@ -506,7 +506,7 @@ https://acesso.ecast.site:3142/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP 1 (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpAcores_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP Açores (Portugal)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/1024px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="Variedades - Mundo", RTP Açores (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/chunklist_b2540000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP África (Portugal)
