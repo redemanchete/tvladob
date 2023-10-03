@@ -1,6 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 02/10/2023
+ATUALIZADA EM 03/10/2023
 
 
 
@@ -300,7 +300,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regionais Fechados/Web", TCM 10 (Mossoró/RN)
-INDISPONÍVEL
+https://live.tcm10.com.br/fciwfZhMKlRrDNX4/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Regionais Fechados/Web", TV A Folha (Palmas/PR)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
@@ -641,7 +641,7 @@ https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/ind
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Variedades - Mundo", TVes (Venezuela)
-LINK INVÁLIDO
+https://ls.tves.gob.ve/hls/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Variedades - Mundo", Venezolana de Televisión (Venezuela)
 INDISPONÍVEL
@@ -2008,7 +2008,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=754
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d0f10def-3122-4b3b-a7ad-a50050a0babe/HAPPITV_LOGO_LIGHT.png" group-title="LGBTQIA+", HappiTV - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-623171af5995505c86629208/variant.m3u8?url=386b68bbc9dbdf33a501953687e6f5cc-5fa138873271350912b77214825602ecf165042a7c75c0f1ef51f33b2288a713f019ce695abf961450ba52907e2b96e91f5107e290194233a5cf8253c977d580dd55c73cd2b80aad6a1dc83c4fe5f45092fab5291c3d1234f79ca9d65d34ecbd&x-plex-token=ue-BXbx3YKq3RoDRsbHU&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1696356403
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1664
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="LGBTQIA+", Logo Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5ce5a8954311f992edbe1da2-alt.m3u8
@@ -2942,6 +2942,9 @@ https://i.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 #EXTINF:-1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/08/image006.png" group-title="Pets", Dogs 24/7 - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="Pets", Fido TV - Local Now (EUA)
+https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20230614T011917SQUARE.png_20230614011918.png" group-title="Pets", Love Pets - Samsung TV Plus (Reino Unido)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
@@ -3057,6 +3060,15 @@ https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fox/images/6/64/Marriedwithchildren.jpg" group-title="Retrô", Married with Children - Pluto TV (Reino Unido)
 https://i.mjh.nz/PlutoTV/6152d75abd229300079c7078-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV (Reino Unido)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV Comedy (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV Drama (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/The_Ed_Sullivan_Show.png" group-title="Retrô", The Ed Sullivan Show - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
