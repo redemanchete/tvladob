@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 29/09/2023
+ATUALIZADA EM 03/10/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -33,8 +33,14 @@ http://shout35.crossradio.com.br:8086/1/;
 #EXTINF:-1 tvg-logo="https://www.radiorock.com.br/wp-content/themes/89FM/static/img/logo89.png" group-title="Rádio FM - Brasil", 89.1 - 89 FM A Rádio Rock (São Paulo/SP)
 https://27593.live.streamtheworld.com/RADIO_89FMAAC
 
+#EXTINF:-1 tvg-logo="https://caraguapraiashopping.com.br/wp-content/uploads/2016/05/logo-caraguafm.png" group-title="Rádio FM - Brasil", 89.5 - Caraguá FM (Caraguatatuba/SP)
+https://str1.streamhostpg.com.br:8096/stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/NOVABRASIL_FM_logo_2020.png" group-title="Rádio FM - Brasil", 89.7 - NovaBrasil FM (São Paulo/SP)
 https://14203.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_globofm901salvador.png" group-title="Rádio FM - Brasil", 90.1 - GFM (Salvador/BA)
+https://f25.fabricahost.com.br/radiogfm
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaa4ba6c73.png" group-title="Rádio FM - Brasil", 90.1 - RBC FM (Goiânia/GO)
 https://server01.srvsh.com.br:8578/stream
@@ -155,6 +161,9 @@ http://cast4.audiostream.com.br:8650/mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.cadena.com.br/uploads/station/vertical_logo/158/riopreto.png" group-title="Rádio FM - Brasil", 98.3 - Lider FM (São José do Rio Preto/SP)
 https://centova2.svdns.com.br:20029/stream
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/62a79d87009ed.png" group-title="Rádio FM - Brasil", 98.5 - 012 News (São Sebastião/SP)
+https://9881.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_metropolitanafm985.png" group-title="Rádio FM - Brasil", 98.5 - Metropolitana (São Paulo/SP)
 https://ice.fabricahost.com.br/metropolitana985sp
