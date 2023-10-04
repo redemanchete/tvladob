@@ -300,7 +300,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png" group-title="Regionais Fechados/Web", TCM 10 (Mossoró/RN)
-LINK INVÁLIDO
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado-300x176.png" group-title="Regionais Fechados/Web", TV A Folha (Palmas/PR)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
@@ -2460,6 +2460,9 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="Música", TV Alvorada Sertaneja (Brasil)
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tumusicatelevision.com/logo512.png" group-title="Música", Tu Musica (República Dominicana)
+https://vdo2.streamgato.us:3886/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png" group-title="Música", Vevo '70s - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
