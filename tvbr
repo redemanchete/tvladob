@@ -997,6 +997,9 @@ https://ythls.onrender.com/video/XZ7BWbmvi94.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentários", NASA TV (EUA)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" group-title="Documentários", PBS Nature - Pluto TV (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/640a64bd73e013000893d4e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900009RR_20220412T152606SQUARE.png_20220412152607.png" group-title="Documentários", Radical Docs - Samsung TV Plus (Reino Unido)
 https://bae54c087b84434abe48434e47ce0cb6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_RadicalDocs/playlist.m3u8?ads.wurl_channel=1085&ads.wurl_name=RadicalDocs&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -1139,7 +1142,7 @@ https://younghollywood-lg.amagi.tv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esporte", BandSports (São Paulo/SP)
-https://cdn-1.nxplay.com.br/BAND_SPORTS_NXPLAY/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
@@ -1595,6 +1598,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime Espanto (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime Família (Brasil)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
 
@@ -1623,6 +1629,9 @@ https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8
 
 #EXTINF:-1, tvg-logo="https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png" group-title="Filmes e Séries", Canela Cinema - LG Channels (México)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="Filmes e Séries", Canela Clásicos (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20230712T021333SQUARE.png_20230712021333.png" group-title="Filmes e Séries" , Cine Clásico - Samsung TV Plus (Espanha)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00477-samsungelectron-cineclassico-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -2144,7 +2153,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Música", Kpop TV Play (Brasil)
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Música", KroneHIT TV (Áustria)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -2331,6 +2340,9 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="Música", Radio Power Pinamar (Argentina)
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="Música", Reload (Chipre)
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Música", Retro Music Television (República Tcheca)
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
@@ -2677,9 +2689,6 @@ https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Notícias", CNN Brasil - Soul TV (Brasil)
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1024px-CNN_Portugal.svg.png" group-title="Notícias", CNN Portugal
-https://bit.ly/41Pufgt?/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-portalviu.nuneshost.com/wp-content/uploads/2022/02/D-News-750x375.jpg" group-title="Notícias", D+ News (Campos dos Goytacazes/RJ)
 https://virtues.es:1936/portalviu/portalviu/chunklist_w2030673226.m3u8
@@ -3109,9 +3118,6 @@ https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Televendas", TV+ ABC (São Bernardo do Campo/SP)
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://uptvamericana.com.br/wp-content/uploads/2021/08/UPTV.jpg" group-title="Televendas", Up! TV (Americana/SP)
-https://ythls.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 
 
 
