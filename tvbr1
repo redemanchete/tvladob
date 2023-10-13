@@ -223,14 +223,11 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvuniaobrasilia.com.br/wp-content/uploads/2020/01/Lg_Tv_Uniao_Bsb_Canal_Neg_300px.png" group-title="Regionais Abertos Brasil", TV União (Brasília/DF)
 https://stream-cdn.uniaoplus.com/l8SnNK6SEB/cef3db0e459d981c982e7021567052f2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União - Rede (Fortaleza/CE)
 https://stream-cdn.uniaoplus.com/j47fsfH8PB/a228b840d301c58a90271cbbdbfdb5cd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Rio Branco/AC)
-https://stream-cdn.uniaoplus.com/j47fsfH8PB/a228b840d301c58a90271cbbdbfdb5cd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="Regionais Abertos Brasil", TVM (Belém/PA)
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
@@ -356,7 +353,7 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Regionais Fechados/Web", TV Max (Rio de Janeiro/RJ)
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11866/thumb_TV_METROPOLITANA_RIO_.jpeg" group-title="Regionais Fechados/Web", TV Metropolitana (Duque de Caxias/RJ)
+#EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="Regionais Fechados/Web", TV Metropolitana (Duque de Caxias/RJ)
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Regionais Fechados/Web", TV Mon (Montenegro/RS)
@@ -367,6 +364,9 @@ https://ythlsgo.onrender.com/video/0wRhAVRIB1U.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WckRWld.png" group-title="Regionais Fechados/Web", TV Paraense (Castanhal/PA)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvsetelagoas.com.br/wp-content/uploads/2022/07/Logo-TVSL-XX.png" group-title="Regionais Fechados/Web", TV Sete Lagoas (Sete Lagoas/MG)
+https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/chunklist_w734330869.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title="Regionais Fechados/Web", TV Sol (Patos/PB)
 https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8
