@@ -958,11 +958,33 @@ https://twistedmirror-twistedmirrorcomedy-1-gb.lg.wurl.tv/playlist.m3u8
 
 >> DOCUMENTÁRIOS
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1024px-2018_Animal_Planet_logo.svg.png" group-title="Documentários", Animal Planet (Brasil)
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Detetives Médicos - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/638df93ae2f2a3000737c168-alt.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Documentários", Discovery Channel (Brasil)
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Documentários", Discovery Science (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="Documentários", Discovery Turbo (Brasil)
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png" group-title="Documentários", Discovery World (Brasil)
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" group-title="Documentários", History (Brasil)
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/992px-History2_logo_%282022%29.svg.png" group-title="Documentários", History 2 (Brasil)
+https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Os Arquivos do FBI - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/620d12a82e8ac50007c269c3-alt.m3u8
@@ -1102,7 +1124,7 @@ https://d1t832jhtoignv.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
-https://ythls.onrender.com/video/E-7BGdeFSn4.m3u8
+https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masterchef-logo-8FCDF32710-seeklogo.com.png" group-title="Entretenimento e Reality Shows", MasterChef - LG Channels (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
@@ -1215,7 +1237,7 @@ https://younghollywood-lg.amagi.tv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esporte", BandSports (São Paulo/SP)
-INDISPONÍVEL
+http://187.95.95.243/Band-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
@@ -1557,6 +1579,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Filmes e Séries", AWTV (São Paulo/SP)
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Filmes e Séries", AXN (Brasil)
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/26/1523456625-betlogo.jpg" group-title="Filmes e Séries", BET Being Mary Jane - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/60a8126a0ac3970007f850fe-alt.m3u8
 
@@ -1589,6 +1614,9 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1280px-Filmrise.svg.png" group-title="Filmes e Séries", Filmrise Séries Gratuitas - Samsung TV Plus (Brasil)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="Filmes e Séries", FX (Brasil)
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Filmes e Séries", Grjngo - Samsung TV Plus (Brasil)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
@@ -1685,6 +1713,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Schitt%27s_Creek_logo.svg/1280px-Schitt%27s_Creek_logo.svg.png" group-title="Filmes e Séries", Schitt's Creek - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/620aca7a4d8ea4000778338a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Filmes e Séries", Sony Channel (Brasil)
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" group-title="Filmes e Séries", Sony Movies (Brasil)
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Filmes e Séries", Sony One Emoções - Samsung TV Plus (Brasil)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
@@ -1987,6 +2021,12 @@ http://cdn.connectbr.com.br/Clubinho/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo-coco.png" group-title="Infantil e Desenhos", Cocoricó - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Infantil e Desenhos", Discovery Kids (Brasil)
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" group-title="Infantil e Desenhos", Disney Channel (Brasil)
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="Infantil e Desenhos", Kenan & Kel - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8
@@ -2770,7 +2810,7 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias", BM&C NEWS (São Paulo/SP)
-https://ythls.onrender.com/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
+https://ythlsgo.onrender.com/video/pbBIZSJ0WVo.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias", Canal Empreender (São Paulo/SP)
 https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
@@ -2817,7 +2857,7 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1255371156_b130
 https://d1k8v5k0ykq3a4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-byvm47b0zy7nu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EEUGnKM.png" group-title="Notícias", C5N (Argentina)
-https://ythls.onrender.com/video/xwupNXFI7-4.m3u8
+https://ythlsgo.onrender.com/video/xwupNXFI7-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Notícias", Canal 26 (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
