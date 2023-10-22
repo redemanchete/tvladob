@@ -1,6 +1,6 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 18/10/2023
+ATUALIZADA EM 21/10/2023
 
 
 
@@ -108,6 +108,9 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w2072262570_b15441
 #EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="Públicos/Educativos Brasil", TV Vale/Rede Minas (Diamantina/MG)
 https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="Públicos/Educativos Brasil", TV Viçosa (Viçosa/MG)
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos Brasil", UNBTV (Brasília/DF)
 https://edge-sp-01.eduplay.rnp.br/media/ocp(r(bHlKsg)t(F41_vhYq9Bg)p(d(ODc)k(Be4)m(V57NPuYNUh76-xKMfwLaPg)n(a(fGqX7y9zJE1kLoyP5vX4lXiMXNw)s(L6I)'a(kAWbMY7w_GCuoBTA07wS2T_U)s(yVo)))s(t(NHE)b(uQlVmRLpzsDrkplcXJJEZNypyMaT0Z9bRGbpsKvlGNF--EI0W4Zbhl33Acggms1bQ3RFVhAaUT6qoFtWa8c0FMwiIkb_v8z5BbpMgwWnyXB2isxckTICzJc1V24z1QQfr9wYofgms1cVh5xAjLpF10juALiOZ9DDIRdXYow)'t(Z0o)b(kjVXrQvGOYy0vWE5SbTs0ZBX42RyGNWrtu8)))/720_index.m3u8
 
@@ -124,49 +127,49 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="Redes Abertas e Afiliadas Brasil", Band (São Paulo/SP)
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Redes Abertas e Afiliadas Brasil", Band: RBATV (Belém/PA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Redes Abertas e Afiliadas Brasil", Band / RBATV (Belém/PA)
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta: 40 Graus TV (Lauro de Freitas/BA)
+#EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta / 40 Graus TV (Lauro de Freitas/BA)
 https://acesso.ecast.site:3125/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/cabecalho-7296-20211201143202.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta: TV Alternativa (São Luís/MA)
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/cabecalho-7296-20211201143202.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta / TV Alternativa (São Luís/MA)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta: TV Grão Pará (Belém/PA)
+#EXTINF:-1 tvg-logo="https://www.tvgraopara.com.br/wp-content/uploads/2018/11/loggazeta.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta / TV Grão Pará (Belém/PA)
 https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Redes Abertas e Afiliadas Brasil", RBTV: BRSuperTV - Soul TV (Brasil)
+#EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Redes Abertas e Afiliadas Brasil", RBTV / BRSuperTV - Soul TV (Brasil)
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DEWyBTC.png" group-title="Redes Abertas e Afiliadas Brasil", RBTV: Virtual TV 2 (Curitiba/PR)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DEWyBTC.png" group-title="Redes Abertas e Afiliadas Brasil", RBTV / Virtual TV 2 (Curitiba/PR)
 https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Redes Abertas e Afiliadas Brasil", Record: TV Tropical (Natal/RN)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Redes Abertas e Afiliadas Brasil", Record / TV Tropical (Natal/RN)
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="Redes Abertas e Afiliadas Brasil", Record: TV Vila Real (Cuiabá/MT)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="Redes Abertas e Afiliadas Brasil", Record / TV Vila Real (Cuiabá/MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Redes Abertas e Afiliadas Brasil", Rede Brasil (São Paulo/SP)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="Redes Abertas e Afiliadas Brasil", Rede Brasil: TV Brasil Oeste (Cuiabá/MT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="Redes Abertas e Afiliadas Brasil", Rede Brasil / TV Brasil Oeste (Cuiabá/MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="Redes Abertas e Afiliadas Brasil", Rede Brasil: TV Brusque (Brusque/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="Redes Abertas e Afiliadas Brasil", Rede Brasil / TV Brusque (Brusque/SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="Redes Abertas e Afiliadas Brasil", Rede Brasil: TV Marajoara (Belém/PA)
+#EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="Redes Abertas e Afiliadas Brasil", Rede Brasil / TV Marajoara (Belém/PA)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Redes Abertas e Afiliadas Brasil", RedeTV!: TV Arapuan (João Pessoa/PB)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Redes Abertas e Afiliadas Brasil", RedeTV! / TV Arapuan (João Pessoa/PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Redes Abertas e Afiliadas Brasil", RedeTV!: TV Pampa (Porto Alegre/RS)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Redes Abertas e Afiliadas Brasil", RedeTV! / TV Pampa (Porto Alegre/RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="Redes Abertas e Afiliadas Brasil", RedeTV!: TV Pantanal (Cuiabá/MT)
+#EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="Redes Abertas e Afiliadas Brasil", RedeTV! / TV Pantanal (Cuiabá/MT)
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="Redes Abertas e Afiliadas Brasil", SBT (São Paulo/SP)
@@ -181,13 +184,22 @@ https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="Redes Abertas e Afiliadas Brasil", SBT RS - YouTube (Porto Alegre/RS)
 https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Redes Abertas e Afiliadas Brasil", SBT: TV Aratu (Salvador/BA)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Redes Abertas e Afiliadas Brasil", SBT / TV Aratu (Salvador/BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Redes Abertas e Afiliadas Brasil", SBT: TV Jornal (Recife/PE)
+#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="Redes Abertas e Afiliadas Brasil", SBT / TV Cidade Verde (Teresina/PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Redes Abertas e Afiliadas Brasil", SBT / TV Jornal (Recife/PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", TV Globo (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", TV Globo Nordeste (Recife/PE)
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", TV Globo RJ (Rio de Janeiro/RJ)
+http://bdtb.io/live/378724/pcapQ5/131182.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", TV Globo SP (São Paulo/SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 
@@ -247,9 +259,6 @@ https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Abertos Brasil", TV Padre Cícero - aberto TVRO (Juazeiro do Norte/CE)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="Regionais Abertos Brasil", TV Poços (Poços de Caldas/MG)
-https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos Brasil", TV Santa Cecília (Santos/SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
@@ -445,8 +454,14 @@ https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL-avc1_149
 #EXTINF:-1 tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png" group-title="Regionais América Latina", Catatumbo TV (Venezuela)
 https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTWGxCL.png" group-title="Regionais América Latina", Colosal TV (Costa Rica)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1237
+
 #EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="Regionais América Latina", Ecotel Tv (Equador)
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/guaymate-tv.jpg" group-title="Regionais América Latina", Guaymate TV (República Dominicana)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1238
 
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="Regionais América Latina", Hechos (Equador)
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
@@ -711,6 +726,9 @@ https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="Arte e Cultura", Arte1 (São Paulo/SP)
 https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1024px-Logo_of_Bis.svg.png" group-title="Arte e Cultura", Bis (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71809.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Arte e Cultura", CineBRASiL TV (Rio de Janeiro/RJ)
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
@@ -778,9 +796,18 @@ http://linear-136.frequency.stream/136/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Arte e Cultura", Pluto TV Music (Reino Unido)
 https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Arte e Cultura", Pulse TV (EUA)
+https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playlist.m3u8
+
 
 
 >> CASA E DESIGN
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Documentários", Discovery Home & Health (Brasil)
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1024px-HGTV_US_Logo_2015.svg.png" group-title="Documentários", HGTV (Brasil)
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200022N1_20230712T001522SQUARE.png_20230712001523.png" group-title="Casa e Design", Homeful - Samsung TV Plus (Brasil)
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
@@ -964,21 +991,20 @@ https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Detetives Médicos - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/638df93ae2f2a3000737c168-alt.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Documentários", Discovery Channel (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Documentários", Discovery Science (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentários", Discovery Theater (Brasil)
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="Documentários", Discovery Turbo (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png" group-title="Documentários", Discovery World (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" group-title="Documentários", History (Brasil)
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
@@ -1068,9 +1094,6 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8?WebM3UCL
 
 ---
 
-#EXTINF:-1 tvg-logo="https://imgur.com/qK2RI85.png" group-title="Documentários", 4K Travel - DistroTV (EUA)
-https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_360p_1000014572.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png" group-title="Documentários", Adventure Earth - Samsung TV Plus (Reino Unido)
 https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8?ads.wurl_channel=1299&ads.wurl_name=AdventureEarth&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -1079,6 +1102,15 @@ https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300019UD_20221214T015232SQUARE.png_20221214015232.png" group-title="Documentários", Documentary+ - Samsung TV Plus (EUA)
 https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBaRQVy.png" group-title="Documentários", Docurama (EUA)
+https://docurama-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/5e5f37d3-b153-4095-9c37-bf56f2f129de_Guinness+World+Records+TV+-+Channel+Logo+xxx+x+100+%281%29.png" group-title="Documentários", Guinness World Records TV (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="Documentários", Horror Machine - Local Now (EUA)
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentários", Love Nature 4K - Samsung TV Plus (EUA)
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -1092,6 +1124,12 @@ https://ythls.onrender.com/video/XZ7BWbmvi94.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentários", NASA TV (EUA)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Documentários", PBS America - Samsung TV Plus (EUA)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20210525T051730.png" group-title="Documentários", PBS Digital Studios - Local Now (EUA)
+https://pbsdigitalstudios-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61b9461c09bbcb320a08607d_pbsdigitalstudios-live/playlist.m3u8?ads.tag_id=localnow&ads.aml=1
+
 #EXTINF:-1 tvg-logo="https://www.wnet.org/wp-content/uploads/sites/1/2023/04/PBS-Nature_h.jpg" group-title="Documentários", PBS Nature - Pluto TV (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/640a64bd73e013000893d4e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -1103,6 +1141,9 @@ https://a08e742423dc48aea37cfab512a3ef39.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentários", RTD (Rússia)	
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="Documentários", UN Web TV - ONU (EUA)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vice_logo.svg/1024px-Vice_logo.svg.png" group-title="Documentários", VICE - Samsung TV Plus (EUA)
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -1120,17 +1161,29 @@ https://d1t832jhtoignv.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 
 >> ENTRETENIMENTO E REALITY SHOWS
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="Entretenimento e Reality Shows", A&E (Brasil)
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/j9fmTSw.png" group-title="Entretenimento e Reality Shows", Chic Brasil TV (Rio de Janeiro/RJ)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
 https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/316px-E%21_Logo.svg.png" group-title="Entretenimento e Reality Shows", E! (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entretenimento e Reality Shows", Lifetime (Brasil)
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masterchef-logo-8FCDF32710-seeklogo.com.png" group-title="Entretenimento e Reality Shows", MasterChef - LG Channels (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masterchef-logo-8FCDF32710-seeklogo.com.png" group-title="Entretenimento e Reality Shows", MasterChef - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV (Brasil)
+http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f1212fb81e85c00077ae9ef-alt.m3u8
@@ -1153,6 +1206,9 @@ https://i.mjh.nz/PlutoTV/620fdc7d8a36fc000710e3ba-alt.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV Shore - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="Entretenimento e Reality Shows", Multishow (Brasil)
+http://bdtb.io/live/378724/pcapQ5/131134.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Entretenimento e Reality Shows", Paramount+ Apresenta - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
 
@@ -1170,6 +1226,9 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Entretenimento e Reality Shows", Sony One Shark Tank - Samsung TV Plus (Brasil)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="Entretenimento e Reality Shows", TLC (Brasil)
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 ---
 
@@ -1211,6 +1270,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1507
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmOUAQ1.png" group-title="Entretenimento e Reality Shows", Made in Hollywood TV (EUA)
 INDISPONÍVEL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u76VwDr.png" group-title="Entretenimento e Reality Shows", Miami TV (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
+
 #EXTINF:-1 tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/12/abca6e60-cbf4-4c45-80b7-e523a12dec6b/thumbnail/1200x630/a63a6b4edbf698f36a50bc9fc410f0b3/mixible-logo-1920-1080.jpg" group-title="Entretenimento e Reality Shows", Mixible - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5dc0c78281eddb0009a02d5e-alt.m3u8
 
@@ -1230,7 +1292,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://younghollywood-lg.amagi.tv/playlist.m3u8
 
 
-
 >> ESPORTE
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png" group-title="Esporte", All Sports TV (Brasília/DF)
@@ -1238,6 +1299,24 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esporte", BandSports (São Paulo/SP)
 http://187.95.95.243/Band-Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Esporte", Combate (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71846.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Esporte", ESPN (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71914.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Esporte", ESPN 2 (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71923.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esporte", ESPN 3 (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71910.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="Esporte", ESPN 4 (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71961.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png" group-title="Esporte", ESPN Extra (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71918.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
@@ -1266,6 +1345,9 @@ https://i.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="Esporte", Pop Bola - Soul TV (Brasil)
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esporte", Premiere Clubes (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72266.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/oOIB3QZ.png" group-title="Esporte", Urban Sports (Florianópolis/SC)
 https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 
@@ -1280,8 +1362,14 @@ https://i.mjh.nz/PlutoTV/63eba66da8b2270008436b10-alt.m3u8
 
 ---
 
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-canela_deportes-16x9.jpg" group-title="Esporte", Canela Deportes (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/CHVDeportes.png" group-title="Esporte", Chilevision Deportes - Pluto TV (Chile)
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7jxA4O4.png" group-title="Esportes em espanhol", Combate Global (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Esporte", DeporTV (Argentina)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
@@ -1361,6 +1449,9 @@ https://cdn-1.nxplay.com.br/cheftv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20220323T072552SQUARE.png_20220323072555.png" group-title="Estilo de Vida e Bem-Estar", FashionTV / Box Brazil (Porto Alegre/RS)
 http://cdn-1.nxplay.com.br/FASHION_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1024px-GNT_logo-roxo.svg.png" group-title="Estilo de Vida e Bem-Estar", GNT (Brasil)
+http://bdtb.io/live/378724/pcapQ5/131136.m3u8
+
 #EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/inspire_newLogo.png" group-title="Estilo de Vida e Bem-Estar", Inspire (São Paulo/SP)
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 
@@ -1420,6 +1511,9 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Estilo de Vida e Bem-Estar", INFASTV - LG Channels (Espanha)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-lges/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida e Bem-Estar", Pluto TV Mundo (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida e Bem-Estar", Pluto TV Viajes (Espanha)
 https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
 
@@ -1437,14 +1531,26 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
 ---
 
+#EXTINF:-1 tvg-logo="https://imgur.com/qK2RI85.png" group-title="Estilo de Vida e Bem-Estar", 4K Travel - DistroTV (EUA)
+https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_360p_1000014572.m3u8
+
 #EXTINF:-1 tvg-logo="https://d2culxnxbccemt.cloudfront.net/craft/content/uploads/2023/04/27110026/logo-craftsytv-1920x1080-colored-transparent-e1682611408928.png" group-title="Estilo de Vida e Bem-Estar", CraftsyTV - Plex (EUA)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b423ff8b-a491-48ae-8148-7f30ac09d7c9/Jacob_Gordon_-_Commune_Logo_Light.png" group-title="Estilo de Vida e Bem-Estar", Commune - Plex (EUA)
 https://a3b333b2cdfb4b05934aa1a4c3fd26d4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_Commune/playlist.m3u8?ads.wurl_channel=996&ads.wurl_name=Commune&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=618adcbb6769b2b0bcc4c17f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TH4f1d.png" group-title="Estilo de Vida e Bem-Estar", Destinations - Local Now (EUA)
+http://linear-249.frequency.stream/249/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20220323T072552SQUARE.png_20220323072555.png" group-title="Estilo de Vida e Bem-Estar", FashionTV - LG Channels (Brasil)
 https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzDE0qH.png" group-title="Estilo de Vida e Bem-Estar", GoTraveler (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=703
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" group-title="Estilo de Vida e Bem-Estar", GoUSA TV - Plex (EUA)
+https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Estilo de Vida e Bem-Estar", INFASTV - Samsung TV Plus (Canadá)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insightcanada/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -1576,6 +1682,9 @@ https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="Filmes e Séries", Adrenalina Free Zone - Samsung TV Plus (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" group-title="Filmes e Séries", AMC (Brasil)
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Filmes e Séries", AWTV (São Paulo/SP)
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
@@ -1596,6 +1705,9 @@ http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="Filmes e Séries", Cindie Lite - Samsung TV Plus (Brasil)
 INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1024px-Cinemax_%28Yellow%29.svg.png" group-title="Filmes e Séries", Cinemax (Brasil)
+http://bdtb.io/live/378724/pcapQ5/71836.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Filmes e Séries", CineMonde - Soul TV (Brasil)
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
@@ -1621,6 +1733,33 @@ http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Filmes e Séries", Grjngo - Samsung TV Plus (Brasil)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1024px-HBO-Logo.svg.png" group-title="Filmes e Séries", HBO (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72120.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes e Séries", HBO 2 (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72113.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/991px-HBO_Family.svg.png" group-title="Filmes e Séries", HBO Family (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72117.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="Filmes e Séries", HBO Mundi (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72124.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1024px-Logohboplus2019.svg.png" group-title="Filmes e Séries", HBO Plus (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72128.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="Filmes e Séries", HBO Pop (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72131.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1024px-HBO_Signature.svg.png" group-title="Filmes e Séries", HBO Signature (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72137.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="Filmes e Séries", HBO Xtreme (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72141.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes e Séries", Megapix (Brasil)
+http://bdtb.io/live/378724/pcapQ5/131204.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Filmes e Séries", MyTime Movie Network - Samsung TV Plus (Brasil)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -1629,6 +1768,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NCIS_%28TV_series%29_logo.svg/1280px-NCIS_%28TV_series%29_logo.svg.png" group-title="Filmes e Séries", NCIS - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1028px-Paramount_Network.svg.png" group-title="Filmes e Séries", Paramount Network (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72220.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes e Séries", Pluto TV Cine Clássicos (Brasil)
 https://i.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
@@ -1723,17 +1865,53 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Filmes e Séries", Sony One Emoções - Samsung TV Plus (Brasil)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="Filmes e Séries", Space (Brasil)
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="Filmes e Séries", SparkTV - Samsung TV Plus (Brasil)
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Filmes e Séries", Studio Universal (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72337.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Action (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72348.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Cult (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72353.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Fun (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72357.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Pipoca (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72361.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Premium (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72365.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Touch (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72369.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/The_Night_Shift_TV_series_logo.png" group-title="Filmes e Séries", The Night Shift Plantão Noturno - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Filmes e Séries", TNT (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72379.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filmes e Séries", TNT Series (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72384.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1024px-Universal_TV_logo.svg.png" group-title="Filmes e Séries", Universal TV (Brasil)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ce0WVu2.png" group-title="Filmes e Séries", Urban Movies (Florianópolis/SC)
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="Filmes e Séries", Urban Séries (Florianópolis/SC)
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Filmes e Séries", Warner Channel (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72434.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Younger_TV_Land.png" group-title="Filmes e Séries", Younger - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8
@@ -1791,6 +1969,9 @@ https://i.mjh.nz/PlutoTV/633354b63df9700007f6a1b7-alt.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20230321T235935SQUARE.png_20230321235935.png" group-title="Game Shows", Estrella Games - Samsung TV Plus (EUA)
 https://dzvxsnyfypf89.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-capgn47t0bph3-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuYDVnj.png" group-title="Game Shows", Minuto Para Ganar - Pluto TV (Argentina)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Game Shows", Sony Canal Competencias - Samsung TV Plus (EUA)
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
@@ -1841,6 +2022,9 @@ https://d2stx9idyk58lb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 >> GASTRONOMIA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="Gastronomia", Food Network (Brasil)
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Gastronomia", Pluto TV KFOOD (Brasil)
 https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
@@ -2028,6 +2212,12 @@ https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" group-title="Infantil e Desenhos", Disney Channel (Brasil)
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1024px-Gloob_logo.svg.png" group-title="Infantil e Desenhos", Gloob (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72100.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1024px-Gloobinho_logo.svg.png" group-title="Infantil e Desenhos", Gloobinho (Brasil)
+http://bdtb.io/live/378724/pcapQ5/131173.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="Infantil e Desenhos", Kenan & Kel - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8
 
@@ -2040,6 +2230,9 @@ https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Clássico - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Jr (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72204.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Jr. Club - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8
 
@@ -2048,6 +2241,9 @@ https://i.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Teen - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/60f5fabf0721880007cd50e3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nickelodeon (Brasil)
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nickelodeon iCarly - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/620ff46e0a576e0007dc2f89-alt.m3u8
@@ -2093,6 +2289,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52LSunV.png" group-title="Infantil e Desenhos", TV R - Soul TV (Brasil)
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvratimbum.com.br/_img/tvratimbum.png" group-title="Infantil e Desenhos", TV Rá Tim Bum (São Paulo/SP)
+http://bdtb.io/live/378724/pcapQ5/72415.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Infantil e Desenhos", TV ZYN - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
@@ -2322,6 +2521,9 @@ https://i.mjh.nz/PlutoTV/6130d6f3f3f7bb0007dbd092-alt.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Flow Latino - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="Música", MTV Live (EUA)
+http://bdtb.io/live/378724/pcapQ5/72177.m3u8
+
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Alemanha)
 https://i.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
 
@@ -2450,9 +2652,6 @@ https://i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Summer Hits (França)
 https://i.mjh.nz/PlutoTV/625e810f0035910007da288b-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Música", Pulse TV (EUA)
-https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Música", Qwest TV - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
@@ -2818,9 +3017,6 @@ https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Notícias", CNN Brasil - Soul TV (Brasil)
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-portalviu.nuneshost.com/wp-content/uploads/2022/02/D-News-750x375.jpg" group-title="Notícias", D+ News (Campos dos Goytacazes/RJ)
-https://virtues.es:1936/portalviu/portalviu/chunklist_w2030673226.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Notícias", Euronews em Português (França)
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -3075,6 +3271,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20230321T235909SQUARE.png_20230321235909.png" group-title="Novelas", Sony Canal Novelas - Samsung TV Plus (EUA)
 https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Novelas con La Abuela (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Telenovelas (Espanha)
 https://i.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
 
@@ -3095,6 +3294,11 @@ https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20230125T022555SQUARE.png_20230125022556.png" group-title="Novelas", ViX Villanos de Novela - Samsung TV Plus (EUA)
 https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-046v2vm0cpvjt-ssai-prd/dist/samsungtv/339/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Soaps (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c5f80f71f660007a2ad8e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 
@@ -3203,6 +3407,9 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Starskyandhutch-logo.svg/1024px-Starskyandhutch-logo.svg.png" group-title="Retrô", Starsky & Hutch - Justiça em Dobro - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" group-title="Retrô", TCM (Brasil)
+https://s.m3u9.top/a2/hls1/tcm/__index.m3u8?mu3zAQc9HC3GbwJq=NEeC0XAyedVDLoo9wunFjw&3U1G7qaTxrPbalZnEx=1697629323
+
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="Retrô", TV Clássicos (Rio de Janeiro/RJ)
 https://live01.livemustv.com.br/tv1716/tv1716/chunklist_w294859121.m3u8
 
@@ -3216,7 +3423,10 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="Retrô", Urban Retro (Florianópolis/SC)
-INDISPONÍVEL
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1024px-Canal_Viva_2018_wordmark.svg.png" group-title="Retrô", Viva (Brasil)
+http://bdtb.io/live/378724/pcapQ5/72430.m3u8
 
 ---
 
