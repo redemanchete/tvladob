@@ -1,6 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
-ATUALIZADA EM 21/10/2023
+
+ATUALIZADA EM 22/10/2023
 
 
 
@@ -56,6 +57,9 @@ https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Públicos/Educativos Brasil", TV Ceará (Fortaleza/CE)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eassim.com.br/wp-content/uploads/2021/09/tvcidada21-e1632411674425.jpg" group-title="Públicos/Educativos Brasil", TV Cidadã (Maceió/AL)
+https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Públicos/Educativos Brasil", TV Cultura - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
@@ -193,9 +197,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Redes Abertas e Afiliadas Brasil", SBT / TV Jornal (Recife/PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", TV Globo Nordeste (Recife/PE)
-http://bdtb.io/live/378724/pcapQ5/71760.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", TV Globo RJ (Rio de Janeiro/RJ)
 http://bdtb.io/live/378724/pcapQ5/131182.m3u8
 
@@ -266,14 +267,14 @@ http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png" group-title="Regionais Abertos Brasil", TV Thathi (Ribeirão Preto/SP)
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvuniaobrasilia.com.br/wp-content/uploads/2020/01/Lg_Tv_Uniao_Bsb_Canal_Neg_300px.png" group-title="Regionais Abertos Brasil", TV União (Brasília/DF)
-https://stream-cdn.uniaoplus.com/l8SnNK6SEB/cef3db0e459d981c982e7021567052f2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Regionais Abertos Brasil", TV União (Brasília/DF)
+https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
-https://stream-cdn.uniaoplus.com/j47fsfH8PB/a228b840d301c58a90271cbbdbfdb5cd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
-https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Regionais Abertos Brasil", TV União (Natal/RN)
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="Regionais Abertos Brasil", TVM (Belém/PA)
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
@@ -402,11 +403,17 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web", TV Nordestina (Campina Grande/PB)
 https://ythlsgo.onrender.com/video/0wRhAVRIB1U.m3u8
 
+#EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="Regionais Fechados/Web", TV Otimista (Fortaleza/CE)
+https://5a1e323a9ae38.directradios.com/otimista/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/KH4Ai8a.png" group-title="Regionais Fechados/Web", TV Pantanal MS (Campo Grande/MS)
 https://59d39900ebfb8.streamlock.net/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WckRWld.png" group-title="Regionais Fechados/Web", TV Paraense (Castanhal/PA)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sulcariri.com.br/wp-content/uploads/2023/02/tv-sul-cariri-logo-site-2.png" group-title="Regionais Fechados/Web", TV Sul Cariri (Ipaumirim/CE)
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="Regionais Fechados/Web", SerTão TV (Quixeramobim/CE)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
@@ -700,7 +707,7 @@ https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/ind
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" group-title="Variedades - Mundo", TVes (Venezuela)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1657
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Variedades - Mundo", Venezolana de Televisión (Venezuela)
 INDISPONÍVEL
@@ -743,9 +750,6 @@ http://cdn-1.nxplay.com.br/MUSIC_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Arte e Cultura", Prime Box Brazil (Porto Alegre/RS)
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/rtppalco-partilha2.jpg" group-title="Arte e Cultura", RTP Palco (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:palco1HD.smil/chunklist_b4192000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Arte e Cultura", Sesc TV (São Paulo/SP)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index1080p.m3u8
@@ -803,10 +807,10 @@ https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playli
 
 >> CASA E DESIGN
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Documentários", Discovery Home & Health (Brasil)
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Casa e Design", Discovery Home & Health (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1024px-HGTV_US_Logo_2015.svg.png" group-title="Documentários", HGTV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1024px-HGTV_US_Logo_2015.svg.png" group-title="Casa e Design", HGTV (Brasil)
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200022N1_20230712T001522SQUARE.png_20230712001523.png" group-title="Casa e Design", Homeful - Samsung TV Plus (Brasil)
@@ -1170,9 +1174,6 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
 https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/316px-E%21_Logo.svg.png" group-title="Entretenimento e Reality Shows", E! (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71760.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entretenimento e Reality Shows", Lifetime (Brasil)
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
@@ -1181,9 +1182,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masterchef-logo-8FCDF32710-seeklogo.com.png" group-title="Entretenimento e Reality Shows", MasterChef - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV (Brasil)
-http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f1212fb81e85c00077ae9ef-alt.m3u8
@@ -1368,7 +1366,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/CHVDeportes.png" group-title="Esporte", Chilevision Deportes - Pluto TV (Chile)
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7jxA4O4.png" group-title="Esportes em espanhol", Combate Global (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7jxA4O4.png" group-title="Esporte", Combate Global (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Esporte", DeporTV (Argentina)
@@ -1682,7 +1680,7 @@ https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="Filmes e Séries", Adrenalina Free Zone - Samsung TV Plus (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" group-title="Filmes e Séries", AMC (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1024px-AMC_logo_2016.svg.png" group-title="Filmes e Séries", AMC (Brasil)
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Filmes e Séries", AWTV (São Paulo/SP)
@@ -1902,7 +1900,7 @@ http://bdtb.io/live/378724/pcapQ5/72379.m3u8
 http://bdtb.io/live/378724/pcapQ5/72384.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1024px-Universal_TV_logo.svg.png" group-title="Filmes e Séries", Universal TV (Brasil)
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ce0WVu2.png" group-title="Filmes e Séries", Urban Movies (Florianópolis/SC)
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
@@ -1910,7 +1908,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="Filmes e Séries", Urban Séries (Florianópolis/SC)
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Filmes e Séries", Warner Channel (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Filmes e Séries", Warner Channel (Brasil)
 http://bdtb.io/live/378724/pcapQ5/72434.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Younger_TV_Land.png" group-title="Filmes e Séries", Younger - Pluto TV (Brasil)
@@ -3408,10 +3406,10 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
 https://i.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" group-title="Retrô", TCM (Brasil)
-https://s.m3u9.top/a2/hls1/tcm/__index.m3u8?mu3zAQc9HC3GbwJq=NEeC0XAyedVDLoo9wunFjw&3U1G7qaTxrPbalZnEx=1697629323
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="Retrô", TV Clássicos (Rio de Janeiro/RJ)
-https://live01.livemustv.com.br/tv1716/tv1716/chunklist_w294859121.m3u8
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiT8rTTMZzg3GcVNjbI70g0C15xy4zH673ZMDqNn-0QaR9Kq_uISudMYjHyRI-bzQmqEX2d-IOEuZ0WrqhpYWzafkFpiCv5lEZvaSjcOaWkjSrmQNm6bwL8v2wMqiOPB0-Kv5TC7E14Gw3_fo7PR5uhbOmIBj3ikMkyEH2U1IzzdrsVBa4XqPglg5zvw/w1200-h630-p-k-no-nu/LOGO%20TV%202%20(1).png" group-title="Retrô", TV Clássicos do Cinema (Manaus/AM)
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
