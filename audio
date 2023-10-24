@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 04/10/2023
+ATUALIZADA EM 23/10/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -470,6 +470,39 @@ http://hts03.kshost.com.br:9416/stream
 
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/hotgrooveradio.com/images/logo/logo_2111475349.png" group-title="Web Rádio - Brasil", Hot Groove Rádio (São Paulo/SP)
 http://hts03.kshost.com.br:9214/;
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - 80's Retro (Brasília/DF)
+https://hls.hunter.fm/80s/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Hits Brasil (Brasília/DF)
+https://hls.hunter.fm/hitsbrasil/64.m3u8?shtl=7KWu3SjMvgY-GhV1-8B6b9rB.lpykqpyxgqfSK4vGJSb3tqheOVp2UggEshcePVZJDVw
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Lofi (Brasília/DF)	
+https://hls.hunter.fm/lofi/64.m3u8?shtl=DLcJEVJHICIKKhbnHs9pDmA5.8idwMHweipVaSH6gIIeRhUbFa95irwSGgMXkUX6bif4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Moda Sertaneja (Brasília/DF)
+https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Pagode (Brasília/DF)
+https://hls.hunter.fm/pagode/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Pisadinha (Brasília/DF)
+https://hls.hunter.fm/pisadinha/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Pop (Brasília/DF)
+https://hls.hunter.fm/pop/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Pop 2K (Brasília/DF)
+https://hls.hunter.fm/pop2k/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Rock (Brasília/DF)
+https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Sertanejo (Brasília/DF)
+https://hls.hunter.fm/sertanejo/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - Tropical (Brasília/DF)
+https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
 
 #EXTINF:-1 tvg-logo="https://www.ilove.rio/wp-content/uploads/2021/09/BIG-LOGO.png" group-title="Web Rádio - Brasil", ILOVERIO Radio (Rio de Janeiro/RJ)
 https://eu10.fastcast4u.com/iloverio
