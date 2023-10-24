@@ -155,10 +155,10 @@ http://200.194.238.229:8383/live/globosupernet/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Redes Abertas e Afiliadas Brasil", Globo - TV Tem (Sorocaba/SP)
 http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Regionais Abertos Brasil", NGT (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Redes Abertas e Afiliadas Brasil", NGT (São Paulo/SP)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="Regionais Abertos Brasil", NGT / NBT (Belém/PA)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="Redes Abertas e Afiliadas Brasil", NGT / NBT (Belém/PA)
 https://isaocorp.cloudecast.com/nbt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Redes Abertas e Afiliadas Brasil", RBTV / BRSuperTV - Soul TV (Brasil)
@@ -1358,7 +1358,7 @@ http://bdtb.io/live/378724/pcapQ5/71914.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Esporte", ESPN HD (Brasil)
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Esporte", ESPN 2 SD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Esporte", ESPN 2 (Brasil)
 http://bdtb.io/live/378724/pcapQ5/71923.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esporte", ESPN 3 SD (Brasil)
