@@ -3,14 +3,14 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 23/10/2023
+ATUALIZADA EM 25/10/2023
 
 
 >> RÁDIO FM - BRASIL
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f1/Classic_Pan.png" group-title="Rádio FM - Brasil", 76.7 - Classic Pan (São Paulo/SP)
-https://sc1s.cdn.upx.com:8032/stream
+https://24363.live.streamtheworld.com/JP_CLASSICAAC
 
 #EXTINF:-1 tvg-logo="https://capitalcomvoce.com.br/img/logo-2.png" group-title="Rádio FM - Brasil", 77.5 - Rádio Capital (São Paulo/SP)
 https://ice.fabricahost.com.br/capitalfmsp
@@ -67,7 +67,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM (Santos/SP)
-https://ice.fabricahost.com.br/rtl917
+https://stm01.virtualcast.com.br:8252/rtl
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_kissfmsaopaulo.png" group-title="Rádio FM - Brasil", 92.5 - Kiss FM (São Paulo/SP)
 https://cloud2.cdnseguro.com:20000/;
@@ -154,7 +154,7 @@ https://8817.brasilstream.com.br/stream
 https://qfm.ddns.net/hlsq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
-https://ice.fabricahost.com.br/hot98santos
+https://stm01.virtualcast.com.br:8250/hot98
 
 #EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/logo-260x138.png" group-title="Rádio FM - Brasil", 98.3 - Continental (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8650/mp3
@@ -199,7 +199,7 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 https://r16.ciclano.io:15043/stream
 
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
-http://cast61.sitehosting.com.br:9800/live
+https://ssl1.transmissaodigital.com:20028/live
 
 #EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio FM - Brasil", 100.9 - Inconfidência FM (Belo Horizonte/MG)
 http://srv39.brasilstream.com.br:8446/stream
@@ -220,7 +220,7 @@ https://9158.brasilstream.com.br/stream
 https://21933.live.streamtheworld.com/RADIO_ALPHAFMAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="Rádio FM - Brasil", 102.3 - 102.3 FM (Porto Alegre/RS)
-https://aovivord102fm.rbsdirect.com.br/streams/hls/ita_poa/ita_poa-32000.m3u8
+https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/R%C3%A1dio_Beach_Park_logo_2018.svg/1280px-R%C3%A1dio_Beach_Park_logo_2018.svg.png" group-title="Rádio FM - Brasil", 102.7 - Rádio Beach Park (Fortaleza/CE)
 http://www.radioideal.net:8026/stream
@@ -371,6 +371,9 @@ https://shout25.crossradio.com.br:18528/1;
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_ondafm875.png" group-title="Radcom - Brasil", Onda FM 87.5 (São Paulo/SP)
 https://centova4.transmissaodigital.com:20148/;
+
+#EXTINF:-1 tvg-logo="https://www.site.uniplaybrasil.com.br/images/galeria/05092022/o-1gc7cj8n114oj9eq1eji101312id53.png" group-title="Radcom - Brasil", Rádio Atlântica FM 87.5 (Itapecerica da Serra/SP)
+https://player-ssl.painelstream.net:9298/live
 
 #EXTINF:-1 tvg-logo="https://www.brasilradios.com.br/wp-content/uploads/2015/06/radio-cantareirea-87-5.jpg" group-title="Radcom - Brasil", Rádio Cantareira 87.5 (São Paulo/SP)
 http://wz3.dnip.com.br/sc_canta/sc_canta.stream/chunklist_w433975153.m3u8
