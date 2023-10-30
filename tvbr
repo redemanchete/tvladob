@@ -213,18 +213,16 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sbtmt.com.br/css/imagens/logo-cuiaba.png" group-title="Redes Abertas e Afiliadas Brasil", SBT Cuiabá (Cuiabá/MT)
-https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/chunklist_w1060020854.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/sbt-interior-logo-1.png" group-title="Redes Abertas e Afiliadas Brasil", SBT Interior (Araçatuba/SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrio.png" group-title="Redes Abertas e Afiliadas Brasil", SBT Rio - YouTube (Rio de Janeiro/RJ)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCsRfBAspa72ExrsN347W2xg
-
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=QhNXwPQa7ng
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="Redes Abertas e Afiliadas Brasil", SBT RS - YouTube (Porto Alegre/RS)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCHDfPYXReWt5EVIzBA6TzOQ
-
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=--s5eB_9xGI
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Redes Abertas e Afiliadas Brasil", SBT / TV Aratu (Salvador/BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
@@ -1188,7 +1186,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCDPk9MG2RexnOMGTD-YnSnA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="Documentários", Nat Geo Wild - Canal 2 - YouTube (EUA)
-https://ytchannelyt.000webhostapp.com/channelyt.php?video=lFPG2B7hJs0
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=lFPG2B7hJs0
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentários", NASA TV (EUA)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
