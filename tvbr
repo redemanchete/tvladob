@@ -39,7 +39,7 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795
 
 #EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/templates/multirio2014/images/marca_multirio.png" group-title="Públicos/Educativos Brasil", MultiRio (Rio de Janeiro/RJ)
 INDISPONÍVEL
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos Brasil", Rede Minas (Belo Horizonte/MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
@@ -219,10 +219,10 @@ INDISPONÍVEL
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrio.png" group-title="Redes Abertas e Afiliadas Brasil", SBT Rio - YouTube (Rio de Janeiro/RJ)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=QhNXwPQa7ng
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="Redes Abertas e Afiliadas Brasil", SBT RS - YouTube (Porto Alegre/RS)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=--s5eB_9xGI
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Redes Abertas e Afiliadas Brasil", SBT / TV Aratu (Salvador/BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
@@ -355,8 +355,8 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="Regionais Fechados/Web", CWB TV (Curitiba/PR)
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="Regionais Fechados/Web", Diário TV (Teresópolis/RJ)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCYA_8op4pkwqWxbmcW-pzzQ
+#EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="Regionais Fechados/Web", Diário TV - YouTube (Teresópolis/RJ)
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="Regionais Fechados/Web", Mid TV (Palotina/PR)
 https://a.cdni.live/centenacomunicacao/centenacomunicacao/playlist.m3u8
@@ -439,8 +439,8 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LMeuMC5.png" group-title="Regionais Fechados/Web", TV Nativoos (Tramandaí/RS)
 https://srv6.zcast.com.br/lckbaltar/lckbaltar/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web", TV Nordestina (Campina Grande/PB)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UC1pXFbM6hPRkUUTeO3txrtw
+#EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web", TV Nordestina - YouTube (Campina Grande/PB)
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="Regionais Fechados/Web", TV Otimista (Fortaleza/CE)
 https://5a1e323a9ae38.directradios.com/otimista/livestream/playlist.m3u8
@@ -478,9 +478,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Regionais América Latina", BHTV (Peru)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="Regionais América Latina", BTA TV (Venezuela)
-https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wU4VEGU.png" group-title="Regionais América Latina", Cauquenesnet.cl (Chile)
 https://vdo.miserver.pro:3102/stream/play.m3u8
@@ -521,9 +518,6 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist
 #EXTINF:-1 tvg-logo="https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="Regionais América Latina", TelPin TV Pinamar (Argentina)
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TVO-2015.png" group-title="Regionais América Latina", TVO - Televisora de Oriente (Venezuela)
-https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png" group-title="Regionais América Latina", TVP Culiacán (México)
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w2135125554_b1428000_sleng.m3u8
 
@@ -535,9 +529,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w13
 
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_footer.png" group-title="Regionais América Latina", TVP Obregón (México)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w710774940_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://vepaco.tv/wp-content/uploads/2022/09/logovepacotv_mediano.png" group-title="Regionais América Latina", Vepaco TV (Venezuela)
-https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="Regionais América Latina", WOW TV (El Salvador)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -1183,10 +1174,10 @@ https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="Documentários", Nat Geo Wild - YouTube (EUA)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCDPk9MG2RexnOMGTD-YnSnA
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title="Documentários", Nat Geo Wild - Canal 2 - YouTube (EUA)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=lFPG2B7hJs0
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentários", NASA TV (EUA)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -1235,7 +1226,7 @@ https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
-https://ythlsgo.onrender.com/channel/E-7BGdeFSn4.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entretenimento e Reality Shows", Lifetime (Brasil)
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
@@ -1755,8 +1746,8 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w18407813
 #EXTINF:0 tvg-logo="https://radioq.com.br/wp-content/uploads/2017/10/logo2x.png" group-title="Estúdios de Rádio", Rádio Q FM (Viçosa/MG)
 https://qfm.ddns.net/hlsq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio", Rádio Tupi (Rio de Janeiro/RJ)
-https://ythlsgo.onrender.com/channel/9qHVe4xlRDM.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="Estúdios de Rádio", Rádio Uirapuru AM/FM (Passo Fundo/RS)
 https://video01.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
@@ -2393,11 +2384,11 @@ https://i.mjh.nz/PlutoTV/63221bafdc6e110007b50270-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Os_padrinhos_m%C3%A1gicos_logo.png" group-title="Infantil e Desenhos", Os Padrinhos Mágicos - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63221e41af69b500076f84e7-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Infantil e Desenhos", Peppa Pig (Brasil)
-https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Infantil e Desenhos", Peppa Pig - YouTube (Brasil)
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZuxItLa.jpg" group-title="Infantil e Desenhos", Pica-Pau (Brasil)
-https://ythlsgo.onrender.com/video/QyKyYnLnKP8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZuxItLa.jpg" group-title="Infantil e Desenhos", Pica-Pau - YouTube (Brasil)
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/1/1c/Blue%27s_Clues_-_logo_%28Latin_American_Spanish%29.jpeg" group-title="Infantil e Desenhos", Pistas de Blue - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f99aad4e82db50007fac4b2-alt.m3u8
@@ -2907,16 +2898,16 @@ https://stmv1.cnarlatam.com/megaclassics/megaclassics//chunklist_w723619.m3u8
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio - YouTube (Alemanha)
-https://ythlsgo.onrender.com/video/36YnV9STBqc.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio: Chillout Lounge - YouTube (Alemanha)
-https://ythlsgo.onrender.com/video/9UMxZofMNbA.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio: Chillout Music Mix - YouTube (Alemanha)
-https://ythlsgo.onrender.com/video/m52ynxt1mOo.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnSuoC4GA-8/maxresdefault.jpg" group-title="Música", The Good Life Radio: Deep House Radio - YouTube (Alemanha)
-https://ythlsgo.onrender.com/video/19hKXI1ENrY.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="Música", The Retro Channel (Porto Rico)
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
@@ -3141,11 +3132,11 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias", Bloomberg TV Brasil (EUA)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias", BM&C NEWS (São Paulo/SP)
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias", BM&C NEWS - YouTube (São Paulo/SP)
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias", Canal Empreender (São Paulo/SP)
-https://ythlsgo.onrender.com/channel/12tgKVOESYM.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias", Canal Empreender - YouTube (São Paulo/SP)
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Notícias", CNN Brasil - Soul TV (Brasil)
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
@@ -3169,7 +3160,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1098196047.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="Notícias", TV 247 - YouTube (Cotia/SP)
-https://ythls.onrender.com/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/54961b_1080fd42d84d4f9a9eef267b4fb40b40~mv2.png" group-title="Notícias", TVídeoNews (São Paulo/SP)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
@@ -3186,7 +3177,7 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1255371156_b130
 https://d1k8v5k0ykq3a4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-byvm47b0zy7nu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EEUGnKM.png" group-title="Notícias", C5N (Argentina)
-https://ythlsgo.onrender.com/video/XU1ac_sICiY.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Notícias", Canal 26 (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
@@ -3198,7 +3189,7 @@ https://i.mjh.nz/PlutoTV/627d1b936d4ded0007d7642f-alt.m3u8
 http://181.78.24.67:8010/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Notícias", Crónica TV (Argentina)
-https://ythlsgo.onrender.com/channel/avly0uwZzOE.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png" group-title="Notícias", CNN Resumen - Samsung TV Plus (EUA)
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -3228,7 +3219,7 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/02/La-Nacion-Mas-en-vivo-Online.png" group-title="Notícias", LN+ / La Nación (Argentina)
-https://ythlsgo.onrender.com/video/4e8Iw3Frf1A.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Notícias", Noticias Univision 24/7 - Samsung TV Plus (EUA)
 https://d16r1xu1wyfpuv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-87r3xa31ab1y6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -3625,31 +3616,31 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b8
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 
 #EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Pós-TV", Bider King: TV para gatos - YouTube (EUA)
-https://ythlsgo.onrender.com/video/vu-w69B-7Qk.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0B5kpS2.png" group-title="Pós-TV", Coffeehouse - Local Now (EUA)
 http://linear-272.frequency.stream/272/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Animais Selvagens da África - YouTube (EUA)
-https://ythlsgo.onrender.com/video/83iuZBEVVYs.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Moremi Game Reserve - YouTube (EUA)
-https://ythlsgo.onrender.com/video/PR5pcXYYe0w.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Parque Nacional Etosha / Namíbia - YouTube (EUA)
-https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Parque Nacional Nairobi / Namíbia - YouTube (EUA)
-https://ythlsgo.onrender.com/video/8jmHyQ9C7aE.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="Pós-TV", Drone TV (EUA)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="Pós-TV", Earth TV (Alemanha)
-https://ythlsgo.onrender.com/video/HfgIFGbdGJ0.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="Pós-TV", Earth TV: The Americas Live (Alemanha)
-https://ythlsgo.onrender.com/video/B0TNxrQfKvQ.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Pós-TV", Fireplace 4K - Samsung TV Plus (Reino Unido)
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -3664,7 +3655,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/a3288850-1ec7-4361-8b8b-c83a5b5ed6c4/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ewQNfJ.png" group-title="Pós-TV", Relax My Cat - YouTube (EUA)
-https://ythls.onrender.com/channel/KWXk17g6tIY.m3u8
+LINK YOUTUBE (YTHLSGO.ONRENDER.COM) FORA DO AR
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" group-title="Pós-TV", Stingray Naturescape - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8
