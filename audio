@@ -255,7 +255,7 @@ https://rrdns-dumont.webnow.com.br/dumont.aac
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/607dd431d6eb0.png" group-title="Rádio FM - Brasil", 104.5 - Positividade FM (Rio de Janeiro/RJ)
 https://24253.live.streamtheworld.com/POSITIVIDADE_FMAAC
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio48_1676400275.jpg" group-title="Rádio FM - Brasil", 104.7 - Educativa FM 104 (Campo Grande/MS)
+#EXTINF:-1 tvg-logo="http://www.portaldaeducativa.ms.gov.br/wp-content/uploads/elementor/thumbs/logo-2023-q2n0xbb32t43zk5w8k0eobjmoesp5548w4e8zofk44.png" group-title="Rádio FM - Brasil", 104.7 - Educativa FM 104 (Campo Grande/MS)
 http://stream.digilab.com.br:8081/fertel/radio/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_transfm1047sp.png" group-title="Rádio FM - Brasil", 104.7 - Transcontinental FM (Mogi das Cruzes/SP)
@@ -330,7 +330,7 @@ https://c1.audiostream.com.br:20029/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14495_1508409250.jpg" group-title="Rádio AM - Brasil", 740 - Rádio Trianon (São Paulo/SP)
 https://shout25.crossradio.com.br:18014/1;
 
-#EXTINF:-1 tvg-logo="https://radiomanchete.com.br/wp-content/uploads/2022/08/radio-manchete.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Niterói/RJ)
+#EXTINF:-1 tvg-logo="https://radiomanchete.rio/wp-content/uploads/2023/05/logo-atual.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Rio de Janeiro/RJ)
 https://servidor13.brlogic.com:7050/live
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa57c9977.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
