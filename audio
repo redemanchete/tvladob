@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/10/2023
+ATUALIZADA EM 06/11/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -408,14 +408,26 @@ https://centova.radios.pt/proxy/435?mp=/stream
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfm/logo_rfm_b7034118c.png" group-title="Rádio FM - Mundo", 93.2 - RFM (Lisboa/Portugal)
 https://20723.live.streamtheworld.com/RFMAAC
 
+#EXTINF:-1 tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/blogo/300/300_1571155575.png" group-title="Rádio FM - Mundo", 94.9 - Crioula FM (Praia/Cabo Verde)
+https://nl.digitalrm.pt:8250/stream?1699325355554
+
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/AeYKCAWSaH.png" group-title="Rádio FM - Mundo", 95.1 - Metro (Buenos Aires/Argentina)
 https://27603.live.streamtheworld.com/METROAAC_SC
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5d5cda_645646f367ea437297e24ccf7cbf623c~mv2.png" group-title="Rádio FM - Mundo", 95.3 - Tropical FM (Lisboa/Portugal)
 https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
 
+#EXTINF:-1 tvg-logo="https://koit.com/stylesheet-koit/koit_2019_public.png" group-title="Rádio FM - Mundo", 96.5 - KOIT (San Francisco/EUA)
+https://bonneville.cdnstream1.com/2624_48.aac
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio23485_1663779285.png" group-title="Rádio FM - Mundo", 96.5 - Rádio Cultura Angola (Luanda/Angola)
+https://paineldj5.com.br:20091/stream
+
 #EXTINF:-1 tvg-logo="http://www.radiorebelde.cu/images/images/diseno/radio-rebelde.jpg" group-title="Rádio FM - Mundo", 96.7 - Radio Rebelde (Havana/Cuba)
 https://icecast.teveo.cu/kHKL7tWd
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/miramar.co.mz/wp-content/uploads/2022/09/radio-miramar-1920x1080_2.jpg" group-title="Rádio FM - Mundo", 101.4 - Radio Miramar (Maputo/Moçambique)
+https://nl.digitalrm.pt:8150/stream
 
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Rádio FM - Mundo", 102.3 - Radio Aspen (Buenos Aires/Argentina)
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw-bkp/60a2745ff943100826374a70?aid=60106eadf34de307dd720e7b&pid=AcQdJGhAT20Jo7qWTZzVX9gmThsZclKZ&sid=rxHp1isOIhSX7B3lnCUMXf9AY64Fmws6&uid=a9rB533X7WCOootj24iWSebb4BOBgIw9&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1653683911218&ot=sSRJSrUtB_87GXezCFqPeA&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2745ff943100826374a70&referer=https%3A%2F%2Ffmaspen.com%2F&propertyName=mediastream-player-aspen-pie
@@ -732,6 +744,9 @@ http://streams.fluxfm.de/rastaradio/mp3-128/radiode/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/FluxFM.svg/1024px-FluxFM.svg.png" group-title="Web Rádio - Mundo", FluxFM - XJAZZ (Alemanha)
 https://streams.fluxfm.de/xjazz/mp3-128/radiode/
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio222260_1690319036.jpg" group-title="Web Rádio - Mundo", Radio Cultura (Moçambique)
+https://servidor13-2.brlogic.com:7632/live?1699326783036
+
 #EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="Web Rádio - Mundo", Radio Monte Carlo 80 (Itália)
 https://icy.unitedradio.it/rmcweb008
 
@@ -761,6 +776,9 @@ https://icy.unitedradio.it/rmcweb024
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f123eb_2d5c524cde8841578eec505c95194fba~mv2.png" group-title="Web Rádio - Mundo", Rádio Sabiá (Portugal)
 https://usa2.fastcast4u.com/proxy/radiosabia?mp=/1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1024px-RFI_logo_2013.svg.png" group-title="Web Rádio - Mundo", RFI Brasil (França)
+https://rfibrasil64k.ice.infomaniak.ch/rfibrasil-64k.mp3
 
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfmsite/images/logo18_80s.png" group-title="Web Rádio - Mundo", RFM 80's (Portugal)
 https://20863.live.streamtheworld.com/GR80SRFMAAC
