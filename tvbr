@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 01/11/2023
+ATUALIZADA EM 06/11/2023
 
 
 
@@ -152,13 +152,16 @@ http://bdtb.io/live/378724/pcapQ5/131182.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", Globo São Paulo (São Paulo/SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Redes Abertas e Afiliadas Brasil", Globo - NSC TV (Florianópolis/SC)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / NSC TV (Florianópolis/SC)
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Redes Abertas e Afiliadas Brasil", Globo - TV Gazeta (Vitória/ES)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / TV Bahia (Salvador/BA)
+http://bdtb.io:80/live/378724/pcapQ5/72024.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / TV Gazeta (Vitória/ES)
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Redes Abertas e Afiliadas Brasil", Globo - TV Tem (Sorocaba/SP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / TV Tem (Sorocaba/SP)
 http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Redes Abertas e Afiliadas Brasil", NGT (São Paulo/SP)
@@ -173,7 +176,7 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DEWyBTC.png" group-title="Redes Abertas e Afiliadas Brasil", RBTV / Virtual TV 2 (Curitiba/PR)
 https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Redes Abertas e Afiliadas Brasil", Record (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://gcmais.com.br/wp-content/uploads/2023/11/whatsapp-image-2023-11-06-at-20-54-33-1-819x1024.jpeg" group-title="Redes Abertas e Afiliadas Brasil", Record (São Paulo/SP)
 http://51.83.238.223:16141/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/400Pz68.png" group-title="Redes Abertas e Afiliadas Brasil", Record / NDTV (Criciúma/SC)
@@ -242,6 +245,9 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Redes Abertas e Afiliadas Brasil", SBT / TV Jornal (Recife/PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_da_VTV.jpg" group-title="Redes Abertas e Afiliadas Brasil", SBT / VTV (Santos/SP)
+https://livestream.zazerconer.workers.dev/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/lm4HhaL.png" group-title="Redes Abertas e Afiliadas Brasil", TV A Crítica - YouTube (Manaus/AM)
 https://livestream.zazerconer.workers.dev/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
@@ -262,7 +268,7 @@ https://isaocorp.cloudecast.com/astraltv/index.m3u8
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="Regionais Abertos Brasil", BR8 TV - aberto TVRO (São José do Rio Preto/SP)
-https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1013840.m3u8
+https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Regionais Abertos Brasil", CentralTV - aberto TVRO (Curitiba/PR)
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
@@ -272,9 +278,6 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://redeamericatv.com.br/wp-content/uploads/2023/01/Logo-rede-america-tv.png" group-title="Regionais Abertos Brasil", Rede América (Pouso Alegre/MG)
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/nA0cWeE.png" group-title="Regionais Abertos Brasil", TV RBC - aberto StarOne C2 (São Paulo/SP) 
-https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.meionorte.com/uploads/imagens/2021/10/4/veja-outras-redes-sociais-em-que-voce-pode-acompanhar-a-rede-meio-norte-3f44fdb5-e14e-4755-b08f-b791c6479879.jpg" group-title="Regionais Abertos Brasil", Rede Meio Norte (Teresina/PI)
 http://streaming.jornalmn.com.br:80/live/tvmn.m3u8
@@ -305,6 +308,9 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Abertos Brasil", TV Padre Cícero - aberto TVRO (Juazeiro do Norte/CE)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvrbc.com.br/wp-content/uploads/2020/11/LOGOMARCA-TV-RBC.png" group-title="Regionais Abertos Brasil", TV RBC - aberto StarOne C2 (São Paulo/SP) 
+https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos Brasil", TV Santa Cecília (Santos/SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
@@ -503,7 +509,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zK0tKyT.png?1" group-title="Regionais América Latina", Canal CNC Medellín (Colômbia)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1475
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Regionais América Latina", Canal Provincial/TeleRed (Argentina)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Regionais América Latina", Canal Provincial / TeleRed (Argentina)
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL-avc1_1499968=10002.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTWGxCL.png" group-title="Regionais América Latina", Colosal TV (Costa Rica)
@@ -610,7 +616,7 @@ https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8
 https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://uniquetv.com.br/img/logo-uniquetv.png" group-title="Variedades - Brasil", Unique TV (São José/SC)
-https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8
+https://stream.uniquetv.com.br/uniquetv/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Variedades - Brasil", VRT Channel (Guarulhos/SP)
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
@@ -1294,6 +1300,9 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="Entretenimento e Reality Shows", TLC (Brasil)
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Ie7qBlY.png" group-title="Entretenimento e Reality Shows", TruTV (Brasil)
+http://bdtb.io:80/live/378724/pcapQ5/76670.m3u8
+
 ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Entretenimento e Reality Shows", Casos de la Dra. Polo - Pluto TV (EUA)
@@ -1454,7 +1463,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/99wCwk8.png" group-title="Esporte", TNT Sports 5 (Brasil)
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/oOIB3QZ.png" group-title="Esporte", Urban Sports (São José/SC)
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_uniquetvsports-branco-1698858651.png" group-title="Esporte", Unique Sports (São José/SC)
 http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Esporte", Urban Turbo (São José/SC)
@@ -1686,6 +1695,12 @@ https://live-3.otcnet.ru/wfcenmulti/tracks-v1a1/mono.m3u8
 
 >> ESTÚDIOS DE RÁDIO
 
+#EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="Estúdios de Rádio", 106 Sertaneja (Ribeirão Preto/SP)
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://98fmcampoformoso.com.br/wp-content/uploads/2020/09/logo-vazada-branca-1.png" group-title="Estúdios de Rádio", 98 FM (Campo Formoso/BA)
+https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.abc103fm.com.br/includes/img/marca_ABC900.png" group-title="Estúdios de Rádio", ABC FM (Novo Hamburgo/RS)
 https://streamabc.gruposinos.com.br/radio.m3u8
 
@@ -1701,7 +1716,7 @@ LINK INVÁLIDO
 #EXTINF:-1 tvg-logo="https://clube.fm/brasilia/wp-content/uploads/sites/2/2019/11/logo-clube-brasilia.png" group-title="Estúdios de Rádio", Clube FM (Brasília/DF)
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/1/logo-clube.png" group-title="Estúdios de Rádio", Clube FM (Ribeirão Preto/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/63e8605aab12f.png" group-title="Estúdios de Rádio", Clube FM (Ribeirão Preto/SP)
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?7396e59bd10d4514fc3237bcb584ca86
 
 #EXTINF:-1 tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="Estúdios de Rádio", Clube FM 99 (Patos de Minas/MG)
@@ -1710,8 +1725,17 @@ https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdios de Rádio", Cultura FM (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_d2fm953.png" group-title="Estúdios de Rádio", D2 FM (Santa Rita do Sapucaí/MG)
+https://serv3.videovox.pw/ibraim3622/ibraim3622/chunklist_w220685404.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="Estúdios de Rádio", FM Liberdade (Patos de Minas/MG) 
+https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
+
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Estúdios de Rádio", FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_hotfm1077lencoissp.png" group-title="Estúdios de Rádio", Hot107 (Lençóis Paulista/SP)
+https://hot107.brasilstream.com.br/hls/hot107/index.m3u8?token=10481086601345135000
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Estúdios de Rádio", Hot 98 FM Unimes (Santos/SP)
 https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/playlist.m3u8
@@ -1722,7 +1746,7 @@ https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/pl
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/622d2b98870ac.png" group-title="Estúdios de Rádio", JK FM (Brasília/DF)
 https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logomarca_nova_da_Massa_FM.png" group-title="Estúdios de Rádio", Massa FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="Estúdios de Rádio", Massa FM (São Paulo/SP)
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdios de Rádio", Monte FM (Monte Carmelo/MG)
@@ -1733,6 +1757,9 @@ https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Estúdios de Rádio", Rádio Clube (Foz do Iguaçu/PR)
 https://radioclube.brasilstream.com.br/hls/radioclube/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/633c535232744.png" group-title="Estúdios de Rádio", Rádio Clube Ararense (Araras/SP)
+https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="Estúdios de Rádio", Rádio Difusora FM (Patos de Minas/MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
@@ -1759,10 +1786,10 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w18407813
 https://qfm.ddns.net/hlsq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
-https://livestream.zazerconer.workers.dev/channel/UC9u7p59wlSaAuBmPevKWo9A.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="Estúdios de Rádio", Rádio Uirapuru AM/FM (Passo Fundo/RS)
-https://video01.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
+https://video02.logicahost.com.br/rduirapuru01/rduirapuru01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio", Rede Metropolitana (Taubaté/SP)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
@@ -1779,7 +1806,7 @@ https://live.cdn.upx.com/00079/myStream.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5c19771074385.png" group-title="Estúdios de Rádio", TV Diário - Diário FM (Macapá/AP)
-https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/chunklist_w1806238638.m3u8
+https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
 
 
 
@@ -3127,7 +3154,7 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias", Bloomberg TV Brasil (EUA)
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias", BM&C NEWS - YouTube (São Paulo/SP)
 https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
@@ -3139,7 +3166,7 @@ https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Notícias", Euronews em Português (França)
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="Notícias", GloboNews (Brasil)
 http://191.37.250.169:8801/live/GloboNewsHD/720p.m3u8
@@ -3184,7 +3211,7 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://i.mjh.nz/PlutoTV/627d1b936d4ded0007d7642f-alt.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Notícias", CNN en Español (EUA)
-http://181.78.24.67:8010/play/a03p/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Notícias", Crónica TV - YouTube (Argentina)
 https://livestream.zazerconer.workers.dev/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
@@ -3597,6 +3624,9 @@ https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="Televendas", 1001 Noites (Curitiba/PR)
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo-1.png" group-title="Televendas", Polishop - YouTube (Brasil)
+https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="Televendas", TV Gazin (Palotina/PR)
 https://caikron.com.br:19360/floripa/canal1.m3u8
 
@@ -3621,6 +3651,9 @@ https://livestream.zazerconer.workers.dev/channel/UC7wafFu5c8AO0YF5U7R7xFA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0B5kpS2.png" group-title="Pós-TV", Coffeehouse - Local Now (EUA)
 http://linear-272.frequency.stream/272/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Vida Selvagem Africana - YouTube (EUA)
+https://livestream.zazerconer.workers.dev/channel/UCpLow10iz3-cofN_570bwPQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="Pós-TV", Drone TV (EUA)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
