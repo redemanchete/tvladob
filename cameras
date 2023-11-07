@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 29/09/2023
+ATUALIZADA EM 06/11/2023
 
 
 >> CÂMERAS AO VIVO - BRASIL
@@ -13,7 +13,7 @@ ATUALIZADA EM 29/09/2023
 https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Brasília/DF - Asa Sul
-https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Panorâmica
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
@@ -39,8 +39,14 @@ https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Imbé/RS - Praia
 https://vid1.streaming.websul.net.br/live/ods-imb.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Manaus/AM - Praia da Ponta Negra / AmzLive
+https://livestream.zazerconer.workers.dev/channel/UCH9JbKmqTI6gwhA4ghl32FQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Passo de Torres/SC - Praia
 https://vid1.streaming.websul.net.br/live/ods-torres.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Porto Alegre/RS - Pôr do Sol do Guaíba
+https://livestream.zazerconer.workers.dev/channel/UCCrO2ffPAD76vOzRZNFDSRw.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Copacabana
 https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
