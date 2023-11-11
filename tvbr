@@ -3389,17 +3389,11 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20230125T022415SQUARE.png_20230125022416.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg Originals - Samsung TV Plus (Espanha)
 https://a989acfcb3344ede95ad556e89dc31d3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6TTacsL.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg Quicktake - Rakuten (EUA)
-https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg TV (EUA)
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg TV+ UHD - Samsung TV Plus (EUA)
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2pbWDC.png" group-title="Notícias - Economia e Empreendedorismo", InvestmentPitch Media (Canadá)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1505
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="Notícias - Economia e Empreendedorismo", Yahoo Finance - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
