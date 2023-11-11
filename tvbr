@@ -1,13 +1,13 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 06/11/2023
+ATUALIZADA EM 10/11/2023
 
 
 
 >> PÚBLICOS/EDUCATIVOS BRASIL
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos Brasil", BraziTV / TV Cultura (EUA)
+#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos Brasil", BraziTV / TV Cultura Internacional (EUA)
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_do_Canal_FDR.png" group-title="Públicos/Educativos Brasil", Canal FDR / Futura (Fortaleza/CE)
@@ -94,7 +94,7 @@ http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://tvplan.com.br/img/logo_tvplan.png" group-title="Públicos/Educativos Brasil", TV Plan / TV Brasil (Poços de Caldas/MG)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="Públicos/Educativos Brasil", TV Sim / TV Brasil (Vitória/ES)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Públicos/Educativos Brasil", TV Sim / TV Brasil (Vitória/ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1518467066.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="Públicos/Educativos Brasil", TV UFSC / TV Brasil (Florianópolis/SC)
@@ -1597,9 +1597,6 @@ https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ksaF2A8.png" group-title="Estilo de Vida e Bem-Estar", Universidade da Pessoa - Soul TV (Brasil)
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/up_newLogo.png" group-title="Estilo de Vida e Bem-Estar", Up Channel (São Paulo/SP)
-http://cdn.connectbr.com.br/UPChannel/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/fjU0OKj.png" group-title="Estilo de Vida e Bem-Estar", Urban Travel (São José/SC)
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
@@ -2438,6 +2435,9 @@ https://i.mjh.nz/PlutoTV/5f1214a637c6fd00079c652f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="Infantil e Desenhos", Rakuten TV Família - LG Channels (Portugal)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Infantil e Desenhos", Retrô Cartoon (São Paulo/SP)
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/11/Rugrats-Logo.png" group-title="Infantil e Desenhos", Rugrats - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8
 
@@ -2750,12 +2750,6 @@ https://i.mjh.nz/PlutoTV/638f2e8fedb23c000859345e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Spankin' New - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Summer Hits - Pluto TV (Espanha)
-https://i.mjh.nz/PlutoTV/6087c6c5db549e0007eead39-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Summer Hits - Pluto TV (Reino Unido)
-https://i.mjh.nz/PlutoTV/64ae96904ea48000082e37fb-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Unplugged - Pluto TV (Alemanha)
 https://i.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
 
@@ -2809,9 +2803,6 @@ https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Love Songs (França)
 https://i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Summer Hits (França)
-https://i.mjh.nz/PlutoTV/625e810f0035910007da288b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Música", Qwest TV - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
@@ -3107,9 +3098,6 @@ https://i.mjh.nz/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Rock! - Pluto TV (Itália)
 https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Summer Vibes - Pluto TV (Itália)
-https://i.mjh.nz/PlutoTV/626180ec537f210007e94b52-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Música", Vintage TV (Brasil)
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
@@ -3153,15 +3141,6 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Band_News_TV_2021.png" group-title="Notícias", BandNews TV (Brasil)
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias", Bloomberg TV Brasil (EUA)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias", BM&C NEWS - YouTube (São Paulo/SP)
-https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias", Canal Empreender - YouTube (São Paulo/SP)
-https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png" group-title="Notícias", CNN Brasil - Soul TV (Brasil)
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
@@ -3180,7 +3159,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1280px-Record_News_logo_2022.svg.png" group-title="Notícias", Record News - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6102e04e9ab1db0007a980a1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="Notícias", Rede Sim / Record News (Vitória/ES)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Notícias", Rede Sim / Record News (Vitória/ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1098196047.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1200px-Rtp3.png" group-title="Notícias", RTP 3 (Portugal)
@@ -3189,12 +3168,11 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="Notícias", TV 247 - YouTube (Cotia/SP)
 https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/54961b_1080fd42d84d4f9a9eef267b4fb40b40~mv2.png" group-title="Notícias", TVídeoNews (São Paulo/SP)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="Notícias", TVL News (Luzilândia/GO)
-https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+LINK INVÁLIDO
 
 ---
 
@@ -3293,20 +3271,17 @@ https://rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/wp-content/uploads/2020/09/news-updates.jpeg" group-title="Notícias", Al Jazeera English (Catar)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20230125T022415SQUARE.png_20230125022416.png" group-title="Notícias", Bloomberg Originals - Samsung TV Plus (Espanha)
-https://a989acfcb3344ede95ad556e89dc31d3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias", Bloomberg TV (EUA)
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" group-title="Notícias", Bloomberg TV+ UHD - Samsung TV Plus (EUA)
-https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png" group-title="Notícias", CBC News Explore - Samsung TV Plus (Canadá)
 https://d14seubnkeiy54.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swcqud1hd64wa/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/1280px-CBS_News.svg.png" group-title="Notícias", CBS News (EUA)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias", Cheddar News - Local Now (EUA)
+https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias", Cheddar News - Pluto TV (Reino Unido)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" group-title="Notícias", CNN - Samsung TV Plus (Reino Unido)
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -3365,33 +3340,69 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" group-title="Notícias", USA Today - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="Notícias", Yahoo Finance - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
+>> NOTÍCIAS - AGRO
 
->> NOTÍCIAS AGRO
-
-#EXTINF:-1 tvg-logo="https://www.agrobrasiltv.com.br/images/logo_agrobrasil_v10.png" group-title="Notícias Agro", AgroBrasil TV (Campo Grande/MS)
+#EXTINF:-1 tvg-logo="https://www.agrobrasiltv.com.br/images/logo_agrobrasil_v10.png" group-title="Notícias - Agro", AgroBrasil TV (Campo Grande/MS)
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u8
 
-#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Notícias Agro", Agro Canal (Campo Grande/MS)
+#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Notícias - Agro", Agro Canal (Campo Grande/MS)
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.m3u8
 
-#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Notícias Agro", Canal do Boi (Campo Grande/MS)
+#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Notícias - Agro", Canal do Boi (Campo Grande/MS)
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="Notícias Agro", Canal do Criador (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="Notícias - Agro", Canal do Criador (São Paulo/SP)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Notícias Agro", Canal Rural (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Canal-Rural_logo.jpg" group-title="Notícias - Agro", Canal Rural (São Paulo/SP)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w392178951_b3086000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvterraviva.band.uol.com.br/images/terravivaHD_05.png" group-title="Notícias Agro", Terra Viva (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://tvterraviva.band.uol.com.br/images/terravivaHD_05.png" group-title="Notícias - Agro", Terra Viva (São Paulo/SP)
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w2096267951.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="Notícias Agro",TV Folha do Campo (Hortolândia/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="Notícias - Agro",TV Folha do Campo (Hortolândia/SP)
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w754860603.m3u8
+
+
+
+>> NOTÍCIAS - ECONOMIA E EMPREENDEDORISMO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg TV Brasil (EUA)
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias - Economia e Empreendedorismo", BM&C NEWS - YouTube (São Paulo/SP)
+https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias - Economia e Empreendedorismo", Canal Empreender - YouTube (São Paulo/SP)
+https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
+
+#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/up_newLogo.png" group-title="Notícias - Economia e Empreendedorismo", Up Channel (São Paulo/SP)
+http://cdn.connectbr.com.br/UPChannel/index.m3u8
+
+---
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="Notícias - Economia e Empreendedorismo", Ameritrade (EUA)
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20230125T022415SQUARE.png_20230125022416.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg Originals - Samsung TV Plus (Espanha)
+https://a989acfcb3344ede95ad556e89dc31d3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_QuickTake-1/playlist.m3u8?ads.wurl_channel=1179&ads.wurl_name=QuickTake-1&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TTacsL.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg Quicktake - Rakuten (EUA)
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg TV (EUA)
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" group-title="Notícias - Economia e Empreendedorismo", Bloomberg TV+ UHD - Samsung TV Plus (EUA)
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2pbWDC.png" group-title="Notícias - Economia e Empreendedorismo", InvestmentPitch Media (Canadá)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1505
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="Notícias - Economia e Empreendedorismo", Yahoo Finance - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
 
@@ -3576,6 +3587,9 @@ https://i.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" group-title="Retrô", TCM (Brasil)
 INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Retrô", Tooncast (Brasil)
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="Retrô", TV Clássicos (Rio de Janeiro/RJ)
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
