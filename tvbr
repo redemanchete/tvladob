@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 15/11/2023
+ATUALIZADA EM 16/11/2023
 
 
 
@@ -951,6 +951,9 @@ https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Comédia", Canal da Praça - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/Chespirito.png" group-title="Comédia", Chespirito (Brasil)
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central (Brasil)
 http://170.82.200.38:8080/comedy/tracks-v1a1/index.m3u8
 
@@ -1156,6 +1159,9 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 ---
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Documentários", Deutsche Welle Español (Alemanha)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/cimg/2022/09/28/thumbnailnuevo-enelpuntodemira_4e02.jpeg" group-title="Documentários", En el Punto de Mira - Pluto TV (Espanha)
 https://i.mjh.nz/PlutoTV/61922be835f3910007fc58f6-alt.m3u8
 
@@ -1187,6 +1193,9 @@ https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1024px-CuriosityStreamBlack.svg.png" group-title="Documentários", Curiosity Now - LG Channels (EUA)
 https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Documentários", Deutsche Welle English (Alemanha)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300019UD_20221214T015232SQUARE.png_20221214015232.png" group-title="Documentários", Documentary+ - Samsung TV Plus (EUA)
 https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -1858,7 +1867,7 @@ https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="Filmes e Séries", Cindie Lite - Samsung TV Plus (Brasil)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1024px-Cinemax_%28Yellow%29.svg.png" group-title="Filmes e Séries", Cinemax HD (Brasil)
 http://45.58.126.146:14305/
@@ -1873,7 +1882,7 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.darkmattertv.com/wp-content/uploads/elementor/thumbs/logo-pmkjklm6thnwih7vveoaubuha1vmpivcbqaod0kptq.png" group-title="Filmes e Séries", Dark Matter TV - Samsung TV Plus (Brasil)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_001.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes e Séries", Darkflix - Soul TV (Brasil)
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -3393,10 +3402,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60df3e185411
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Notícias - Agro", Agro Canal (Campo Grande/MS)
-https://r4---sn-bg0eznz7.c.2mdn.net/videoplayback/id/31762232aaf96996/itag/347/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3843318707/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/211A30E43739CB39859F6FB12A56063318832573.40C6266C2BB9C92D35BF60EACD64A02E6365F4FE/key/cms1/cms_redirect/yes/mh/8j/mip/2804:1b3:a902:800b:d977:796f:ef9e:c8f/mm/42/mn/sn-bg0eznz7/ms/onc/mt/1700102674/mv/m/mvi/4/pl/47/file/file.mp4
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Notícias - Agro", Canal do Boi (Campo Grande/MS)
-https://r4---sn-bg0eznz7.c.2mdn.net/videoplayback/id/31762232aaf96996/itag/347/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3843318707/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/648F8B1A25246BC5B95B5677FDAF9866308307FB.68B086057C5C8A0B3F51FE9F56861291D26B7B59/key/cms1/cms_redirect/yes/mh/8j/mip/2804:1b3:a902:800b:d977:796f:ef9e:c8f/mm/42/mn/sn-bg0eznz7/ms/onc/mt/1700102674/mv/m/mvi/4/pl/47/file/file.mp4
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="Notícias - Agro", Canal do Criador (São Paulo/SP)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
