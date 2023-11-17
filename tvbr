@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 16/11/2023
+ATUALIZADA EM 17/11/2023
 
 
 
@@ -814,6 +814,9 @@ http://bdtb.io/live/378724/pcapQ5/71809.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Arte e Cultura", CineBRASiL TV (Rio de Janeiro/RJ)
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cultne.tv/site/img/logo_cultne_menor.png" group-title="Arte e Cultura", Cultne.TV - Samsung TV Plus (Brasil)
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Arte e Cultura", Curta! (Rio de Janeiro/RJ)
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
@@ -945,9 +948,6 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/A_Culpa_%C3%A9_do_Cabral.png" group-title="Comédia", A Culpa é do Cabral - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Comédia", AFV Family Channel - Samsung TV Plus (Brasil)
-https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Comédia", Canal da Praça - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
@@ -1015,8 +1015,8 @@ https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Comédia", Adult Swim: Your Pretty Face is Going to Hell (EUA)
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700001DB_20230307T223707SQUARE.png_20230307223708.png" group-title="Comédia", Always Funny Videos - Samsung TV Plus (EUA)
-https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Comédia", AFV Family Channel - Samsung TV Plus (Brasil)
+https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rn6WG4I.png" group-title="Comédia", Camera Smile TV - Viva Live TV (EUA)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/485ea1e9-7ca2-4487-bd9e-89ce0fc4d5bc/0.m3u8
@@ -2668,6 +2668,27 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20230809T053515SQUARE.png_20230809053515.png" group-title="Música", Hip Hop TV - Samsung TV Plus (Itália)
 https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart 80s - Roku (EUA)
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart 90s - Roku (EUA)
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Alt Radio - Roku (EUA)
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Country - Roku (EUA)
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Hit Nation - Roku (EUA)
+https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Latino Hits - Roku (EUA)
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart The Beat - Roku (EUA)
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/08/22200718/Insomniac-TV-Logo-1200x630.png" group-title="Música", Insomniac TV - YouTube (EUA)
 https://livestream.zazerconer.workers.dev/channel/UCr45VhwCBYwMfdN-gz7W_OA.m3u8
