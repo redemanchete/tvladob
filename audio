@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 06/11/2023
+ATUALIZADA EM 17/11/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -334,7 +334,7 @@ https://shout25.crossradio.com.br:18014/1;
 https://servidor13.brlogic.com:7050/live
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa57c9977.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
-https://radiomec-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+https://radio2.lflr.com.br/ebc-live/radio-mec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bf99abc38cb4.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
 https://orelha.radiolivre.org/radiopaulofreire
@@ -408,9 +408,6 @@ https://centova.radios.pt/proxy/435?mp=/stream
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfm/logo_rfm_b7034118c.png" group-title="Rádio FM - Mundo", 93.2 - RFM (Lisboa/Portugal)
 https://20723.live.streamtheworld.com/RFMAAC
 
-#EXTINF:-1 tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/blogo/300/300_1571155575.png" group-title="Rádio FM - Mundo", 94.9 - Crioula FM (Praia/Cabo Verde)
-https://nl.digitalrm.pt:8250/stream?1699325355554
-
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/AeYKCAWSaH.png" group-title="Rádio FM - Mundo", 95.1 - Metro (Buenos Aires/Argentina)
 https://27603.live.streamtheworld.com/METROAAC_SC
 
@@ -426,11 +423,11 @@ https://paineldj5.com.br:20091/stream
 #EXTINF:-1 tvg-logo="http://www.radiorebelde.cu/images/images/diseno/radio-rebelde.jpg" group-title="Rádio FM - Mundo", 96.7 - Radio Rebelde (Havana/Cuba)
 https://icecast.teveo.cu/kHKL7tWd
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/miramar.co.mz/wp-content/uploads/2022/09/radio-miramar-1920x1080_2.jpg" group-title="Rádio FM - Mundo", 101.4 - Radio Miramar (Maputo/Moçambique)
-https://nl.digitalrm.pt:8150/stream
-
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Rádio FM - Mundo", 102.3 - Radio Aspen (Buenos Aires/Argentina)
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw-bkp/60a2745ff943100826374a70?aid=60106eadf34de307dd720e7b&pid=AcQdJGhAT20Jo7qWTZzVX9gmThsZclKZ&sid=rxHp1isOIhSX7B3lnCUMXf9AY64Fmws6&uid=a9rB533X7WCOootj24iWSebb4BOBgIw9&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1653683911218&ot=sSRJSrUtB_87GXezCFqPeA&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2745ff943100826374a70&referer=https%3A%2F%2Ffmaspen.com%2F&propertyName=mediastream-player-aspen-pie
+
+#EXTINF:-1 tvg-logo="https://www.kissfm.es/wp-content/uploads/2023/01/cropped-Logo-KISS-FM_Negativo-Color.png" group-title="Rádio FM - Mundo", 102.7 - Kiss FM (Madrid/Espanha)
+https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMyAwNTo0ODoyMCBQTSZoYXNoX3ZhbHVlPTBqUGRib0Q3eFhUaVN1YmZZYXdQQ1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xOTMwMTc5NjI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Radio-Veronica-logo.jpg" group-title="Rádio FM - Mundo", 103.5 - Radio Veronica (Amsterdã/Países Baixos)
 https://22713.live.streamtheworld.com/VERONICA.mp3
@@ -440,6 +437,9 @@ http://digitalfm.dynu.com:8000/digitalfm64
 
 #EXTINF:-1 tvg-logo="https://www.antenna1.fm/wp-content/uploads/2021/03/LOGO-RADIO.png" group-title="Rádio FM - Mundo", 107.1 - Radio Antenna1 (Roma/Itália)
 https://a1-it.newradio.it/stream?1593287260515
+
+#EXTINF:-1 tvg-logo="https://batida.fm/images/fbcover.jpg" group-title="Rádio FM - Mundo", 107.2 - Batida FM (Lisboa/Portugal)
+https://stream-hls.bauermedia.pt/batidafm.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.recordfm.pt/wp-content/uploads/2019/03/noimage.png" group-title="Rádio FM - Mundo", 107.7 - Record FM (Lisboa/Portugal)
 https://nl.digitalrm.pt:8010/stream
