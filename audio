@@ -438,7 +438,7 @@ http://digitalfm.dynu.com:8000/digitalfm64
 #EXTINF:-1 tvg-logo="https://www.antenna1.fm/wp-content/uploads/2021/03/LOGO-RADIO.png" group-title="Rádio FM - Mundo", 107.1 - Radio Antenna1 (Roma/Itália)
 https://a1-it.newradio.it/stream?1593287260515
 
-#EXTINF:-1 tvg-logo="https://batida.fm/images/fbcover.jpg" group-title="Rádio FM - Mundo", 107.2 - Batida FM (Lisboa/Portugal)
+#EXTINF:-1 tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2023/08/logo-batida-fm-2.png" group-title="Rádio FM - Mundo", 107.2 - Batida FM (Lisboa/Portugal)
 https://stream-hls.bauermedia.pt/batidafm.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.recordfm.pt/wp-content/uploads/2019/03/noimage.png" group-title="Rádio FM - Mundo", 107.7 - Record FM (Lisboa/Portugal)
@@ -530,6 +530,9 @@ LINK INVÁLIDO (APONTA PARA OUTRA PROGRAMAÇÃO)
 
 #EXTINF:-1 tvg-logo="https://radiolovetimes.com/radio-lovetimes-images/radio-lovetimes-webplayer.png" group-title="Web Rádio - Brasil", Lovetimes (São Paulo/SP)
 https://c15.radioboss.fm:18152/stream
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio35738_1514909026.jpg" group-title="Web Rádio - Brasil", New Black SP (São Paulo/SP)
+https://servidor39-3.brlogic.com:8238/live
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DeMUOUs3EIc/WIq5mPC6xXI/AAAAAAAARrw/qRw4qOdPI7Iv56GZthzSL5XfXLOEbOmRgCLcB/s1600/MKKWEBROCK.jpg" group-title="Web Rádio - Brasil", MKK Web Radio (São Paulo/SP)
 https://servidor34-1.brlogic.com:8096/live
