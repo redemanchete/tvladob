@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 18/11/2023
+ATUALIZADA EM 20/11/2023
 
 
 
@@ -846,8 +846,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CampusTv_logo.png" group-title="Arte e Cultura", CampusTV (Honduras)
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Arte e Cultura", Cultura 24 TV (Peru)
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Arte e Cultura", Cultura24.tv (Peru)
+https://cloud.live.opencaster.com/multi_web/cultura24.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Arte e Cultura", Litus TV (Argentina)
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
@@ -2844,7 +2844,7 @@ https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
 LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Música", Music Choice 90's (EUA)
-http://45.11.56.147:8808/stream?id=140
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" group-title="Música", Now 80s - Samsung TV Plus (Reino Unido)
 https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
