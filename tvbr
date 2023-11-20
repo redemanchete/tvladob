@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 17/11/2023
+ATUALIZADA EM 18/11/2023
 
 
 
@@ -752,7 +752,7 @@ https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 https://telemadrid-23.secure2.footprint.net/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Variedades - Mundo", Telemax (Argentina)
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://telemax.com.mx/wp//wp-content/uploads/2022/08/telemax-logo-white.png" group-title="Variedades - Mundo", Telemax (México)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
@@ -842,6 +842,9 @@ https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1024px-Cine.Ar_logo.svg.png" group-title="Arte e Cultura", Cine.ar (Argentina)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CampusTv_logo.png" group-title="Arte e Cultura", CampusTV (Honduras)
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Arte e Cultura", Cultura 24 TV (Peru)
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -1264,6 +1267,9 @@ https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
 https://livestream.zazerconer.workers.dev/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Entretenimento e Reality Shows", E! Entertainment Television (Brasil)
+http://bdtb.io:80/live/378724/pcapQ5/71903.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entretenimento e Reality Shows", Lifetime (Brasil)
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
@@ -1316,7 +1322,7 @@ https://i.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8
 https://i.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Entretenimento e Reality Shows", SBT Internacional - LG Channels (Brasil)
-INDISPONÍVEL
+https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Entretenimento e Reality Shows", Sony One Shark Tank - Samsung TV Plus (Brasil)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
@@ -1882,7 +1888,7 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.darkmattertv.com/wp-content/uploads/elementor/thumbs/logo-pmkjklm6thnwih7vveoaubuha1vmpivcbqaod0kptq.png" group-title="Filmes e Séries", Dark Matter TV - Samsung TV Plus (Brasil)
-INDISPONÍVEL
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes e Séries", Darkflix - Soul TV (Brasil)
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
@@ -2712,7 +2718,7 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/latinatv-v1_logo.png" group-title="Música", Latina TV (Argentina)
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ee0298f1-d9df-fa01-1f45-0e07d10c9ce8-Hero%20Optional%201560x878.jpg" group-title="Música", Live Music Replay - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
@@ -2835,7 +2841,10 @@ https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="Música", MusicTop (Argentina)
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+LINK INVÁLIDO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="Música", Music Choice 90's (EUA)
+http://45.11.56.147:8808/stream?id=140
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" group-title="Música", Now 80s - Samsung TV Plus (Reino Unido)
 https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
@@ -2994,7 +3003,7 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/tierramia-icon.png" group-title="Música", TierraMia TV (Argentina)
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Música", Top Latino TV (Peru)
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
