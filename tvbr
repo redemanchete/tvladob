@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 20/11/2023
+ATUALIZADA EM 23/11/2023
 
 
 
@@ -281,6 +281,9 @@ https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Regionais Abertos Brasil", ISTV (Guarujá/SP)
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/byJAMHe.png" group-title="Regionais Abertos Brasil", Masper TV - aberto TVRO (Porto Alegre/RS)
+https://br5093.streamingdevideo.com.br/ujtxpjgkyn/ujtxpjgkyn/playlist.m3u8?fbclid=PAAaYr_-434Tt5riS_uX4YIhuq-0U_FJzYhLGcKfogmmniThf9xIArJ676Xkw
 
 #EXTINF:-1 tvg-logo="https://redeamericatv.com.br/wp-content/uploads/2023/01/Logo-rede-america-tv.png" group-title="Regionais Abertos Brasil", Rede América (Pouso Alegre/MG)
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
@@ -809,7 +812,7 @@ https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1024px-Logo_of_Bis.svg.png" group-title="Arte e Cultura", Bis (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71809.m3u8
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/420
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Arte e Cultura", CineBRASiL TV (Rio de Janeiro/RJ)
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
@@ -1101,7 +1104,7 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/992px-History2_logo_%282022%29.svg.png" group-title="Documentários", History 2 (Brasil)
-https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="Documentários", Investigação Discovery (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
@@ -1259,7 +1262,7 @@ https://d1t832jhtoignv.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 >> ENTRETENIMENTO E REALITY SHOWS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="Entretenimento e Reality Shows", A&E (Brasil)
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/j9fmTSw.png" group-title="Entretenimento e Reality Shows", Chic Brasil TV (Rio de Janeiro/RJ)
 https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
@@ -1268,7 +1271,7 @@ https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Entretenimento e Reality Shows", E! Entertainment Television (Brasil)
-http://bdtb.io:80/live/378724/pcapQ5/71903.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entretenimento e Reality Shows", Lifetime (Brasil)
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
@@ -1303,11 +1306,8 @@ https://i.mjh.nz/PlutoTV/620fdc7d8a36fc000710e3ba-alt.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV Shore - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="Entretenimento e Reality Shows", Multishow HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="Entretenimento e Reality Shows", Multishow (Brasil)
 http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/24
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="Entretenimento e Reality Shows", Multishow SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/131134.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Entretenimento e Reality Shows", Paramount+ Apresenta - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
@@ -1331,7 +1331,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ie7qBlY.png" group-title="Entretenimento e Reality Shows", TruTV (Brasil)
-http://bdtb.io:80/live/378724/pcapQ5/76670.m3u8
+INDISPONÍVEL
 
 ---
 
@@ -1406,35 +1406,26 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esporte", BandSports (São Paulo/SP)
 http://187.95.95.243/Band-Sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Esporte", Combate HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Esporte", Combate (Brasil)
 http://209.222.97.92:16493/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Esporte", Combate SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71846.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Esporte", ESPN HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Esporte", ESPN (Brasil)
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Esporte", ESPN SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71914.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Esporte", ESPN 2 (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71923.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esporte", ESPN 3 HD (Brasil)
-http://191.37.250.169:8801/live/ESPN3/720p.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esporte", ESPN 3 SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71910.m3u8
+INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="Esporte", ESPN 4 HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="Esporte", ESPN 4 (Brasil)
 http://51.83.238.223:16575/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="Esporte", ESPN 4 SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71961.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png" group-title="Esporte", ESPN Extra (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71918.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
@@ -1467,13 +1458,13 @@ https://i.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esporte", Premiere Clubes HD (Brasil)
-http://51.83.238.223:16725/
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esporte", Premiere Clubes SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72266.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esporte", SporTV (Brasil)
-http://51.83.238.223:16437/
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/6
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esporte", SporTV 2 (Brasil) 
 http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8
@@ -1604,7 +1595,7 @@ https://cdn-1.nxplay.com.br/cheftv1/index.m3u8
 http://cdn-1.nxplay.com.br/FASHION_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1024px-GNT_logo-roxo.svg.png" group-title="Estilo de Vida e Bem-Estar", GNT (Brasil)
-http://bdtb.io/live/378724/pcapQ5/131136.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/inspire_newLogo.png" group-title="Estilo de Vida e Bem-Estar", Inspire (São Paulo/SP)
 http://cdn.connectbr.com.br/Inspire/index.m3u8
@@ -1876,10 +1867,10 @@ http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1024px-Cinemax_%28Yellow%29.svg.png" group-title="Filmes e Séries", Cinemax HD (Brasil)
-http://45.58.126.146:14305/
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1024px-Cinemax_%28Yellow%29.svg.png" group-title="Filmes e Séries", Cinemax SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/71836.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Filmes e Séries", CineMonde - Soul TV (Brasil)
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
@@ -1905,44 +1896,44 @@ http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Filmes e Séries", Grjngo - Samsung TV Plus (Brasil)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1024px-HBO-Logo.svg.png" group-title="Filmes e Séries", HBO HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1024px-HBO-Logo.svg.png" group-title="Filmes e Séries", HBO (Brasil)
 http://195.181.163.144:14606/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1024px-HBO-Logo.svg.png" group-title="Filmes e Séries", HBO SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72120.m3u8
+INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes e Séries", HBO 2 HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes e Séries", HBO 2 (Brasil)
 http://208.115.225.174:14140/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes e Séries", HBO 2 SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72113.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/991px-HBO_Family.svg.png" group-title="Filmes e Séries", HBO Family (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72117.m3u8
+http://208.115.225.174:14144/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="Filmes e Séries", HBO Mundi (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72124.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1024px-Logohboplus2019.svg.png" group-title="Filmes e Séries", HBO Plus (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72128.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="Filmes e Séries", HBO Pop (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72131.m3u8
+INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1024px-HBO_Signature.svg.png" group-title="Filmes e Séries", HBO Signature HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1024px-HBO_Signature.svg.png" group-title="Filmes e Séries", HBO Signature (Brasil)
 http://208.115.225.174:14160/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1024px-HBO_Signature.svg.png" group-title="Filmes e Séries", HBO Signature SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72137.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="Filmes e Séries", HBO Xtreme (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72141.m3u8
+http://208.115.225.174:14165/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes e Séries", Megapix HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes e Séries", Megapix (Brasil)
 http://64.31.40.14:14048/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes e Séries", Megapix SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/131204.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Filmes e Séries", MyTime Movie Network - Samsung TV Plus (Brasil)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -1954,7 +1945,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1028px-Paramount_Network.svg.png" group-title="Filmes e Séries", Paramount Network (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72220.m3u8
+http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes e Séries", Pluto TV Cine Clássicos (Brasil)
 https://i.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
@@ -2053,7 +2044,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png" group-title="Filmes e Séries", Space (Brasil)
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+http://195.181.163.144:14730/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="Filmes e Séries", SparkTV - Samsung TV Plus (Brasil)
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
@@ -2062,43 +2053,43 @@ https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 http://187.95.95.243:80/Star/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Filmes e Séries", Studio Universal (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72337.m3u8
+INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Action HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Action (Brasil)
 http://64.31.40.14:14056/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Action SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72348.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Cult (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72353.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Fun (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72357.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Pipoca HD (Brasil)
-http://191.37.250.169:8801/live/TelecinePipocaHD/720p.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Pipoca SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72361.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Premium HD (Brasil)
-http://191.37.250.169:8801/live/TelecinePremiumHD/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Premium SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72365.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1280px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes e Séries", Telecine Touch (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72369.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/The_Night_Shift_TV_series_logo.png" group-title="Filmes e Séries", The Night Shift Plantão Noturno - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Filmes e Séries", TNT (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72379.m3u8
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filmes e Séries", TNT Series (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72384.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1024px-Universal_TV_logo.svg.png" group-title="Filmes e Séries", Universal TV (Brasil)
 http://208.115.225.174:14128/
@@ -2110,7 +2101,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Filmes e Séries", Warner Channel (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72434.m3u8
+http://208.115.225.174:14132/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Younger_TV_Land.png" group-title="Filmes e Séries", Younger - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8
@@ -2354,7 +2345,7 @@ https://i.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ubisoft_logo.svg/1119px-Ubisoft_logo.svg.png" group-title="Geek e Anime", Ubisoft TV - Samsung TV Plus (Brasil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://woohoo.com.br/wp-content/uploads/2023/04/woohoo-hor-300x69.png" group-title="Geek e Anime", Woohoo (Rio de Janeiro/RJ)
 https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
@@ -2415,10 +2406,10 @@ https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1024px-Gloob_logo.svg.png" group-title="Infantil e Desenhos", Gloob (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72100.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1024px-Gloobinho_logo.svg.png" group-title="Infantil e Desenhos", Gloobinho (Brasil)
-http://bdtb.io/live/378724/pcapQ5/131173.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="Infantil e Desenhos", Kenan & Kel - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8
@@ -2433,7 +2424,7 @@ https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Jr (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72204.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Jr. Club - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8
@@ -2496,7 +2487,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvratimbum.com.br/_img/tvratimbum.png" group-title="Infantil e Desenhos", TV Rá Tim Bum (São Paulo/SP)
-http://bdtb.io/live/378724/pcapQ5/72415.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Infantil e Desenhos", TV ZYN - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
@@ -2728,6 +2719,9 @@ https://stream.ichibantv.com:3230/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/melodychannel.png" group-title="Música", Melody Channel TV (Colômbia)
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yosyvBm.png" group-title="Música", MPB Channel (Brasil)
+https://stmv1.srvif.com/mpbtv/mpbtv/chunklist_w119214344.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Approved Hip Hop - Pluto TV (Alemanha)
 https://i.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
@@ -3502,7 +3496,7 @@ https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Novelas", TNT Novelas (Brasil)
-http://45.58.126.146:14338/
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="Novelas", TVI Ficção (Portugal)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
@@ -3687,11 +3681,8 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="Retrô", Urban Retro (São José/SC)
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1024px-Canal_Viva_2018_wordmark.svg.png" group-title="Retrô", Viva HD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1024px-Canal_Viva_2018_wordmark.svg.png" group-title="Retrô", Viva (Brasil)
 http://64.31.40.14:14884/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1024px-Canal_Viva_2018_wordmark.svg.png" group-title="Retrô", Viva SD (Brasil)
-http://bdtb.io/live/378724/pcapQ5/72430.m3u8
 
 ---
 
@@ -3701,7 +3692,7 @@ https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 ---
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fox/images/6/64/Marriedwithchildren.jpg" group-title="Retrô", Married with Children - Pluto TV (Reino Unido)
-https://i.mjh.nz/PlutoTV/6152d75abd229300079c7078-alt.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV (Reino Unido)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
