@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 23/11/2023
+ATUALIZADA EM 25/11/2023
 
 
 
@@ -812,7 +812,7 @@ https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1024px-Logo_of_Bis.svg.png" group-title="Arte e Cultura", Bis (Brasil)
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/420
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Arte e Cultura", CineBRASiL TV (Rio de Janeiro/RJ)
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
@@ -1066,7 +1066,7 @@ https://d1geua7w9myu7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just for Laughs - Pluto TV (Reino Unido)
 https://i.mjh.nz/PlutoTV/60d32888e31a0300073d9f08-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="Comédia", Pranks TV - Rolu (EUA)
+#EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="Comédia", Pranks TV - Roku (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3421
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400006QE_20220330T044448SQUARE.png_20220330044449.png" group-title="Comédia", The Red Green Channel - Samsung TV Plus (Canadá)
@@ -2275,7 +2275,7 @@ https://linear-274.frequency.stream/274/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1VhV54C.png" group-title="Gastronomia", Planet Eat (Reino Unido)
-https://answermedia-planet-eat-1-us.lg.wurl.tv/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9w2mGn.png" group-title="Gastronomia", So Yummy! (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149
@@ -2318,7 +2318,7 @@ https://i.mjh.nz/PlutoTV/624b1c8d4321e200073ee421-alt.m3u8
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Geek e Anime", PlayTV (São Paulo/SP)
-https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Geek e Anime", Pluto TV Anime (Brasil)
 https://i.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
@@ -2507,7 +2507,7 @@ https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantil e Desenhos", IPe (Peru)
-https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="Infantil e Desenhos", Galicia TV Infantil (Galiza)
 https://infantil-crtvg.flumotion.com/playlist.m3u8
@@ -2515,8 +2515,8 @@ https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nickelodeon en Español - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="Infantil e Desenhos", Pakapaka (Argentina)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="Infantil e Desenhos", Pakapaka - YouTube (Argentina)
+https://livestream.zazerconer.workers.dev/channel/UCVVNYxncuD4EfHpKDlPIYcQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhLbBGx.png" group-title="Infantil e Desenhos", Zas - Galxy TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
@@ -2533,7 +2533,7 @@ https://i.mjh.nz/PlutoTV/62ac405b3874370007419b7f-alt.m3u8
 https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Infantil e Desenhos", PBS Kids (EUA)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+https://cdn1-6p.teleuptv.net/7efffed8-115a-4742-93ee-f17d22c8b11f/index.m3u8?l1br3update1217&CatUSAFreeTV
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000286F_20220323T071116SQUARE.png_20220323071119.png" group-title="Infantil e Desenhos", Teletubbies - Samsung TV Plus (Reino Unido)
 https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8?ads.wurl_channel=667&ads.wurl_name=WildBrainPresentsTeletubbies&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -2697,7 +2697,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2535
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3428
 
 #EXTINF:-1 tvg-logo="https://imgur.com/LN0KVDo.png" group-title="Música", Kerrang! TV (Reino Unido)
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kisstv.png" group-title="Música", Kiss TV (Brasil)
 INDISPONÍVEL
@@ -2741,14 +2741,8 @@ https://i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Classic - Pluto TV (Suécia)
 https://i.mjh.nz/PlutoTV/6329cf28ef924b00078a9dc1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV En Vivo - Pluto TV (Espanha)
-https://i.mjh.nz/PlutoTV/6130d6f3f3f7bb0007dbd092-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Flow Latino - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="Música", MTV Live (EUA)
-http://bdtb.io/live/378724/pcapQ5/72177.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Alemanha)
 https://i.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
@@ -2864,9 +2858,6 @@ https://i.mjh.nz/PlutoTV/625e79fe9b586d000785e330-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Classic Rock (França)
 https://i.mjh.nz/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Concert (França)
-https://i.mjh.nz/PlutoTV/6080411af03506000759916e-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Karaokê por Stingray (Brasil)
 https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
 
@@ -2875,9 +2866,6 @@ https://i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Música", Qwest TV - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Música", Qwest TV - Pluto TV (França)
-https://i.mjh.nz/PlutoTV/60db3aef7b85d300073db507-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1024px-Radio_Capital_logo_%282020%29.svg.png" group-title="Música", Radio Capital (Itália)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
@@ -2925,7 +2913,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1939
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Música", Stingray Music: Classic Rock - Plex (EUA)
-https://stream-us-east-1.getpublica.com/cl/231117clbqm5lbg19m6hig2g00/1920x1080_1856404_1_f.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Música", Stingray Music: Easy Listening - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee76b5271f393d2d9f709a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
@@ -3155,9 +3143,6 @@ https://i.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Classics - Pluto TV (Espanha)
 https://i.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Euro Hits - Pluto TV (Itália)
-https://i.mjh.nz/PlutoTV/63eb5857a995710008971705-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Hip Hop & Rap - Pluto TV (Itália)
 https://i.mjh.nz/PlutoTV/6465fef47cb4b100086ee7bd-alt.m3u8
 
@@ -3188,6 +3173,9 @@ https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/p
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Música", XITE Hits - Samsung TV Plus (Reino Unido)
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20220525T021948SQUARE.png_20220525021949.png" group-title="Música", XITE Just Chill - Samsung TV Plus (EUA)
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música", XITE Rock On - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
 
@@ -3196,9 +3184,6 @@ https://amg01243-xitenetworksint-rockoneu-samsungde-urpi1.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música", XITE Rock On - Samsung TV Plus (EUA)
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20220525T021948SQUARE.png_20220525021949.png" group-title="Música", XITE Just Chill - Samsung TV Plus (EUA)
-https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
 
