@@ -2318,7 +2318,7 @@ https://i.mjh.nz/PlutoTV/624b1c8d4321e200073ee421-alt.m3u8
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Geek e Anime", PlayTV (São Paulo/SP)
-https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
+https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Geek e Anime", Pluto TV Anime (Brasil)
 https://i.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
@@ -2584,6 +2584,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f458dded93f
 
 #EXTINF:-1 tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="Música", 1Muz (Bielorrússia)
 http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="Música", 4Fun TV (Polônia)
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="Música", Amordiscos Tv (Colômbia)
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
@@ -3151,6 +3154,9 @@ https://i.mjh.nz/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Rock! - Pluto TV (Itália)
 https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1+ - Samsung TV Plus (EUA)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Música", Vintage TV (Brasil)
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
