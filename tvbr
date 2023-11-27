@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/11/2023
+ATUALIZADA EM 27/11/2023
 
 
 
@@ -38,7 +38,7 @@ https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/templates/multirio2014/images/marca_multirio.png" group-title="Públicos/Educativos Brasil", MultiRio (Rio de Janeiro/RJ)
-INDISPONÍVEL
+http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos Brasil", Rede Minas (Belo Horizonte/MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
@@ -139,6 +139,9 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/cabecalho-7296-20211201143202.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta / TV Alternativa (São Luís/MA)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta SP / TV Cidade (Araçatuba/SP)
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="Redes Abertas e Afiliadas Brasil", Gazeta / TV Grão Pará (Belém/PA)
 https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
@@ -422,10 +425,10 @@ https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w4573
 https://stream.ichibantv.com:3827/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="Regionais Fechados/Web", TV Cidade Canal 9 (Teresópolis/RJ)
-INDISPONÍVEL
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="Regionais Fechados/Web", TV Cidade Oeste (Mossoró/RN)
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/93d349_d4f48c49a03144148af2710a7d395d2a~mv2.png" group-title="Regionais Fechados/Web", TV Cidade Oeste (Mossoró/RN)
+https://radios.primedata.com.br:5443/LiveApp/streams/JKZ4eDH6i8kkebhQ1696703396261.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="Regionais Fechados/Web", TV Com (Santos/SP)
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
@@ -908,6 +911,9 @@ https://d3ouy9idpr6kd5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20230726T004553SQUARE.png_20230726004554.png" group-title="Casa e Design", BBC Home & Garden - Samsung TV Plus (Canadá)
 https://d2v6ajcldhc3i3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dssll2lq3egcb/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/1024px-Dabl_logo.svg.png" group-title="Casa e Design", Dabl - Pluto TV (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20220928T005157SQUARE.png_20220928005158.png" group-title="Casa e Design", Home.Made.Nation - Samsung TV Plus (EUA)
 https://6d29d5c8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MaXZlbHlQbGFjZV9ITFM/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -954,8 +960,20 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/A_Culpa_%C3%A9_do_Cabral.png" group-title="Comédia", A Culpa é do Cabral - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/show_cameras_escondidas_logo_d51e06b303.png" group-title="Comédia", Câmeras Escondidas - Programa Silvio Santos (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968600
+
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Comédia", Canal da Praça - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Comédia", Chapolin (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968597
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="Comédia", Chaves (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968598
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="Comédia", Chaves - Sinal 2 (Brasil)
+http://78.159.119.122:2082/xplus-2-KZLhf8yXg7/OAjcLEZuuh/682
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/Chespirito.png" group-title="Comédia", Chespirito (Brasil)
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
@@ -969,8 +987,14 @@ https://i.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", Comedy Central South Park - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Comédia", Escolinha do Professor Raimundo (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968604
+
 #EXTINF:-1 tvg-logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png" group-title="Comédia", Fora Tédio (São Paulo/SP)
 INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Comédia", Os Trapalhões (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968614
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Comédia", Pluto TV Comédia (Brasil)
 https://i.mjh.nz/PlutoTV/6001f3018502100007f528ac-alt.m3u8
@@ -980,6 +1004,9 @@ https://stream.ichibantv.com:3522/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Porta_dos_Fundos.jpeg" group-title="Comédia", Porta dos Fundos - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f36f2346ede750007332d11-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Sai_de_Baixo_logo.jpg" group-title="Comédia", Sai de Baixo (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968528
 
 #EXTINF:-1 tvg-logo="https://imgur.com/O9S1zzI.png" group-title="Comédia", Tratamento de Choque - Samsung TV Plus (Brasil)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -1027,6 +1054,9 @@ https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rn6WG4I.png" group-title="Comédia", Camera Smile TV - Viva Live TV (EUA)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/485ea1e9-7ca2-4487-bd9e-89ce0fc4d5bc/0.m3u8
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central Animation - Pluto TV (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200020WJ_20230809T005058SQUARE.png_20230809005059.png" group-title="Comédia", Comedy Dynamics - Samsung TV Plus (EUA)
 https://d1il5mi585nqh6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ikeqabzbg7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
@@ -1066,8 +1096,14 @@ https://d1geua7w9myu7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just for Laughs - Pluto TV (Reino Unido)
 https://i.mjh.nz/PlutoTV/60d32888e31a0300073d9f08-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGj7WOi.png" group-title="Comédia", Comedy - Local Now (EUA)
+http://linear-89.frequency.stream/89/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="Comédia", Pranks TV - Roku (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3421
+
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6014757daa89d94e1960b8e0" group-title="Comédia", That's Funny - Local Now (EUA)
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400006QE_20220330T044448SQUARE.png_20220330044449.png" group-title="Comédia", The Red Green Channel - Samsung TV Plus (Canadá)
 https://d5d8af44e2824000ad28245f2de6dd04.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_TheRedGreenChannel/playlist.m3u8?ads.wurl_channel=949&ads.wurl_name=TheRedGreenChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -1309,14 +1345,26 @@ https://i.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="Entretenimento e Reality Shows", Multishow (Brasil)
 http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/24
 
-#EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Entretenimento e Reality Shows", Paramount+ Apresenta - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Entretenimento e Reality Shows", Nosey Escândalos - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f9b05a99547eb0007676b02-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Entretenimento e Reality Shows", Nosey Escândalos - Samsung TV Plus (Brasil)
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Programa_P%C3%A2nico.png" group-title="Entretenimento e Reality Shows", Pânico - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Entretenimento e Reality Shows", Paramount+ Apresenta - Pluto TV (Brasil)
+https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Pesadelo_na_Cozinha.jpg" group-title="Entretenimento e Reality Shows", Pesadelo na Cozinha (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968285
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Pol%C3%ADcia_24h.jpg" group-title="Entretenimento e Reality Shows", Polícia 24h (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968287
+
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2023/01/31/c91cc0df-cb7f-30c8-9db5-476018dddeaf.png" group-title="Entretenimento e Reality Shows", Quilos Mortais (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968289
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Entretenimento e Reality Shows", RedeTV! - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
@@ -1447,6 +1495,9 @@ https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esporte", Motorvision - Samsung TV Plus (Brasil)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nsctv.com.br/novosite/wp-content/uploads/2020/10/logo_NSC-720x486-1.png" group-title="Esporte", NSC - National Sports Channel (São Paulo/SP)
+https://cdn-1.nxplay.com.br/PLAYOUT_02_NSC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Esporte", Pluto TV Esportes (Brasil)
 https://i.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8
@@ -1670,7 +1721,7 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
 ---
 
-#EXTINF:-1 tvg-logo="https://imgur.com/qK2RI85.png" group-title="Estilo de Vida e Bem-Estar", 4K Travel - DistroTV (EUA)
+#EXTINF:-1 tvg-logo="https://imgur.com/qK2RI85.png" group-title="Estilo de Vida e Bem-Estar", 4K Travel - Distro TV (EUA)
 https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_360p_1000014572.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2culxnxbccemt.cloudfront.net/craft/content/uploads/2023/04/27110026/logo-craftsytv-1920x1080-colored-transparent-e1682611408928.png" group-title="Estilo de Vida e Bem-Estar", CraftsyTV - Plex (EUA)
@@ -1717,119 +1768,120 @@ https://live-3.otcnet.ru/wfcenmulti/tracks-v1a1/mono.m3u8
 
 
 
->> ESTÚDIOS DE RÁDIO
+>> ESTÚDIOS DE RÁDIO BRASIL
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="Estúdios de Rádio", 106 Sertaneja (Ribeirão Preto/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="Estúdios de Rádio Brasil", 106 Sertaneja (Ribeirão Preto/SP)
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://98fmcampoformoso.com.br/wp-content/uploads/2020/09/logo-vazada-branca-1.png" group-title="Estúdios de Rádio", 98 FM (Campo Formoso/BA)
+#EXTINF:-1 tvg-logo="https://98fmcampoformoso.com.br/wp-content/uploads/2020/09/logo-vazada-branca-1.png" group-title="Estúdios de Rádio Brasil", 98 FM (Campo Formoso/BA)
 https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.abc103fm.com.br/includes/img/marca_ABC900.png" group-title="Estúdios de Rádio", ABC FM (Novo Hamburgo/RS)
+#EXTINF:-1 tvg-logo="http://www.abc103fm.com.br/includes/img/marca_ABC900.png" group-title="Estúdios de Rádio Brasil", ABC FM (Novo Hamburgo/RS)
 https://streamabc.gruposinos.com.br/radio.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="Estúdios de Rádio", Atividade FM (Brasília/DF)
+#EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Estúdios de Rádio Brasil", Antena 1 TV (São Paulo/SP)
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="Estúdios de Rádio Brasil", Atividade FM (Brasília/DF)
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Estúdios de Rádio", Catve FM (Cascavel/PR)
+#EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Estúdios de Rádio Brasil", Catve FM (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Estúdios de Rádio", CBN (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Estúdios de Rádio Brasil", CBN (São Paulo/SP)
 LINK INVÁLIDO
 
-#EXTINF:-1 tvg-logo="https://clube.fm/brasilia/wp-content/uploads/sites/2/2019/11/logo-clube-brasilia.png" group-title="Estúdios de Rádio", Clube FM (Brasília/DF)
+#EXTINF:-1 tvg-logo="https://clube.fm/brasilia/wp-content/uploads/sites/2/2019/11/logo-clube-brasilia.png" group-title="Estúdios de Rádio Brasil", Clube FM (Brasília/DF)
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/63e8605aab12f.png" group-title="Estúdios de Rádio", Clube FM (Ribeirão Preto/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/63e8605aab12f.png" group-title="Estúdios de Rádio Brasil", Clube FM (Ribeirão Preto/SP)
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?7396e59bd10d4514fc3237bcb584ca86
 
-#EXTINF:-1 tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="Estúdios de Rádio", Clube FM 99 (Patos de Minas/MG)
+#EXTINF:-1 tvg-logo="http://clubefm99.com.br/site/img/logo99fm.png" group-title="Estúdios de Rádio Brasil", Clube FM 99 (Patos de Minas/MG)
 https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdios de Rádio", Cultura FM (Belém/PA)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdios de Rádio Brasil", Cultura FM (Belém/PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_d2fm953.png" group-title="Estúdios de Rádio", D2 FM (Santa Rita do Sapucaí/MG)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_d2fm953.png" group-title="Estúdios de Rádio Brasil", D2 FM (Santa Rita do Sapucaí/MG)
 https://serv3.videovox.pw/ibraim3622/ibraim3622/chunklist_w220685404.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="Estúdios de Rádio", FM Liberdade (Patos de Minas/MG) 
+#EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="Estúdios de Rádio Brasil", FM Liberdade (Patos de Minas/MG) 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
 
-#EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Estúdios de Rádio", FM O Dia (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Estúdios de Rádio Brasil", FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_hotfm1077lencoissp.png" group-title="Estúdios de Rádio", Hot107 (Lençóis Paulista/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_hotfm1077lencoissp.png" group-title="Estúdios de Rádio Brasil", Hot107 (Lençóis Paulista/SP)
 https://hot107.brasilstream.com.br/hls/hot107/index.m3u8?token=10481086601345135000
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Estúdios de Rádio", Hot 98 FM Unimes (Santos/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Estúdios de Rádio Brasil", Hot 98 FM Unimes (Santos/SP)
 https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://sistema.interativafm.net/storage/contents/kdefnwRbGbaVKUJANwCO5YLSiYYSk5q9xQ44VKfc.png" group-title="Estúdios de Rádio", inTV - Interativa FM (Goiânia/GO)
+#EXTINF:-1 tvg-logo="http://sistema.interativafm.net/storage/contents/kdefnwRbGbaVKUJANwCO5YLSiYYSk5q9xQ44VKfc.png" group-title="Estúdios de Rádio Brasil", inTV - Interativa FM (Goiânia/GO)
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/622d2b98870ac.png" group-title="Estúdios de Rádio", JK FM (Brasília/DF)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/622d2b98870ac.png" group-title="Estúdios de Rádio Brasil", JK FM (Brasília/DF)
 https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="Estúdios de Rádio", Massa FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="Estúdios de Rádio Brasil", Massa FM (São Paulo/SP)
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdios de Rádio", Monte FM (Monte Carmelo/MG)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdios de Rádio Brasil", Monte FM (Monte Carmelo/MG)
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/qzajvDo.png" group-title="Estúdios de Rádio", Rádio 102.7 FM (Além Paraíba/MG)
+#EXTINF:-1 tvg-logo="https://imgur.com/qzajvDo.png" group-title="Estúdios de Rádio Brasil", Rádio 102.7 FM (Além Paraíba/MG)
 https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Estúdios de Rádio", Rádio Clube (Foz do Iguaçu/PR)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Estúdios de Rádio Brasil", Rádio Clube (Foz do Iguaçu/PR)
 https://radioclube.brasilstream.com.br/hls/radioclube/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/633c535232744.png" group-title="Estúdios de Rádio", Rádio Clube Ararense (Araras/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/633c535232744.png" group-title="Estúdios de Rádio Brasil", Rádio Clube Ararense (Araras/SP)
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="Estúdios de Rádio", Rádio Difusora FM (Patos de Minas/MG)
+#EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="Estúdios de Rádio Brasil", Rádio Difusora FM (Patos de Minas/MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
 
-#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Estúdios de Rádio", Rádio Encontro das Águas (Manaus/AM)
+#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Estúdios de Rádio Brasil", Rádio Encontro das Águas (Manaus/AM)
 https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_jornal903recife.png" group-title="Estúdios de Rádio", Rádio Jornal (Recife/PE)
+#EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_jornal903recife.png" group-title="Estúdios de Rádio Brasil", Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiomanchete.rio/wp-content/uploads/2023/05/logo-atual.png" group-title="Estúdios de Rádio", Rádio Manchete - YouTube (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://radiomanchete.rio/wp-content/uploads/2023/05/logo-atual.png" group-title="Estúdios de Rádio Brasil", Rádio Manchete - YouTube (Rio de Janeiro/RJ)
 https://livestream.zazerconer.workers.dev/channel/UCKA7NlhZBhTqbhtfYizumjA.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="Estúdios de Rádio", Rádio Montanhesa (Ervália/MG)
+#EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="Estúdios de Rádio Brasil", Rádio Montanhesa (Ervália/MG)
 https://qfm.ddns.net/hlsmErv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="Estúdios de Rádio", Rádio Planalto FM (Passo Fundo/RS)
+#EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="Estúdios de Rádio Brasil", Rádio Planalto FM (Passo Fundo/RS)
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--TQ08D4SvTk/W8UbXanhXKI/AAAAAAAA8Ng/okkZdGSV4nwBJj74PtSYuh8vb9tGyymuACK4BGAYYCw/s1600/RADIO_PLANALTO_NEWS_FM_PASSO_FUNDO_RS.jpg" group-title="Estúdios de Rádio", Rádio Planalto News (Passo Fundo/RS)
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--TQ08D4SvTk/W8UbXanhXKI/AAAAAAAA8Ng/okkZdGSV4nwBJj74PtSYuh8vb9tGyymuACK4BGAYYCw/s1600/RADIO_PLANALTO_NEWS_FM_PASSO_FUNDO_RS.jpg" group-title="Estúdios de Rádio Brasil", Rádio Planalto News (Passo Fundo/RS)
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 
-#EXTINF:0 tvg-logo="https://radioq.com.br/wp-content/uploads/2017/10/logo2x.png" group-title="Estúdios de Rádio", Rádio Q FM (Viçosa/MG)
+#EXTINF:0 tvg-logo="https://radioq.com.br/wp-content/uploads/2017/10/logo2x.png" group-title="Estúdios de Rádio Brasil", Rádio Q FM (Viçosa/MG)
 https://qfm.ddns.net/hlsq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio Brasil", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
 https://livestream.zazerconer.workers.dev/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 
-#EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="Estúdios de Rádio", Rádio Uirapuru AM/FM (Passo Fundo/RS)
+#EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="Estúdios de Rádio Brasil", Rádio Uirapuru AM/FM (Passo Fundo/RS)
 https://video02.logicahost.com.br/rduirapuru01/rduirapuru01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio", Rede Metropolitana (Taubaté/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio Brasil", Rede Metropolitana (Taubaté/SP)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Estúdios de Rádio", RTL FM (Santos/SP)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Estúdios de Rádio Brasil", RTL FM (Santos/SP)
 https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio", Rede Metropolitana (Taubaté/SP)
-
-#EXTINF:-1 tvg-logo="http://www.suprafm.com.br/images/logo-supra-fm.png" group-title="Estúdios de Rádio", Supra FM (Gama/DF)
+#EXTINF:-1 tvg-logo="http://www.suprafm.com.br/images/logo-supra-fm.png" group-title="Estúdios de Rádio Brasil", Supra FM (Gama/DF)
 https://live.cdn.upx.com/00079/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9d/4d/9d4d9bd90834efb2becf9315725ae49c.jpg" group-title="Estúdios de Rádio", Tarobá FM (Londrina/PR)
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9d/4d/9d4d9bd90834efb2becf9315725ae49c.jpg" group-title="Estúdios de Rádio Brasil", Tarobá FM (Londrina/PR)
 https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5c19771074385.png" group-title="Estúdios de Rádio", TV Diário - Diário FM (Macapá/AP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5c19771074385.png" group-title="Estúdios de Rádio Brasil", TV Diário - Diário FM (Macapá/AP)
 https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
 
 
@@ -2134,6 +2186,12 @@ https://1306133dcf0640fe9a264e1537bb9782.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://rlaxxtv.com/wp-content/uploads/2021/09/afrolandtv_grey.png" group-title="Filmes e Séries", Afroland TV - Rlaxx TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=967
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7R5IVv5.png" group-title="Filmes e Séries", A+ Cinema - Roku (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1525
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KS6HUCi.png" group-title="Filmes e Séries", CinePast - FlixHouse (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1694
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XsYNaC.png" group-title="Filmes e Séries", Charge! (EUA)
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
@@ -2260,7 +2318,7 @@ https://d1umqk43psclrr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2oaqmizhqjqau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4wdain833nzhm/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/cooking-panda.jpg" group-title="Gastronomia", Cooking Panda - Plex (EUA)
-INDISPONÍVEL
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500021YQ_20230208T101253SQUARE.png_20230208101254.png" group-title="Gastronomia", Gusto TV - Samsung TV Plus (Canadá)
 https://d16mfeqqufiw9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw0q246thq1dh-ssai-prd/amggustotv/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -2372,6 +2430,9 @@ https://i.mjh.nz/PlutoTV/5f6df6293a12e10007017396-alt.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/80-806413_las-aventuras-de-jackie-chan-jackie-chan-adventures.png" group-title="Infantil e Desenhos", As Aventuras de Jackie Chan - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/The_Adventures_of_Tintin_%28TV%29.jpg" group-title="Infantil e Desenhos", As Aventuras de Tintin (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968354
+
 #EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/2022/12/20221222-ovicio-forma-humana-das-tartarugas-ninja.jpeg" group-title="Infantil e Desenhos", As Tartarugas Ninja - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
 
@@ -2404,6 +2465,9 @@ https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" group-title="Infantil e Desenhos", Disney Channel (Brasil)
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="Infantil e Desenhos", Família Dinossauros (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968418
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1024px-Gloob_logo.svg.png" group-title="Infantil e Desenhos", Gloob (Brasil)
 INDISPONÍVEL
@@ -2450,6 +2514,12 @@ https://i.mjh.nz/PlutoTV/5f5c216df68f920007888315-alt.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-jh-movie-collection-official/images/4/48/Oggy_and_the_Cockroaches_Logo.png" group-title="Infantil e Desenhos", Oggy e as Baratas Tontas - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63221bafdc6e110007b50270-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/1024px-The_Flintstones_logo.svg.png" group-title="Infantil e Desenhos", Os Flintstones (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968506
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Infantil e Desenhos", Os Jetsons (Brasil)
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Os_padrinhos_m%C3%A1gicos_logo.png" group-title="Infantil e Desenhos", Os Padrinhos Mágicos - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/63221e41af69b500076f84e7-alt.m3u8
 
@@ -2458,6 +2528,9 @@ https://i.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Infantil e Desenhos", Peppa Pig - YouTube (Brasil)
 https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Woody_Woodpecker_logo.png" group-title="Infantil e Desenhos", Pica-Pau (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968514
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/1/1c/Blue%27s_Clues_-_logo_%28Latin_American_Spanish%29.jpeg" group-title="Infantil e Desenhos", Pistas de Blue - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f99aad4e82db50007fac4b2-alt.m3u8
@@ -2476,6 +2549,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/11/Rugrats-Logo.png" group-title="Infantil e Desenhos", Rugrats - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png" group-title="Infantil e Desenhos", Tom & Jerry (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968556
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantil e Desenhos", Tooncast (Brasil)
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
@@ -2554,8 +2630,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=754
 
 ---
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="LGBTQIA+", CINEPRIDE - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="LGBTQIA+", CINEPRIDE - Galxy TV (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1871
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d0f10def-3122-4b3b-a7ad-a50050a0babe/HAPPITV_LOGO_LIGHT.png" group-title="LGBTQIA+", HappiTV - Plex (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1664
@@ -2596,30 +2672,6 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/X6eSUoC.png" group-title="Música", Blast Channel TV (Brasil)
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3LXm9w.png" group-title="Música", Canela Music: Amor para Todos (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7VmFIX9.png" group-title="Música", Canela Music: Canela Hits (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vz77emq.png" group-title="Música", Canela Music: Explosion Regional (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQHDrUK.png" group-title="Música", Canela Music: Flow Caribe (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XzbtuAo.png" group-title="Música", Canela Music: Nothing pero Chill (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música", Canela Music: Pop Pegajoso (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música", Canela Music: Ritmos Inolvidables (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1752
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v1VsLHe.png" group-title="Música", Canela Music: The Rockstar Channel (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="Música", Catedral do Rock TV (Petrópolis/RJ)
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
@@ -2669,27 +2721,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20230809T053515SQUARE.png_20230809053515.png" group-title="Música", Hip Hop TV - Samsung TV Plus (Itália)
 https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart 80s - Roku (EUA)
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart 90s - Roku (EUA)
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Alt Radio - Roku (EUA)
-https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Country - Roku (EUA)
-https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Hit Nation - Roku (EUA)
-https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart Latino Hits - Roku (EUA)
-https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música", iHeart The Beat - Roku (EUA)
-https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/08/22200718/Insomniac-TV-Logo-1200x630.png" group-title="Música", Insomniac TV - YouTube (EUA)
 https://livestream.zazerconer.workers.dev/channel/UCr45VhwCBYwMfdN-gz7W_OA.m3u8
 
@@ -2726,111 +2757,6 @@ https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yosyvBm.png" group-title="Música", MPB Channel (Brasil)
 https://stmv1.srvif.com/mpbtv/mpbtv/chunklist_w119214344.m3u8
 
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Approved Hip Hop - Pluto TV (Alemanha)
-https://i.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Biggest Pop - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Classic - Pluto TV (Dinamarca)
-https://i.mjh.nz/PlutoTV/6329ceeac55af500083077e3-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Classic - Pluto TV (Noruega)
-https://i.mjh.nz/PlutoTV/6329cd8809e10300073236c2-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Classic - Pluto TV (Reino Unido)
-https://i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Classic - Pluto TV (Suécia)
-https://i.mjh.nz/PlutoTV/6329cf28ef924b00078a9dc1-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Flow Latino - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Alemanha)
-https://i.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Dinamarca)
-https://i.mjh.nz/PlutoTV/62beb7a0f9db450007a123c5-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Noruega)
-https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Reino Unido)
-https://i.mjh.nz/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Love Music - Pluto TV (Suécia)
-https://i.mjh.nz/PlutoTV/638f2e6c7a07960007e52913-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Movie Hits - Pluto TV (Alemanha)
-https://i.mjh.nz/PlutoTV/6245d05006d79800081fff9c-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Movie Hits - Pluto TV (Dinamarca)
-https://i.mjh.nz/PlutoTV/6331a4df44111b00076b15f7-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Movie Hits - Pluto TV (Reino Unido)
-https://i.mjh.nz/PlutoTV/62a067e7c65ff60007b40874-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Movie Hits - Pluto TV (Suécia)
-https://i.mjh.nz/PlutoTV/6331a5f83eb57800074d4a0d-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Movie Hits - Pluto TV (Noruega)
-https://i.mjh.nz/PlutoTV/6331a50a0eba1900080bd911-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Party - Pluto TV (Alemanha)
-https://i.mjh.nz/PlutoTV/622f46a3769a6d0007429de0-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Party Music - Pluto TV (Espanha)
-https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Pride - Pluto TV (Dinamarca)
-https://i.mjh.nz/PlutoTV/645a61a3d3fdde00081e2206-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Pride - Pluto TV (Suécia)
-https://i.mjh.nz/PlutoTV/645a6296ee6a2f00080b8c6d-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Queens of Pop - Pluto TV (Dinamarca)
-https://i.mjh.nz/PlutoTV/63da41dba9957100087293fc-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Queens of Pop - Pluto TV (Noruega)
-https://i.mjh.nz/PlutoTV/63da30b52e477400081ccdf1-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Queens of Pop - Pluto TV (Suécia)
-https://i.mjh.nz/PlutoTV/63da31c1c111bc0008d920d6-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Rocks - Pluto TV (Reino Unido)
-https://i.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV RockZone - Pluto TV (Alemanha)
-https://i.mjh.nz/PlutoTV/6245cdb15d931000073ee4ff-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV RockZone - Pluto TV (Dinamarca)
-https://i.mjh.nz/PlutoTV/638f2baf818a0c00072aa079-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV RockZone - Pluto TV (Suécia)
-https://i.mjh.nz/PlutoTV/638f2e8fedb23c000859345e-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Spankin' New - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Unplugged - Pluto TV (Alemanha)
-https://i.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Unplugged - Pluto TV (Dinamarca)
-https://i.mjh.nz/PlutoTV/61c09489197fe600073c0570-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Unplugged - Pluto TV (Noruega)
-https://i.mjh.nz/PlutoTV/61c1e14e5df1da0007bee0e3-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Unplugged - Pluto TV (Suécia)
-https://i.mjh.nz/PlutoTV/61c0aec95deef000075acd09-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Urban Music - Pluto TV (Espanha)
-https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música", MTV Yo! - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="Música", MusicTop (Argentina)
 LINK INVÁLIDO
 
@@ -2860,9 +2786,6 @@ https://i.mjh.nz/PlutoTV/625e79fe9b586d000785e330-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Classic Rock (França)
 https://i.mjh.nz/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Karaokê por Stingray (Brasil)
-https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Love Songs (França)
 https://i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
@@ -2915,54 +2838,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTl7Adc.png" group-title="Música", Stingray djazz - Galxy TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1939
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Música", Stingray Music: Classic Rock - Plex (EUA)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Música", Stingray Music: Easy Listening - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee76b5271f393d2d9f709a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Música", Stingray Music: Euro Hits - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Música", Stingray Music: Éxitos del Momento - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png" group-title="Música", Stingray Music: Flashback 70s - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu65qzl.png" group-title="Música", Stingray Music: Greatest Hits - Galxy TV (EUA)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1951
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" group-title="Música", Stingray Music: Hip-Hop/R&B - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2GXzMx8.png" group-title="Música", Stingray Music: Hit List - Galxy TV (EUA)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1945
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5318898-f807-4c7f-b2b4-c4173aaae1ea/Nothin_But_90s.png" group-title="Música", Stingray Music: Nothin' But 90s - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="Música", Stingray Music: Pop Adult - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="Música", Stingray Music: Remember The '80s - Plex (EUA)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1948
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Música", Stingray Music: Rock Alternative - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Música", Stingray Music: Smooth Jazz - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/84bbc4c9-ab36-47c0-88f8-d2d2e67f657a/Soul_Storm.png" group-title="Música", Stingray Music: Soul Storm - Galxy TV (EUA)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="Música", Stingray Music: The Spa - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png" group-title="Música", Stingray Music: Y2K - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stingray-classica-logo.svg/1024px-Stingray-classica-logo.svg.png" group-title="Música", Stingray Classica - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 
@@ -3014,135 +2889,6 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tumusicatelevision.com/logo512.png" group-title="Música", Tu Musica (República Dominicana)
 https://vdo2.streamgato.us:3886/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png" group-title="Música", Vevo '70s - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png" group-title="Música", Vevo '70s - Samsung TV Plus (Canadá)
-https://d4vvedhcuy373.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xzrk1usyeo5h/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png" group-title="Música", Vevo '70s - Samsung TV Plus (EUA)
-https://dqwknz5qopbgu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cjz27alv8s5dq/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" group-title="Música", Vevo '70s & '80s - Samsung TV Plus (Espanha)
-https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" group-title="Música", Vevo '70s & '80s - Samsung TV Plus (Itália)
-https://d3mszodjjkpvht.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rrpzpzph3tsqm/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" group-title="Música", Vevo '70s & '80s - Samsung TV Plus (Reino Unido)
-https://dljikifwgal69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vtk9m2r3a4n44/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música", Vevo '80s - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música", Vevo '80s - Samsung TV Plus (Canadá)
-https://d21vna6fcjp4e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-63v0wk06v7jub/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música", Vevo '80s - Samsung TV Plus (EUA)
-https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000127S_20230321T235503SQUARE.png_20230321235504.png" group-title="Música", Vevo '90s - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000127S_20230321T235503SQUARE.png_20230321235504.png" group-title="Música", Vevo '90s - Samsung TV Plus (Canadá)
-https://d3s3jbgkyxbxe5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4hkun7w2f8ysl/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000127S_20230321T235503SQUARE.png_20230321235504.png" group-title="Música", Vevo '90s - Samsung TV Plus (EUA)
-https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" group-title="Música", Vevo '90s & '00s - Samsung TV Plus (França)
-https://d7fw2de4lp6nx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0v5nxkkcfbii/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" group-title="Música", Vevo '90s & '00s - Samsung TV Plus (Itália)
-https://d13icwgnyyemwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mzuohcccb1wmw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" group-title="Música", Vevo '90s & '00s - Samsung TV Plus (Reino Unido)
-https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música", Vevo 2K - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música", Vevo 2K - Samsung TV Plus (Canadá)
-https://dytbv22qgcc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-igpuaas8l6wr5/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música", Vevo 2K - Samsung TV Plus (EUA)
-https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200009SD_20230726T004616SQUARE.png_20230726004617.png" group-title="Música", Vevo 2010s - Samsung TV Plus (Canadá)
-https://d3qg5btqxll4zk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wyiqh5yupknjq/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200009SD_20230726T004616SQUARE.png_20230726004617.png" group-title="Música", Vevo 2010s - Samsung TV Plus (EUA)
-https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000171D_20230321T235509SQUARE.png_20230321235509.png" group-title="Música", Vevo Hip-Hop - Samsung TV Plus (Canadá)
-https://dza79yqbrbr58.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ffmt5607f6tvw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000171D_20230321T235509SQUARE.png_20230321235509.png" group-title="Música", Vevo Hip-Hop - Samsung TV Plus (EUA)
-https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20230412T042641SQUARE.png_20230412042641.png" group-title="Música", Vevo Hip-Hop & R&B - Samsung TV Plus (França)
-https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20230412T042641SQUARE.png_20230412042641.png" group-title="Música", Vevo Hip Hop & R&B - Samsung TV Plus (Reino Unido)
-https://d2x6xe7mb8n9mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h594lykjer9r4/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230809T053842SQUARE.png_20230809053843.png" group-title="Música", Vevo Latino - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230809T053842SQUARE.png_20230809053843.png" group-title="Música", Vevo Latino - Samsung TV Plus (Espanha)
-https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230809T053842SQUARE.png_20230809053843.png" group-title="Música", Vevo Latino - Samsung TV Plus (EUA)
-https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Samsung TV Plus (Alemanha)
-https://d39h650n18zv79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulfbldzmyh257/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Samsung TV Plus (Canadá)
-https://dy1v30y0x8p9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lsoxdaiomx2xk/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Samsung TV Plus (Espanha)
-https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Samsung TV Plus (EUA)
-https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Samsung TV Plus (França)
-https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Samsung TV Plus (Itália)
-https://d1d95aoj1juizd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4upyb8mhsvin2/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música", Vevo Pop - Samsung TV Plus (Reino Unido)
-https://d2g0vxybsz6hsr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x9zzce8l5rccc/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Música", Vevo Reggaeton & Trap - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Música", Vevo Retro Rock - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Música", Vevo Retro Rock - Samsung TV Plus (Canadá)
-https://d3nfo9xsyj4x6g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6b3ql2g5p5ghn/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Música", Vevo Retro Rock - Samsung TV Plus (EUA)
-https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200015Q1_20230426T031137SQUARE.png_20230426031137.png" group-title="Música", Vevo R&B - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200015Q1_20230426T031137SQUARE.png_20230426031137.png" group-title="Música", Vevo R&B - Samsung TV Plus (Canadá)
-https://d1cbrvawkqonk9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvwra5ec1cepb/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200015Q1_20230426T031137SQUARE.png_20230426031137.png" group-title="Música", Vevo R&B - Samsung TV Plus (EUA)
-https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Música", Vevo True School Hip-Hop - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1 Classics - Pluto TV (Espanha)
 https://i.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
 
@@ -3167,29 +2913,398 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-sam
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Música", Web TV Guetto SP (Embu das Artes/SP)
 https://srv1.zcast.com.br/cristiano1178/cristiano1178/chunklist_w1683033015.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20220525T021952SQUARE.png_20220525021952.png" group-title="Música", XITE 80s Flashback - Samsung TV Plus (EUA)
+
+
+>> MÚSICA - CANAIS CANELA MUSIC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3LXm9w.png" group-title="Música", Amor para Todos - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VmFIX9.png" group-title="Música", Canela Hits - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vz77emq.png" group-title="Música", Explosion Regional - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQHDrUK.png" group-title="Música", Flow Caribe - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzbtuAo.png" group-title="Música", Nothing pero Chill - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música", Pop Pegajoso - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música", Ritmos Inolvidables - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1752
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v1VsLHe.png" group-title="Música", The Rockstar Channel - Canela Music (Equador)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+
+
+
+>> MÚSICA - CANAIS MTV
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Approved Hip Hop - Pluto TV (Alemanha)
+https://i.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Biggest Pop - Pluto TV (Brasil)
+https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Pluto TV (Dinamarca)
+https://i.mjh.nz/PlutoTV/6329ceeac55af500083077e3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Pluto TV (Noruega)
+https://i.mjh.nz/PlutoTV/6329cd8809e10300073236c2-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Pluto TV (Reino Unido)
+https://i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Pluto TV (Suécia)
+https://i.mjh.nz/PlutoTV/6329cf28ef924b00078a9dc1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Flow Latino - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Alemanha)
+https://i.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Dinamarca)
+https://i.mjh.nz/PlutoTV/62beb7a0f9db450007a123c5-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Noruega)
+https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Reino Unido)
+https://i.mjh.nz/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Suécia)
+https://i.mjh.nz/PlutoTV/638f2e6c7a07960007e52913-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Movie Hits - Pluto TV (Alemanha)
+https://i.mjh.nz/PlutoTV/6245d05006d79800081fff9c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Movie Hits - Pluto TV (Dinamarca)
+https://i.mjh.nz/PlutoTV/6331a4df44111b00076b15f7-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Movie Hits - Pluto TV (Reino Unido)
+https://i.mjh.nz/PlutoTV/62a067e7c65ff60007b40874-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Movie Hits - Pluto TV (Suécia)
+https://i.mjh.nz/PlutoTV/6331a5f83eb57800074d4a0d-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Movie Hits - Pluto TV (Noruega)
+https://i.mjh.nz/PlutoTV/6331a50a0eba1900080bd911-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Party - Pluto TV (Alemanha)
+https://i.mjh.nz/PlutoTV/622f46a3769a6d0007429de0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Party Music - Pluto TV (Espanha)
+https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Pride - Pluto TV (Dinamarca)
+https://i.mjh.nz/PlutoTV/645a61a3d3fdde00081e2206-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Pride - Pluto TV (Suécia)
+https://i.mjh.nz/PlutoTV/645a6296ee6a2f00080b8c6d-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Queens of Pop - Pluto TV (Dinamarca)
+https://i.mjh.nz/PlutoTV/63da41dba9957100087293fc-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Queens of Pop - Pluto TV (Noruega)
+https://i.mjh.nz/PlutoTV/63da30b52e477400081ccdf1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Queens of Pop - Pluto TV (Suécia)
+https://i.mjh.nz/PlutoTV/63da31c1c111bc0008d920d6-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Rocks - Pluto TV (Reino Unido)
+https://i.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV RockZone - Pluto TV (Alemanha)
+https://i.mjh.nz/PlutoTV/6245cdb15d931000073ee4ff-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV RockZone - Pluto TV (Dinamarca)
+https://i.mjh.nz/PlutoTV/638f2baf818a0c00072aa079-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV RockZone - Pluto TV (Suécia)
+https://i.mjh.nz/PlutoTV/638f2e8fedb23c000859345e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Spankin' New - Pluto TV (Brasil)
+https://i.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Unplugged - Pluto TV (Alemanha)
+https://i.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Unplugged - Pluto TV (Dinamarca)
+https://i.mjh.nz/PlutoTV/61c09489197fe600073c0570-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Unplugged - Pluto TV (Noruega)
+https://i.mjh.nz/PlutoTV/61c1e14e5df1da0007bee0e3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Unplugged - Pluto TV (Suécia)
+https://i.mjh.nz/PlutoTV/61c0aec95deef000075acd09-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Urban Music - Pluto TV (Espanha)
+https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Yo! - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
+
+
+
+>> MÚSICA - CANAIS VEVO
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png" group-title="Música - Canais Vevo", Vevo '70s - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png" group-title="Música - Canais Vevo", Vevo '70s - Samsung TV Plus (Canadá)
+https://d4vvedhcuy373.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xzrk1usyeo5h/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png" group-title="Música - Canais Vevo", Vevo '70s - Samsung TV Plus (EUA)
+https://dqwknz5qopbgu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cjz27alv8s5dq/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" group-title="Música - Canais Vevo", Vevo '70s & '80s - Samsung TV Plus (Espanha)
+https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" group-title="Música - Canais Vevo", Vevo '70s & '80s - Samsung TV Plus (Itália)
+https://d3mszodjjkpvht.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rrpzpzph3tsqm/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" group-title="Música - Canais Vevo", Vevo '70s & '80s - Samsung TV Plus (Reino Unido)
+https://dljikifwgal69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vtk9m2r3a4n44/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música - Canais Vevo", Vevo '80s - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música - Canais Vevo", Vevo '80s - Samsung TV Plus (Canadá)
+https://d21vna6fcjp4e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-63v0wk06v7jub/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200011IS_20230321T235501SQUARE.png_20230321235502.png" group-title="Música - Canais Vevo", Vevo '80s - Samsung TV Plus (EUA)
+https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000127S_20230321T235503SQUARE.png_20230321235504.png" group-title="Música - Canais Vevo", Vevo '90s - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000127S_20230321T235503SQUARE.png_20230321235504.png" group-title="Música - Canais Vevo", Vevo '90s - Samsung TV Plus (Canadá)
+https://d3s3jbgkyxbxe5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4hkun7w2f8ysl/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000127S_20230321T235503SQUARE.png_20230321235504.png" group-title="Música - Canais Vevo", Vevo '90s - Samsung TV Plus (EUA)
+https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" group-title="Música - Canais Vevo", Vevo '90s & '00s - Samsung TV Plus (França)
+https://d7fw2de4lp6nx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0v5nxkkcfbii/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" group-title="Música - Canais Vevo", Vevo '90s & '00s - Samsung TV Plus (Itália)
+https://d13icwgnyyemwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mzuohcccb1wmw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" group-title="Música - Canais Vevo", Vevo '90s & '00s - Samsung TV Plus (Reino Unido)
+https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música - Canais Vevo", Vevo 2K - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música - Canais Vevo", Vevo 2K - Samsung TV Plus (Canadá)
+https://dytbv22qgcc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-igpuaas8l6wr5/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200013DN_20230321T235505SQUARE.png_20230321235506.png" group-title="Música - Canais Vevo", Vevo 2K - Samsung TV Plus (EUA)
+https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200009SD_20230726T004616SQUARE.png_20230726004617.png" group-title="Música - Canais Vevo", Vevo 2010s - Samsung TV Plus (Canadá)
+https://d3qg5btqxll4zk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wyiqh5yupknjq/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200009SD_20230726T004616SQUARE.png_20230726004617.png" group-title="Música - Canais Vevo", Vevo 2010s - Samsung TV Plus (EUA)
+https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000171D_20230321T235509SQUARE.png_20230321235509.png" group-title="Música - Canais Vevo", Vevo Hip-Hop - Samsung TV Plus (Canadá)
+https://dza79yqbrbr58.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ffmt5607f6tvw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000171D_20230321T235509SQUARE.png_20230321235509.png" group-title="Música - Canais Vevo", Vevo Hip-Hop - Samsung TV Plus (EUA)
+https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20230412T042641SQUARE.png_20230412042641.png" group-title="Música - Canais Vevo", Vevo Hip-Hop & R&B - Samsung TV Plus (França)
+https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20230412T042641SQUARE.png_20230412042641.png" group-title="Música - Canais Vevo", Vevo Hip Hop & R&B - Samsung TV Plus (Reino Unido)
+https://d2x6xe7mb8n9mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h594lykjer9r4/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230809T053842SQUARE.png_20230809053843.png" group-title="Música - Canais Vevo", Vevo Latino - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230809T053842SQUARE.png_20230809053843.png" group-title="Música - Canais Vevo", Vevo Latino - Samsung TV Plus (Espanha)
+https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230809T053842SQUARE.png_20230809053843.png" group-title="Música - Canais Vevo", Vevo Latino - Samsung TV Plus (EUA)
+https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (Alemanha)
+https://d39h650n18zv79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulfbldzmyh257/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (Canadá)
+https://dy1v30y0x8p9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lsoxdaiomx2xk/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (Espanha)
+https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (EUA)
+https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (França)
+https://d3vxz540ozij3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lv1qzgyv0ee39/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (Itália)
+https://d1d95aoj1juizd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4upyb8mhsvin2/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (Reino Unido)
+https://d2g0vxybsz6hsr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x9zzce8l5rccc/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Música - Canais Vevo", Vevo Reggaeton & Trap - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Música - Canais Vevo", Vevo Retro Rock - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Música - Canais Vevo", Vevo Retro Rock - Samsung TV Plus (Canadá)
+https://d3nfo9xsyj4x6g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6b3ql2g5p5ghn/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Música - Canais Vevo", Vevo Retro Rock - Samsung TV Plus (EUA)
+https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200015Q1_20230426T031137SQUARE.png_20230426031137.png" group-title="Música - Canais Vevo", Vevo R&B - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200015Q1_20230426T031137SQUARE.png_20230426031137.png" group-title="Música - Canais Vevo", Vevo R&B - Samsung TV Plus (Canadá)
+https://d1cbrvawkqonk9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvwra5ec1cepb/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200015Q1_20230426T031137SQUARE.png_20230426031137.png" group-title="Música - Canais Vevo", Vevo R&B - Samsung TV Plus (EUA)
+https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Música - Canais Vevo", Vevo True School Hip-Hop - Pluto TV (EUA)
+https://i.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+
+
+
+>> MÚSICA - CANAIS XITE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20220525T021952SQUARE.png_20220525021952.png" group-title="Música - Canais XITE", XITE 80s Flashback - Samsung TV Plus (EUA)
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20220525T021953SQUARE.png_20220525021954.png" group-title="Música", XITE 90s Throwback - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20220525T021953SQUARE.png_20220525021954.png" group-title="Música - Canais XITE", XITE 90s Throwback - Samsung TV Plus (EUA)
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Música", XITE Hits - Samsung TV Plus (Alemanha)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Música - Canais XITE", XITE Hits - Samsung TV Plus (Alemanha)
 https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Música", XITE Hits - Samsung TV Plus (Reino Unido)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Música - Canais XITE", XITE Hits - Samsung TV Plus (Reino Unido)
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20220525T021948SQUARE.png_20220525021949.png" group-title="Música", XITE Just Chill - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20220525T021948SQUARE.png_20220525021949.png" group-title="Música - Canais XITE", XITE Just Chill - Samsung TV Plus (EUA)
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música", XITE Rock On - Pluto TV (EUA)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música - Canais XITE", XITE Rock On - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música", XITE Rock On - Samsung TV Plus (Alemanha)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música - Canais XITE", XITE Rock On - Samsung TV Plus (Alemanha)
 https://amg01243-xitenetworksint-rockoneu-samsungde-urpi1.amagi.tv/playlist/amg01243-xitenetworksint-rockoneu-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música", XITE Rock On - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Música - Canais XITE", XITE Rock On - Samsung TV Plus (EUA)
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+
+
+>> MÚSICA - KARAOKÊ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música - Karaokê", Pluto TV Karaokê por Stingray (Argentina)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música - Karaokê", Pluto TV Karaokê por Stingray (Brasil)
+https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música - Karaokê", Party Tyme Karaoke - Brasil (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=469
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música - Karaokê", Party Tyme Karaoke - Espanhol (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=489
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música - Karaokê", Party Tyme Karaoke - Inglês (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
+
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/PogAT3d.png" group-title="Música - Karaokê", Stingray Karaoke (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1940
+
+
+
+>> MÚSICA - RÁDIOS IHEART/STINGRAY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart 80s - Roku (EUA)
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart 90s - Roku (EUA)
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Alt Radio - Roku (EUA)
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Country - Roku (EUA)
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Hit Nation - Roku (EUA)
+https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Latino Hits - Roku (EUA)
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart The Beat - Roku (EUA)
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Classic Rock - Plex (EUA)
+INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Easy Listening - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee76b5271f393d2d9f709a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Euro Hits - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Éxitos del Momento - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Flashback 70s - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu65qzl.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Greatest Hits - Galxy TV (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1951
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hip-Hop/R&B - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2GXzMx8.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hit List - Galxy TV (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1945
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5318898-f807-4c7f-b2b4-c4173aaae1ea/Nothin_But_90s.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Nothin' But 90s - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Pop Adult - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Remember The '80s - Plex (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1948
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Rock Alternative - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Smooth Jazz - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/84bbc4c9-ab36-47c0-88f8-d2d2e67f657a/Soul_Storm.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Soul Storm - Galxy TV (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: The Spa - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Y2K - Plex (EUA)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
 
 
 
@@ -3591,6 +3706,18 @@ https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e2/Bewitched.jpg" group-title="Retrô", A Feiticeira - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5a/A-diarista-globo.jpg" group-title="Retrô", A Diarista (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968590
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/A-Grande-Fam%C3%ADlia-logo.jpg" group-title="Retrô", A Grande Família (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968331
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/Alf-Poster.jpg" group-title="Retrô", Alf, o ETeimoso (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968346
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/The_Adventures_of_Tintin_%28TV%29.jpg" group-title="Retrô", As Aventuras de Tintin (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968354
+
 #EXTINF:-1 tvg-logo="https://infantv.com.br/infantv/wp-content/uploads/2016/08/panteras_logo.jpg" group-title="Retrô", As Panteras - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
 
@@ -3599,6 +3726,9 @@ https://i.mjh.nz/PlutoTV/63eb9cfbc111bc0008feda3b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WwEyKVj.png" group-title="Retrô", Canal 29 - Séries Antigas (São Paulo/SP)
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Carga_Pesada.jpg" group-title="Retrô", Carga Pesada (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968256
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Retrô", Classique TV (Brasil)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -3612,11 +3742,26 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="Retrô", Chaves (Brasil)
 INDISPONÍVEL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Retrô", Chapolin (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968597
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="Retrô", Chaves (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968598
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="Retrô", Chaves - Sinal 2 (Brasil)
+http://78.159.119.122:2082/xplus-2-KZLhf8yXg7/OAjcLEZuuh/682
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/Chespirito.png" group-title="Retrô", Chespirito (Brasil)
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Diffrentstrokes.jpg" group-title="Retrô", Diff’rent Strokes Arnold - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Retrô", Escolinha do Professor Raimundo (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968604
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/17/16/40/4954901.jpg" group-title="Retrô", Família Dinossauros (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968418
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gln%20tv.png" group-title="Retrô", GLN TV - Soul TV (Brasil)
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
@@ -3624,7 +3769,10 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ea/IDreamOfJeannie.jpg" group-title="Retrô", Jeannie é um Gênio - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Retrô", Jetsons TV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/1024px-The_Flintstones_logo.svg.png" group-title="Retrô", Os Flintstones (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968506
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Retrô", Os Jetsons (Brasil)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/f/fd/Mad_About_You_logo.png" group-title="Retrô", Louco por Você - Pluto TV (Brasil)
@@ -3636,14 +3784,26 @@ https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Highway_to_Heaven_title_screen.jpg" group-title="Retrô", O Homem que veio do Céu - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Retrô", Os Trapalhões (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968614
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Disorder_in_the_Court_title_1936.jpg" group-title="Retrô", Os Três Patetas - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Woody_Woodpecker_logo.png" group-title="Retrô", Pica-Pau (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968514
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Retrô (Brasil)
 https://i.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Sai_de_Baixo_logo.jpg" group-title="Retrô", Sai de Baixo (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968528
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png" group-title="Retrô", Tom & Jerry (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968556
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Retrô", Séries Classic - TV Mon (Montenegro/RS)
 https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
@@ -3744,14 +3904,32 @@ https://livestream.zazerconer.workers.dev/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Pós-TV", Fireplace 4K - Samsung TV Plus (Reino Unido)
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Pós-TV", Fireplace Lounge - Distro TV (EUA)
+https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGFish Tank" tvg-logo="https://i.imgur.com/pj63FMU.png" group-title="Pós-TV", Fish Tank - Distro TV (EUA)
+https://dai.google.com/linear/hls/event/SUiAUobmTi6nMfIemEKjTA/master.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGIsland Escape" tvg-logo="https://i.imgur.com/aWwR7do.png" group-title="Pós-TV", Island Escape - Distro TV (EUA)
+https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20230307T222244SQUARE.png_20230307222245.png" group-title="Pós-TV", Loupe 4K - Samsung TV Plus (EUA)
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8TMPtNG.png" group-title="Pós-TV", Nature Stream TV - Roku (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/a3288850-1ec7-4361-8b8b-c83a5b5ed6c4/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13vyZaJ.png" group-title="Pós-TV", Quietude 4K - Distro TV (EUA)
+https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ewQNfJ.png" group-title="Pós-TV", Relax My Cat - YouTube (EUA)
 https://livestream.zazerconer.workers.dev/channel/UC89zrYB2M6mj00nHdHWD-EA.m3u8
+
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/logo_20200229_001723.png" group-title="Pós-TV", Relaxing Rain - Distro TV (EUA)
+https://dai.google.com/linear/hls/event/N-tqcU4fRBGJsIWzsgMfmg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQYHCEq.png" group-title="Pós-TV", SOAR: Sailing Over America - Stirr (EUA)
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" group-title="Pós-TV", Stingray Naturescape - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8
@@ -3761,6 +3939,9 @@ https://i.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400003T7_20220712T041515SQUARE.png_20220712041516.png" group-title="Pós-TV", Stingray Naturescape - Samsung TV Plus (Brasil)
 https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_StingrayNaturescape/playlist.m3u8?ads.wurl_channel=480&ads.wurl_name=StingrayNaturescape&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="Pós-TV", Tranquil Thunderstorms - Distro TV (EUA)
+https://dai.google.com/linear/hls/event/474qwragRU6-z1YGWo1NMA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png" group-title="Pós-TV", Weather Spy - Plex (EUA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7UDMaQmqhdBsLoyP96eG
