@@ -2611,7 +2611,7 @@ https://infantil-crtvg.flumotion.com/playlist.m3u8
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="Infantil e Desenhos", Pakapaka - YouTube (Argentina)
-https://livestream.zazerconer.workers.dev/channel/UCVVNYxncuD4EfHpKDlPIYcQ.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhLbBGx.png" group-title="Infantil e Desenhos", Zas - Galxy TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
@@ -2850,9 +2850,6 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Música", Rock TV - Samsung TV Plus (Itália)
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8?ads.wurl_channel=1367&ads.wurl_name=RockTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tScmQ85.png" group-title="Música", Rock TV - Virtual TV (Brasil)
-https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20230712T021349SQUARE.png_20230712021349.png" group-title="Música", Sol Música - Samsung TV Plus (Espanha)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -3227,7 +3224,7 @@ https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20220525T021953SQUARE.png_20220525021954.png" group-title="Música - Canais XITE", XITE 90s Throwback - Samsung TV Plus (EUA)
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20220525T021953SQUARE.png_20220525021954.png" group-title="Música - Canais XITE", XITE Classic Country - Pluto TV (EUA)
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/02/16/XITE_ClassicCountry_Channel_1080x1080_Square2-1r3919sx.png" group-title="Música - Canais XITE", XITE Classic Country - Pluto TV (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Música - Canais XITE", XITE Hits - Samsung TV Plus (Alemanha)
