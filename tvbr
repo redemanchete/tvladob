@@ -10,7 +10,7 @@ ATUALIZADA EM 27/11/2023
 #EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="Públicos/Educativos Brasil", BraziTV / TV Cultura Internacional (EUA)
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Logotipo_do_Canal_FDR.png" group-title="Públicos/Educativos Brasil", Canal FDR / Futura (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos Brasil", Canal FDR / Futura (Fortaleza/CE)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w545353741.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/canaleducacao.jpeg" group-title="Públicos/Educativos Brasil", Canal Educação (Brasil)
@@ -30,6 +30,9 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.
  
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_2_branca.png" group-title="Públicos/Educativos Brasil", CATVE 2 (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
+
+#EXTINF:-1 tvg-logo="https://cnu.org.br/sites/wp-content/uploads/2019/08/CNU_HD_SITE.jpg" group-title="Públicos/Educativos Brasil", CNU - YouTube (São Paulo/SP)
+https://livestream.zazerconer.workers.dev/channel/UC-lh3O914E8ajUVBOaacJRw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_fmu.jpg" group-title="Públicos/Educativos Brasil", FMU TV (São Paulo/SP)
 https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
@@ -840,6 +843,10 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brasil@3x.png" group-title="Arte e Cultura", Trace Brasil - Samsung TV Plus (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zoommusic.com.br/site/images/Logotipo.png" group-title="Arte e Cultura", ZoomMusic (Brasília/DF)
+https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
+
 
 ---
 
@@ -2559,6 +2566,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/11/Rugrats-Logo.png" group-title="Infantil e Desenhos", Rugrats - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000286F_20220323T071116SQUARE.png_20220323071119.png" group-title="Infantil e Desenhos", Teletubbies - Pluto TV (Brasil)
+https://i.mjh.nz/PlutoTV/64e50055286f6b000838c067-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png" group-title="Infantil e Desenhos", Tom & Jerry (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968556
 
@@ -2610,6 +2620,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/04IizxF.png" group-title="Infantil e Desenhos", Baby Einstein (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1398
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/ESBA33000188W_20210209T093457.png" group-title="Infantil e Desenhos", ducktv (EUA)
+https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Barney_%26_Friends_logo.svg/1024px-Barney_%26_Friends_logo.svg.png" group-title="Infantil e Desenhos", Barney & Friends - Pluto TV (Reino Unido)
 https://i.mjh.nz/PlutoTV/62ac405b3874370007419b7f-alt.m3u8
@@ -2800,7 +2813,7 @@ https://i.mjh.nz/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
 https://i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Música", Qwest TV - Plex (EUA)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=g1s9NoHVwwgBudNxcxvV
+https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/cb543d19726c648a9fd43c6ecef043a4f9621fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba84f35791c64d8deb87adb990c09abc8787f79e8250153fe0f15d024532399cf131a803bba614a42ba59200670c9bf5aab7e5196d25c96777d82abc06038280f42975f08e5bd08f2ade45f11d86fa9b1184df79774dda37a1339ff8aaae629fc51b004b345d7cbaca9fb2ab0e5e04337837f56733511728c9471d3e850b3c8936a38e60040d1c2e787d1f9cdedff8907735dedf3c4fd119782123b44f302048b7af17c853fca5bab1cabee04c7c7de8f131169f4961c094dd12cd33adf8df3eac6821089631115abd1b43236e860dd30223b91b2f8158bfc2597a32f8a8e807c52f4bc4a8194be8feeffd804cc6582eaf59b344c5a6c170add1d8b9479de259d55a9cd530e6f0d7cedcb058ad78c05707059dcd10c845d4bf09bac86dc053485324b0bb830880b542cea3d7e79e322e1d56d3ed9685af758579f7706c07a8edd7da5e98ab07c79dfb9ea4de566e3b90ba89824a07f395f0dabb2611f6a7f3de8ac0129356ac851ebc3c0802386b04cf38f67d1e63c3a69458f294fd6/4/1280x720_3572800/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1024px-Radio_Capital_logo_%282020%29.svg.png" group-title="Música", Radio Capital (Itália)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
@@ -2926,28 +2939,28 @@ https://srv1.zcast.com.br/cristiano1178/cristiano1178/chunklist_w1683033015.m3u8
 
 >> MÚSICA - CANAIS CANELA MUSIC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3LXm9w.png" group-title="Música", Amor para Todos - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3LXm9w.png" group-title="Música - Canais Canela Music", Amor para Todos - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7VmFIX9.png" group-title="Música", Canela Hits - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VmFIX9.png" group-title="Música - Canais Canela Music", Canela Hits - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vz77emq.png" group-title="Música", Explosion Regional - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vz77emq.png" group-title="Música - Canais Canela Music", Explosion Regional - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQHDrUK.png" group-title="Música", Flow Caribe - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQHDrUK.png" group-title="Música - Canais Canela Music", Flow Caribe - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XzbtuAo.png" group-title="Música", Nothing pero Chill - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzbtuAo.png" group-title="Música - Canais Canela Music", Nothing pero Chill - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música", Pop Pegajoso - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música - Canais Canela Music", Pop Pegajoso - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música", Ritmos Inolvidables - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música - Canais Canela Music", Ritmos Inolvidables - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1752
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v1VsLHe.png" group-title="Música", The Rockstar Channel - Canela Music (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v1VsLHe.png" group-title="Música - Canais Canela Music", The Rockstar Channel - Canela Music (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 
 
@@ -3866,6 +3879,9 @@ https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="Televendas", 1001 Noites (Curitiba/PR)
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rmxhw6cyva.map.azionedge.net/Custom/Content/Themes/Mobile2017-1/images/logo_cor_new-topo_mobile.png" group-title="Televendas", Joias Vip - YouTube (Curitiba/PR)
+https://livestream.zazerconer.workers.dev/channel/UCNCSZVTzpLwqyl5V2BL8sHg.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo-1.png" group-title="Televendas", Polishop - YouTube (Brasil)
 https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
