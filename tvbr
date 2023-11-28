@@ -844,9 +844,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/trace-brasil@3x.png" group-title="Arte e Cultura", Trace Brasil - Samsung TV Plus (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.zoommusic.com.br/site/images/Logotipo.png" group-title="Arte e Cultura", ZoomMusic (Brasília/DF)
-https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
-
 
 ---
 
@@ -1840,6 +1837,9 @@ https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdios de Rádio Brasil", Monte FM (Monte Carmelo/MG)
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.portaldasmissoes.com.br/uploads/empreendimentos/0001280_zoom_novos-horizontes-fm-santo-angelo-portal-das-missoes.png" group-title="Estúdios de Rádio Brasil", Novos Horizontes FM (Santo Ângelo/RS)
+https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/qzajvDo.png" group-title="Estúdios de Rádio Brasil", Rádio 102.7 FM (Além Paraíba/MG)
 https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 
@@ -2695,6 +2695,9 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X6eSUoC.png" group-title="Música", Blast Channel TV (Brasil)
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5aWWmnK.png" group-title="Música", Box Playlist - Roku (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1705
+
 #EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="Música", Catedral do Rock TV (Petrópolis/RJ)
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
@@ -2715,6 +2718,9 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Música", CMC - California Music Channel (EUA)
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Cmtmusic_logo.png" group-title="Música", CMT Music - Pluto TV (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gdmSy9I.png" group-title="Música", Dance Television (Países Baixos)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -2761,7 +2767,7 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Música", Kpop TV Play (Brasil)
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Música", KroneHIT TV (Áustria)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Música", Kronehit TV (Áustria)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/latinatv-v1_logo.png" group-title="Música", Latina TV (Argentina)
@@ -2797,6 +2803,9 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png" group-title="Música", Ocko TV (República Tcheca)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62155b6bcde46f3cf279fed3" group-title="Música", OFIVE - Local Now (EUA)
+https://ofive-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_621559a9d613fc3b6f28338b_ofive-live/m.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="Música", On FM TV (Portugal)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
@@ -2824,9 +2833,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="Música", Radio Power Pinamar (Argentina)
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="Música", Reload (Chipre)
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Música", Retro Music Television (República Tcheca)
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
@@ -2836,8 +2842,8 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png" group-title="Música", Retro Plus - Señal Dos (Chile)
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rewindtv.cl/wp-content/uploads/2020/06/LOGO-2022-HORIZONTAL-1.png" group-title="Música", Rewind Televisión (Chile)
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653fbb7c243f8386820.png" group-title="Música", Rewind Televisión (Chile)
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Música", Rock TV (Romênia)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
@@ -2926,6 +2932,9 @@ https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Música", VH1+ - Samsung TV Plus (EUA)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5LI4ps.png" group-title="Música", V2Beat TV (Bulgária)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Música", Vintage TV (Brasil)
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
@@ -2934,6 +2943,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-sam
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio151328_1594037310.jpg" group-title="Música", Web TV Guetto SP (Embu das Artes/SP)
 https://srv1.zcast.com.br/cristiano1178/cristiano1178/chunklist_w1683033015.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zoommusic.com.br/site/images/Logotipo.png" group-title="Música", ZoomMusic (Brasília/DF)
+https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 
 
 
@@ -3214,6 +3226,9 @@ https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20220525T021953SQUARE.png_20220525021954.png" group-title="Música - Canais XITE", XITE 90s Throwback - Samsung TV Plus (EUA)
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20220525T021953SQUARE.png_20220525021954.png" group-title="Música - Canais XITE", XITE Classic Country - Pluto TV (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Música - Canais XITE", XITE Hits - Samsung TV Plus (Alemanha)
 https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
