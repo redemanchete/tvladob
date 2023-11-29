@@ -27,7 +27,7 @@ https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://catve.com/portal/img/catve_hd_branca.png" group-title="Públicos/Educativos Brasil", CATVE / TV Cultura (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://catve.com/portal/img/catve_2_branca.png" group-title="Públicos/Educativos Brasil", CATVE 2 (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
 
@@ -153,16 +153,28 @@ https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 http://185.150.190.225:16263/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", Globo Rio (Rio de Janeiro/RJ)
-http://bdtb.io/live/378724/pcapQ5/131182.m3u8
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/504
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", Globo São Paulo (São Paulo/SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / EPTV (Campinas/SP)
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / NSC TV (Florianópolis/SC)
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / RBS TV (Porto Alegre/RS)
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/501
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/26/Logotipo_da_Rede_Amaz%C3%B4nica.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / Rede Amazônica (Manaus/AM)
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/530
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / RPC (Curitiba/PR)
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/505
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / TV Bahia (Salvador/BA)
-http://bdtb.io:80/live/378724/pcapQ5/72024.m3u8
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / TV Gazeta (Vitória/ES)
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
@@ -334,7 +346,7 @@ http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Regionais Abertos Brasil", TV União (Brasília/DF)
-https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Regionais Abertos Brasil", TV União (Fortaleza/CE)
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
