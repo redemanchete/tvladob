@@ -902,7 +902,7 @@ https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/playli
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1024px-HGTV_US_Logo_2015.svg.png" group-title="Casa e Design", HGTV (Brasil)
-LINK INVÁLIDO
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200022N1_20230712T001522SQUARE.png_20230712001523.png" group-title="Casa e Design", Homeful - Samsung TV Plus (Brasil)
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
@@ -1302,7 +1302,7 @@ https://d1t832jhtoignv.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 >> ENTRETENIMENTO E REALITY SHOWS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="Entretenimento e Reality Shows", A&E (Brasil)
-INDISPONÍVEL
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/j9fmTSw.png" group-title="Entretenimento e Reality Shows", Chic Brasil TV (Rio de Janeiro/RJ)
 https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
@@ -3347,64 +3347,64 @@ https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart The Beat - Roku (EUA)
 https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20231024T231753SQUARE.png_20231024231754.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Classic Rock - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Classic Rock - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20231024T231803SQUARE.png_20231024231804.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Easy Listening - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Easy Listening - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Euro Hits - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Euro Hits - Plex (EUA)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Éxitos del Momento - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Éxitos del Momento - Plex (EUA)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20231024T231806SQUARE.png_20231024231807.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Flashback 70s - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Flashback 70s - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu65qzl.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Greatest Hits - Galxy TV (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Greatest Hits - Galxy TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1951
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20231114T233507SQUARE.png_20231114233508.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hip-Hop/R&B - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hip-Hop/R&B - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2GXzMx8.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hit List - Galxy TV (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hit List - Galxy TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1945
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20231024T231812SQUARE.png_20231024231813.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hot Country - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Hot Country - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20231024T231815SQUARE.png_20231024231816.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Nothin' But 90s - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Nothin' But 90s - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Pop Adult - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Pop Adult - Plex (EUA)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20231024T231818SQUARE.png_20231024231819.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Remember The '80s - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Remember The '80s - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Rock Alternative - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Rock Alternative - Plex (EUA)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20231024T231821SQUARE.png_20231024231822.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Romance Latino - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Romance Latino - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20231024T231824SQUARE.png_20231024231825.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Smooth Jazz - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Smooth Jazz - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/84bbc4c9-ab36-47c0-88f8-d2d2e67f657a/Soul_Storm.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Soul Storm - Galxy TV (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Soul Storm - Galxy TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20231024T231843SQUARE.png_20231024231844.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Today's Latin Pop - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Today's Latin Pop - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20231024T231840SQUARE.png_20231024231841.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Today's K-Pop - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Today's K-Pop - Samsung TV Plus (EUA)
 https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: The Spa - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: The Spa - Plex (EUA)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Y2K - Plex (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Y2K - Plex (EUA)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8
 
 
@@ -3636,7 +3636,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Notícias - Agro", Canal do Boi (Campo Grande/MS)
-INDISPONÍVEL
+https://cdn-1.nxplay.com.br/CANAL_DO_BOI_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="Notícias - Agro", Canal do Criador (São Paulo/SP)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
