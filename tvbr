@@ -114,11 +114,14 @@ https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="Públicos/Educativos Brasil", TV Viçosa (Viçosa/MG)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Identidade_Visual_da_TV_UFMA.png" group-title="Públicos/Educativos Brasil", TV UFMA (São Luís/MA)
+https://edge-ms-01.eduplay.rnp.br/media/ocp(r(hufayg)t(F58L0MgZ_kk)p(d(CFM)k(S9M)m(Gfz9sVh9p3nKAr2vYUBpWg)n(a(0syljhR2tU5KX-B1z7kdCppGr-Q)s(6Fo)'a(vGSgPwb5PXEkOsCp7710cUB9)s(U8o)))s(t(11c)b(8ApJBASDyZgwHlpXi9yEHy61kMWEsf84pRfR_vfZ8CGgCntDJzJi5-6JY_GqdtzueYZVEIyyO_FRzgEvxsVWI6XrYovRmtFDK0Is3WHzUDyheYJsXuCBjrCOjPUyrYkoVSCew78YTURSYBTzj1n5-PiMwrtMnclczhbwPRs)'t(ELc)b(atdG2yc_AxFw5lQTvb9nLv24XBinF7xKV0g)))/720_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos Brasil", UNBTV (Brasília/DF)
 https://edge-es-01.eduplay.rnp.br/media/ocp(r(aaXrSQ)t(F5Oqp0_FoF0)p(d(96k)k(qK0)m(l3_5Ik9K_HxZoTcJ2pGt8Q)n(a(LxHWtUxBg21HUIBazuOqKB6dH9A)s(MbE)'a(IX4N8a8W4EOjzOxCoyGf-Ny0)s(66g)))s(t(66I)b(PLXZrNPhZBLCkrGDI2CEBueejs3VRe5UbadmVw89ceQFI3T3vVsC233TBSkpfFEOp2q7E4ju8YK1Fa5EGC6Gp1tik3CSuW05ENhN0pPTBdKBtgPROlXGh4jVNjlBgSmWCDaCPbBTL5FD2-yHf5qYgt2ERnrRCTLsz_uXkJY)'t(Uiw)b(QvQs7NICD1HC4TFiyzFgqtNzhBrc_a7SPOQ)))/720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://home.unicruz.edu.br/wp-content/uploads/2020/04/Unicruz-Play-1.jpg" group-title="Públicos/Educativos Brasil", Unicruz Play (Cruz Alta/RS)
-https://edge-sp-01.eduplay.rnp.br/media/ocp(r(aaXrSQ)t(F5OqsWiqs8M)p(d(96k)k(qK0)m(7kKG1cauQyRsJBssehc71g)n(a(520kGW8gk6IwYCndY9w9_RKLUBI)s(fbM)'a(DvCtnqB-5AdC2ZOyU6O31wvj)s(5U0)))s(t(HV0)b(bN30_UHjZM8vGBpdFwPjesRXOSAAZ_c8f6XFequg7AhF4gueVtOklbp6Te00qUzLr6DE9wsMuujp8f74gVELSl3EzD153rNn9IJqncOsUaljldLRH94r_i6Mv3d9nemVcKx4rUFcjidpHEROB19Vz_osxUrjagc--_gQI5U)'t(inw)b(9PLJ5kCEuNO635DiRletUQxm9AJ8Qa0W6zM)))/720_index.m3u8
+https://edge-ms-01.eduplay.rnp.br/media/ocp(r(hufayg)t(F58LyIZ6Dsk)p(d(CFM)k(S9M)m(9eezEF2iMVQehyHgc9PRqA)n(a(F5x6ffAAHqw6B1aWKPJGH8Rd9Mk)s(lIY)'a(zDyqMONOmmMegOtcxd9ezDZK)s(EDY)))s(t(y4w)b(ezEmrJXy4daaBqdTBfz7UXLUTGEk4MwGokwpM1PsqRVb-v-ZDFTLNnr0pfscV_MTxmMeEIiZy9hglIzKmutPsUO9BoFLbYf4Dg8b1VOSsqFGhS60YES7ukHRdZG2NSeKhPIkJsVJVJKf09iFAHtc-Am1GiRGsag1F_2eANc)'t(tP4)b(bLIsnouPJYwuEEfrjEEa0Lv1JoywDEuQIfg)))/720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos Brasil", UNITV-SC / TV Cultura (Tubarão/SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
@@ -151,26 +154,23 @@ https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", Globo Minas (Belo Horizonte/MG)
 http://185.150.190.225:16263/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", Globo Rio (Rio de Janeiro/RJ)
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/504
-
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas Brasil", Globo São Paulo (São Paulo/SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / EPTV (Campinas/SP)
-http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / NSC TV (Florianópolis/SC)
-http://191.37.250.169:8801/live/NSC/720p.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / RBS TV (Porto Alegre/RS)
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/501
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/26/Logotipo_da_Rede_Amaz%C3%B4nica.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / Rede Amazônica (Manaus/AM)
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/530
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / RPC (Curitiba/PR)
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/505
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Redes Abertas e Afiliadas Brasil", Globo / TV Bahia (Salvador/BA)
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
@@ -585,7 +585,7 @@ https://i.mjh.nz/PlutoTV/64b9370b409629000802d32b-alt.m3u8
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YkM3Gd4.png" group-title="Variedades - Brasil", Canal Viver Brasil - YouTube (Belo Horizonte/MG)
-https://livestream.zazerconer.workers.dev/channel/UC4jv6LD8nMFjmQT2Iu4ypxQ.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="Variedades - Brasil", Chroma TV (São Paulo/SP)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -612,7 +612,7 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pixtv.com.br/wp-content/uploads/2022/04/pixtv.jpg" group-title="Variedades - Brasil", PIXTV (Garopaba/SC)
-https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/2023/04/logo-rede-itv-e1688146662407.png" group-title="Variedades - Brasil", Rede iTV (Brasil)
 INDISPONÍVEL
@@ -642,7 +642,7 @@ https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zUUhAfF.png" group-title="Variedades - Brasil", USBRTV (EUA)
-https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://uniquetv.com.br/img/logo-uniquetv.png" group-title="Variedades - Brasil", Unique TV (São José/SC)
 https://stream.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
@@ -693,14 +693,11 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/d208fa5a954e4158afcc7a2bde94ec86/c
 
 ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Variedades - Mundo", América TV - YouTube (Argentina)
-https://livestream.zazerconer.workers.dev/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Variedades - Mundo", Azteca Internacional - Samsung TV Plus (Espanha)
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Canal-Extremadura.png" group-title="Variedades - Mundo", Canal Extremadura (Espanha)
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Variedades - Mundo", Canal Once (México)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -3735,10 +3732,10 @@ http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/76.m3u8
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/11/Viva-70-FAST-600x600.jpg" group-title="Novelas", Viva 70 Fast - Globoplay (Brasil)
-https://live-01.edge-vivo-vcp-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12aXZvLXZjcC1zcC52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MDE0MzA2OTcsImlhdCI6MTcwMTM0NDI5NywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiJlODc4YjkwZC1kMWYyLTQ4OTYtOTU1Yy0wZjlkMzYxYTcxOWQiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwKS9ub3Y3MGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.aRBtUKuniKWKT0VxBRec-kU18Kz8yRBxfdJMQBuBqEtvhFqj1FNSTbFrFveMJIQ1FAufjLxsAGwpH04Ll_6ZXEJDorYUtOaPA5hU-ipwcPKdAHCO_ZXrDc-JFOzIS4bfObYINm29bljpFKMDxPbpRBbQ4Th22ckaZpvv1s3CK6CYCXPSHwmiNrWY6GZryNMlcn0QnkoBHokdw5fFsDCttn5XxrE5YqzxZqn-l0xOst9JKB91xuyvY7Vg9izRXtGRbjAluO6IQ3DkBaY1UXYpRyA9dt3zo-4bBMH5X_dMFdhyEtnDNx7cKWgFJ9ZAVnJRU2XvKqjvAnePwT28P61HxQ/nu/f(bMin=2000)/nov70fast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/dd-rcL-4TFuESF8VQZ8O2A/stream/a80d3efb-e097-42e6-b2ab-7917c99eb9a5:SCL/variant/065a91b57e138debb99c0659c56c246b/bandwidth/4127000.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/11/Viva-80-FAST-600x600.jpg" group-title="Novelas", Viva 80 Fast - Globoplay (Brasil)
-https://live-01.edge-vivo-vcp-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12aXZvLXZjcC1zcC52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MDE0MzA1NDYsImlhdCI6MTcwMTM0NDE0NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiJlODc4YjkwZC1kMWYyLTQ4OTYtOTU1Yy0wZjlkMzYxYTcxOWQiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwKS9ub3Y4MGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.Wsc4MK6IbJfB8J9Jvhp9oTQmH5s1tULx4Z_XF5S__qSXmbnF51rMBPGADtBm1mZQj0eR0brk1g68fond4pWVCf9hee5GHs5YzTgRdwvomklyau29CwtTquECfCU0Vz1N6Asxv1QS-Rh2xv4mcBOTq_e1QARpalSYqBESntv8IZTX11CihdlkMbX1MCKM8QD8fY3T--aANxaJ71jRFt1J37WuvVglc84Cwer_4paDpOtxQT3GPi8ESpzTRZMwrMubRAj9GNkjxB--ExLS9sZ2D8Jj1OrexkBkTKB7SrHVodLBh9dQMNOWeUvui7yVrnnAJS9DaBFl2F-s1ZFD8AHovQ/nu/f(bMin=2000)/nov80fast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/PJhAM2RuRAatnA_sGM_yOQ/stream/64cb7c3e-4ccc-48dd-aba2-50e20f205eb1:SCL/variant/09e5aaf73b690f95481087cfe9647354/bandwidth/4127000.m3u8
+INDISPONÍVEL
 
 ---
 
@@ -3966,10 +3963,10 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/11/Viva-70-FAST-600x600.jpg" group-title="Retrô", Viva 70 Fast - Globoplay (Brasil)
-https://live-01.edge-vivo-vcp-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12aXZvLXZjcC1zcC52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MDE0MzA2OTcsImlhdCI6MTcwMTM0NDI5NywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiJlODc4YjkwZC1kMWYyLTQ4OTYtOTU1Yy0wZjlkMzYxYTcxOWQiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwKS9ub3Y3MGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.aRBtUKuniKWKT0VxBRec-kU18Kz8yRBxfdJMQBuBqEtvhFqj1FNSTbFrFveMJIQ1FAufjLxsAGwpH04Ll_6ZXEJDorYUtOaPA5hU-ipwcPKdAHCO_ZXrDc-JFOzIS4bfObYINm29bljpFKMDxPbpRBbQ4Th22ckaZpvv1s3CK6CYCXPSHwmiNrWY6GZryNMlcn0QnkoBHokdw5fFsDCttn5XxrE5YqzxZqn-l0xOst9JKB91xuyvY7Vg9izRXtGRbjAluO6IQ3DkBaY1UXYpRyA9dt3zo-4bBMH5X_dMFdhyEtnDNx7cKWgFJ9ZAVnJRU2XvKqjvAnePwT28P61HxQ/nu/f(bMin=2000)/nov70fast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/dd-rcL-4TFuESF8VQZ8O2A/stream/a80d3efb-e097-42e6-b2ab-7917c99eb9a5:SCL/variant/065a91b57e138debb99c0659c56c246b/bandwidth/4127000.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/11/Viva-80-FAST-600x600.jpg" group-title="Retrô", Viva 80 Fast - Globoplay (Brasil)
-https://live-01.edge-vivo-vcp-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12aXZvLXZjcC1zcC52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MDE0MzA1NDYsImlhdCI6MTcwMTM0NDE0NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiJlODc4YjkwZC1kMWYyLTQ4OTYtOTU1Yy0wZjlkMzYxYTcxOWQiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwKS9ub3Y4MGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.Wsc4MK6IbJfB8J9Jvhp9oTQmH5s1tULx4Z_XF5S__qSXmbnF51rMBPGADtBm1mZQj0eR0brk1g68fond4pWVCf9hee5GHs5YzTgRdwvomklyau29CwtTquECfCU0Vz1N6Asxv1QS-Rh2xv4mcBOTq_e1QARpalSYqBESntv8IZTX11CihdlkMbX1MCKM8QD8fY3T--aANxaJ71jRFt1J37WuvVglc84Cwer_4paDpOtxQT3GPi8ESpzTRZMwrMubRAj9GNkjxB--ExLS9sZ2D8Jj1OrexkBkTKB7SrHVodLBh9dQMNOWeUvui7yVrnnAJS9DaBFl2F-s1ZFD8AHovQ/nu/f(bMin=2000)/nov80fast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/PJhAM2RuRAatnA_sGM_yOQ/stream/64cb7c3e-4ccc-48dd-aba2-50e20f205eb1:SCL/variant/09e5aaf73b690f95481087cfe9647354/bandwidth/4127000.m3u8
+INDISPONÍVEL
 
 ---
 
