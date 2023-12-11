@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/12/2023
+ATUALIZADA EM 11/12/2023
 
 
 >> PÚBLICOS/EDUCATIVOS BRASIL
@@ -921,9 +921,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1024px-HGTV_US_Logo_2015.svg.png" group-title="Casa e Design", HGTV (Brasil)
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1024px-HGTV_US_Logo_2015.svg.png" group-title="Casa e Design", HGTV - Alternativo (Brasil)
-http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/13.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200022N1_20230712T001522SQUARE.png_20230712001523.png" group-title="Casa e Design", Homeful - Samsung TV Plus (Brasil)
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 
@@ -984,7 +981,7 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/A_Culpa_%C3%A9_do_Cabral.png" group-title="Comédia", A Culpa é do Cabral - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1024px-Adult_Swim_2003_logo.svg.png" group-title="Comédia", Adult Swim (Brasil)
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg" group-title="Comédia", Adult Swim (Brasil)
 http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/878.m3u8
 
 #EXTINF:-1 tvg-logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/show_cameras_escondidas_logo_d51e06b303.png" group-title="Comédia", Câmeras Escondidas - Programa Silvio Santos (Brasil)
@@ -1003,7 +1000,7 @@ http://ddsw.xyz:80/8590438094/9912004092/968598
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central (Brasil)
-http://170.82.200.38:8080/comedy/tracks-v1a1/index.m3u8
+http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8
@@ -1906,9 +1903,6 @@ https://livestream.zazerconer.workers.dev/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
 #EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_jornal903recife.png" group-title="Estúdios de Rádio Brasil", Rádio Jornal (Recife/PE)
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiomanchete.rio/wp-content/uploads/2023/05/logo-atual.png" group-title="Estúdios de Rádio Brasil", Rádio Manchete - YouTube (Rio de Janeiro/RJ)
-https://livestream.zazerconer.workers.dev/channel/UCKA7NlhZBhTqbhtfYizumjA.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="Estúdios de Rádio Brasil", Rádio Montanhesa (Ervália/MG)
 https://qfm.ddns.net/hlsmErv/index.m3u8
 
@@ -2332,6 +2326,9 @@ https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
 #EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo-1100x619.jpg" group-title="Gastronomia", Receitas Fast - Globoplay (Brasil)
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Gastronomia", Sabor & Arte (Brasil)
+http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/877
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200002T9_20230426T031129SQUARE.png_20230426031130.png" group-title="Gastronomia", Tastemade - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5fd1419a3b4f4b000773ba85-alt.m3u8
 
@@ -2403,7 +2400,7 @@ https://d1v4n56wkd1tai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 >> GEEK E ANIME
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1024px-Adult_Swim_2003_logo.svg.png" group-title="Geek e Anime", Adult Swim (Brasil)
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg" group-title="Geek e Anime", Adult Swim (Brasil)
 http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/878.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="Geek e Anime", Anime TV (Brasil)
@@ -2499,6 +2496,9 @@ https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" group-title="Infantil e Desenhos", Babyfirst - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/5f4fb4cf605ddf000748e16f-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Infantil e Desenhos", BabyTV (Brasil)
+http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/767
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1280px-Bob_esponja_logotipo.svg.png" group-title="Infantil e Desenhos", Bob Esponja Calça Quadrada - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8
@@ -3059,6 +3059,9 @@ https://i.mjh.nz/PlutoTV/6329cf28ef924b00078a9dc1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Flow Latino - Pluto TV (EUA)
 https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Live (EUA)
+http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/831
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Alemanha)
 https://i.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
@@ -4040,6 +4043,9 @@ https://livestream.zazerconer.workers.dev/channel/UC7wafFu5c8AO0YF5U7R7xFA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0B5kpS2.png" group-title="Pós-TV", Coffeehouse - Local Now (EUA)
 http://linear-272.frequency.stream/272/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/866px-DOGTV_logo.svg.png" group-title="Pós-TV", DOGTV (EUA)
+http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/879
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="Pós-TV", Dream Música: Vida Selvagem Africana - YouTube (EUA)
 https://livestream.zazerconer.workers.dev/channel/UCpLow10iz3-cofN_570bwPQ.m3u8
 
@@ -4065,7 +4071,7 @@ https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8TMPtNG.png" group-title="Pós-TV", Nature Stream TV - Roku (EUA)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/a3288850-1ec7-4361-8b8b-c83a5b5ed6c4/2.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13vyZaJ.png" group-title="Pós-TV", Quietude 4K - Distro TV (EUA)
 https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
