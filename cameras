@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 06/11/2023
+ATUALIZADA EM 11/12/2023
 
 
 >> CÂMERAS AO VIVO - BRASIL
@@ -44,9 +44,6 @@ https://livestream.zazerconer.workers.dev/channel/UCH9JbKmqTI6gwhA4ghl32FQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Passo de Torres/SC - Praia
 https://vid1.streaming.websul.net.br/live/ods-torres.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Porto Alegre/RS - Pôr do Sol do Guaíba
-https://livestream.zazerconer.workers.dev/channel/UCCrO2ffPAD76vOzRZNFDSRw.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Copacabana
 https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
