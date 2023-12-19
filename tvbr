@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 12/12/2023
+ATUALIZADA EM 18/12/2023
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -581,8 +581,8 @@ https://i.mjh.nz/PlutoTV/164b9370b409629000802d32b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="Variedades - Brasil", Canal UOL - Samsung TV Plus (Brasil)
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YkM3Gd4.png" group-title="Variedades - Brasil", Canal Viver Brasil - YouTube (Belo Horizonte/MG)
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://canalviverbrasil.com.br/wp-content/uploads/2022/03/cropped-icone-cvb.png" group-title="Variedades - Brasil", Canal Viver Brasil - YouTube (Belo Horizonte/MG)
+https://livestream.zazerconer.workers.dev/channel/UC4jv6LD8nMFjmQT2Iu4ypxQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Variedades - Brasil", CentralTV (Curitiba/PR)
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
@@ -2235,7 +2235,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png" group-title="Filmes", Canela Cinema - LG Channels (México)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="Filmes e Séries", Canela Clásicos (Equador)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="Filmes", Canela Clásicos (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20230712T021333SQUARE.png_20230712021333.png" group-title="Filmes" , Cine Clásico - Samsung TV Plus (Espanha)
