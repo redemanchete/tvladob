@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 18/12/2023
+ATUALIZADA EM 26/12/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -150,11 +150,11 @@ https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11579_1617107168.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
 https://8817.brasilstream.com.br/stream
 
-#EXTINF:0 tvg-logo="https://radioq.com.br/wp-content/uploads/2017/10/logo2x.png" group-title="Rádio FM - Brasil", 97.9 - Rádio Q FM (Viçosa/MG)
-https://qfm.ddns.net/hlsq/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
 https://stm01.virtualcast.com.br:8250/hot98
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/98_FM_BH_logo.svg/640px-98_FM_BH_logo.svg.png" group-title="Rádio FM - Brasil", 98.3 - 98 FM (Belo Horizonte/MG)
+https://9554.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/logo-260x138.png" group-title="Rádio FM - Brasil", 98.3 - Continental (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8650/mp3
@@ -264,9 +264,6 @@ https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_transfm1047sp.png" group-title="Rádio FM - Brasil", 104.7 - Transcontinental FM (Mogi das Cruzes/SP)
 https://ice.fabricahost.com.br/transcontinentalsp48
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5d1be7e5c042b.png" group-title="Rádio FM - Brasil", 104.9 - Rádio Eldorado (Porto Alegre/RS)
-http://cast4.audiostream.com.br:8652/mp3
-
 #EXTINF:-1 tvg-logo="https://www.radio105fm.com.br/wp-content/uploads/2020/05/cropped-logo-site-3.png" group-title="Rádio FM - Brasil", 105.1 - 105 FM (Jundiaí/SP)
 http://148.72.158.239:8010/live
 
@@ -296,6 +293,9 @@ https://s30.maxcast.com.br:8114/live
 
 #EXTINF:-1 tvg-logo="http://www.universidadefm.ufma.br/wp-content/uploads/2021/07/TEASER-04_1_CARD-Copia.png" group-title="Rádio FM - Brasil", 106.9 - Universidade FM (São Luís/MA)
 https://s26.maxcast.com.br:8280/live
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio42943_1701707338.jpeg" group-title="Rádio FM - Brasil", 107.1 - 107 FM (Petrópolis/RJ)
+https://servidor25.brlogic.com:7024/live
 
 #EXTINF:-1 tvg-logo="https://eldorado.estadao.com.br/static/eldorado/assets/imgs/logo-eldorado-fm.gif" group-title="Rádio FM - Brasil", 107.3 - Eldorado FM (São Paulo/SP)
 https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
