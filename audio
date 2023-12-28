@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 26/12/2023
+ATUALIZADA EM 28/12/2023
 
 
 >> RÁDIO FM - BRASIL
@@ -169,7 +169,7 @@ https://9881.brasilstream.com.br/stream
 https://ice.fabricahost.com.br/metropolitana985sp
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio24568_1505303126.png" group-title="Rádio FM - Brasil", 98.9 - Rádio Brasil Atual (Mogi das Cruzes/SP)
-https://corp.tvt.org.br:8083/stream
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_Cidade_FM_%28Fortaleza%29.png" group-title="Rádio FM - Brasil", 99.1 - Cidade FM (Fortaleza/CE)
 https://r10.ciclano.io:15057/stream
@@ -239,6 +239,9 @@ LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 103.7 - Antena 1 Lite FM (Rio de Janeiro/RJ)
 https://a1rj.streams.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/657676844259f.png" group-title="Rádio FM - Brasil", 103.9 - Parahyba FM (João Pessoa/PB)
+https://sv12.hdradios.net:7852/stream
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/fb/09/fb09d678d04a41ca612e6f809ddac82a.jpg" group-title="Rádio FM - Brasil", 103.9 - Stereo Vale FM (São José dos Campos/SP)
 https://centova5.transmissaodigital.com:20058/;
