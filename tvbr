@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 26/12/2023
+ATUALIZADA EM 28/12/2023
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -139,6 +139,9 @@ http://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Redes Abertas e Afiliadas - Brasil", Band / RBATV (Belém/PA)
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Redes Abertas e Afiliadas - Brasil", Band / TV Arapuan (João Pessoa/PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / 40 Graus TV (Lauro de Freitas/BA)
 https://acesso.ecast.site:3125/stream/play.m3u8
 
@@ -243,9 +246,6 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! Tocantins (Palmas/TO)
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Arapuan (João Pessoa/PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Pampa (Porto Alegre/RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
@@ -1555,7 +1555,7 @@ https://i.mjh.nz/PlutoTV/1620fdc7d8a36fc000710e3ba-alt.m3u8
 https://i.mjh.nz/PlutoTV/1625463563b8ddc0007134aeb-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1280px-Multishow_logo_red_2012.svg.png" group-title="Entretenimento e Reality Shows", Multishow (Brasil)
-http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/24
+http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/423
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Entretenimento e Reality Shows", Nosey Escândalos - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/15f9b05a99547eb0007676b02-alt.m3u8
@@ -1970,7 +1970,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/channelbug-bl_logo.png" group-title="Estilo de Vida e Bem-Estar", World Fashion Channel (Rússia)
-https://live-3.otcnet.ru/wfcenmulti/tracks-v1a1/mono.m3u8
+https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
 
 
 
@@ -3923,6 +3923,9 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1328275861.m3u
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="Notícias - Agro", Agro Canal (Campo Grande/MS)
 INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://canalagroplus.com.br/img/d1ac08945a379d7ee6ce2223e7fd37fe.jpg" group-title="Notícias - Agro", Canal Agroplus (Cuiabá/MT)
+https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CrEFM_fAEAMQQrLwHaLjw8TWZJMd4XyjLx-MpiqAQv1-U4JGMG1Sx0a2bBRKIusujzDTFnO0OHwq3FHL-3V-VShi9-UgKIr_3CgaTTjY0y7o6ESWNUhhoQDnqDI7vocdJCsnVB2yn8w08g-OC0i9jwkN46gs-usaRGy0Qe7iF8O6Le-ZoTKkljk9sFA6wMa-oL6Nd8pGonQYpGKDnPlYD4bHrpeseRFrowrlH-DjBFWJ1-i-wIufs3pvx_xjc_ZuMHzjHtd_3UEm5TgFjGoTgse0dhHbHV7-gx8VmjxAShGGKE1y_nsRTVV4IpOmFa6WuKOtwpV0mEW-meVS3iiLg4kF0U1vm4NCJXmG3WunlFJO4edFw3QY6FTMn8tWLJ9gBGEobCQOgbCUXgX3RaOzXV7bWcRSIQEY32_rb8DNHTW7s4F0b71hMvCnUzOtq19_Ds2IDKT3xaA97ErBVam_U-824o11zMcXEPJAxePLdRNb66fvRqagvffh2Vvgp9bdvourDJ0t3Wy4QGg5jL_ZOM_8Gg0pDepVyWYTsZIYgapBz-hetIl2GShAjOM7d4MFsgyEd2RfDyvn8oVDd8-o9DFKZTgqdoir79UJMKk1zObmoyWja8EDJ4NWs-7ztCS1C6z-DR8VoZdIEKpP476W6BXbVu7wgCGK8hoeT3FZ8QpHHuLd4kr9nChXU3tAI6Uw4anekzcfwEIrk75LmJtB_vIZziWhr8KrL2g6aHEzY1M5XPEgu1-Mc2i5zrTH4zcoVzm9z8dsWtJRqU_hKOdt_g4qsJBAhE0AIFdQbYJJ9Idcf3famyXlYG963-4MfzURjUpzA5MkuTqIGznAlm0lUtQJxPpTus78xeQefHENE-bRhulxofI7Fs2tWMMU9WkySnDWXN-slJtNlJ1nBYzLTWObk1saDJBHKqKK_UCa92i5QyABKgl1cy1lYXN0LTIwqgg.m3u8
 
 #EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-canal-do-boi.png" group-title="Notícias - Agro", Canal do Boi (Campo Grande/MS)
 https://cdn-1.nxplay.com.br/CANAL_DO_BOI_TK/index.m3u8
