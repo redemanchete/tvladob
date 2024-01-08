@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 29/12/2023
+ATUALIZADA EM 07/01/2024
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -10,7 +10,7 @@ ATUALIZADA EM 29/12/2023
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos - Brasil", Canal FDR / Futura (Fortaleza/CE)
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w545353741.m3u8
+http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/243
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/canaleducacao.jpeg" group-title="Públicos/Educativos - Brasil", Canal Educação (Brasil)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
@@ -160,6 +160,9 @@ https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Minas (Belo Horizonte/MG)
 http://185.150.190.225:16263/
 
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Rio (Rio de Janeiro/RJ)
+https://8mwx.short.gy/GLOBORJ/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo São Paulo (São Paulo/SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
@@ -192,9 +195,6 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="Redes Abertas e Afiliadas - Brasil", NGT / NBT (Belém/PA)
 https://isaocorp.cloudecast.com/nbt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="Redes Abertas e Afiliadas - Brasil", NGT / Rede Recon (Brasil)
-https://acesso.ecast.site:3862/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Redes Abertas e Afiliadas - Brasil", RBTV / BRSuperTV - Soul TV (Brasil)
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
@@ -626,9 +626,6 @@ https://i.mjh.nz/PlutoTV/164b9370b409629000802d32b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="Variedades - Brasil", Canal UOL - Samsung TV Plus (Brasil)
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalviverbrasil.com.br/wp-content/uploads/2022/03/cropped-icone-cvb.png" group-title="Variedades - Brasil", Canal Viver Brasil - YouTube (Belo Horizonte/MG)
-https://livestream.zazerconer.workers.dev/channel/UC4jv6LD8nMFjmQT2Iu4ypxQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png" group-title="Variedades - Brasil", CentralTV (Curitiba/PR)
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
@@ -661,6 +658,9 @@ LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/redeitv.com.br/wp-content/uploads/2023/04/logo-rede-itv-e1688146662407.png" group-title="Variedades - Brasil", Rede iTV (Brasil)
 INDISPONÍVEL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="Variedades - Brasil", Rede Recon (Brasil)
+https://acesso.ecast.site:3862/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/mosaico_newLogo.png" group-title="Variedades - Brasil", Rede Mosaico (São Paulo/SP)
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
@@ -1515,20 +1515,14 @@ https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/
 
 >> ENTRETENIMENTO E REALITY SHOWS
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="Entretenimento e Reality Shows", A&E (Brasil)
-https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/j9fmTSw.png" group-title="Entretenimento e Reality Shows", Chic Brasil TV (Rio de Janeiro/RJ)
-https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
 https://livestream.zazerconer.workers.dev/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Entretenimento e Reality Shows", E! Entertainment Television (Brasil)
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Entretenimento e Reality Shows", Lifetime (Brasil)
-https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masterchef-logo-8FCDF32710-seeklogo.com.png" group-title="Entretenimento e Reality Shows", MasterChef - LG Channels (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
@@ -1783,6 +1777,9 @@ https://i.mjh.nz/PlutoTV/15f99a772c54853000797bf18-alt.m3u8
 #EXTINF:-1 tvg-logo="https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg" group-title="Esporte", Realmadrid TV - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/163dac28760bc8f0008a7654b-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Esporte", SEO TV Deportes (Bolívia)
+https://live.seo.tv.bo/live/SEO-5.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Esporte", Surf Channel - Samsung TV Plus (Espanha)
 https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8?ads.wurl_channel=969&ads.wurl_name=SurfChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -1895,6 +1892,9 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://canalk.tv.br/website/wp-content/uploads/2022/07/logo-canal-k-header.png" group-title="Estilo de Vida e Bem-Estar", Canal K (São Paulo/SP)
 https://cdn-1.nxplay.com.br/cheftv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalviverbrasil.com.br/wp-content/uploads/2022/03/cropped-icone-cvb.png" group-title="Estilo de Vida e Bem-Estar", Canal Viver Brasil - YouTube (Belo Horizonte/MG)
+https://livestream.zazerconer.workers.dev/channel/UC4jv6LD8nMFjmQT2Iu4ypxQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20220323T072552SQUARE.png_20220323072555.png" group-title="Estilo de Vida e Bem-Estar", FashionTV / Box Brazil (Porto Alegre/RS)
 http://cdn-1.nxplay.com.br/FASHION_HD/index.m3u8
@@ -2336,6 +2336,9 @@ https://i.mjh.nz/PlutoTV/15c5c31f2f21b553c1f673fb0-alt.m3u8
 
 >> FILMES E SÉRIES
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="Filmes e Séries", A&E (Brasil)
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1024px-AMC_logo_2016.svg.png" group-title="Filmes e Séries", AMC (Brasil)
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
@@ -2350,6 +2353,9 @@ https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="Filmes e Séries", FX (Brasil)
 http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/34.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Filmes e Séries", Lifetime (Brasil)
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1028px-Paramount_Network.svg.png" group-title="Filmes e Séries", Paramount Network (Brasil)
 http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
@@ -2616,6 +2622,9 @@ https://i.mjh.nz/PlutoTV/1625464a945b6a200079257d1-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/72c55aa33ecba6da806c4106c98e8440.png" group-title="Geek e Anime", Geekdot (Brasil)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Geek e Anime", Hallo! Anime (Brasil)
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Geek e Anime", Loading Web TV (São Paulo/SP)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
@@ -2842,7 +2851,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvratimbum.com.br/_img/tvratimbum.png" group-title="Infantil e Desenhos", TV Rá Tim Bum (São Paulo/SP)
-INDISPONÍVEL
+http://78.159.119.122:2082/xplus-2-KZLhf8yXg7/OAjcLEZuuh/557
 
 #EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Infantil e Desenhos", TV ZYN - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
@@ -4006,6 +4015,9 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Novelas", TNT Novelas (Brasil)
 http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/76.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/yL7HMC2.png" group-title="Novelas", TV Novelas (Brasil)
+https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="Novelas", TVI Ficção (Portugal)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 
@@ -4029,14 +4041,20 @@ https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas", Novelissima (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20230321T235909SQUARE.png_20230321235909.png" group-title="Novelas", Sony Canal Novelas - Samsung TV Plus (EUA)
-https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Novelas con La Abuela (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Telenovelas (Espanha)
 https://i.mjh.nz/PlutoTV/160b4c06717da110007ee1af6-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas", SEO TV Novelas (Bolívia)
+https://live.seo.tv.bo/live/SEO-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas", SEO TV 2 Novelas (Bolívia)
+https://live.seo.tv.bo/live/SEO-6.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20230321T235909SQUARE.png_20230321235909.png" group-title="Novelas", Sony Canal Novelas - Samsung TV Plus (EUA)
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20220323T082105SQUARE.png_20220323082108.png" group-title="Novelas", Stormcast Novelas - Samsung TV Plus (Espanha)
 https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8?ads.wurl_channel=1057&ads.wurl_name=StormcastNovelas&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
