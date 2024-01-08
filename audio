@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 28/12/2023
+ATUALIZADA EM 09/01/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -16,7 +16,7 @@ https://24363.live.streamtheworld.com/JP_CLASSICAAC
 https://ice.fabricahost.com.br/capitalfmsp
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_culturabrasilsp.png" group-title="Rádio FM - Brasil", 77.9 - Rádio Cultura Brasil (São Paulo/SP)
-LINK INVÁLIDO
+https://us-east-1.prod.tvcoins.com/player/player.html?culturaplay/8787c618-2772-408b-a7ca-5813c0a59bb3
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_superadiosaopaulo.png" group-title="Rádio FM - Brasil", 80.7 - Super Rádio (São Paulo/SP)
 http://cloud1.cdnseguro.com:13244/;
@@ -130,7 +130,7 @@ https://servidor13.brlogic.com:7262/live
 https://26573.live.streamtheworld.com/BANDFM_SPAAC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa0c75747.png" group-title="Rádio FM - Brasil", 96.1 - Nacional FM (Brasília/DF)
-https://radio2.lflr.com.br/ebc-live/radio-nacional-fm/playlist.m3u8
+https://142722d.ha.azioncdn.net/ebc/radionacionalfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logonova.png" group-title="Rádio FM - Brasil", 96.5 - Super Rádio Tupi (Rio de Janeiro/RJ)
 https://8923.brasilstream.com.br/stream?nocache=25961111
@@ -235,7 +235,7 @@ http://9595.brasilstream.com.br/stream
 https://streamabc.gruposinos.com.br:8443/radio
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/650a0f0453f2a.png" group-title="Rádio FM - Brasil", 103.3 - Cultura FM (São Paulo/SP)
-LINK INVÁLIDO
+https://us-east-1.prod.tvcoins.com/player/player.html?culturaplay/7dace9a5-38f0-4c16-94dc-2ee63f6d61e6
 
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 103.7 - Antena 1 Lite FM (Rio de Janeiro/RJ)
 https://a1rj.streams.com.br/stream
@@ -337,7 +337,7 @@ https://c1.audiostream.com.br:20029/stream
 https://shout25.crossradio.com.br:18014/1;
 
 #EXTINF:-1 tvg-logo="https://radiomanchete.rio/wp-content/uploads/2023/05/logo-atual.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Rio de Janeiro/RJ)
-https://27273.live.streamtheworld.com/JBFM_TESTAAC
+https://24373.live.streamtheworld.com/MANCHETE_RJAAC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa57c9977.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
 https://132722d.ha.azioncdn.net/ebc/radiomec/chunks.m3u8
