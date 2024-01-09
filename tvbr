@@ -1396,6 +1396,9 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/11/WildEarth-logo-white_esm.png" group-title="Documentários - Animais e Natureza", Wild Earth - Plex (EUA)
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/11/WildEarth-logo-white_esm.png" group-title="Documentários - Animais e Natureza", Wild Earth - Samsung TV Plus (Brasil)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0573ljsgymaix/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20230823T033115SQUARE.png_20230823033116.png" group-title="Documentários - Animais e Natureza", Wild Planet - Samsung TV Plus (Reino Unido)
 https://d1t832jhtoignv.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-jpfvel38m2ce0-stage/amgwildplanetuk/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -1703,8 +1706,8 @@ https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1280px-Fish_TV_logo_2022.svg.png" group-title="Esporte", Fish TV (Porto Alegre/RS)
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Esporte", Fuel TV - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/16144d088516ea8000739076a-alt.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Esporte", Fuel TV - Samsung TV Plus (Brasil)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" group-title="Esporte", ge Fast - Globoplay (Brasil)
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
@@ -2533,8 +2536,8 @@ https://dl27mmj7tlts0.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Gastronomia", Sabor & Arte (Brasil)
 http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/877
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200002T9_20230426T031129SQUARE.png_20230426031130.png" group-title="Gastronomia", Tastemade - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/15fd1419a3b4f4b000773ba85-alt.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200002T9_20230426T031129SQUARE.png_20230426031130.png" group-title="Gastronomia", Tastemade - Samsung TV Plus (Brasil)
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 ---
 
@@ -2710,7 +2713,7 @@ http://ddsw.xyz:80/8590438094/9912004092/968354
 https://i.mjh.nz/PlutoTV/163dd5c904e83e700088fb68a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.usatoday.com/gcdn/presto/2019/06/05/USAT/95adf0c6-9d32-4fcc-8b60-5b6bd3e04310-Baby_Shark_image.jpg" group-title="Infantil e Desenhos", Baby Shark TV - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/163da6bcd60bc8f0008a5d364-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" group-title="Infantil e Desenhos", Babyfirst - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/15f4fb4cf605ddf000748e16f-alt.m3u8
@@ -2718,8 +2721,8 @@ https://i.mjh.nz/PlutoTV/15f4fb4cf605ddf000748e16f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Infantil e Desenhos", BabyTV (Brasil)
 http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/767
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1280px-Bob_esponja_logotipo.svg.png" group-title="Infantil e Desenhos", Bob Esponja Calça Quadrada - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/162545c0b002f4b0007688b61-alt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1280px-Bob_esponja_logotipo.svg.png" group-title="Infantil e Desenhos", Bob Esponja Calça Quadrada - Samsung TV Plus (Brasil)
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Symbol.png" group-title="Infantil e Desenhos", Cartoon Network - site oficial (Brasil)
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
@@ -2772,8 +2775,8 @@ https://i.mjh.nz/PlutoTV/163eba189c111bc0008ff59c5-alt.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Jr (Brasil)
 http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/58.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Jr. Club - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/15f121460b73ac6000719fbaf-alt.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Jr. Club - Samsung TV Plus (Brasil)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nick Teen - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/160f5fabf0721880007cd50e3-alt.m3u8
@@ -2781,8 +2784,8 @@ https://i.mjh.nz/PlutoTV/160f5fabf0721880007cd50e3-alt.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nickelodeon (Brasil)
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nickelodeon Clássico - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/15f12151794c1800007a8ae63-alt.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nickelodeon Clássico - Samsung TV Plus (Brasil)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/nickyoutube.jpg" group-title="Infantil e Desenhos", Nickelodeon iCarly - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/1620ff46e0a576e0007dc2f89-alt.m3u8
@@ -2853,11 +2856,14 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvratimbum.com.br/_img/tvratimbum.png" group-title="Infantil e Desenhos", TV Rá Tim Bum (São Paulo/SP)
 http://78.159.119.122:2082/xplus-2-KZLhf8yXg7/OAjcLEZuuh/557
 
+#EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Infantil e Desenhos", TV ZYN - Samsung TV Plus (Brasil)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.sbt.com.br/noticias/images/175757.jpg" group-title="Infantil e Desenhos", TV ZYN - SBT (Brasil)
 https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Turma_da_M%C3%B4nica_Logo.png" group-title="Infantil e Desenhos", Turma da Mônica - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/15f997e44949bc70007a6941e-alt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Turma_da_M%C3%B4nica_Logo.png" group-title="Infantil e Desenhos", Turma da Mônica - Samsung TV Plus (Brasil)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="Infantil e Desenhos", Urban Kids (São José/SC)
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
@@ -3736,9 +3742,6 @@ http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Record_News_2023.svg/1280px-Record_News_2023.svg.png" group-title="Notícias", Record News (São Paulo/SP)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Record_News_2023.svg/1280px-Record_News_2023.svg.png" group-title="Notícias", Record News - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/16102e04e9ab1db0007a980a1-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Notícias", Rede Sim / Record News (Vitória/ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1098196047.m3u8
 
@@ -3970,8 +3973,8 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias - Economia e Empreendedorismo", BM&C NEWS - YouTube (São Paulo/SP)
 https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias - Economia e Empreendedorismo", Canal Empreender - YouTube (São Paulo/SP)
-https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="Notícias - Economia e Empreendedorismo", Canal Empreender - Samsung TV Plus (Brasil)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://inova360.com/wp-content/uploads/2019/07/inova360-logo.png" group-title="Notícias - Economia e Empreendedorismo", Inova 360 - Soul TV (Brasil)
 https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
@@ -4006,6 +4009,9 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Novelas", Novelando - Samsung TV Plus (Brasil)
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas", Novelisima - Samsung TV Plus (Brasil)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
+
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Novelas", Os Dez Mandamentos - Samsung TV Plus (Brasil)
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 
@@ -4038,7 +4044,7 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230412T042428SQUARE.png_20230412042429.png" group-title="Novelas", Frecuencia Novelas - Samsung TV Plus (Espanha)
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas", Novelissima (EUA)
+#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas", Novelisima (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Novelas con La Abuela (EUA)
