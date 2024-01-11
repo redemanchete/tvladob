@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 09/01/2024
+ATUALIZADA EM 11/01/2024
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -141,6 +141,9 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Redes Abertas e Afiliadas - Brasil", Band / TV Arapuan (João Pessoa/PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Logotipo_da_TV_Barriga_Verde.png" group-title="Redes Abertas e Afiliadas - Brasil", Band / TVBV (Florianópolis/SC)
+http://177.38.211.15:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1024px-TV_Gazeta.svg.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta (São Paulo/SP)
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/174
@@ -2187,6 +2190,9 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes", Movie Sphere - Samsung TV Plus (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes", Playpoca Filmes (Brasil)
+http://168.205.87.198:8555/live/1212/123456/238.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Clássicos (Brasil)
 https://i.mjh.nz/PlutoTV/15fa1612a669ba0000702017b-alt.m3u8
 
@@ -2419,6 +2425,9 @@ https://i.mjh.nz/PlutoTV/164ff2c773efb5100082efb73-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NCIS_%28TV_series%29_logo.svg/1280px-NCIS_%28TV_series%29_logo.svg.png" group-title="Séries", NCIS - Pluto TV (Brasil)
 https://i.mjh.nz/PlutoTV/163eb9fdda995710008991c54-alt.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Séries", Playpoca Séries (Brasil)
+http://168.205.87.198:8555/live/1212/123456/239.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Séries", Pluto TV Séries (Brasil)
 https://i.mjh.nz/PlutoTV/15f121262a189a800076b9386-alt.m3u8
