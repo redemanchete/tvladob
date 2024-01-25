@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 24/01/2024
+ATUALIZADA EM 25/01/2024
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -991,6 +991,9 @@ https://r.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg" group-title="Comédia", Adult Swim (Brasil)
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/Alf-Poster.jpg" group-title="Comédia", Alf: o ETeimoso (Brasil)
+http://ddsw.xyz:80/8590438094/9912004092/968346
+
 #EXTINF:-1 tvg-logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/show_cameras_escondidas_logo_d51e06b303.png" group-title="Comédia", Câmeras Escondidas - Programa Silvio Santos (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968600
 
@@ -1017,6 +1020,9 @@ https://r.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", Comedy Central South Park - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Diffrentstrokes.jpg" group-title="Comédia", Diff’rent Strokes Arnold - Pluto TV (Brasil)
+https://r.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Comédia", Escolinha do Professor Raimundo (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968604
@@ -1906,6 +1912,9 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
 #EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/inspire_newLogo.png" group-title="Estilo de Vida e Bem-Estar", Inspire (São Paulo/SP)
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Estilo de Vida e Bem-Estar", Oportunidades.TV (Brasil)
+http://maistop.net:80/live/free/free/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida e Bem-Estar", Pluto TV Estilo de Vida (Brasil)
 https://r.mjh.nz/PlutoTV/60f8841a4865da0007421177-alt.m3u8
 
@@ -2409,6 +2418,7 @@ INDISPONÍVEL
 
 >> SÉRIES
 
+
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/26/1523456625-betlogo.jpg" group-title="Séries", BET Being Mary Jane - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/60a8126a0ac3970007f850fe-alt.m3u8
 
@@ -2708,6 +2718,11 @@ https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/colorLogoPNG-1618602700695.png" group-title="Geek e Anime", Mundo Geek - Pluto TV (EUA)
 https://r.mjh.nz/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
+
+---
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300012FY_20221214T015250SQUARE.png_20221214015250.png" group-title="Geek e Anime", RetroCrush - Samsung TV Plus (Canadá)
+https://i.mjh.nz/SamsungTVPlus/CABC2300012FY.m3u8
 
 
 
@@ -3276,6 +3291,12 @@ https://r.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5LI4ps.png" group-title="Música", V2Beat TV (Bulgária)
 https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="Música", VClassic TV (Chile)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="Música", VClassic TV Tropical (Chile)
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Música", Vintage TV (Brasil)
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
@@ -4035,7 +4056,7 @@ https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Novelas", TNT Novelas (Brasil)
-http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/76.m3u8
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yL7HMC2.png" group-title="Novelas", TV Novelas (Brasil)
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
@@ -4064,10 +4085,10 @@ https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Novelas con La Abuela (EUA)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5e84dbf4a838b60007ffbba1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Telenovelas (Espanha)
-https://i.mjh.nz/PlutoTV/160b4c06717da110007ee1af6-alt.m3u8
+https://r.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas", SEO TV Novelas (Bolívia)
 https://live.seo.tv.bo/live/SEO-3.m3u8
@@ -4082,7 +4103,7 @@ https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/
 https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8?ads.wurl_channel=1057&ads.wurl_name=StormcastNovelas&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/telemundo-telenovelas-clasicas-us.png" group-title="Novelas", Telemundo Telenovelas Clásicas - Pluto TV (EUA)
-https://i.mjh.nz/PlutoTV/15cf96cc422df39f1a338d165-alt.m3u8
+https://r.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Novelas", Televisa - Samsung TV Plus (Itália)
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -4109,7 +4130,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c5f80f
 >> RETRÔ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e2/Bewitched.jpg" group-title="Retrô", A Feiticeira - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/1631fa8dd7f25240007099a40-alt.m3u8
+https://r.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5a/A-diarista-globo.jpg" group-title="Retrô", A Diarista (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968590
@@ -4154,7 +4175,7 @@ http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Diffrentstrokes.jpg" group-title="Retrô", Diff’rent Strokes Arnold - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/161f1d27a189ed10007b7393e-alt.m3u8
+https://r.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Retrô", Escolinha do Professor Raimundo (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968604
@@ -4169,7 +4190,7 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1336076318.m3u8
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ea/IDreamOfJeannie.jpg" group-title="Retrô", Jeannie é um Gênio - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/16079c058aa05ac0007d10054-alt.m3u8
+https://r.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/1024px-The_Flintstones_logo.svg.png" group-title="Retrô", Os Flintstones (Brasil)
 http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
@@ -4184,19 +4205,19 @@ http://ddsw.xyz:80/8590438094/9912004092/968506
 http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/f/fd/Mad_About_You_logo.png" group-title="Retrô", Louco por Você - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/164877764dc7a760008a12799-alt.m3u8
+https://r.mjh.nz/PlutoTV/64877764dc7a760008a12799-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MacGyver.svg/1280px-MacGyver.svg.png" group-title="Retrô", MacGyver - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
+https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Highway_to_Heaven_title_screen.jpg" group-title="Retrô", O Homem que veio do Céu - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/162052d3b4eeb740007fbe125-alt.m3u8
+https://r.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Retrô", Os Trapalhões (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968614
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Disorder_in_the_Court_title_1936.jpg" group-title="Retrô", Os Três Patetas - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/15f1eed3c29b39600073e2ec0-alt.m3u8
+https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Woody_Woodpecker_logo.png" group-title="Retrô", Pica-Pau (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968514
@@ -4208,7 +4229,7 @@ http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Retrô (Brasil)
-https://i.mjh.nz/PlutoTV/15f1212ad1728050007a523b8-alt.m3u8
+https://r.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -4235,10 +4256,10 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Starskyandhutch-logo.svg/1024px-Starskyandhutch-logo.svg.png" group-title="Retrô", Starsky & Hutch - Justiça em Dobro - Pluto TV (Brasil)
-https://i.mjh.nz/PlutoTV/16489c4a066e48500083ccf97-alt.m3u8
+https://r.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1024px-TCM_Latam_logo.svg.png" group-title="Retrô", TCM (Brasil)
-http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/131.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Retrô", Tooncast (Brasil)
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
@@ -4270,7 +4291,7 @@ INDISPONÍVEL
 https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Retro Cartoons (México)
-https://i.mjh.nz/PlutoTV/160142258a54aeb0007751c15-alt.m3u8
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 ---
 
@@ -4278,10 +4299,10 @@ https://i.mjh.nz/PlutoTV/160142258a54aeb0007751c15-alt.m3u8
 https://r.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="Retrô", Lone Star - Plex (EUA)
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV (Reino Unido)
-https://i.mjh.nz/PlutoTV/15d134a74ca91eedee1630faa-alt.m3u8
+https://r.mjh.nz/PlutoTV/5d134a74ca91eedee1630faa-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV Comedy (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -4290,10 +4311,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Retro Kid (Canadá)
-https://i.mjh.nz/PlutoTV/16408b41b83f58900081d91ad-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300012FY_20221214T015250SQUARE.png_20221214015250.png" group-title="Retrô", RetroCrush - Samsung TV Plus (Canadá)
-https://i.mjh.nz/SamsungTVPlus/CABC2300012FY.m3u8
+https://r.mjh.nz/PlutoTV/6408b41b83f58900081d91ad-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png" group-title="Retrô", Smurf TV - Plex (México)
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639b8d803f4612cc150a5721.m3u8
@@ -4317,8 +4335,8 @@ https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 #EXTINF:-1 tvg-logo="https://tvgazin.com.br/wp-content/uploads/2023/04/logo-tv-gazin.png" group-title="Televendas", TV Gazin (Palotina/PR)
 https://caikron.com.br:19360/floripa/canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="Televendas", TV Tudo BH (Belo Horizonte/MG)
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="Televendas", TV Tudo! (Belo Horizonte/MG)
+https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/577a7eb32d5d1.jpg" group-title="Televendas", TV+ ABC (São Bernardo do Campo/SP)
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
