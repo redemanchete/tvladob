@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 14/02/2024
+ATUALIZADA EM 17/02/2024
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -681,6 +681,9 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RJDTJ9u.png" group-title="Variedades - Brasil", TV Rabelo (São Luís/MA)
 https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://visual.r98.com.br/wp-content/uploads/2023/07/Copia_de_Radio_Play_FM-removebg-preview.png" group-title="Variedades - Brasil", TV Visual (Rio de Janeiro/RJ)
+https://stream.ichibantv.com:3874/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="Variedades - Brasil", Ulb TV - Soul TV (Brasil)
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8
 
@@ -737,6 +740,9 @@ https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/d208fa5a954e4158afcc7a2bde94ec86/chunklist_b4192000.m3u8?p=79&s=1697608147&e=1697608267&h=d07a4d32494b71c0658febab12d5dd52
 
 ---
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Variedades - Mundo", Azteca Internacional - Pluto TV (México)
+https://r.mjh.nz/PlutoTV/646cce4d1593940008a33f09-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Variedades - Mundo", Azteca Internacional - Samsung TV Plus (Espanha)
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
@@ -957,7 +963,7 @@ https://r.mjh.nz/PlutoTV/5c5c2e9d8002db3c3e0b1c72-alt.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/lively-place-logo.png" group-title="Casa e Design", Lively Place - Samsung TV Plus (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Casa e Design", Pluto TV Home (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Casa e Design", Pluto TV Home (EUA)
 https://r.mjh.nz/PlutoTV/6022bd17849c620007f43ae0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200002OG_20230222T042956SQUARE.png_20230222042956.png" group-title="Casa e Design", Tastemade Home - Samsung TV Plus (Canadá)
@@ -981,9 +987,6 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 >> COMÉDIA
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/A_Culpa_%C3%A9_do_Cabral.png" group-title="Comédia", A Culpa é do Cabral - Pluto TV (Brasil)
-https://r.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg" group-title="Comédia", Adult Swim (Brasil)
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
@@ -1027,7 +1030,7 @@ http://ddsw.xyz:80/8590438094/9912004092/968604
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Comédia", Os Trapalhões (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968614
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Comédia", Pluto TV Comédia (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Comédia (Brasil)
 https://r.mjh.nz/PlutoTV/6001f3018502100007f528ac-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/pooptv.png" group-title="Comédia", Poop TV (Brasil)
@@ -1062,7 +1065,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gogoplay-tv-bo.png" group-title="Comédia", Gogoplay TV (Bolívia)
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Comédia", Pluto TV Humor (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Humor (Argentina)
 https://r.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000057N_20230712T001605SQUARE.png_20230712001606.png" group-title="Comédia", Sony Canal Comedias - Samsung TV Plus (EUA)
@@ -1142,7 +1145,7 @@ https://r.mjh.nz/PlutoTV/60d32888e31a0300073d9f08-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XGj7WOi.png" group-title="Comédia", Comedy - Local Now (EUA)
 http://linear-89.frequency.stream/89/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Comédia", Pluto TV Pranks (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Pranks (EUA)
 https://r.mjh.nz/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="Comédia", Pranks TV - Roku (EUA)
@@ -1246,7 +1249,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 #EXTINF:-1 tvg-id="localnow_Local Now Music" tvg-logo="https://i.imgur.com/6RvuAoD.png" group-title="Cultura e Arte", Local Now Music (EUA)
 http://linear-136.frequency.stream/136/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Cultura e Arte", Pluto TV Music (Reino Unido)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Cultura e Arte", Pluto TV Music (Reino Unido)
 https://r.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23034/pulse/logo_20220218_180719_68.png" group-title="Cultura e Arte", Pulse TV (EUA)
@@ -1272,7 +1275,10 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/992px-History2_logo_%282022%29.svg.png" group-title="Documentários", History 2 (Brasil)
-http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
+http://cdn.connectbr.com.br/h2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pluto TV Acumuladores Obsessivos (Brasil)
+https://r.mjh.nz/PlutoTV/656e2a4b4261ca00083aa99e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/d7e9a8e99c4989981ed94fda338ba1d4_image_v_1080.jpg" group-title="Documentários", Negócio Fechado - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/64ad7394798def00087b2bfe-alt.m3u8
@@ -1280,16 +1286,16 @@ https://r.mjh.nz/PlutoTV/64ad7394798def00087b2bfe-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wRebuO1.png" group-title="Documentários", Phoenix TV - Soul TV (Brasil)
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Pluto TV Documentários (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pluto TV Documentários (Brasil)
 https://r.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Pluto TV Minha Obsessão Favorita (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pluto TV Minha Obsessão Favorita (Brasil)
 https://r.mjh.nz/PlutoTV/61843f5e491af10007f7eefa-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Pluto TV Vida Real (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pluto TV Vida Real (Brasil)
 https://r.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Pronto-socorro: Histórias De Emergência - Pluto TV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pronto-socorro: Histórias De Emergência - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/61bb72a7bf8c520007a8fd27-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.quebrandootabu.com.br/wp-content/uploads/elementor/thumbs/QUEBRANDO-O-TABU-QBT_LOGO_QUADRADO_MAIOR_BRANCO-4-pu11uxplf5re35q6ee1gl85n7nzueb3ut4ni43u4ps.png" group-title="Documentários", Quebrando o Tabu - Pluto TV (Brasil)
@@ -1318,10 +1324,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png" group-title="Documentários", Encuentro (Argentina)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Pluto TV Historia (Chile)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pluto TV Historia (Chile)
 https://r.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários", Pluto TV Historia (Espanha)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pluto TV Historia (Espanha)
 https://r.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvOxt14.png" group-title="Documentários", Rakuten TV Documentales - Samsung TV Plus (Espanha)
@@ -1384,10 +1390,10 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2636
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p8543319_b_h8_aa.jpg" group-title="Documentários - Animais e Natureza", O Encantador de Cães - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/61099df8cee03b00074b2ecf-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Animais e Natureza", Pluto TV Animais (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Animais e Natureza", Pluto TV Animais (Brasil)
 https://r.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Animais e Natureza", Pluto TV Natureza (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Animais e Natureza", Pluto TV Natureza (Brasil)
 https://r.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8
 
 ---
@@ -1431,25 +1437,31 @@ https://d1t832jhtoignv.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 
 >> DOCUMENTÁRIOS - INVESTIGAÇÃO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Investigação", Detetives Médicos - Pluto TV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Detetives Médicos - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/638df93ae2f2a3000737c168-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="Documentários - Investigação", Investigação Discovery (Brasil)
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Investigação", Os Arquivos do FBI - Pluto TV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Os Arquivos do FBI - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/620d12a82e8ac50007c269c3-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Investigação", Pluto TV Assombrações (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Pluto TV Assombrações (Brasil)
 https://r.mjh.nz/PlutoTV/620d1512c7986a0007220213-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Investigação", Pluto TV Investigação (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Pluto TV Caçadores de Ovnis (Brasil)
+https://r.mjh.nz/PlutoTV/656e2a10954b020008ed167c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Pluto TV Estado Paranormal (Brasil)
+https://r.mjh.nz/PlutoTV/656e2a81954b020008ed17a4-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Pluto TV Investigação (Brasil)
 https://r.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Investigação", Pluto TV Mistérios (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Pluto TV Mistérios (Brasil)
 https://r.mjh.nz/PlutoTV/5fac52f142044f00078e2a51-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Investigação", Pluto TV Mistérios Sem Solução (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Pluto TV Mistérios Sem Solução (Brasil)
 https://r.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8
 
 ---
@@ -1483,10 +1495,10 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2022/05/ciudadanos-por-el-mundo-720x365.jpg" group-title="Documentários - Turismo", Ciudadanos por el Mundo - Pluto TV (Espanha)
 https://r.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Turismo", Pluto TV Mundo (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Turismo", Pluto TV Mundo (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Documentários - Turismo", Pluto TV Viajes (Espanha)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Turismo", Pluto TV Viajes (Espanha)
 https://r.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.expreso.info/files/2019-10/Chile_Fedetur.jpg" group-title="Documentários - Turismo", Turismo Travel TV (Chile)	
@@ -1561,6 +1573,9 @@ https://r.mjh.nz/PlutoTV/645111f1d8436e00081bb2bd-alt.m3u8
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV Jovens e Mães - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/620fdc7d8a36fc000710e3ba-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV Just Tattoo of Us - Pluto TV (Brasil)
+https://r.mjh.nz/PlutoTV/63988b61c8d285000798a22a-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Entretenimento e Reality Shows", MTV Shore - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8
 
@@ -1575,9 +1590,6 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Programa_P%C3%A2nico.png" group-title="Entretenimento e Reality Shows", Pânico - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.paramountplus.com/assets/pplus/PPlus_Logo_1200x630_BLUE.png" group-title="Entretenimento e Reality Shows", Paramount+ Apresenta - Pluto TV (Brasil)
-https://r.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Pesadelo_na_Cozinha.jpg" group-title="Entretenimento e Reality Shows", Pesadelo na Cozinha (Brasil)
 http://ddsw.xyz:80/8590438094/9912004092/968285
@@ -1605,7 +1617,7 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Entretenimento e Reality Shows", Casos de la Dra. Polo - Pluto TV (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Entretenimento e Reality Shows", Casos de la Dra. Polo - Pluto TV (EUA)
 https://r.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="Entretenimento e Reality Shows", El Conflicto TV - Plex (EUA)
@@ -1713,7 +1725,7 @@ https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://nsctv.com.br/novosite/wp-content/uploads/2020/10/logo_NSC-720x486-1.png" group-title="Esporte", NSC - National Sports Channel (São Paulo/SP)
 https://cdn-1.nxplay.com.br/PLAYOUT_02_NSC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Esporte", Pluto TV Esportes (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte", Pluto TV Esportes (Brasil)
 https://r.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="Esporte", Pop Bola - Soul TV (Brasil)
@@ -1756,6 +1768,9 @@ https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 https://r.mjh.nz/PlutoTV/63eba66da8b2270008436b10-alt.m3u8
 
 ---
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="Esporte", Azteca Deportes Network - Pluto TV (México)
+https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-canela_deportes-16x9.jpg" group-title="Esporte", Canela Deportes (Equador)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
@@ -1856,7 +1871,7 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esporte - Carros e Automobilismo", Motorvision - Samsung TV Plus (Brasil)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Turbo (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Turbo (Brasil)
 https://r.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Esporte - Carros e Automobilismo", Urban Turbo (São José/SC)
@@ -1867,10 +1882,10 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://elgarage.com/wp-content/uploads/2021/03/logogaragetv_blanco.png" group-title="Esporte - Carros e Automobilismo", Garage TV (Argentina)
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Motor (Espanha)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Motor (Espanha)
 https://r.mjh.nz/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Velocidad (México)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Velocidad (México)
 https://r.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
 
 ---
@@ -1881,10 +1896,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1062
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20221026T004633SQUARE.png_20221026004634.png" group-title="Esporte - Carros e Automobilismo", MotorRacing - Samsung TV Plus (Reino Unido)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a1d5dfb7-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Cars (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Cars (EUA)
 https://r.mjh.nz/PlutoTV/5812b3a4249444e05d09cc46-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Motor (Reino Unido)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Motor (Reino Unido)
 https://r.mjh.nz/PlutoTV/5db0510962948d000961d3c6-alt.m3u8
 
 
@@ -1912,10 +1927,10 @@ http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Estilo de Vida e Bem-Estar", Oportunidades.TV (Brasil)
 http://maistop.net:80/live/free/free/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida e Bem-Estar", Pluto TV Estilo de Vida (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Estilo de Vida e Bem-Estar", Pluto TV Estilo de Vida (Brasil)
 https://r.mjh.nz/PlutoTV/60f8841a4865da0007421177-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Estilo de Vida e Bem-Estar", Pluto TV Fashionstream (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Estilo de Vida e Bem-Estar", Pluto TV Fashionstream (Brasil)
 https://r.mjh.nz/PlutoTV/5f516730b78b7600079294f5-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YwM5kyn.png" group-title="Estilo de Vida e Bem-Estar", Queens United TV (EUA)
@@ -2221,49 +2236,49 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:-1 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes", Playpoca Filmes (Brasil)
 http://168.205.87.198:8555/live/1212/123456/238.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Clássicos (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Clássicos (Brasil)
 https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Comédia (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Comédia (Brasil)
 https://r.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Comédia Romântica (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Comédia Romântica (Brasil)
 https://r.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Crime (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Crime (Brasil)
 https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Drama (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Drama (Brasil)
 https://r.mjh.nz/PlutoTV/5f1210d14ae1f80007bafb1d-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Família (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Família (Brasil)
 https://r.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Inspiração (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Inspiração (Brasil)
 https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Romance (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Romance (Brasil)
 https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Sucessos (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Sucessos (Brasil)
 https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cine Terror (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Terror (Brasil)
 https://r.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Ficção Científica (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Ficção Científica (Brasil)
 https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Filmelier (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Filmelier (Brasil)
 https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Filmes Ação (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Filmes Ação (Brasil)
 https://r.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Filmes Nacionais (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Filmes Nacionais (Brasil)
 https://r.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Filmes Suspense (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Filmes Suspense (Brasil)
 https://r.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes", Runtime (Brasil)
@@ -2340,7 +2355,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00477-samsungelectron-cineclassico-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/02dd320d-ce42-40eb-8f86-c91dd108c2be/flou_cine_logo_1500x1500-04_-_Marcello_Gagliardi_Lugordx2.png" group-title="Filmes" , Flou Cine - LG Channels (México)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucine-lgmx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Nuestro Cine (México)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Nuestro Cine (México)
 https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png" group-title="Filmes", Rakuten TV Cine Español - Samsung TV Plus (Espanha)
@@ -2354,13 +2369,13 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KS6HUCi.png" group-title="Filmes", CinePast - FlixHouse (EUA)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Classic Movies (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Classic Movies (EUA)
 https://r.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cult Films (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cult Films (EUA)
 https://r.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Filmes", Pluto TV Cult Films (Reino Unido)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cult Films (Reino Unido)
 https://r.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
 
 
@@ -2461,13 +2476,13 @@ https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
 #EXTINF:-1 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Séries", Playpoca Séries (Brasil)
 http://168.205.87.198:8555/live/1212/123456/239.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Séries", Pluto TV Séries (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Séries", Pluto TV Séries (Brasil)
 https://r.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Séries", Pluto TV Séries Ação (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Séries", Pluto TV Séries Ação (Brasil)
 https://r.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Séries", Pluto TV Séries Sci-Fi (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Séries", Pluto TV Séries Sci-Fi (Brasil)
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rookieblue/images/9/90/PromoS3.jpg" group-title="Séries", Rookie Blue - Pluto TV (Brasil)
@@ -2490,12 +2505,12 @@ https://r.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8
 
 ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Séries", Pluto TV Series Latinas (México)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Séries", Pluto TV Series Latinas (México)
 https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
 ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Séries", Pluto TV Sitcom Legends (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Séries", Pluto TV Sitcom Legends (EUA)
 https://r.mjh.nz/PlutoTV/633354b63df9700007f6a1b7-alt.m3u8
 
 
@@ -2537,7 +2552,7 @@ https://r.mjh.nz/PlutoTV/625f04253e5f6c000708f3b7-alt.m3u8
 #EXTINF:-1 tvg-logo="https://www.journeymasters.com/img/LetsMakeADeal-Hi-Res.jpg" group-title="Game Shows", Let's Make A Deal - Pluto TV (EUA)
 https://r.mjh.nz/PlutoTV/6267352efcf21c0007c76642-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Game Shows", Pluto TV Game Shows (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Game Shows", Pluto TV Game Shows (EUA)
 https://r.mjh.nz/PlutoTV/6036e7c385749f00075dbd3b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300021DQ_20230726T004611SQUARE.png_20230726004612.png" group-title="Game Shows", Supermarket Sweep - Samsung TV Plus (EUA)
@@ -2565,7 +2580,7 @@ https://d2stx9idyk58lb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="Gastronomia", Food Network (Brasil)
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Gastronomia", Pluto TV KFOOD (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Gastronomia", Pluto TV KFOOD (Brasil)
 https://r.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2023/03/Receitas-FAST-Globo-1100x619.jpg" group-title="Gastronomia", Receitas Fast - Globoplay (Brasil)
@@ -2594,7 +2609,7 @@ https://r.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20221214T044859SQUARE.png_20221214044900.png" group-title="Gastronomia", Pluto TV Cocina - Samsung TV Plus (Espanha)
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0af1f26bc900079ab871/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Gastronomia", Pluto TV Recetas (México)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Gastronomia", Pluto TV Recetas (México)
 https://r.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200002T9_20230426T031129SQUARE.png_20230426031130.png" group-title="Gastronomia", Tastemade - Samsung TV Plus (Espanha)
@@ -2654,13 +2669,16 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="Geek e Anime", Anime TV (Brasil)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.manua.ls/thumbs/brands/l/7745-beyblade_logo.jpg" group-title="Geek e Anime", Beyblade - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://www.manua.ls/thumbs/brands/l/7745-beyblade_logo.jpg" group-title="Geek e Anime", Beyblade - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/633dc392e0282400071b0d39-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Captain_Tsubasa_2018_international_logo.png" group-title="Geek e Anime", Captain Tsubasa - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Boruto_logo.png" group-title="Geek e Anime", Boruto: Naruto Next Generations - Pluto TV (Brasil)
+https://r.mjh.nz/PlutoTV/656f389c3944b60008e5bdab-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Captain_Tsubasa_2018_international_logo.png" group-title="Geek e Anime", Captain Tsubasa - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/646663b01593940008990a57-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Death_Note_Logo.png" group-title="Geek e Anime", Death Note - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Death_Note_Logo.png" group-title="Geek e Anime", Death Note - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/72c55aa33ecba6da806c4106c98e8440.png" group-title="Geek e Anime", Geekdot (Brasil)
@@ -2672,13 +2690,13 @@ https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Geek e Anime", Loading Web TV (São Paulo/SP)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Geek e Anime", Naruto - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Geek e Anime", Naruto - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/01ec367b44f0a568430a957e042639af.jpg" group-title="Geek e Anime", Naruto Shippuden - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/01ec367b44f0a568430a957e042639af.jpg" group-title="Geek e Anime", Naruto Shippuden - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-marques.com/wp-content/uploads/2022/10/One-Piece-Logo-1999.png" group-title="Geek e Anime", One Piece - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://logos-marques.com/wp-content/uploads/2022/10/One-Piece-Logo-1999.png" group-title="Geek e Anime", One Piece - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/624b1c8d4321e200073ee421-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/otaku-1.jpg" group-title="Geek e Anime", Otaku Sign TV (Brasil)
@@ -2687,16 +2705,16 @@ https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Geek e Anime", PlayTV (São Paulo/SP)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Geek e Anime", Pluto TV Anime (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Geek e Anime", Pluto TV Anime (Brasil)
 https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Geek e Anime", Pluto TV Anime Ação (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Geek e Anime", Pluto TV Anime Ação (Brasil)
 https://r.mjh.nz/PlutoTV/604b79c558393100078faeef-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png", Pluto TV Gaming por Ubisoft (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png", Pluto TV Gaming por Ubisoft (Brasil)
 https://r.mjh.nz/PlutoTV/64c815e8a1c6130008fef928-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Geek e Anime", Pluto TV Geek e Tech (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Geek e Anime", Pluto TV Geek e Tech (Brasil)
 https://r.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbCyjVv4dvkgasrNGO3J5hggwl3OHsiXSN1Hug0NgZipEnMc2uCTImuqSLkEQYcpKfBGAqR-HRv0yRBtpWtMpPEu78FIIK2IqqkCdq36-gyS2Zk76fONtEyzy9ynEJKRCexJIyrwIZmdkSMxo-r8bQ90b0RyU8guswGf3DAvR6ZqhyBpMCiERtNhUs9g/w320-h82/Logo_ST_2023.png" group-title="Geek e Anime", Polidóro TV (São Paulo/SP)
@@ -2708,10 +2726,10 @@ https://stmv1.srvif.com/2022/2022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/startv.png" group-title="Geek e Anime", Start (São Paulo/SP)
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C8-B-OuDROk/TV6fFSsG0eI/AAAAAAAAAPk/3troy5qJQH4/s1600/Super+Onze+logo.JPG" group-title="Geek e Anime", Super Onze - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C8-B-OuDROk/TV6fFSsG0eI/AAAAAAAAAPk/3troy5qJQH4/s1600/Super+Onze+logo.JPG" group-title="Geek e Anime", Super Onze - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Geek e Anime", Tokusato - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/anmtv.com.br/wp-content/uploads/tokusato-pluto-tv.jpg" group-title="Geek e Anime", Tokusato - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ubisoft_logo.svg/1119px-Ubisoft_logo.svg.png" group-title="Geek e Anime", Ubisoft TV - Samsung TV Plus (Brasil)
@@ -2729,7 +2747,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RxSUBAq.png" group-title="Geek e Anime", Yeeaah (São Paulo/SP)
 http://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/71-713842_transparent-yugioh-logo-yu-gi-oh-the-art.png" group-title="Geek e Anime", Yu-Gi-Oh - PlutoTV (Brasil)
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/71-713842_transparent-yugioh-logo-yu-gi-oh-the-art.png" group-title="Geek e Anime", Yu-Gi-Oh - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8
 
 ---
@@ -2802,6 +2820,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" group-title="Infantil e Desenhos", Disney Channel (Brasil)
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/356
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Dora_the_Explorer_logo.png" group-title="Infantil e Desenhos", Dora A Aventureira - Pluto TV (Brasil)
+https://r.mjh.nz/PlutoTV/656e28dd57fe4a0008819c3d-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wV92cPv.png" group-title="Infantil e Desenhos", Dreamworks TV (Brasil)
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
@@ -2887,10 +2908,10 @@ http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/1/1c/Blue%27s_Clues_-_logo_%28Latin_American_Spanish%29.jpeg" group-title="Infantil e Desenhos", Pistas de Blue - Pluto TV (Brasil)
 https://r.mjh.nz/PlutoTV/5f99aad4e82db50007fac4b2-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Infantil e Desenhos", Pluto TV Junior (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Infantil e Desenhos", Pluto TV Junior (Brasil)
 https://r.mjh.nz/PlutoTV/5f12141b146d760007934ea7-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Infantil e Desenhos", Pluto TV Kids (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Infantil e Desenhos", Pluto TV Kids (Brasil)
 https://r.mjh.nz/PlutoTV/5f1214a637c6fd00079c652f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Infantil e Desenhos", Popeye (Brasil)
@@ -3196,16 +3217,16 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b9dzDiD.png" group-title="Música", Otto FM TV (Itália)
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Classic Hip-Hop (França)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Música", Pluto TV Classic Hip-Hop (França)
 https://r.mjh.nz/PlutoTV/625e79fe9b586d000785e330-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Classic Rock (França)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Música", Pluto TV Classic Rock (França)
 https://r.mjh.nz/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV K-Pop (França)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Música", Pluto TV K-Pop (França)
 https://r.mjh.nz/PlutoTV/60c8b57beef158000787ac19-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música", Pluto TV Love Songs (França)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Música", Pluto TV Love Songs (França)
 https://r.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Música", Qwest TV - Plex (EUA)
@@ -3672,10 +3693,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
 
 >> MÚSICA - KARAOKÊ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música - Karaokê", Pluto TV Karaokê por Stingray (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Música - Karaokê", Pluto TV Karaokê por Stingray (Argentina)
 https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Música - Karaokê", Pluto TV Karaokê por Stingray (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Música - Karaokê", Pluto TV Karaokê por Stingray (Brasil)
 https://r.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música - Karaokê", Party Tyme Karaoke - Brasil (EUA)
@@ -3823,6 +3844,9 @@ LINK INVÁLIDO
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/66/dd/1f/66dd1ffb-35c5-6564-0390-23276ddf5516/source/512x512bb.jpg" group-title="Notícias", 24/7 Canal de Noticias (Argentina)
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w1255371156_b1300000_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="Notícias", ADN40 - Pluto TV (México)
+https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20230823T001641SQUARE.png_20230823001642.png" group-title="Notícias", Aquí y Ahora / Univision - Samsung TV Plus (EUA)
 https://d1k8v5k0ykq3a4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-byvm47b0zy7nu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
@@ -3963,7 +3987,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" group-title="Notícias", NHK World (Japão)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Notícias", Pluto TV News (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Notícias", Pluto TV News (EUA)
 https://r.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/1078px-Press_Tv_logo.svg.png" group-title="Notícias", Press TV (Irã)
@@ -4070,9 +4094,6 @@ https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="Novelas", Demand Africa - Samsung TV Plus (Brasil)
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Novelas", Novelando - Samsung TV Plus (Brasil)
-http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas", Novelisima - Samsung TV Plus (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
 
@@ -4111,10 +4132,10 @@ https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas", Novelisima (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Novelas con La Abuela (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Novelas", Pluto TV Novelas con La Abuela (EUA)
 https://r.mjh.nz/PlutoTV/5e84dbf4a838b60007ffbba1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Telenovelas (Espanha)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Novelas", Pluto TV Telenovelas (Espanha)
 https://r.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas", SEO TV Novelas (Bolívia)
@@ -4149,7 +4170,7 @@ https://dmlmov0qa6fqb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Novelas", Pluto TV Soaps (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Novelas", Pluto TV Soaps (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c5f80f71f660007a2ad8e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
@@ -4258,7 +4279,7 @@ http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Retrô", Popeye (Brasil)
 http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Retrô (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Retrô (Brasil)
 https://r.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
@@ -4320,7 +4341,7 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="Retrô", Pitufo TV - Samsung TV Plus (Espanha)
 https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Retro Cartoons (México)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Retro Cartoons (México)
 https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 ---
@@ -4331,16 +4352,16 @@ https://r.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="Retrô", Lone Star - Plex (EUA)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV (Reino Unido)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Classic TV (Reino Unido)
 https://r.mjh.nz/PlutoTV/5d134a74ca91eedee1630faa-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV Comedy (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Classic TV Comedy (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Classic TV Drama (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Classic TV Drama (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1280px-Pluto_TV_logo_2020.svg.png" group-title="Retrô", Pluto TV Retro Kid (Canadá)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Retro Kid (Canadá)
 https://r.mjh.nz/PlutoTV/6408b41b83f58900081d91ad-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png" group-title="Retrô", Smurf TV - Plex (México)
