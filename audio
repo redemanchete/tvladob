@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 22/01/2024
+ATUALIZADA EM 24/03/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -16,7 +16,7 @@ https://24363.live.streamtheworld.com/JP_CLASSICAAC
 https://ice.fabricahost.com.br/capitalfmsp
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_culturabrasilsp.png" group-title="Rádio FM - Brasil", 77.9 - Rádio Cultura Brasil (São Paulo/SP)
-https://us-east-1.prod.tvcoins.com/player/player.html?culturaplay/8787c618-2772-408b-a7ca-5813c0a59bb3
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_superadiosaopaulo.png" group-title="Rádio FM - Brasil", 80.7 - Super Rádio (São Paulo/SP)
 http://cloud1.cdnseguro.com:13244/;
@@ -235,7 +235,7 @@ http://9595.brasilstream.com.br/stream
 https://streamabc.gruposinos.com.br:8443/radio
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/650a0f0453f2a.png" group-title="Rádio FM - Brasil", 103.3 - Cultura FM (São Paulo/SP)
-https://us-east-1.prod.tvcoins.com/player/player.html?culturaplay/7dace9a5-38f0-4c16-94dc-2ee63f6d61e6
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 103.7 - Antena 1 Lite FM (Rio de Janeiro/RJ)
 https://a1rj.streams.com.br/stream
@@ -573,6 +573,9 @@ https://centova.euroti.com.br:20001/1/stream.mp3?1590810455343
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio15370_1513190751.jpg" group-title="Web Rádio - Brasil", Rádio Axé Bahia (Salvador/BA)
 http://euroticast5.euroti.com.br:8070/;
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio240364_1709124581.jpg" group-title="Web Rádio - Brasil", Rádio Axé das Antigas (Goiânia/GO)
+https://stream-159.zeno.fm/gpn0tu4rdv8uv?zs=sVhaTLAQTCGhOtlqSwWetA&1711255236912
+
 #EXTINF:-1 tvg-logo="https://www.mateusvaladares.com/app/uploads/2016/06/identidade-institutomoreirasalles-radiobatuta-02-1200x800.png" group-title="Web Rádio - Brasil", Rádio Batuta (São Paulo/SP)
 https://radioims.out.airtime.pro/radioims_a
 
@@ -599,6 +602,9 @@ http://live.paineldj.com.br:8604/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio202939_1669378777.jpg" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - Pop (Belo Horizonte/MG)
 http://live.paineldj.com.br:8085/stream
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_11a4f45380ed4b86a6b96c91a28a643b~mv2.png" group-title="Web Rádio - Brasil", Radio City (Santos/SP)
+https://stm01.virtualcast.com.br:8282/city
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6c/bc/6cbcc5c144857e5ba840227e391fdffd.jpg" group-title="Web Rádio - Brasil", Rádio Continental 1120 (Porto Alegre/RS)
 https://s41.maxcast.com.br:8042/live?id=1316880626255
@@ -695,6 +701,9 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio61905_1558962314.jpg" group-title="Web Rádio - Brasil", Web Vintage Radio (Cotia/SP)
 https://s1.voscast.com:10563/webvintage
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_474c33f5830340fa84f2cc195ac4a568~mv2.jpg" group-title="Web Rádio - Brasil", You FM (Santos/SP)
+https://stm01.virtualcast.com.br:8278/you
 
 
 >> WEB RÁDIO - MUNDO
