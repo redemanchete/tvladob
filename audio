@@ -3,14 +3,14 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 24/03/2024
+ATUALIZADA EM 05/04/2024
 
 
 >> RÁDIO FM - BRASIL
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f1/Classic_Pan.png" group-title="Rádio FM - Brasil", 76.7 - Classic Pan (São Paulo/SP)
-https://24363.live.streamtheworld.com/JP_CLASSICAAC
+LINK BLOQUEADO
 
 #EXTINF:-1 tvg-logo="https://capitalcomvoce.com.br/img/logo-2.png" group-title="Rádio FM - Brasil", 77.5 - Rádio Capital (São Paulo/SP)
 https://ice.fabricahost.com.br/capitalfmsp
@@ -52,7 +52,7 @@ https://server01.srvsh.com.br:8578/stream
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Rádio FM - Brasil", 90.5 - CBN (São Paulo/SP)
-https://26573.live.streamtheworld.com/CBN_SPAAC
+https://27583.live.streamtheworld.com/CBN_SPAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio206011_1677677215.png" group-title="Rádio FM - Brasil", 90.7 - LongPlay (Capão Bonito/SP)
 http://svrstream1.svreua.com:8214/stream?1679958490262
@@ -115,7 +115,7 @@ http://200.136.219.172:8000/radioufscar96.mp3
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/65a6d84816b1c.png" group-title="Rádio FM - Brasil", 95.7 - Amil Paradiso (Rio de Janeiro/RJ)
-https://26583.live.streamtheworld.com/SULAMERICAAAC_SC
+https://24233.live.streamtheworld.com/PARADISO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio212646_1675340347.png" group-title="Rádio FM - Brasil", 95.7 - EP FM (Araraquara/SP)
 https://streaming.empresaspioneiras.com.br/epfmararaquara/stream.m3u8
@@ -141,7 +141,7 @@ https://22823.live.streamtheworld.com/BANDNEWSFM_SPAAC
 #EXTINF:-1 tvg-logo="https://socialradio.com.br/radio/difusorathathi/assets/images/logo-deitada-364x122.png" group-title="Rádio FM - Brasil", 97.1 - Difusora (Ribeirão Preto/SP)
 https://ice.fabricahost.com.br/difusorathathi
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png" group-title="Rádio FM - Brasil", 97.7 - Energia 97 FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png" group-title="Rádio FM - Brasil", 97.7 - Energia FM (São Paulo/SP)
 https://audio.97fm.com.br/energia
 
 #EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Rádio FM - Brasil", 97.7 - Rádio Encontro das Águas (Manaus/AM)
@@ -172,7 +172,7 @@ https://ice.fabricahost.com.br/metropolitana985sp
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_Cidade_FM_%28Fortaleza%29.png" group-title="Rádio FM - Brasil", 99.1 - Cidade FM (Fortaleza/CE)
-https://r10.ciclano.io:15057/stream
+https://streaming.livespanel.com:2020/stream/cidadadefm
 
 #EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/diario-fm-997_crop_200x200.jpg" group-title="Rádio FM - Brasil", 99.7 - Diário FM (Ribeirão Preto/SP)
 https://rrdns-megasistema.webnow.com.br/diario.aac
@@ -202,7 +202,7 @@ https://r16.ciclano.io:15043/stream
 https://ssl1.transmissaodigital.com:20028/live
 
 #EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio FM - Brasil", 100.9 - Inconfidência FM (Belo Horizonte/MG)
-http://srv39.brasilstream.com.br:8446/stream
+https://ssl.zoeweb.net/proxy/inconfidencia?mp=/inconfidencia/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Rádio FM - Brasil", 100.9 - Rádio Clube (Foz do Iguaçu/PR)
 https://9105.brasilstream.com.br/stream
@@ -221,6 +221,9 @@ https://21933.live.streamtheworld.com/RADIO_ALPHAFMAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13483_1505754017.jpg" group-title="Rádio FM - Brasil", 102.3 - 102.3 FM (Porto Alegre/RS)
 https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="Rádio FM - Brasil", 102.7 - Blink 102 FM (Campo Grande/MS)
+https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/R%C3%A1dio_Beach_Park_logo_2018.svg/1280px-R%C3%A1dio_Beach_Park_logo_2018.svg.png" group-title="Rádio FM - Brasil", 102.7 - Rádio Beach Park (Fortaleza/CE)
 http://www.radioideal.net:8026/stream
