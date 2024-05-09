@@ -2062,10 +2062,10 @@ https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlis
 #EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Estúdios de Rádio - Brasil", Catve FM (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
 
-#EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Públicos/Educativos - Brasil", Catve 2 (Cascavel/PR)
+#EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Estúdios de Rádio - Brasil", Catve 2 (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
 
-#EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Públicos/Educativos - Brasil", Catve / União FM (Toledo/PR)
+#EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Estúdios de Rádio - Brasil", Catve / União FM (Toledo/PR)
 https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/chunklist_w1713089154.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Estúdios de Rádio - Brasil", CBN - YouTube (Brasil)
