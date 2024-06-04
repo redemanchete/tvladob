@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 03/06/2024
+ATUALIZADA EM 04/06/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -16,7 +16,7 @@ LINK BLOQUEADO
 https://ice.fabricahost.com.br/capitalfmsp
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_culturabrasilsp.png" group-title="Rádio FM - Brasil", 77.9 - Rádio Cultura Brasil (São Paulo/SP)
-LINK INVÁLIDO
+https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_superadiosaopaulo.png" group-title="Rádio FM - Brasil", 80.7 - Super Rádio (São Paulo/SP)
 http://cloud1.cdnseguro.com:13244/;
@@ -76,7 +76,7 @@ http://cloud1.cdnseguro.com:26492/stream
 http://radio.saopaulo01.com.br:9348/stream
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Rádio FM - Brasil", 93.7 - Cultura FM (Belém/PA)
-INDISPONÍVEL
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_da_Itapema_FM.png" group-title="Rádio FM - Brasil", 93.7 - Itapema FM (Florianópolis/SC)
 https://24493.live.streamtheworld.com/ITA_FLOAAC
@@ -244,7 +244,7 @@ http://9595.brasilstream.com.br/stream
 https://streamabc.gruposinos.com.br:8443/radio
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/650a0f0453f2a.png" group-title="Rádio FM - Brasil", 103.3 - Cultura FM (São Paulo/SP)
-LINK INVÁLIDO
+https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 103.7 - Antena 1 Lite FM (Rio de Janeiro/RJ)
 https://a1rj.streams.com.br/stream
@@ -669,9 +669,6 @@ http://cast4.audiostream.com.br:8016/mp3
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio199001_1650648048.jpg" group-title="Web Rádio - Brasil", Rádio Referência do Samba (São Paulo/SP)
 https://stm6.srvvox.com.br:7290/stream
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio22712_1530271971.png" group-title="Web Rádio - Brasil", Rádio Scalla (São Paulo/SP)
-INDISPONÍVEL
-
 #EXTINF:-1 tvg-logo="https://www.showtimeradio.com.br/wp-content/uploads/2021/01/cropped-showtime_transp-1.png" group-title="Web Rádio - Brasil", Rádio Showtime (São José dos Campos/SP)
 https://stmv5.samcast.com.br/showtimeradio/showtimeradio/playlist.m3u8
 
@@ -680,12 +677,6 @@ https://stream-153.zeno.fm/8tt5erdes68uv
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5f/80/109900/1/c175.png" group-title="Web Rádio - Brasil", Rádio Viva o Samba (Rio de Janeiro/RJ)	
 https://servidor33-3.brlogic.com:8020/live
-
-#EXTINF:-1 tvg-logo="https://radiovozes.com/wp-content/uploads/2020/05/cropped-Logo_radiovozes_Grey-2.png" group-title="Web Rádio - Brasil", Rádio Vozes (São Paulo/SP)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="http://www.sindifisconacional-santos.org.br/wp-content/uploads/2021/07/rba-litoral.jpg" group-title="Web Rádio - Brasil", RBA Litoral - Rádio Web (São Vicente/SP)
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://sambafm.com.br/wp-content/uploads/2021/04/logo_redonfo_brilho_500.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
 http://hts01.kshost.com.br:8428/;
@@ -701,9 +692,6 @@ https://stm9.voxhd.com.br:6776/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio198665_1649959067.jpg" group-title="Web Rádio - Brasil", Web Vintage Brasil (Cotia/SP)
 http://hts05.kshost.com.br:11668/stream
-
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio198308_1648809034.jpg" group-title="Web Rádio - Brasil", Web Vintage 70 (Cotia/SP)
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio61905_1558962314.jpg" group-title="Web Rádio - Brasil", Web Vintage Radio (Cotia/SP)
 https://s1.voscast.com:10563/webvintage
