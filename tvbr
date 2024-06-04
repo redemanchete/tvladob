@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 03/06/2024
+ATUALIZADA EM 04/06/2024
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -61,7 +61,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 https://r.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Públicos/Educativos - Brasil", TV Cultura Pará (Belém/PA)
-INDISPONÍVEL
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.portaldaeducativa.ms.gov.br/wp-content/uploads/elementor/thumbs/logo-2023-q2n0xbb32t43zk5w8k0eobjmoesp5548w4e8zofk44.png" group-title="Públicos/Educativos - Brasil", TV Educativa (Campo Grande/MS)
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
@@ -160,7 +160,7 @@ INDISPONÍVEL
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Nordeste (Recife/PE)
 INDISPONÍVEL
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo - Satélite (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo São Paulo (São Paulo/SP)
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo / EPTV Sul de Minas (Varginha/MG)
@@ -1055,7 +1055,7 @@ http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Comédia", Os Trapalhões (Brasil)
 http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="Comédia", Parafernália (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="Comédia", Parafernalha (Brasil)
 https://cdn-4.nxplay.com.br/parafernaria/tracks-v1a1/mono.m3u8?token=0f2b41b169bab890ac77e8b5fa4ff6e81bb48690-61700d79fa0892e3227e345d79a0edb0-1715601647-1715558447
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Comédia (Brasil)
@@ -2076,7 +2076,10 @@ https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (Belém/PA)
-http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/650a0f0453f2a.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (São Paulo/SP)
+https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/LOVDhdU.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (Uberlândia/MG)
 https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
@@ -2146,6 +2149,9 @@ https://radioclube.brasilstream.com.br/hls/radioclube/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/633c535232744.png" group-title="Estúdios de Rádio - Brasil", Rádio Clube Ararense (Araras/SP)
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_culturabrasilsp.png" group-title="Estúdios de Rádio - Brasil", Rádio Cultura Brasil (São Paulo/SP)
+https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="Estúdios de Rádio - Brasil", Rádio Difusora FM (Patos de Minas/MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
