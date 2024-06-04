@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 05/04/2024
+ATUALIZADA EM 03/06/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -57,9 +57,6 @@ https://27583.live.streamtheworld.com/CBN_SPAAC
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio206011_1677677215.png" group-title="Rádio FM - Brasil", 90.7 - LongPlay (Capão Bonito/SP)
 http://svrstream1.svreua.com:8214/stream?1679958490262
 
-#EXTINF:-1 tvg-logo="https://www.moodfm.com.br/wp-content/themes/moodfm/_player/imagens/thumb-capa.jpg" group-title="Rádio FM - Brasil", 91.1 - Mood FM (Rio de Janeiro/RJ)
-https://radio.saopaulo01.com.br:10971/;
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64ffcd3d16543.png" group-title="Rádio FM - Brasil", 91.3 - Rádio Disney (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3?dist=web-radiodisney-disneylatino
 
@@ -75,8 +72,11 @@ https://cloud2.cdnseguro.com:20000/;
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio45741_1611083997.png" group-title="Rádio FM - Brasil", 93.3 - Estilo FM (Cubatão/SP)
 http://cloud1.cdnseguro.com:26492/stream
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64d0513abbb67.png" group-title="Rádio FM - Brasil", 93.3 - Rádio Difusora (Maceió/AL)
+http://radio.saopaulo01.com.br:9348/stream
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Rádio FM - Brasil", 93.7 - Cultura FM (Belém/PA)
-http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w634041319.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_da_Itapema_FM.png" group-title="Rádio FM - Brasil", 93.7 - Itapema FM (Florianópolis/SC)
 https://24493.live.streamtheworld.com/ITA_FLOAAC
@@ -96,6 +96,9 @@ http://radio01.logicahost.com.br:8300/stream;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="Rádio FM - Brasil", 94.3 - Atlântida (Porto Alegre/RS)
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=1741966852
 
+#EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="Rádio FM - Brasil", 94.5 - Lupa1 FM (Teresina/PI)
+https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
+
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64dec95acf533.png" group-title="Rádio FM - Brasil", 94.5 - UNIFM (Curitiba/PR)
 http://cast62.sitehosting.com.br:8371/live?1590728088485
 
@@ -112,13 +115,13 @@ https://24383.live.streamtheworld.com/NATIVA_SPAAC
 http://200.136.219.172:8000/radioufscar96.mp3
 
 #EXTINF:-1 tvg-logo="http://radiomorada.com.br/moradalitoral/wp-content/uploads/2018/12/Logo_Morada_White.png" group-title="Rádio FM - Brasil", 95.5 - Morada FM (São Sebastião/SP)
-INDISPONÍVEL
+LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/65a6d84816b1c.png" group-title="Rádio FM - Brasil", 95.7 - Amil Paradiso (Rio de Janeiro/RJ)
 https://24233.live.streamtheworld.com/PARADISO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio212646_1675340347.png" group-title="Rádio FM - Brasil", 95.7 - EP FM (Araraquara/SP)
-https://streaming.empresaspioneiras.com.br/epfmararaquara/stream.m3u8
+https://a5.asurahosting.com:7480/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A1dio_Itatiaia_logo_2022.svg/1024px-R%C3%A1dio_Itatiaia_logo_2022.svg.png" group-title="Rádio FM - Brasil", 95.7 - Rádio Itatiaia (Belo Horizonte/MG)
 https://8903.brasilstream.com.br/stream
@@ -150,6 +153,9 @@ https://stm23.xcast.com.br:9236/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11579_1617107168.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
 https://8817.brasilstream.com.br/stream
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/661cd6182c307.png" group-title="Rádio FM - Brasil", 98.1 - Apolo FM (Arujá/SP)
+https://server3.dacsolution.com.br/98.1/player/
+
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
 https://stm01.virtualcast.com.br:8250/hot98
 
@@ -169,7 +175,7 @@ https://9881.brasilstream.com.br/stream
 https://ice.fabricahost.com.br/metropolitana985sp
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio24568_1505303126.png" group-title="Rádio FM - Brasil", 98.9 - Rádio Brasil Atual (Mogi das Cruzes/SP)
-INDISPONÍVEL
+https://corp.tvt.org.br:8083/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_Cidade_FM_%28Fortaleza%29.png" group-title="Rádio FM - Brasil", 99.1 - Cidade FM (Fortaleza/CE)
 https://streaming.livespanel.com:2020/stream/cidadadefm
@@ -304,7 +310,7 @@ https://s26.maxcast.com.br:8280/live
 https://servidor25.brlogic.com:7024/live
 
 #EXTINF:-1 tvg-logo="https://eldorado.estadao.com.br/static/eldorado/assets/imgs/logo-eldorado-fm.gif" group-title="Rádio FM - Brasil", 107.3 - Eldorado FM (São Paulo/SP)
-https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
+https://26673.live.streamtheworld.com/RADIO_ELDORADOAAC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_Educadora_FM.png" group-title="Rádio FM - Brasil", 107.5 - Educadora FM (Salvador/BA)
 https://streaming.educadora.irdeb.ba.gov.br/stream-01
@@ -322,7 +328,7 @@ https://8199.brasilstream.com.br/stream
 >> RÁDIO AM - BRASIL
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5f7cb0c2baa53.png" group-title="Rádio AM - Brasil", 540 - Rádio Real News (Canoas/RS)
-http://stm8.xcast.com.br:9770/;
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://fyfm.com.br/wp-content/uploads/2023/05/cropped-LOGO-BRANCO-COM-COR-ROXO-NO-PLAY.png" group-title="Rádio AM - Brasil", 610 - FYFM (Mogi Mirim/SP)
 https://ice.fabricahost.com.br/radiofyfm
@@ -356,9 +362,6 @@ https://streaming.ufg.br:8443/radiouniversitaria
 
 #EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio AM - Brasil", 880 - Rádio Inconfidência (Belo Horizonte/MG)
 https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream
-
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64d0513abbb67.png" group-title="Rádio AM - Brasil", 960 - Rádio Difusora (Maceió/AL)
-http://radio.saopaulo01.com.br:9348/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Rádio AM - Brasil", 1070 - Rádio Metropolitana (Mogi das Cruzes/SP)
 http://cloud.cdnseguro.com:8006/;
@@ -670,7 +673,7 @@ https://stm6.srvvox.com.br:7290/stream
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.showtimeradio.com.br/wp-content/uploads/2021/01/cropped-showtime_transp-1.png" group-title="Web Rádio - Brasil", Rádio Showtime (São José dos Campos/SP)
-https://radios.poolwebwork.com.br/8016/stream
+https://stmv5.samcast.com.br/showtimeradio/showtimeradio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio225413_1693314921.png" group-title="Web Rádio - Brasil", Rádio Toca Tudo Retrô (Ananindeua/PA)
 https://stream-153.zeno.fm/8tt5erdes68uv
