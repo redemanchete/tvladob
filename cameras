@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 14/02/2024
+ATUALIZADA EM 03/06/2024
 
 
 >> CÂMERAS AO VIVO - BRASIL
@@ -17,6 +17,9 @@ INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Panorâmica
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Rádio Catve
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cidreira/RS - Plataforma de pesca
 INDISPONÍVEL
@@ -39,6 +42,13 @@ https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Imbé/RS - Praia
 https://vid1.streaming.websul.net.br/live/ods-imb.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Itapema/SC - Rádio Cidade
+https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Macapá
+/AP - Rádio Diário FM
+https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Manaus/AM - Praia da Ponta Negra / AmzLive
 https://livestream.zazerconer.workers.dev/channel/UCH9JbKmqTI6gwhA4ghl32FQ.m3u8
 
@@ -52,7 +62,13 @@ https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Praia da Barra
-INDISPONÍVEL
+https://cdn.live.br1.jmvstream.com/w/IPC-6849/IPC-6849.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Santana do Livramento/RS - Rádio RCC FM
+https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Toledo/PR - Rádio União FM
+https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/chunklist_w1713089154.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Tramandaí/RS - Praia
 https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/playlist.m3u8
