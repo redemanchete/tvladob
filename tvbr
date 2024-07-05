@@ -119,12 +119,6 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / TV Grão Pará (Belém/PA)
 https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Minas (Belo Horizonte/MG)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Rio (Rio de Janeiro/RJ)
-https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo São Paulo (São Paulo/SP)
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
@@ -832,7 +826,7 @@ https://jmp2.uk/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Comédia", Escolinha do Professor Raimundo (Brasil)
 http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
 
-#EXTINF: -1 tvg-logo="https://imgur.com/9zRRgmQ.png" group-title="Infantil e Desenhos", Futurama (Brasil)
+#EXTINF: -1 tvg-logo="https://imgur.com/9zRRgmQ.png" group-title="Comédia", Futurama (Brasil)
 http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" group-title="Comédia", Os Simpsons (Brasil)
