@@ -303,7 +303,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="Regionais Abertos - Brasil", Vivax TV - aberto TVRO (São Paulo/SP)
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ypetv.com.br/wp-content/uploads/2023/08/NewLogo-2048x835.png" group-title="Regionais Abertos - Brasil", Ipê TV - aberto StarOne D2 (Brasil)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/ype-tv-br.png" group-title="Regionais Abertos - Brasil", Ipê TV - aberto StarOne D2 (Brasil)
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 
