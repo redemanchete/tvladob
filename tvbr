@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 05/07/2024
+ATUALIZADA EM 08/07/2024
 
 
 
@@ -15,6 +15,9 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/canallibras-1.png" group-title="Públicos/Educativos - Brasil", Canal Libras (Brasil)
 https://canallibras-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo30anos/30-vers%C3%A3o-horizontal-web.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4552
 
 #EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Públicos/Educativos - Brasil", Catve / TV Cultura (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
@@ -299,6 +302,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="Regionais Abertos - Brasil", Vivax TV - aberto TVRO (São Paulo/SP)
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ypetv.com.br/wp-content/uploads/2023/08/NewLogo-2048x835.png" group-title="Regionais Abertos - Brasil", Ipê TV - aberto StarOne D2 (Brasil)
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 
 
@@ -1587,9 +1593,6 @@ https://radio40graus.brasilstream.com.br/hls/radio40graus/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bWfrZOS.png" group-title="Estúdios de Rádio - Brasil", 95 Mais FM (Natal/RN)
 https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
 
-#EXTINF:-1 tvg-logo="https://98fmcampoformoso.com.br/wp-content/uploads/2020/09/logo-vazada-branca-1.png" group-title="Estúdios de Rádio - Brasil", 98 FM (Campo Formoso/BA)
-https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.abc103fm.com.br/includes/img/marca_ABC900.png" group-title="Estúdios de Rádio - Brasil", ABC FM (Novo Hamburgo/RS)
 https://streamabc.gruposinos.com.br/radio.m3u8
 
@@ -1635,9 +1638,6 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/650a0f0453f2a.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (São Paulo/SP)
 https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/LOVDhdU.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (Uberlândia/MG)
-https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_d2fm953.png" group-title="Estúdios de Rádio - Brasil", D2 FM (Santa Rita do Sapucaí/MG)
 https://serv3.videovox.pw/ibraim3622/ibraim3622/chunklist_w220685404.m3u8
 
@@ -1673,9 +1673,6 @@ https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio13974_1455801902.jpg" group-title="Estúdios de Rádio - Brasil", Monte FM (Monte Carmelo/MG)
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/MYLH1cG.png" group-title="Estúdios de Rádio - Brasil", Mundial FM (Pirassununga/SP)
-https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w1563727305.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.portaldasmissoes.com.br/uploads/empreendimentos/0001280_zoom_novos-horizontes-fm-santo-angelo-portal-das-missoes.png" group-title="Estúdios de Rádio - Brasil", Novos Horizontes FM (Santo Ângelo/RS)
 https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8
@@ -1716,9 +1713,6 @@ https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A1dio_Itatiaia_logo_2022.svg/1024px-R%C3%A1dio_Itatiaia_logo_2022.svg.png" group-title="Estúdios de Rádio - Brasil", Rádio Itatiaia - YouTube (Belo Horizonte/MG)
 https://ythls-v2.onrender.com/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8?playlist=index
 
-#EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_jornal903recife.png" group-title="Estúdios de Rádio - Brasil", Rádio Jornal (Recife/PE)
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w1781898159.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="Estúdios de Rádio - Brasil", Rádio Montanhesa (Ervália/MG)
 https://qfm.geraistec.com.br/hlsmErv/index.m3u8
 
@@ -1736,9 +1730,6 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w18407813
 
 #EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_qfm979.png" group-title="Estúdios de Rádio - Brasil", Rádio Q FM (Viçosa/MG)
 https://qfm.geraistec.com.br/hlsq/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.showtimeradio.com.br/wp-content/uploads/2021/01/cropped-showtime_transp-1.png" group-title="Estúdios de Rádio - Brasil", Rádio Showtime (São José dos Campos/SP)
-https://stmv5.samcast.com.br/showtimeradio/showtimeradio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NBpTihy.png" group-title="Estúdios de Rádio - Brasil", Rádio Sociedade (Salvador/BA)
 https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w98903025.m3u8
@@ -3494,9 +3485,6 @@ https://jmp2.uk/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Retrô", Os Trapalhões (Brasil)
 http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Disorder_in_the_Court_title_1936.jpg" group-title="Retrô", Os Três Patetas - Pluto TV (Brasil)
-INDISPONÍVEL
-
 #EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="Retrô", Patolino (Brasil)
 http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
 
@@ -3506,26 +3494,20 @@ http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Woody_Woodpecker_logo.png" group-title="Retrô", Pica-Pau (Brasil)
 http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Retrô", Popeye (Brasil)
-http://24hrs.homelinux.com:8080/24H-Popeye.S01/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Retrô (Brasil)
 https://jmp2.uk/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/teleweb.tv.br/images/logo/logo_1062789513.png" group-title="Retrô", Teleweb TV (São Paulo/SP)
-https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Retrô", Popeye (Brasil)
+http://24hrs.homelinux.com:8080/24H-Popeye.S01/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_0f797d04905943e8b0864e75407d4a43~mv2.png/v1/crop/x_0,y_30,w_1066,h_331/fill/w_1200,h_372,al_c,lg_1,q_90,enc_auto/reviva%20oficial.png" group-title="Retrô", Reviva TV (Brasil)
+https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Retrô", Scooby Doo (Brasil)
 http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Retrô", Tartaruga Touché (Brasil)
-http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png" group-title="Retrô", Tom & Jerry (Brasil)
-http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Retrô", Séries Classic - TV Mon (Montenegro/RS)
 https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
@@ -3535,6 +3517,18 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Retrô", Soul Cine Clube - Soul TV (Brasil)
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Retrô", Tartaruga Touché (Brasil)
+http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://spaceks.net/sites/teleweb.tv.br/images/logo/logo_1062789513.png" group-title="Retrô", Teleweb TV (São Paulo/SP)
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png" group-title="Retrô", Tom & Jerry (Brasil)
+http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7t1OwHI.png" group-title="Retrô", TV Nostalgia (Brasil)
+https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/chunklist_w1142305731.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Retrô", Urban Retro (São José/SC)
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
