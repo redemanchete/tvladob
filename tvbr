@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/07/2024
+ATUALIZADA EM 12/07/2024
 
 
 
@@ -1206,7 +1206,7 @@ https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 >> DOCUMENTÁRIOS - TURISMO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Investigação", Pluto TV Viagens (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Turismo", Pluto TV Viagens (Brasil)
 https://jmp2.uk/PlutoTV/5f32d432d612e50007e56133-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Documentários - Turismo", Urban Travel (São José/SC)
@@ -1369,6 +1369,24 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS_4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="Esporte", RS News Sports 5 (Pará de Minas/MG)
 https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Esporte", Sport TV 1 (Portugal)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Esporte", Sport TV 2 (Portugal)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Esporte", Sport TV 3 (Portugal)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Esporte", Sport TV 4 (Portugal)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Esporte", Sport TV 5 (Portugal)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Esporte", Sport TV+ (Portugal)
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62077
 
 #EXTINF:-1 tvg-logo="https://atitudenew.com/wp-content/uploads/2024/04/tv-atitude-300x300.png" group-title="Esporte", TV Atitude New (Hortolândia/SP)
 https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
@@ -1794,9 +1812,6 @@ https://stmv1.srvif.com/emotion/emotion/chunklist_w1632082469.m3u8
 #EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/entretendo_newLogo.png" group-title="Filmes", Entretendo (São Paulo/SP)
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagens.soplay.com.br/652d93a9279de_63e1b11b8dc6624da956c1b5ada20612.png" group-title="Filmes", Europa Filmes Nacionais - SóPlay (Brasil)
-https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=c5d2e324b7e9d0215bc451c20b9df5b3fc004160-a93659d45ff0b5c74bea6a9e2847b0cb-1707707679-1707664479
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Filmes", Grjngo - Samsung TV Plus (Brasil)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
@@ -1886,6 +1901,12 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="Filmes", SparkTV - Samsung TV Plus (Brasil)
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Filmes", TVCine Edition (Portugal)
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8087
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Filmes", TVCine Emotion (Portugal) 
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286357
 
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Filmes", Urban Movies (São José/SC)
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
