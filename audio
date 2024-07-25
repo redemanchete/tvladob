@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 12/07/2024
+ATUALIZADA EM 24/07/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -23,9 +23,6 @@ http://cast4.audiostream.com.br:8655/mp3
 #EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/files/48e91b059744c3a031cf.png" group-title="Rádio FM - Brasil", 86.3 - Rádio Bandeirantes (São Paulo/SP)
 https://stm23.xcast.com.br:11284/stream
 
-#EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/Cidreira-FM-1-260x69.png" group-title="Rádio FM - Brasil", 88.9 - Cidreira FM (Cidreira/RS)
-http://cast4.audiostream.com.br:8657/mp3
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a9753fd35117.png" group-title="Rádio FM - Brasil", 88.9 - Rádio Mania (Paraty/RJ)
 http://shout35.crossradio.com.br:8086/1/;
 
@@ -40,9 +37,6 @@ https://14203.live.streamtheworld.com/NOVABRASIL_SPAAC_SC
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_globofm901salvador.png" group-title="Rádio FM - Brasil", 90.1 - GFM (Salvador/BA)
 https://ice.fabricahost.com.br/radiogfm
-
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaa4ba6c73.png" group-title="Rádio FM - Brasil", 90.1 - RBC FM (Goiânia/GO)
-https://server01.srvsh.com.br:8578/stream
 
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Rádio FM - Brasil", 90.5 - CBN (São Paulo/SP)
 https://27583.live.streamtheworld.com/CBN_SPAAC
@@ -338,9 +332,6 @@ http://cloud.cdnseguro.com:8006/;
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa0c75747.png" group-title="Rádio AM - Brasil", 1130 - Rádio Nacional (Rio de Janeiro/RJ)
 https://82722d.ha.azioncdn.net/ebc/radionacionalriodejaneiro/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaafb4662c.png" group-title="Rádio AM - Brasil", 1270 - Rádio Brasil Central (Goiânia/GO)
-https://server01.srvsh.com.br:8568/stream
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioterra.png" group-title="Rádio AM - Brasil", 1330 - Rádio Terra (São Paulo/SP)
 https://cloud1.cdnseguro.com:16020/stream
 
@@ -431,7 +422,7 @@ https://26513.live.streamtheworld.com/ASPEN.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Radio-Veronica-logo.jpg" group-title="Rádio FM - Mundo", 103.5 - Radio Veronica (Amsterdã/Países Baixos)
 https://22713.live.streamtheworld.com/VERONICA.mp3
 
-#EXTINF:-1 tvg-logo="hhttps://static.wixstatic.com/media/036b5e_dcdf9dd7767873ee2f8d74b53d8e2459.jpg" group-title="Rádio FM - Mundo", 104.1 - Omega Radio (Londres/Inglaterra)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/036b5e_dcdf9dd7767873ee2f8d74b53d8e2459.jpg" group-title="Rádio FM - Mundo", 104.1 - Omega Radio (Londres/Inglaterra)
 http://omegaradio.primcast.com:4416/stream?1720829629248
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio147438_1593786812.jpg" group-title="Rádio FM - Mundo", 105.0 - Rádio Fama (Porto/Portugal)
@@ -475,6 +466,9 @@ https://centova5.transmissaodigital.com:20104/live
 
 #EXTINF:-1 tvg-logo="https://www.vip-radios.fm/wp-content/uploads/fly-images/227/Bossa-Nova-Brazil-600x600-314x314-c.jpg" group-title="Web Rádio - Brasil", Bossa Nova Brazil (Rio de Janeiro/RJ)
 https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
+
+#EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/Cidreira-FM-1-260x69.png" group-title="Web Rádio - Brasil", Cidreira FM (Cidreira/RS)
+http://cast4.audiostream.com.br:8657/mp3
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio29740_1470932128.jpg" group-title="Web Rádio - Brasil", Clássicos do Funk (Rio de Janeiro/RJ)
 https://radio.saopaulo01.com.br/9812/stream
