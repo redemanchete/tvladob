@@ -603,7 +603,7 @@ https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aDSWuz4.png" group-title="Variedades - Brasil", Rede UTV Brasil (Descalvado/SP)
 https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/chunklist_w1091085255.m3u8
 
-#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/assets/images/logos/logo-soutv.png" group-title="Variedades - Brasil", sou[tv.] (Gravataí/RS)
+#EXTINF:-1 tvg-logo="https://spaceks.net/sites/soutv.com.br/images/share/user_810301180.jpg" group-title="Variedades - Brasil", sou[tv.] (Gravataí/RS)
 https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="Variedades - Brasil", Tela Brasil TV (Brasil)
@@ -1027,7 +1027,7 @@ https://twistedmirror-twistedmirrorcomedy-1-gb.lg.wurl.tv/playlist.m3u8
 
 >> CULTURA E ARTE
 
-#EXTINF:-1 tag-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="Cultura e Arte", Arte1 (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="Cultura e Arte", Arte1 (São Paulo/SP)
 https://cdn-4.nxplay.com.br/ARTE1_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Cultura e Arte", Bis (Brasil)
