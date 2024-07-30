@@ -1048,9 +1048,6 @@ https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HL
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_film-arts-hd_m.png" group-title="Cultura e Arte", Film&Arts (Brasil)
 https://cdn-4.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Cultura e Arte", Music Box Brazil (Porto Alegre/RS)
-https://cdn-4.nxplay.com.br/BRAmusic_TK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Cultura e Arte", Prime Box Brazil (Porto Alegre/RS)
 http://cdn-4.nxplay.com.br/PRIME_HD/index.m3u8
 
@@ -2117,7 +2114,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Filmes e Séries", A&E (Brasil)
 https://cdn-4.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Filmes e Séries", AMC (Brasil)
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/01/AMC-Logo-2002-2013.jpg" group-title="Filmes e Séries", AMC (Brasil)
 https://cdn-4.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Filmes e Séries", AWTV (São Paulo/SP)
