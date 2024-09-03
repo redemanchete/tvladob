@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 24/07/2024
+ATUALIZADA EM 03/09/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -95,8 +95,8 @@ http://suaradio1.dyndns.ws:13551/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nativa_FM.svg/1280px-Nativa_FM.svg.png" group-title="Rádio FM - Brasil", 95.3 - Nativa FM (São Paulo/SP)
 https://24383.live.streamtheworld.com/NATIVA_SPAAC
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/65a6d84816b1c.png" group-title="Rádio FM - Brasil", 95.7 - Amil Paradiso (Rio de Janeiro/RJ)
-https://24233.live.streamtheworld.com/PARADISO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_PARADISO_RIO.jpg" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
+https://19793.live.streamtheworld.com/PARADISO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio212646_1675340347.png" group-title="Rádio FM - Brasil", 95.7 - EP FM (Araraquara/SP)
 https://a5.asurahosting.com:7480/radio.mp3
