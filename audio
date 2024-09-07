@@ -104,6 +104,9 @@ http://suaradio1.dyndns.ws:13551/stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nativa_FM.svg/1280px-Nativa_FM.svg.png" group-title="Rádio FM - Brasil", 95.3 - Nativa FM (São Paulo/SP)
 https://24383.live.streamtheworld.com/NATIVA_SPAAC
 
+#EXTINF:-1 tvg-logo="https://radiomoradafm.com/wp-content/uploads/2023/11/Logo-Footer-Radio-Morada.png" group-title="Rádio FM - Brasil", 95.5 - Morada FM (São Sebastião/SP)
+https://stream2.svrdedicado.org/8334/stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_PARADISO_RIO.jpg" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
 https://19793.live.streamtheworld.com/PARADISO
 
@@ -191,7 +194,7 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio49006_1690984388.png" group-title="Rádio FM - Brasil", 100.7 - ISFM (Santos/SP)
 https://r16.ciclano.io:15043/stream
 
-#EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/3527091/3527091-1587486598440-050865c9c288b.jpg" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
+#EXTINF:-1 tvg-logo="https://www.cultura.df.gov.br/wp-conteudo/uploads/2017/11/4f2a1dd7-5a3d-4d35-ba1c-28bc164bd00e.png" group-title="Rádio FM - Brasil", 100.9 - Cultura FM (Brasília/DF)
 https://ssl1.transmissaodigital.com:20028/live
 
 #EXTINF:-1 tvg-logo="http://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Rádio FM - Brasil", 100.9 - Inconfidência FM (Belo Horizonte/MG)
@@ -250,6 +253,9 @@ http://r13.ciclano.io:8609/live
 
 #EXTINF:-1 tvg-logo="https://www.estacao104fm.com.br/imagens/logo2.png" group-title="Rádio FM - Brasil", 104.1 - Estação 104 FM (Iguaba Grande/RJ)
 https://streaming.fox.srv.br:8006/stream
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/66bfa4f57d7ff.png" group-title="Rádio FM - Brasil", 104.1 - Rádio Metrópoles (Brasília/DF)
+https://s30.maxcast.com.br:8136/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1024px-Dumont_FM_logo.svg.png" group-title="Rádio FM - Brasil", 104.3 - Dumont (Jundiaí/SP)
 https://rrdns-dumont.webnow.com.br/dumont.aac
@@ -350,8 +356,8 @@ https://server18.srvsh.com.br:7792/stream
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioterra.png" group-title="Rádio AM - Brasil", 1330 - Rádio Terra (São Paulo/SP)
 https://cloud1.cdnseguro.com:16020/stream
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bc5ed127c244.jpg" group-title="Rádio AM - Brasil", 1440 - Rádio Livre (Rio de Janeiro/RJ)
-https://player.xcast.com.br/proxy/10616/;
+#EXTINF:-1 tvg-logo="https://radiolivream.com.br/admin/midia/323d21558bc8ef384faad9735dce26c3.png" group-title="Rádio AM - Brasil", 1440 - Rádio Livre (Rio de Janeiro/RJ)
+https://stm9.mestrestream.xyz:8354/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_abcsantoandre.png" group-title="Rádio AM - Brasil", 1570 - Rádio ABC (Santo André/SP)
 https://shout25.crossradio.com.br:18528/1;
@@ -370,6 +376,9 @@ http://wz3.dnip.com.br/sc_canta/sc_canta.stream/chunklist_w433975153.m3u8
 
 #EXTINF:-1 tvg-logo="https://cidadafm.com.br/wp-content/themes/cidadafm/images/rcfm.jpg" group-title="Radcom - Brasil", Rádio Cidadã 87.5 (São Paulo/SP)
 http://servidor27.brlogic.com:8534/live?type=.m3u
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b4ebb3_5dccd0ca0e25420b95e6524d3f4a8074~mv2.png" group-title="Radcom - Brasil", Rádio Dalila FM 87.5 (São Paulo/SP)
+https://centova4.transmissaodigital.com:20157/stream
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bb7474_0c44c87ab9834d8796a91bf134706e8e~mv2.jpg" group-title="Radcom - Brasil", Rádio Heliópolis 87.5 (São Paulo/SP)
 https://hts07.brascast.com:13038/live
