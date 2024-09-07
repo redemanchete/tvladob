@@ -1,13 +1,13 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 04/09/2024
+ATUALIZADA EM 06/09/2024
 
 
 >> CANAIS GLOBO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais Globo", Bis (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5794/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais Globo", Canal Off (Brasil)
 INDISPONÍVEL
@@ -24,7 +24,7 @@ https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="Canais Globo", GloboNews (Brasil)
 http://cdnexpress.homelinux.net/live/72.m3u8
 
-#EXTINF:-1 ttvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais Globo", GNT (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais Globo", GNT (Brasil)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="Canais Globo", Malhação Fast - Samsung TV Plus (Brasil)
@@ -43,31 +43,31 @@ http://dzcdn.vood.top:80/hls/377243_.m3u8
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Globo", SporTV (Brasil)
-http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/23.m3u8
+http://authbr15jul.halites.online:80/5932/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais Globo", SporTV 2 (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5931/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais Globo", SporTV 3 (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5930/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Action (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5875/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Cult (Brasil)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Fun (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5901/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Pipoca (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5877/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Premium (Brasil)
 http://fzcdn.vood.top:80/hls/633_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Touch (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5880/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais Globo", Universal TV (Brasil)
 http://dzcdn.vood.top:80/hls/742_.m3u8
@@ -968,7 +968,7 @@ https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://cdn-5.nxplay.com.br/ARTE1_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Cultura e Arte", Bis (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5794/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Cultura e Arte", Canal Brasil (Brasil)
 INDISPONÍVEL
@@ -1359,7 +1359,7 @@ https://558967c5c32141fe8f01c37d315e43a3.mediatailor.us-east-1.amazonaws.com/v1/
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1475247560.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="Esporte", BandSports (São Paulo/SP)
-INDISPONÍVEL - http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+https://cdn-5.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Esporte", Canal Off (Brasil)
 INDISPONÍVEL
@@ -1407,13 +1407,13 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esporte", SporTV (Brasil)
-http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/23.m3u8
+http://authbr15jul.halites.online:80/5932/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esporte", SporTV 2 (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5931/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esporte", SporTV 3 (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5930/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://atitudenew.com/wp-content/uploads/2024/04/tv-atitude-300x300.png" group-title="Esporte", TV Atitude New (Hortolândia/SP)
 https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
@@ -1920,22 +1920,22 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Action (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5875/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Cult (Brasil)
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Fun (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5901/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Pipoca (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5877/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Premium (Brasil)
 http://fzcdn.vood.top:80/hls/633_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Touch (Brasil)
-INDISPONÍVEL
+http://authbr15jul.halites.online:80/5880/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Filmes", TVCine Edition (Portugal)
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8087
