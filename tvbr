@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 06/09/2024
+ATUALIZADA EM 14/09/2024
 
 
 >> CANAIS GLOBO
@@ -22,22 +22,34 @@ INDISPONÍVEL - http://cdn2.connectbr.com.br/Futura/index.m3u8
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="Canais Globo", GloboNews (Brasil)
-http://cdnexpress.homelinux.net/live/72.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/445
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="Canais Globo", GloboNews - Link 2 (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/498
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais Globo", Gloob (Brasil)
+http://authbr15jul.halites.online:80/5812/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais Globo", Gloobinho (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/360
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais Globo", GNT (Brasil)
-INDISPONÍVEL
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/107
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="Canais Globo", Malhação Fast - Samsung TV Plus (Brasil)
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png" group-title="Canais Globo", Megapix (Brasil)
-INDISPONÍVEL
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1024px-Logotipo_do_Modo_Viagem.svg.png" group-title="Canais Globo", Modo Viagem HD
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1024px-Logotipo_do_Modo_Viagem.svg.png" group-title="Canais Globo", Modo Viagem (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais Globo", Multishow (Brasil)
 http://dzcdn.vood.top:80/hls/377243_.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais Globo", Multishow - Link 2 (Brasil)
+http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/24
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Sg8jkYa.png" group-title="Canais Globo", Receitas Fast - Samsung TV Plus (Brasil)
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
@@ -51,17 +63,23 @@ http://authbr15jul.halites.online:80/5931/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais Globo", SporTV 3 (Brasil)
 http://authbr15jul.halites.online:80/5930/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais Globo", Studio Universal (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Action (Brasil)
 http://authbr15jul.halites.online:80/5875/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Cult (Brasil)
-INDISPONÍVEL
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Cult - Link 2 (Brasil)
+http://authbr15jul.halites.online/5899/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Fun (Brasil)
 http://authbr15jul.halites.online:80/5901/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Pipoca (Brasil)
-http://authbr15jul.halites.online:80/5877/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Premium (Brasil)
 http://fzcdn.vood.top:80/hls/633_.m3u8
@@ -73,7 +91,7 @@ http://authbr15jul.halites.online:80/5880/index.m3u8
 http://dzcdn.vood.top:80/hls/742_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais Globo", Viva (Brasil)
-http://cdnexpress.homelinux.net/live/69.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -97,7 +115,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/webstories/2024/06/veja-programas-infantis-que-serao-reexibidos/assets/3.png" group-title="Públicos/Educativos - Brasil", Cultura (São Paulo/SP)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/webstories/2024/06/veja-programas-infantis-que-serao-reexibidos/assets/3.png" group-title="Públicos/Educativos - Brasil", Cultura - Pluto TV (Brasil)
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
@@ -1203,8 +1221,8 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/61922be835f3910007fc58f6-alt.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="Documentários - Turismo", Discovery World (Brasil)
 https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1024px-Logotipo_do_Modo_Viagem.svg.png" group-title="Documentários - Turismo", Modo Viagem HD
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1024px-Logotipo_do_Modo_Viagem.svg.png" group-title="Documentários - Turismo", Modo Viagem (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Turismo", Pluto TV Viagens (Brasil)
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5f32d432d612e50007e56133-alt.m3u8
@@ -1287,6 +1305,9 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/625463563b8ddc0007134aeb-alt.m3u
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Entretenimento e Reality Shows", Multishow (Brasil)
 http://dzcdn.vood.top:80/hls/377243_.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Entretenimento e Reality Shows", Multishow - Link 2 (Brasil)
+http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/24
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Entretenimento e Reality Shows", Nosey Escândalos - Samsung TV Plus (Brasil)
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
@@ -1562,7 +1583,7 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5db0510962948d000961d3c6-alt.m3u
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
 #EXTINF:-1 ttvg-logo="https://imgur.com/8RDEcE9.png" group-title="Estilo de Vida e Bem-Estar", GNT (Brasil)
-INDISPONÍVEL
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/107
 
 #EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/inspire_newLogo.png" group-title="Estilo de Vida e Bem-Estar", Inspire (São Paulo/SP)
 INDISPONÍVEL - http://cdn.connectbr.com.br/Inspire/index.m3u8
@@ -1833,7 +1854,7 @@ https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8
 https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes", Megapix (Brasil)
-INDISPONÍVEL
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Filmes", MyTime Movie Network - Samsung TV Plus (Brasil)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -1923,13 +1944,16 @@ https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 http://authbr15jul.halites.online:80/5875/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Cult (Brasil)
-INDISPONÍVEL
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Cult - Link 2 (Brasil)
+http://authbr15jul.halites.online/5899/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Fun (Brasil)
 http://authbr15jul.halites.online:80/5901/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Pipoca (Brasil)
-http://authbr15jul.halites.online:80/5877/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Premium (Brasil)
 http://fzcdn.vood.top:80/hls/633_.m3u8
@@ -2042,6 +2066,9 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Filmes e Séries", Space (Brasil)
 https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes e Séries", Studio Universal (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes e Séries", TNT (Brasil)
 https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
@@ -2366,6 +2393,12 @@ https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wV92cPv.png" group-title="Infantil e Desenhos", Dreamworks TV (Brasil)
 https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qgyrEps.png" group-title="Infantil e Desenhos", Gloob (Brasil)
+http://authbr15jul.halites.online:80/5812/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Infantil e Desenhos", Gloobinho (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/360
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="Infantil e Desenhos", Kenan & Kel - Pluto TV (Brasil)
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8
@@ -3144,7 +3177,10 @@ https://ythls.armelin.one/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="Notícias", GloboNews (Brasil)
-http://cdnexpress.homelinux.net/live/72.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/445
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="Notícias", GloboNews - Link 2 (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/498
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Notícias", Jovem Pan News (São Paulo/SP)
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
@@ -3493,7 +3529,7 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Retrô", Viva (Brasil)
-http://cdnexpress.homelinux.net/live/69.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 #EXTINF: -1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="Retrô", Zé Buscapé (Brasil)
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
