@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 06/09/2024
+ATUALIZADA EM 16/09/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -310,6 +310,9 @@ http://shout35.crossradio.com.br:14022/1
 
 
 >> RÁDIO AM - BRASIL
+
+#EXTINF:-1 tvg-logo="https://aguardiadanoticia.com/wp-content/uploads/2021/02/logo-GDN-TRANSP.png" group-title="Rádio AM - Brasil", 560 - A Guardiã da Notícia (São Paulo/SP)
+https://stm1.radiosat.com.br:7016/stream
 
 #EXTINF:-1 tvg-logo="https://fyfm.com.br/wp-content/uploads/2023/05/cropped-LOGO-BRANCO-COM-COR-ROXO-NO-PLAY.png" group-title="Rádio AM - Brasil", 610 - FYFM (Mogi Mirim/SP)
 https://ice.fabricahost.com.br/radiofyfm
@@ -662,6 +665,9 @@ https://stream-153.zeno.fm/8tt5erdes68uv
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5f/80/109900/1/c175.png" group-title="Web Rádio - Brasil", Rádio Viva o Samba (Rio de Janeiro/RJ)	
 https://servidor33-3.brlogic.com:8020/live
 
+#EXTINF:-1 tvg-logo="https://radioyande.com/wp-content/uploads/2022/10/logo-yande-bramco-novo-site-1024x293.png" group-title="Web Rádio - Brasil", Rádio Yandê (Rio de Janeiro/RJ)
+https://cloud.cdnseguro.com:2611/stream
+
 #EXTINF:-1 tvg-logo="https://sambafm.com.br/wp-content/uploads/2021/04/logo_redonfo_brilho_500.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
 https://hts01.brascast.com:8428/live
 
@@ -842,3 +848,6 @@ http://25703.live.streamtheworld.com/GR80SRFMAAC_SC
 
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfmsite/images/logo18_Oceano.png" group-title="Web Rádio - Mundo", RFM Oceano Pacífico (Portugal)
 http://23563.live.streamtheworld.com/OCEANPACIFICAAC
+
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0084/2943/6986/files/SRR_480x480.png?v=1543188825" group-title="Web Rádio - Mundo", Surf Roots Radio (EUA)
+https://das-edge11-live365-dal03.cdnstream.com/a47555
