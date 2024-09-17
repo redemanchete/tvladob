@@ -1814,6 +1814,9 @@ https://stmv1.transmissaodigital.com/rtl/rtl/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sol.fm.br/radio/wp-content/uploads/2019/01/cropped-Logo_Degrade_Principal.png" group-title="Estúdios de Rádio - Brasil", Sol FM (Rolante/RS)
 https://cdn.live.br1.jmvstream.com/w/LVW-8468/LVW8468_4Egv9wP65h/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/662ace65de23c.png" group-title="Rádio FM - Brasil", Street TV - Street FM (São Paulo/SP)
+https://stmv1.transmissaodigital.com/maycol6053/maycol6053/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/toR5rPu.png" group-title="Estúdios de Rádio - Brasil", Sucesso FM (Brasília/DF)
 https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
 
