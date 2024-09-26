@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 21/09/2024
+ATUALIZADA EM 25/09/2024
 
 
 >> CANAIS GLOBO
@@ -123,7 +123,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57d
 #EXTINF:-1 tvg-logo="https://imgur.com/5tHkE33.png" group-title="Públicos/Educativos - Brasil", Cultura Fast - Samsung TV Plus (Brasil)
 LINK INVÁLIDO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos - Brasil", Futura - Canal FDR (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos - Brasil", Canal FDR / Futura (Fortaleza/CE)
 https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w993052480.m3u8
 
 #EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Públicos/Educativos - Brasil", MasterTV / Univesp TV (Cascavel/PR)
@@ -133,7 +133,7 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TvBrasil23.png/1024px-TvBrasil23.png" group-title="Públicos/Educativos - Brasil", TV Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4554
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/9lcmme4.png" group-title="Públicos/Educativos - Brasil", TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
@@ -179,6 +179,9 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="Públicos/Educativos - Brasil", TV Senado (Brasília/DF)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="Públicos/Educativos - Brasil", TV Vale / Rede Minas (Diamantina/MG)
+https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
 
 #EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos - Brasil", UNITV-SC / Cultura (Tubarão/SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
@@ -333,7 +336,7 @@ https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Regionais Abertos - Brasil", ISTV (Guarujá/SP)
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
-#EXTINF:-1 tvg-logo="https://redeamericatv.com.br/wp-content/uploads/2023/01/Logo-rede-america-tv.png" group-title="Regionais Abertos - Brasil", Rede América (Pouso Alegre/MG)
+#EXTINF:-1 tvg-logo="https://imgur.com/hoWEOnc.png" group-title="Regionais Abertos - Brasil", Rede América (Pouso Alegre/MG)
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/36/Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png" group-title="Regionais Abertos - Brasil", Rede Sul (Porto Alegre/RS)
@@ -967,6 +970,9 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just for Laughs - Pluto TV (Espanha)
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60a286daf888610007669801-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just For Laughs - Samsung TV Plus (Brasil)
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just For Laughs - Samsung TV Plus (Espanha)
 https://36cd2ac3e37f411aa72b1d27cfd32791.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_JustForLaughsGags/playlist.m3u8?ads.wurl_channel=1191&ads.wurl_name=JustForLaughsGags&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -982,7 +988,7 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60f86f539f03cd00070c503a-alt.m3u
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400006QE_20220330T044448SQUARE.png_20220330044449.png" group-title="Comédia", The Red Green Channel - Samsung TV Plus (Canadá)
 https://d5d8af44e2824000ad28245f2de6dd04.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_TheRedGreenChannel/playlist.m3u8?ads.wurl_channel=949&ads.wurl_name=TheRedGreenChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="https://imgur.com/cfHRiEG.png" group-title="Comédia", Whoa! That Was Wild! (EUA) 
+#EXTINF:-1 tvg-logo="https://imgur.com/cfHRiEG.png" group-title="Comédia", Whoa! That Was Wild! - Xiaomi TV+ (EUA) 
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
@@ -1222,62 +1228,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2ef
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/61922be835f3910007fc58f6-alt.m3u8
 
 
->> DOCUMENTÁRIOS - TURISMO
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="Documentários - Turismo", Discovery World (Brasil)
-https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/e9yEiKM.png" group-title="Documentários - Turismo", Lorenzi Travel TV - RedeItv (Brasil)
-https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1024px-Logotipo_do_Modo_Viagem.svg.png" group-title="Documentários - Turismo", Modo Viagem (Brasil)
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Turismo", Pluto TV Viagens (Brasil)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5f32d432d612e50007e56133-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Documentários - Turismo", Urban Travel (São José/SC)
-http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Documentários - Turismo", Viajando pelo Brasil - Soul TV (Brasil)
-http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
----
-
-#EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2022/05/ciudadanos-por-el-mundo-720x365.jpg" group-title="Documentários - Turismo", Ciudadanos por el Mundo - Pluto TV (Espanha)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/622f42b831233300078658cc-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Turismo", Pluto TV Mundo Viajero (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários - Turismo", Pluto TV Viajes (Espanha)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
-
----
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="Documentários - Turismo", GoUSA TV - Plex (México)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="Documentários - Turismo", GoUSA TV - Samsung TV Plus (Brasil)
-https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500030GT_20220907T012020SQUARE.png_20220907012021.png" group-title="Documentários - Turismo", Journy - Samsung TV Plus (EUA)
-https://d2qttxtnwilm4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-njmc8koqnhqq2-prod/dist/samsungtv/291/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20230426T030519SQUARE.png_20230426030520.png" group-title="Documentários - Turismo", Tastemade Travel - Samsung TV Plus (EUA)
-https://d1t2ajwv750gfr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f3a38uuov6qei/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png" group-title="Documentários - Turismo", Travelxp - Samsung TV Plus (Reino Unido)
-https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8?ads.wurl_channel=473&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-
 >> ENTRETENIMENTO E REALITY SHOWS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XASXObO.png" group-title="Entretenimento e Reality Shows", Canal 5 - Rede Cidade (São Paulo/SP)
+https://5a57bda70564a.streamlock.net/canal5/canal5.sdp/chunklist_w2134568454.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD1100008DC_20240724T012552SQUARE.png" group-title="Entretenimento e Reality Shows", Canal L!ke - Samsung TV Plus (Brasil)
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV - Pluto TV (Brasil)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/662156805a31f70013dba21c-alt.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV - Samsung TV Plus (Brasil)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
 https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
@@ -1330,7 +1290,7 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/61099df8cee03b00074b2ecf-alt.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Entretenimento e Reality Shows", RedeTV! - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="Entretenimento e Reality Shows", SBT Internacional - Xiaomi Asia (China)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="Entretenimento e Reality Shows", SBT Internacional - Xiaomi TV+ (China)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Entretenimento e Reality Shows", Sony One Shark Tank - Samsung TV Plus (Brasil)
@@ -1877,6 +1837,9 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes", Movie Sphere - Samsung TV Plus (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="Filmes", Net Movies - Samsung TV Plus (Brasil)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cine Clássicos (Brasil)
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
@@ -2011,7 +1974,7 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png" group-title="Filmes", Watch it SCREAM - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8
 
 
 >> FILMES E SÉRIES
@@ -2600,7 +2563,7 @@ https://cdn1-6p.teleuptv.net/7efffed8-115a-4742-93ee-f17d22c8b11f/index.m3u8?l1b
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-639b8d803f4612cc150a5721.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Infantil e Desenhos", Watch it Kid - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQS9dl0.png" group-title="Infantil e Desenhos", ZooMoo (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
@@ -2634,7 +2597,7 @@ https://d36jpyyja698yd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=765
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" group-title="LGBTQIA+", RevryNews - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5f458dded93f4a0041cb1f63.m3u8
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5f458dded93f4a0041cb1f63.m3u8
 
 
 >> MÚSICA
@@ -2720,7 +2683,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" group-title="Música", Now 80s - Samsung TV Plus (Reino Unido)
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/iaL601z.png" group-title="Música", Now 90s - Xiaomi International (Reino Unido)
+#EXTINF:-1 tvg-logo="https://imgur.com/iaL601z.png" group-title="Música", Now 90s - Xiaomi TV+ (Reino Unido)
 https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/SkQ9TpC.png" group-title="Música", NPC TV (Portugal)
@@ -3147,40 +3110,40 @@ https://amg01243-xitenetworksint-rockoneu-samsungde-urpi1.amagi.tv/playlist/amg0
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
->> MÚSICA - RÁDIOS IHEART/STINGRAY
+>> MÚSICA - RÁDIOS IHEART
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart 80s - Roku (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart", iHeart 80s - Roku (EUA)
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart 90s - Roku (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart", iHeart 90s - Roku (EUA)
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Alt Radio - Roku (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart", iHeart Alt Radio - Roku (EUA)
 https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Country - Roku (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart", iHeart Country - Roku (EUA)
 https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Hit Nation - Roku (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart", iHeart Hit Nation - Roku (EUA)
 https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart Latino Hits - Roku (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart", iHeart Latino Hits - Roku (EUA)
 https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart/Stingray", iHeart The Beat - Roku (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/IHeartMedia_Heart_Logo.png" group-title="Música - Rádios iHeart", iHeart The Beat - Roku (EUA)
 https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Euro Hits - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart", Stingray Music: Euro Hits - Plex (EUA)
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Éxitos del Momento - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart", Stingray Music: Éxitos del Momento - Plex (EUA)
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Rock Alternative - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Música - Rádios iHeart", Stingray Music: Rock Alternative - Plex (EUA)
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart/Stingray", Stingray Music: Y2K - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1024px-Stingray_Music_logo.svg.png" group-title="Música - Rádios iHeart", Stingray Music: Y2K - Plex (EUA)
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8
 
 
 >> NOTÍCIAS
@@ -3235,6 +3198,9 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/play
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/54961b_1080fd42d84d4f9a9eef267b4fb40b40~mv2.png" group-title="Notícias", TVídeoNews (São Paulo/SP)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dw2M6XW.png" group-title="Notícias", Veja+ - Só Play (Brasil)
+https://cdn-5.nxplay.com.br/CANAL_ABRIL/tracks-v1a1/mono.m3u8?token=a643c4facb82867b723b70ba635b0b8e3663f89f-6ff7d09cfbbda8e44f32d63b21c13757-1727307829-1727264629
 
 ---
 
@@ -3371,6 +3337,9 @@ https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w7548606
 
 
 >> NOTÍCIAS - ECONOMIA E EMPREENDEDORISMO
+
+#EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias - Economia e Empreendedorismo", BM&C NEWS - Samsung TV Plus (Brasil)
+https://cdn-fast.nxtv.com.br/ENC_STENNA/BMC_H264_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d840ae3505174db1fbe&bpkio_sessionid=10c1d3a132-42d2f9fb-3a54-4cab-8f19-f75c6b0780fb&category=all&mm_sp&token=a300d5b4ab41156df63ff373ffdd81ae2d84bc2e-632825a257b5063a5deb3eaae892b361-1727307829-1727264629
 
 #EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias - Economia e Empreendedorismo", BM&C NEWS - YouTube (São Paulo/SP)
 https://ythls.armelin.one/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
@@ -3587,7 +3556,7 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60142258a54aeb0007751c15-alt.m3u
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="Retrô", Lone Star - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616.m3u8
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Classic TV (Reino Unido)
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5d134a74ca91eedee1630faa-alt.m3u8
@@ -3635,18 +3604,70 @@ https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 
 
+>> TURISMO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="Turismo", Discovery World (Brasil)
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/e9yEiKM.png" group-title="Turismo", Lorenzi Travel TV - RedeItv (Brasil)
+https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1024px-Logotipo_do_Modo_Viagem.svg.png" group-title="Turismo", Modo Viagem (Brasil)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Turismo", Pluto TV Viagens (Brasil)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://reisenclubetv.com.br/wp-content/uploads/2024/08/Logo-Reisen-TV-2.png" group-title="Turismo", Reisen Clube TV (São Bento do Sul/SC)
+https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1081783267.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/themes/redeparanaeducativa/images/LOGO_TVPARANATURISMO.png" group-title="Turismo", TV Paraná Turismo (Curitiba/PR)
+http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Turismo", Urban Travel (São José/SC)
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Turismo", Viajando pelo Brasil - Soul TV (Brasil)
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+---
+
+#EXTINF:-1 tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2022/05/ciudadanos-por-el-mundo-720x365.jpg" group-title="Turismo", Ciudadanos por el Mundo - Pluto TV (Espanha)
+PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/622f42b831233300078658cc-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Turismo", Pluto TV Mundo Viajero (EUA)
+PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Turismo", Pluto TV Viajes (Espanha)
+PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
+
+---
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="Turismo", GoUSA TV - Plex (México)
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="Turismo", GoUSA TV - Samsung TV Plus (Brasil)
+https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500030GT_20220907T012020SQUARE.png_20220907012021.png" group-title="Turismo", Journy - Samsung TV Plus (EUA)
+https://d2qttxtnwilm4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-njmc8koqnhqq2-prod/dist/samsungtv/291/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20230426T030519SQUARE.png_20230426030520.png" group-title="Turismo", Tastemade Travel - Samsung TV Plus (EUA)
+https://d1t2ajwv750gfr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f3a38uuov6qei/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png" group-title="Turismo", Travelxp - Samsung TV Plus (Reino Unido)
+https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8?ads.wurl_channel=473&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+
 >> PÓS-TV
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Pós-TV", 123GO! - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
+Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Pós-TV", 5-Minute Crafts - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_300,c_scale,f_auto,q_auto/v1683787040/hipi/assets/user/b9efab9b-f645-4173-8aac-f5909970517d/b9efab9b-f645-4173-8aac-f5909970517d.jpg" group-title="Pós-TV", Crafty Panda (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6581
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Pós-TV", Ideas en 5 Minutos - Samsung TV Plus (Espanha)
-https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="Pós-TV", Drone TV (EUA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="Pós-TV", Drone TV - Xiaomi TV+ (EUA)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="Pós-TV", Earth TV - YouTube (Alemanha)
@@ -3657,6 +3678,12 @@ https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Pós-TV", Fireplace Lounge - Distro TV (EUA)
 https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Pós-TV", Ideas en 5 Minutos - LG Channels (Argentina)
+https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Pós-TV", Ideas en 5 Minutos - Samsung TV Plus (Espanha)
+https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 
 #EXTINF:-1 tvg-id="dtv_EPGIsland Escape" tvg-logo="https://i.imgur.com/aWwR7do.png" group-title="Pós-TV", Island Escape - Distro TV (EUA)
 https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
