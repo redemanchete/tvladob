@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 16/09/2024
+ATUALIZADA EM 01/10/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -50,23 +50,20 @@ http://svrstream1.svreua.com:8214/stream
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64ffcd3d16543.png" group-title="Rádio FM - Brasil", 91.3 - Rádio Disney (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3?dist=web-radiodisney-disneylatino
 
-#EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 91.7 - Catve FM (Cascavel/PR)
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM (Santos/SP)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_5b62e562f8a04e758d7a2211a97363e6~mv2.png" group-title="Rádio FM - Brasil", 91.7 - RTL FM (Santos/SP)
 https://stm01.virtualcast.com.br:8252/rtl
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Vintage_FM.png" group-title="Rádio FM - Brasil", 91.7 - Vintage FM (Jijoca de Jericoacoara/CE)
 https://streaming.livespanel.com:9170/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_kissfmsaopaulo.png" group-title="Rádio FM - Brasil", 92.5 - Kiss FM (São Paulo/SP)
-https://cloud2.cdnseguro.com:20000/;
+https://27693.live.streamtheworld.com/RADIO_KISSFM_ADP
 
 #EXTINF:-1 tvg-logo="https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-768x768.png" group-title="Rádio FM - Brasil", 93.3 - Estilo FM (Cubatão/SP)
 https://cloud1.cdnseguro.com:20492/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64d0513abbb67.png" group-title="Rádio FM - Brasil", 93.3 - Rádio Difusora (Maceió/AL)
-http://radio.saopaulo01.com.br:9348/stream
+https://server04.srvsh.com.br:8362/stream
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Rádio FM - Brasil", 93.7 - Cultura FM (Belém/PA)
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
@@ -89,6 +86,9 @@ http://radio01.logicahost.com.br:8300/stream;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="Rádio FM - Brasil", 94.3 - Atlântida (Porto Alegre/RS)
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=1741966852
 
+#EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 94.5 - Catve FM (Cascavel/PR)
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="Rádio FM - Brasil", 94.5 - Lupa1 FM (Teresina/PI)
 https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
 
@@ -107,8 +107,8 @@ https://24383.live.streamtheworld.com/NATIVA_SPAAC
 #EXTINF:-1 tvg-logo="https://radiomoradafm.com/wp-content/uploads/2023/11/Logo-Footer-Radio-Morada.png" group-title="Rádio FM - Brasil", 95.5 - Morada FM (São Sebastião/SP)
 https://stream2.svrdedicado.org/8334/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_PARADISO_RIO.jpg" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
-https://19793.live.streamtheworld.com/PARADISO
+#EXTINF:-1 tvg-logo="https://paradisorio.fm/assets/img/APP-LAYOUT-PARADISO-CAPA.jpg" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
+https://24153.live.streamtheworld.com/PARADISO
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio212646_1675340347.png" group-title="Rádio FM - Brasil", 95.7 - EP FM (Araraquara/SP)
 https://a5.asurahosting.com:7480/radio.mp3
@@ -143,11 +143,8 @@ https://stm23.xcast.com.br:9236/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio11579_1617107168.png" group-title="Rádio FM - Brasil", 97.7 - Rocket 977 (Vitória/ES)
 https://8817.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/661cd6182c307.png" group-title="Rádio FM - Brasil", 98.1 - Apolo FM (Arujá/SP)
-https://server3.dacsolution.com.br/98.1/player/
-
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_98fmsantos.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
-https://stm01.virtualcast.com.br:8250/hot98
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_bdce52e34df248d2adf3dcb8cc90c6e9~mv2.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
+https://stmv1.transmissaodigital.com/hot98/hot98/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/98_FM_BH_logo.svg/640px-98_FM_BH_logo.svg.png" group-title="Rádio FM - Brasil", 98.3 - 98 FM (Belo Horizonte/MG)
 https://9554.brasilstream.com.br/stream
@@ -158,17 +155,20 @@ http://cast4.audiostream.com.br:8650/mp3
 #EXTINF:-1 tvg-logo="https://cdn.cadena.com.br/uploads/station/vertical_logo/158/riopreto.png" group-title="Rádio FM - Brasil", 98.3 - Lider FM (São José do Rio Preto/SP)
 https://centova2.svdns.com.br:20029/stream
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/66900d0b283ef.png" group-title="Rádio FM - Brasil", 98.5 - Rock News (São Sebastião/SP)
-https://9881.brasilstream.com.br/stream
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_metropolitanafm985.png" group-title="Rádio FM - Brasil", 98.5 - Metropolitana (São Paulo/SP)
 https://ice.fabricahost.com.br/metropolitana985sp
+
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/66900d0b283ef.png" group-title="Rádio FM - Brasil", 98.5 - Rock News (São Sebastião/SP)
+https://9881.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio24568_1505303126.png" group-title="Rádio FM - Brasil", 98.9 - Rádio Brasil Atual (Mogi das Cruzes/SP)
 https://corp.tvt.org.br:8083/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_Cidade_FM_%28Fortaleza%29.png" group-title="Rádio FM - Brasil", 99.1 - Cidade FM (Fortaleza/CE)
 https://streaming.livespanel.com:9910/stream
+
+#EXTINF:-1 tvg-logo="https://radioapolo.com.br/wp-content/uploads/2017/01/apolo-nodial-512x512-1.jpg" group-title="Rádio FM - Brasil", 99.1 - Rádio Apolo (Itapevi/SP)
+https://server3.dacsolution.com.br/98.1/player/
 
 #EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/diario-fm-997_crop_200x200.jpg" group-title="Rádio FM - Brasil", 99.7 - Diário FM (Ribeirão Preto/SP)
 https://rrdns-megasistema.webnow.com.br/diario.aac
@@ -302,6 +302,9 @@ https://26673.live.streamtheworld.com/RADIO_ELDORADOAAC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_Educadora_FM.png" group-title="Rádio FM - Brasil", 107.5 - Educadora FM (Salvador/BA)
 https://streaming.educadora.irdeb.ba.gov.br/stream-01
 
+#EXTINF:-1 tvg-logo="https://www.izp.al.gov.br/images/AreaDeAtuacao/educativa-fm4x.png" group-title="Rádio FM - Brasil", 107.7 - Educativa FM (Maceió/AL)
+https://server21.srvsh.com.br:8420/stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_FM_Cultura.png" group-title="Rádio FM - Brasil", 107.7 - FM Cultura (Porto Alegre/RS)
 http://streaming.procergs.com.br:1935/fmcultura/sfmcultura/playlist.m3u8
 
@@ -354,7 +357,7 @@ https://82722d.ha.azioncdn.net/ebc/radionacionalriodejaneiro/chunks.m3u8
 https://streaming.fox.srv.br:8072/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaafb4662c.png" group-title="Rádio AM - Brasil", 1270 - Rádio Brasil Central (Goiânia/GO)
-https://server18.srvsh.com.br:7792/stream
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioterra.png" group-title="Rádio AM - Brasil", 1330 - Rádio Terra (São Paulo/SP)
 https://cloud1.cdnseguro.com:16020/stream
@@ -393,7 +396,7 @@ https://centova4.transmissaodigital.com:20260/stream
 https://stream02.ouveai.com.br/8058/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio22490_1573564389.jpg" group-title="Radcom - Brasil", Rádio Campeche 98.3 (Florianópolis/SC)
-https://hts04.kshost.com.br:8324/live
+https://hts04.brascast.com:8324/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio17658_1551091206.jpg" group-title="Radcom - Brasil", Bicuda FM 98.7 (Rio de Janeiro/RJ)
 http://stm11.srvaudio.com.br:10920/stream
@@ -411,7 +414,7 @@ https://centova.radios.pt/proxy/435?mp=/stream
 https://node.stream-africa.com:8443/AntenaNacional
 
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfm/logo_rfm_b7034118c.png" group-title="Rádio FM - Mundo", 93.2 - RFM (Lisboa/Portugal)
-https://22533.live.streamtheworld.com/RFMAAC
+https://23623.live.streamtheworld.com/RFMAAC
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/AeYKCAWSaH.png" group-title="Rádio FM - Mundo", 95.1 - Metro (Buenos Aires/Argentina)
 https://27603.live.streamtheworld.com/METROAAC_SC
@@ -612,7 +615,7 @@ http://live.paineldj.com.br:8604/stream
 http://live.paineldj.com.br:8085/stream
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_11a4f45380ed4b86a6b96c91a28a643b~mv2.png" group-title="Web Rádio - Brasil", Radio City (Santos/SP)
-https://stm01.virtualcast.com.br:8282/city
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6c/bc/6cbcc5c144857e5ba840227e391fdffd.jpg" group-title="Web Rádio - Brasil", Rádio Continental 1120 (Porto Alegre/RS)
 https://s41.maxcast.com.br:8042/live?id=1316880626255
@@ -696,7 +699,7 @@ https://servidor29-3.brlogic.com:7060/live?source=2378
 https://s02.brascast.com:7182/live
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_474c33f5830340fa84f2cc195ac4a568~mv2.jpg" group-title="Web Rádio - Brasil", You FM (Santos/SP)
-https://stm01.virtualcast.com.br:8278/you
+INDISPONÍVEL
 
 
 >> WEB RÁDIO - MUNDO
