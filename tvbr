@@ -1,13 +1,13 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/09/2024
+ATUALIZADA EM 01/10/2024
 
 
 >> CANAIS GLOBO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais Globo", Bis (Brasil)
-http://authbr15jul.halites.online:80/5794/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais Globo", Canal Off (Brasil)
 INDISPONÍVEL
@@ -28,7 +28,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/445
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/498
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais Globo", Gloob (Brasil)
-http://authbr15jul.halites.online:80/5812/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais Globo", Gloobinho (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/360
@@ -49,34 +49,31 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
 http://dzcdn.vood.top:80/hls/377243_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais Globo", Multishow - Link 2 (Brasil)
-http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/24
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/423
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Sg8jkYa.png" group-title="Canais Globo", Receitas Fast - Samsung TV Plus (Brasil)
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais Globo", SporTV (Brasil)
-http://authbr15jul.halites.online:80/5932/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/183
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais Globo", SporTV 2 (Brasil)
-http://authbr15jul.halites.online:80/5931/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais Globo", SporTV 3 (Brasil)
-http://authbr15jul.halites.online:80/5930/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
 #EXTINF:-1 tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais Globo", Studio Universal (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Action (Brasil)
-http://authbr15jul.halites.online:80/5875/index.m3u8
+http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/799
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Cult (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Cult - Link 2 (Brasil)
-http://authbr15jul.halites.online/5899/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Fun (Brasil)
-http://authbr15jul.halites.online:80/5901/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Pipoca (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
@@ -85,13 +82,16 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
 http://fzcdn.vood.top:80/hls/633_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Canais Globo", Telecine Touch (Brasil)
-http://authbr15jul.halites.online:80/5880/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais Globo", Universal TV (Brasil)
 http://dzcdn.vood.top:80/hls/742_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais Globo", Viva (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais Globo", Viva - Link 2 (Brasil)
+http://216.230.233.87:80/m3u8/viva.m3u8
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -106,7 +106,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://canallibras-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo30anos/30-vers%C3%A3o-horizontal-web.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4552
+https://edge-es-01.eduplay.rnp.br/media/ocp(r(tozTwQ)t(F_p4BAAG6o4)p(d(iNo)k(LpA)m(nVEtycTC_f2r8_Vb7im2uA)n(a(ww5ACERXxli3lR6rdXYNLlNLMxU)s(99M)'a(7eryn73goVoVx_F1NEFb2aVy)s(2g4)'a(3WKWIOwsi5g-vcC8QkTBiyBf)s(vVM)))s(t(I30)b(qdHEhtd5EzoW9bSN9DW55NTLLEkuQifKncZcKTN7hTv4la5CJy5l5KbthMCcnYlPfoXWfnrO1Jd1tvaxNYw35ASt_S8Et4rp3yvQlgK_maZKrGKrDrLlY-mXiNMVGIAqlqW89jIcSMazjIyvwF8RMZhKmrWvzVz-wJ8HMxk)'t(FvU)b(IFxW6hpasCMTb43Lr0moOUPCB3ioTfKNfzE)))/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Públicos/Educativos - Brasil", Catve / Cultura (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
@@ -124,7 +124,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57d
 LINK INVÁLIDO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos - Brasil", Canal FDR / Futura (Fortaleza/CE)
-https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w993052480.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="Públicos/Educativos - Brasil", MasterTV / Univesp TV (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
@@ -145,7 +145,7 @@ https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/TV_Cear%C3%A1_2024.png" group-title="Públicos/Educativos - Brasil", TV Ceará (Fortaleza/CE)
-https://a.cdni.live/pedro1426/pedro1426/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://eassim.com.br/wp-content/uploads/2021/09/tvcidada21-e1632411674425.jpg" group-title="Públicos/Educativos - Brasil", TV Cidadã (Maceió/AL)
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
@@ -178,10 +178,19 @@ http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="Públicos/Educativos - Brasil", TV Senado (Brasília/DF)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
+https://cdn-5.nxplay.com.br/TV_SENADO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Públicos/Educativos - Brasil", TV UFOP (Ouro Preto/MG)
+https://edge-es-01.eduplay.rnp.br/media/ocp(r(tozTwQ)t(F_p4QzjYiMw)p(d(iNo)k(LpA)m(L85RA4HlZx4D8gTYrKMSOA)n(a(iioXrhmXVIdTKFjq3hSTJyCwrxA)s(fAw)'a(fG_Ko5VwqeJuhRwfNFVyQFuw)s(nmQ)'a(QvksWrtfwjzFrvUbF7iA9kH2)s(OUg)))s(t(xBw)b(vXarQOz0gH9x098hDmfgvVu4uw7LcNhpl8YSS9ZPM4bY1UY8xFss458y9ujt9xarVbJZyk8XC-2JJSiiitzd7HPae4aySIoJ5MqR1ohXODB1vFPKJgjJ60iJ_RGqkR8Qwq1zFyBuBfq4IAR1H2chZT2eWrawX8ZFwELIIMk)'t(hP0)b(18UNb6pr1LsseiZEzOZGeXfs4ooYnhAN1ZM)))/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://eduplay.rnp.br/portal/assets/contents/img/userchannel/1721742515354.jpg" group-title="Públicos/Educativos - Brasil", TV Unesp (Bauru/SP)
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(tozTwQ)t(F_p4Dss4mLI)p(d(iNo)k(LpA)m(Vm4pQ1KC7xyoyHUT4HQ_Jw)n(a(u-dhVAnRZKyWmvYzwn0qiD9FYYs)s(QYU)'a(qnzpgBhe4imjlRR8hZwuKaJP)s(YDA)'a(LDJNWa4deVKBlQNx4ItKJzFo)s(ZMU)))s(t(FGo)b(PxG79TlmeMhddwDcMXHHyPDXQVW4xowRB26JN1h32YGdwYuIWiNHcoIUd83SEKUfU4Q5uwVMM_iSSq4qY8g5r4SzxSLDsp5RyAy-ULRYzrXETqw2iew-QE14RluXd1zpx9Cq85jJj-Tibo88yQzjNzfT86DhMQT6OcgwG6U)'t(GG0)b(8jWmbCltd5u6tb-bSJWgaDmepQYCs2lwIRk)))/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="Públicos/Educativos - Brasil", TV Vale / Rede Minas (Diamantina/MG)
 https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="Públicos/Educativos - Brasil", UnBTV (Brasília/DF)
+https://edge-sp-01.eduplay.rnp.br/media/ocp(r(tozTwQ)t(F_p4Wr-lb6g)p(d(iNo)k(LpA)m(9EiFsQAutV8NlwgnokxZYQ)n(a(p5O50-n773h4OA-ysLqw8Qe3vD8)s(kuM)'a(HsqqRqPD5fTXhgOcCj5BEAEY)s(vcc)'a(z4BOzuhVzsXof9UbpVYZwQV9)s(Xw0)))s(t(9lQ)b(UtwfH8wEP7itUKmU1HEHBrBs_ayEWd6jTXJRySl77okZ-7Wa_5GOb3Cm0H4p2fqyjlYrFnU93HBomU0OOcPb_PP2nmJxNgbQrl4wTj-FKsEh4mJGOHh6JnzcvM1k8Vs1T8R0UPFk3UprBxkN9f5Nh9R5etdb-HMTI89sI2A)'t(rtg)b(tBE84tRG-PNV4etvrxMvwDMpzITARjdtU94)))/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos - Brasil", UNITV-SC / Cultura (Tubarão/SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
@@ -998,7 +1007,7 @@ https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://cdn-5.nxplay.com.br/ARTE1_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Cultura e Arte", Bis (Brasil)
-http://authbr15jul.halites.online:80/5794/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Cultura e Arte", Canal Brasil (Brasil)
 INDISPONÍVEL
@@ -1279,7 +1288,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563
 http://dzcdn.vood.top:80/hls/377243_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Entretenimento e Reality Shows", Multishow - Link 2 (Brasil)
-http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/24
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/423
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Entretenimento e Reality Shows", Nosey Escândalos - Samsung TV Plus (Brasil)
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
@@ -1400,13 +1409,13 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esporte", SporTV (Brasil)
-http://authbr15jul.halites.online:80/5932/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/183
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esporte", SporTV 2 (Brasil)
-http://authbr15jul.halites.online:80/5931/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esporte", SporTV 3 (Brasil)
-http://authbr15jul.halites.online:80/5930/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
 #EXTINF:-1 tvg-logo="https://atitudenew.com/wp-content/uploads/2024/04/tv-atitude-300x300.png" group-title="Esporte", TV Atitude New (Hortolândia/SP)
 https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
@@ -1690,6 +1699,9 @@ https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
 #EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Estúdios de Rádio - Brasil", FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_bdce52e34df248d2adf3dcb8cc90c6e9~mv2.png" group-title="Estúdios de Rádio - Brasil", Hot 98 FM Unimes (Santos/SP)
+
+
 #EXTINF:-1 tvg-logo="http://sistema.interativafm.net/storage/contents/kdefnwRbGbaVKUJANwCO5YLSiYYSk5q9xQ44VKfc.png" group-title="Estúdios de Rádio - Brasil", inTV - Interativa FM (Goiânia/GO)
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
 
@@ -1759,7 +1771,7 @@ https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio - Brasil", Rede Metropolitana (Taubaté/SP)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_4b2d15246b2d4555bb15f5fcba65faf3~mv2.png" group-title="Estúdios de Rádio - Brasil", RTL FM (Santos/SP)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_5b62e562f8a04e758d7a2211a97363e6~mv2.png" group-title="Estúdios de Rádio - Brasil", RTL FM (Santos/SP)
 https://stmv1.transmissaodigital.com/rtl/rtl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://sol.fm.br/radio/wp-content/uploads/2019/01/cropped-Logo_Degrade_Principal.png" group-title="Estúdios de Rádio - Brasil", Sol FM (Rolante/RS)
@@ -1919,16 +1931,13 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Action (Brasil)
-http://authbr15jul.halites.online:80/5875/index.m3u8
+http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/799
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Cult (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Cult - Link 2 (Brasil)
-http://authbr15jul.halites.online/5899/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Fun (Brasil)
-http://authbr15jul.halites.online:80/5901/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Pipoca (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
@@ -1937,7 +1946,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
 http://fzcdn.vood.top:80/hls/633_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Touch (Brasil)
-http://authbr15jul.halites.online:80/5880/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Filmes", TVCine Edition (Portugal)
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8087
@@ -2376,7 +2385,7 @@ https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qgyrEps.png" group-title="Infantil e Desenhos", Gloob (Brasil)
-http://authbr15jul.halites.online:80/5812/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Infantil e Desenhos", Gloobinho (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/360
@@ -3541,6 +3550,9 @@ https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Retrô", Viva (Brasil)
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Retrô", Viva - Link 2 (Brasil)
+http://216.230.233.87:80/m3u8/viva.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="Retrô", Zé Buscapé (Brasil)
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
