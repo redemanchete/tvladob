@@ -1337,13 +1337,13 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esporte", SporTV (Brasil)
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/183
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esporte", SporTV 2 (Brasil)
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172 
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esporte", SporTV 3 (Brasil)
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://atitudenew.com/wp-content/uploads/2024/04/tv-atitude-300x300.png" group-title="Esporte", TV Atitude New (Hortolândia/SP)
 https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
@@ -1375,7 +1375,7 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/6320d2755e54db000783fd87-alt.m3u
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jxA4O4.png" group-title="Esporte", Combate Global (Equador)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Esporte", DeporTV (Argentina)
 INDISPONÍVEL
@@ -1401,10 +1401,10 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/64df7ab4dfa32400083c517b-alt.m3u
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA38000392T_20230809T020754SQUARE.png_20230809020755.png" group-title="Esporte", FIFA+ - Samsung TV Plus (Brasil)
-https://7dcc3ebb.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c19ITFM/playlist.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/24Q8Kav.png" group-title="Esporte", Fite by Triller (EUA)
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VCDr7F.png" group-title="Esporte", Hard Knocks Fight Championship - Samsung TV Plus (Brasil)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_hardknocks_002.m3u8
@@ -1422,32 +1422,28 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/64f6180130ab3300083d896b-alt.m3u
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" group-title="Esporte", Slopes TV - Plex (EUA)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/sports_connect.png" group-title="Esporte", Sports Connect - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/pulse_p.png" group-title="Esporte", Pulse1 - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/pulsetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/pulse_p.png" group-title="Esporte", Pulse2 - Premium Free TV (África do Sul)
+https://origin3.afxp.telemedia.co.za/PremiumFree/pulse_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/limelight.png" group-title="Esporte", Limelight - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/lol_africa.png" group-title="Esporte", LOL1 Africa - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/lol_africa.png" group-title="Esporte", LOL2 Africa - Premium Free TV (África do Sul)
+https://origin3.afxp.telemedia.co.za/PremiumFree/lol_africa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/life_tv.png" group-title="Esporte", Life1 TV - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/life/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/life_tv.png" group-title="Esporte", Life2 TV - Premium Free TV (África do Sul)
+https://origin3.afxp.telemedia.co.za/PremiumFree/life_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/romanza.png" group-title="Esporte", Romanza - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/kiddi_winks.png" group-title="Esporte", Kiddiwinks - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/rpm_image.png" group-title="Esporte", RPM - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg" group-title="Esporte", Stadium - Samsung TV Plus (EUA)
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -1512,6 +1508,9 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5812b3a4249444e05d09cc46-alt.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte - Carros e Automobilismo", Pluto TV Motor (Reino Unido)
 PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5db0510962948d000961d3c6-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/rpm_image.png" group-title="Esporte - Carros e Automobilismo", RPM - Premium Free TV (África do Sul)
+https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 
 
 >> ESTILO DE VIDA E BEM-ESTAR
