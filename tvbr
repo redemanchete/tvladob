@@ -1427,20 +1427,17 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53.m3u8
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/sports_connect.png" group-title="Esporte", Sports Connect - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/pulse_p.png" group-title="Esporte", Pulse - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/pulse_p.png" group-title="Esporte", Pulse2 - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/pulsep/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/pulse_p.png" group-title="Esporte", Pulse1 - Premium Free TV (África do Sul)
+https://origin3.afxp.telemedia.co.za/PremiumFree/pulsetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/limelight.png" group-title="Esporte", Limelight - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/lol_africa.png" group-title="Esporte", LOL Africa - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/lolafrica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/lol_africa.png" group-title="Esporte", LOL1 Africa - Premium Free TV (África do Sul)
+https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/life_tv.png" group-title="Esporte", Life TV - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/life_tv.png" group-title="Esporte", Life1 TV - Premium Free TV (África do Sul)
+https://origin3.afxp.telemedia.co.za/PremiumFree/life/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/romanza.png" group-title="Esporte", Romanza - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
@@ -1450,9 +1447,6 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/rpm_image.png" group-title="Esporte", RPM - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/mindset.png" group-title="Esporte", Mindset - Premium Free TV (África do Sul)
-https://origin3.afxp.telemedia.co.za/PremiumFree/mindset/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg.optimal.jpeg" group-title="Esporte", Stadium - Samsung TV Plus (EUA)
