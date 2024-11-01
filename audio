@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 31/10/2024
+ATUALIZADA EM 01/11/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -441,7 +441,7 @@ https://icecast.teveo.cu/ktW3mW74?1720478981348
 http://190.242.62.236:8000/;?1720827895612
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Radio_bluefm_logo.png" group-title="Rádio FM - Mundo", 100.7 - Blue FM (Buenos Aires/Argentina)
-https://21933.live.streamtheworld.com/BLUE_FM_100_7AAC.aac
+https://19803.live.streamtheworld.com/BLUE_FM_100_7AAC
 
 #EXTINF:-1 tvg-logo="https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png" group-title="Rádio FM - Mundo", 102.3 - Radio Aspen (Buenos Aires/Argentina)
 https://26513.live.streamtheworld.com/ASPEN.mp3
@@ -549,7 +549,7 @@ https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg
 https://eu10.fastcast4u.com/iloverio
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61SsNM6LzhL.png" group-title="Web Rádio - Brasil", JB Classic (Rio de Janeiro/RJ)
-https://24383.live.streamtheworld.com/JBCLASSIC_S01AAC
+https://26583.live.streamtheworld.com/JBCLASSIC_S01AAC
 
 #EXTINF:-1 tvg-logo="https://radiolovetimes.com/radio-lovetimes-images/radio-lovetimes-webplayer.png" group-title="Web Rádio - Brasil", Lovetimes (São Paulo/SP)
 https://c15.radioboss.fm:18152/stream
@@ -603,7 +603,7 @@ https://s12.maxcast.com.br:8292/live?id=1590807595549
 https://s09.hstbr.net:8238/live?1514038524061
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/62b505c5676f6.png" group-title="Web Rádio - Brasil", Rádio Cidade (Rio de Janeiro/RJ)
-https://24383.live.streamtheworld.com/RADIOCIDADEAAC
+https://27443.live.streamtheworld.com/RADIOCIDADEAAC
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio201038_1664218640.png" group-title="Web Rádio - Brasil", Rádio Cidade Nova Web - MPB (Belo Horizonte/MG)
 http://live.paineldj.com.br:8604/stream
@@ -654,7 +654,7 @@ https://centova2.euroti.com.br:20062/;
 https://servidor28-1.brlogic.com:8354/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio189251_1631619382.jpg" group-title="Web Rádio - Brasil", Rádio Pessoas (Porto Alegre/RS)
-https://stream.radio.co/s5df157d4f/listen
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio199001_1650648048.jpg" group-title="Web Rádio - Brasil", Rádio Referência do Samba (São Paulo/SP)
 https://stm6.srvvox.com.br:7290/stream
@@ -666,7 +666,7 @@ https://stream-153.zeno.fm/8tt5erdes68uv
 https://servidor33-3.brlogic.com:8020/live
 
 #EXTINF:-1 tvg-logo="https://radioyande.com/wp-content/uploads/2022/10/logo-yande-bramco-novo-site-1024x293.png" group-title="Web Rádio - Brasil", Rádio Yandê (Rio de Janeiro/RJ)
-https://cloud.cdnseguro.com:2611/stream
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://sambafm.com.br/wp-content/uploads/2021/04/logo_redonfo_brilho_500.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
 https://hts01.brascast.com:8428/live
@@ -684,7 +684,7 @@ https://veneno.out.airtime.pro/veneno_b
 https://stm9.voxhd.com.br:6776/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio198308_1648809034.jpg" group-title="Web Rádio - Brasil", Web Vintage 70 (Cotia/SP)
-https://stm43.srvstm.com:9106/stream
+https://servidor22-5.brlogic.com:7062/live?source=8599
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f98147_a231a3ddff6741e89207c3d887a5926f~mv2.png" group-title="Web Rádio - Brasil", Web Vintage Brasil (Cotia/SP)
 http://hts05.kshost.com.br:11668/stream
