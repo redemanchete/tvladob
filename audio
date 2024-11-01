@@ -699,6 +699,84 @@ https://s02.brascast.com:7182/live
 INDISPONÍVEL
 
 
+>> VAGALUME.FM - BRASIL
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Blues
+https://stream.vagalume.fm/hls/1470154942300080/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Bossa Nova
+https://stream.vagalume.fm/hls/1470154964926375/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Breeze
+https://stream.vagalume.fm/hls/1470679981257760/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Britpop
+https://stream.vagalume.fm/hls/1524768774460488/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Chillout Music
+https://stream.vagalume.fm/hls/1527177966837363/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Classic R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Dance Music
+https://stream.vagalume.fm/hls/1470161190169185/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Disco
+https://stream.vagalume.fm/hls/1474491605823572/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Flashback Brasil
+https://stream.vagalume.fm/hls/151742478997108/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Hits Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Hits Anos 90
+https://stream.vagalume.fm/hls/1514919045178434/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Jazz
+https://stream.vagalume.fm/hls/14635148092037245616/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Jovem Guarda
+https://stream.vagalume.fm/hls/1520610873192520/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Pop Rock Brasil
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Pride
+https://stream.vagalume.fm/hls/1527621626787962/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Rock Ballads
+https://stream.vagalume.fm/hls/1464720376206867533/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Romântico
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Samba e Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.vagalume.fm/img/vagalume-fm-logo.png" group-title="Vagalume.FM - Brasil", Sertanejo Raiz
+https://stream.vagalume.fm/hls/1486574587925026/aac.m3u8
+
+
 >> WEB RÁDIO - MUNDO
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s116726g.png" group-title="Web Rádio - Mundo", 1.FM - A List 80s (Suíça)
@@ -763,7 +841,6 @@ http://streams.fluxfm.de/rastaradio/mp3-128/radiode/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/FluxFM.svg/1024px-FluxFM.svg.png" group-title="Web Rádio - Mundo", FluxFM - XJAZZ (Alemanha)
 https://streams.fluxfm.de/xjazz/mp3-128/radiode/
-
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio12588_1600857262.png" group-title="Web Rádio - Mundo", Jazz Radio - Black Music (França)
 http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3
