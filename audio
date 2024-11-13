@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 01/11/2024
+ATUALIZADA EM 13/11/2024
 
 
 >> RÁDIO FM - BRASIL
@@ -69,7 +69,7 @@ http://radio.saopaulo01.com.br:9348/stream
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_da_Itapema_FM.png" group-title="Rádio FM - Brasil", 93.7 - Itapema FM (Florianópolis/SC)
-https://24493.live.streamtheworld.com/ITA_FLOAAC
+https://19813.live.streamtheworld.com/ITA_FLOAAC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/R%C3%A1dio_Ga%C3%BAcha_logo.png" group-title="Rádio FM - Brasil", 93.7 - Rádio Gaúcha (Porto Alegre/RS)
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
@@ -88,9 +88,6 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 
 #EXTINF:-1 tvg-logo="https://www.catve.com/portal/img/catve_fm_branca.png" group-title="Rádio FM - Brasil", 94.5 - Catve FM (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1632583204.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="Rádio FM - Brasil", 94.5 - Lupa1 FM (Teresina/PI)
-https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64dec95acf533.png" group-title="Rádio FM - Brasil", 94.5 - UNIFM (Curitiba/PR)
 http://cast62.sitehosting.com.br:8371/live?1590728088485
@@ -166,9 +163,6 @@ https://corp.tvt.org.br:8083/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_Cidade_FM_%28Fortaleza%29.png" group-title="Rádio FM - Brasil", 99.1 - Cidade FM (Fortaleza/CE)
 https://streaming.livespanel.com:9910/stream
-
-#EXTINF:-1 tvg-logo="https://radioapolo.com.br/wp-content/uploads/2017/01/logo-apolo-transp-semdial.png" group-title="Rádio FM - Brasil", 99.1 - Rádio Apolo (Itapevi/SP)
-https://server3.dacsolution.com.br/98.1/player/
 
 #EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/diario-fm-997_crop_200x200.jpg" group-title="Rádio FM - Brasil", 99.7 - Diário FM (Ribeirão Preto/SP)
 https://rrdns-megasistema.webnow.com.br/diario.aac
@@ -246,7 +240,7 @@ https://servidor24-4.brlogic.com:7262/live
 https://sv12.hdradios.net:7852/stream
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/fb/09/fb09d678d04a41ca612e6f809ddac82a.jpg" group-title="Rádio FM - Brasil", 103.9 - Stereo Vale FM (São José dos Campos/SP)
-https://centova5.transmissaodigital.com:20058/;
+https://stm11.xcast.com.br:12086/stream
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a53607_0802dd9366cb49a7b67e0510fe1b751e~mv2.png" group-title="Rádio FM - Brasil", 103.9 - Tempo FM (Fortaleza/CE)
 http://r13.ciclano.io:8609/live
@@ -257,7 +251,7 @@ https://streaming.fox.srv.br:8006/stream
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/66bfa4f57d7ff.png" group-title="Rádio FM - Brasil", 104.1 - Rádio Metrópoles (Brasília/DF)
 https://s30.maxcast.com.br:8136/live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1024px-Dumont_FM_logo.svg.png" group-title="Rádio FM - Brasil", 104.3 - Dumont (Jundiaí/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1024px-Dumont_FM_logo.svg.png" group-title="Rádio FM - Brasil", 104.3 - Dumont FM (Jundiaí/SP)
 https://rrdns-dumont.webnow.com.br/dumont.aac
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/607dd431d6eb0.png" group-title="Rádio FM - Brasil", 104.5 - Positividade FM (Rio de Janeiro/RJ)
@@ -577,6 +571,9 @@ https://radios.poolwebwork.com.br/8010/stream
 
 #EXTINF:-1 tvg-logo="https://www.radio80fm.com.br/wp-content/uploads/2020/07/logo-horizontal-504-120px.png" group-title="Web Rádio - Brasil", Rádio 80 FM (São Paulo/SP)
 https://centova.euroti.com.br:20001/1/stream.mp3?1590810455343
+
+#EXTINF:-1 tvg-logo="https://radioapolo.com.br/wp-content/uploads/2017/01/logo-apolo-transp-semdial.png" group-title="Web Rádio - Brasil", Rádio Apolo (São Paulo/SP)
+https://server3.dacsolution.com.br/98.1/player/
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio15370_1513190751.jpg" group-title="Web Rádio - Brasil", Rádio Axé Bahia (Salvador/BA)
 http://euroticast5.euroti.com.br:8070/;
