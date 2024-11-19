@@ -1313,17 +1313,8 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 
 >> ESTILO DE VIDA E BEM-ESTAR
 
-#EXTINF:-1 ttvg-logo="https://imgur.com/VSezlWv.png" group-title="Estilo de Vida e Bem-Estar", Discovery Home & Health (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/66f2d02199419_fa30ef55d07ce7cac16c196344c3e618.png" group-title="Estilo de Vida e Bem-Estar", Fit Dance - Só Play (Brasil)
 https://cdn-fast.nxtv.com.br/1080p-avc/index.m3u8?bpkio_serviceid=9978b7063e297d840ee39e06e1d92f0f&bpkio_sessionid=10e1b13e85-2f44801c-5228-480c-a044-438becf407a8&category=all&mm_sp&token=5c5cea814dd5abbb8c3310322875c236c7ad3493-87e130413ccd2c9c92e690db7373607d-1731305419-1731262219
-
-#EXTINF:-1 ttvg-logo="https://imgur.com/8RDEcE9.png" group-title="Estilo de Vida e Bem-Estar", GNT (Brasil)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/inspire_newLogo.png" group-title="Estilo de Vida e Bem-Estar", Inspire (São Paulo/SP)
-INDISPONÍVEL - http://cdn.connectbr.com.br/Inspire/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jZOwtw0.png" group-title="Estilo de Vida e Bem-Estar", Royal World TV (Brasil)
 https://amogo-networx-royalworldnobrezaedinastias-1-br.vidaa.wurl.tv/playlist.m3u8
@@ -1349,7 +1340,7 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 ---
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="Estilo de Vida e Bem-Estar", Clic / TV Azteca - Plex (EUA)
-INDISPONÍVEL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png" group-title="Estilo de Vida e Bem-Estar", ¡Hola! Play - Samsung TV Plus (Espanha)
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -1364,9 +1355,6 @@ https://e803f254d1a1441089fe8e2eb07bd09b.mediatailor.us-east-1.amazonaws.com/v1/
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
 
 ---
-
-#EXTINF:-1 tvg-logo="https://d2culxnxbccemt.cloudfront.net/craft/content/uploads/2023/04/27110026/logo-craftsytv-1920x1080-colored-transparent-e1682611408928.png" group-title="Estilo de Vida e Bem-Estar", CraftsyTV - Plex (EUA)
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b423ff8b-a491-48ae-8148-7f30ac09d7c9/Jacob_Gordon_-_Commune_Logo_Light.png" group-title="Estilo de Vida e Bem-Estar", Commune - Plex (EUA)
 https://a3b333b2cdfb4b05934aa1a4c3fd26d4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_Commune/playlist.m3u8?ads.wurl_channel=996&ads.wurl_name=Commune&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=618adcbb6769b2b0bcc4c17f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
@@ -1384,7 +1372,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insightcanada/playlist.m3u8?
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1321
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="Estilo de Vida e Bem-Estar", More U - Plex (EUA)
-INDISPONÍVEL
+https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/channelbug-bl_logo.png" group-title="Estilo de Vida e Bem-Estar", World Fashion Channel (Rússia)
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
@@ -1404,9 +1392,6 @@ https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
 #EXTINF:-1 tvg-logo="http://www.abc103fm.com.br/includes/img/marca_ABC900.png" group-title="Estúdios de Rádio - Brasil", ABC FM (Novo Hamburgo/RS)
 https://streamabc.gruposinos.com.br/radio.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ELW1F8f.png" group-title="Estúdios de Rádio - Brasil", Ativa FM (Samambaia/DF)
-https://a.cdni.live/ativa98/ativa98/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="Estúdios de Rádio - Brasil", Atividade FM (Brasília/DF)
 https://cdn.livespanel.com/radioatividade/live/playlist.m3u8
 
@@ -1425,25 +1410,19 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="Estúdios de Rádio - Brasil", Catve / União FM (Toledo/PR)
 https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/chunklist_w1713089154.m3u8
 
-#EXTINF:-1 tvg-logo="https://clube.fm/brasilia/wp-content/uploads/sites/2/2019/11/logo-clube-brasilia.png" group-title="Estúdios de Rádio - Brasil", Clube FM (Brasília/DF)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f7/Logotipo_da_Clube_FM_%28Bras%C3%ADlia%29.png" group-title="Estúdios de Rádio - Brasil", Clube FM (Brasília/DF)
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/63e8605aab12f.png" group-title="Estúdios de Rádio - Brasil", Clube FM (Ribeirão Preto/SP)
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://clubefm92.com.br/hf-conteudo/uploads/layout/logo_d1c4869b1791a2aed224265064f8735c.png" group-title="Estúdios de Rádio - Brasil", Clube FM (Santo Antônio de Jesus/BA)
-https://cast.radiu.live:6758/stream
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64749b98003af.png" group-title="Estúdios de Rádio - Brasil", Clube FM (São Carlos/SP)
 https://live.cdn.upx.com/5e5c_4/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="Estúdios de Rádio - Brasil", Clube FM (Uberlândia/MG)
-https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
 
 #EXTINF:-1 tvg-logo="https://clubefm99.com.br/images/logo_1175561691.png" group-title="Estúdios de Rádio - Brasil", Clube FM 99 (Patos de Minas/MG)
 https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (Belém/PA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (Belém/PA)
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/650a0f0453f2a.png" group-title="Estúdios de Rádio - Brasil", Cultura FM (São Paulo/SP)
@@ -1461,7 +1440,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8491/LVW8491_7Bz8dSRZNZ/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="Estúdios de Rádio - Brasil", FM Liberdade (Patos de Minas/MG) 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" group-title="Estúdios de Rádio - Brasil", FM O Dia (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://www.fmodia.com.br/wp-content/uploads/2023/12/logo-fmodia-tv-pagina-veja.png" group-title="Estúdios de Rádio - Brasil", FM O Dia (Rio de Janeiro/RJ)
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_bdce52e34df248d2adf3dcb8cc90c6e9~mv2.png" group-title="Estúdios de Rádio - Brasil", Hot 98 FM Unimes (Santos/SP)
@@ -1529,9 +1508,6 @@ https://qfm.geraistec.com.br/hlsq/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio - Brasil", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
 https://livestream.zazerconer.workers.dev/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14373_1528377564.png" group-title="Estúdios de Rádio - Brasil", RCC FM (Santana do Livramento/RS)
-https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio - Brasil", Rede Metropolitana (Taubaté/SP)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 
@@ -1549,12 +1525,6 @@ https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ieKLdwM.png" group-title="Estúdios de Rádio - Brasil", Super Marajoara (Belém/PA)
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.suprafm.com.br/images/logo-supra-fm.png" group-title="Estúdios de Rádio - Brasil", Supra FM (Gama/DF)
-https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/9d/4d/9d4d9bd90834efb2becf9315725ae49c.jpg" group-title="Estúdios de Rádio - Brasil", Tarobá FM (Londrina/PR)
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://www.fmtropicalfm.com.br/new/wp-content/uploads/2019/05/topo_tropical.jpg" group-title="Estúdios de Rádio - Brasil", Tropical FM (Tupi Paulista/SP)
 https://cdn1.str.srv.br/CM7002/CM7002/playlist.m3u8
