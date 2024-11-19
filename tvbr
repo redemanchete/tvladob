@@ -720,12 +720,6 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 >> COMÉDIA
 
-#EXTINF:-1 tvg-logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/show_cameras_escondidas_logo_d51e06b303.png" group-title="Comédia", Câmeras Escondidas - Programa Silvio Santos (Brasil)
-INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Comédia", Canal da Praça - SBT (Brasil)
-INDISPONÍVEL
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Comédia", Chapolin (Brasil)
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 
@@ -752,31 +746,31 @@ https://cdn-4.nxplay.com.br/parafernaria/tracks-v1a1/mono.m3u8?token=0f2b41b169b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Comédia (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/pooptv.png" group-title="Comédia", Poop TV (Brasil)
+#EXTINF:-1 tvg-logo="https://poop.tv.br/wp-content/uploads/2024/06/cropped-logo-pooptv-300x228.png" group-title="Comédia", Poop TV (Brasil)
 https://stream.ichibantv.com:3522/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Porta_dos_Fundos.jpeg" group-title="Comédia", Porta dos Fundos - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", South Park - Pluto TV (Brasil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6650bf5c94d5580008e7501a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", South Park: Apocalipse - Pluto TV (Brasil)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/660d7268e8fba80008521de8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", South Park: Coleção Cartman - Pluto TV (Brasil)
-PlutoTV Brasil INDISPONÍVEL - https://jmp2.uk/PlutoTV/65df71008b24c80008f04281-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", South Park: Coleção Kenny - Pluto TV (Brasil)
-PlutoTV Brasil INDISPONÍVEL - https://jmp2.uk/PlutoTV/65df704366eec8000898e32f-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", South Park: Coleção Kyle - Pluto TV (Brasil)
-PlutoTV Brasil INDISPONÍVEL - https://jmp2.uk/PlutoTV/65df713dec9fda0008b7a81d-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", South Park: Coleção Stan - Pluto TV (Brasil)
-PlutoTV Brasil INDISPONÍVEL - https://jmp2.uk/PlutoTV/65df70b0f7f0af0008c3b316-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="Comédia", AFV Español - Plex (EUA)
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20221109T010642SQUARE.png_20221109010642.png" group-title="Comédia", Comedia Made in Spain - Samsung TV Plus (Espanha)
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a0109d930000711e610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
@@ -785,30 +779,24 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Humor (Argentina)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000057N_20230712T001605SQUARE.png_20230712001606.png" group-title="Comédia", Sony Canal Comedias - Samsung TV Plus (EUA)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/South_Park_Logo.svg/1280px-South_Park_Logo.svg.png" group-title="Comédia", South Park Versión Original - Pluto TV (Espanha)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Comédia", Adult Swim: Last Stream on The Left (EUA)
-INDISPONÍVEL
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Comédia", Adult Swim: Off The Air (EUA)
-INDISPONÍVEL
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Comédia", Adult Swim: Your Pretty Face is Going to Hell (EUA)
-INDISPONÍVEL
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Comédia", AFV Family Channel - Samsung TV Plus (Brasil)
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central Animation - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200020WJ_20230809T005058SQUARE.png_20230809005059.png" group-title="Comédia", Comedy Dynamics - Samsung TV Plus (EUA)
 https://d1il5mi585nqh6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ikeqabzbg7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -822,11 +810,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf00074
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700029OC_20220621T075643SQUARE.png_20220621075645.png" group-title="Comédia", FailArmy - Samsung TV Plus (Suíça)
 https://6e7da950326e49ec84ab577249b1fc21.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/8002e04c-3b48-4ed8-85c6-89f54c3cd466/David_Saint_-_fod_logo_for_plex_color.png" group-title="Comédia", Funny Or Die - Plex (EUA)
-INDISPONÍVEL
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just for Laughs - Pluto TV (Espanha)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60a286daf888610007669801-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just For Laughs - Samsung TV Plus (Brasil)
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
@@ -838,10 +823,10 @@ https://36cd2ac3e37f411aa72b1d27cfd32791.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1geua7w9myu7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccslktftyouus-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just for Laughs - Pluto TV (Reino Unido)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60d32888e31a0300073d9f08-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Pranks (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f86f539f03cd00070c503a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400006QE_20220330T044448SQUARE.png_20220330044449.png" group-title="Comédia", The Red Green Channel - Samsung TV Plus (Canadá)
 https://d5d8af44e2824000ad28245f2de6dd04.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_TheRedGreenChannel/playlist.m3u8?ads.wurl_channel=949&ads.wurl_name=TheRedGreenChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
