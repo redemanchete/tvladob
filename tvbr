@@ -1807,7 +1807,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Game Shows", Sony Canal Competencias - Samsung TV Plus (EUA)
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/ct_custom_page_f_primary_image/sony_canal_logo.png" group-title="Game Shows", Sony Canal Escape Perfecto - Pluto TV (EUA)
+#EXTINF:-1 tvg-logo="https://todotvnews.com/wp-content/uploads/2023/08/escapePerfecto.jpg" group-title="Game Shows", Sony Canal Escape Perfecto - Pluto TV (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Wipeout_reboot_logo.png" group-title="Game Shows", Wipeout - Pluto TV (Argentina)
@@ -1882,10 +1882,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc
 
 ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/America%27s_Test_Kitchen_Logo_New.svg/1024px-America%27s_Test_Kitchen_Logo_New.svg.png" group-title="Gastronomia", America's Test Kitchen - Pluto TV (EUA)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/56574ebe859746356c0e586fa5bda99f8733b850148a37e3af62a37d156fe1ac.jpg" group-title="Gastronomia", America's Test Kitchen - Pluto TV (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/America%27s_Test_Kitchen_Logo_New.svg/1024px-America%27s_Test_Kitchen_Logo_New.svg.png" group-title="Gastronomia", America's Test Kitchen - Samsung TV Plus (EUA)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/56574ebe859746356c0e586fa5bda99f8733b850148a37e3af62a37d156fe1ac.jpg" group-title="Gastronomia", America's Test Kitchen - Samsung TV Plus (EUA)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_americastestkitchen_001.m3u8?ads.caid=AmericasTestKitchen&ads.csid=samsungtvplus_us_americastestkitchen_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB8&ads._fw_content_genre=foodanddrink&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1066&ads.xumo_contentName=AmericasTestKitchen&ads.xumo_providerId=1066&ads.xumo_providerName=AmericasTestKitchen&ads.xumo_channelId=9999537&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200006AL_20230222T042938SQUARE.png_20230222042939.png" group-title="Gastronomia", Bon Appétit - Samsung TV Plus (EUA)
@@ -2186,9 +2186,6 @@ INDISPONÍVEL - https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
 ---
 
-#EXTINF:-1 tvg-logo="https://babar.heprc.uvic.ca/BFROOT/www/Images/approved_images/Babar_with_banner.jpg" group-title="Infantil e Desenhos", Babar - Pluto TV (México)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Barney_%26_Friends_logo.svg/1024px-Barney_%26_Friends_logo.svg.png" group-title="Infantil e Desenhos", Barney - Pluto TV (México)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -2197,9 +2194,6 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/327px-Clan_TVE_logo.svg.png" group-title="Infantil e Desenhos", Clan (Espanha)
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p391744_b_v9_au.jpg" group-title="Infantil e Desenhos", Garfield - Pluto TV (Espanha)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantil e Desenhos", IPe (Peru)
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
@@ -2220,9 +2214,6 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Infantil e Desenhos", PBS Kids (EUA)
 https://cdn1-6p.teleuptv.net/7efffed8-115a-4742-93ee-f17d22c8b11f/index.m3u8?l1br3update1217&CatUSAFreeTV
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Infantil e Desenhos", Watch it Kid - Local Now (EUA)
-https://watchitkid-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fb052634e15e30c34abf75_watchitkid-live-1/index-watchitkid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQS9dl0.png" group-title="Infantil e Desenhos", ZooMoo (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
