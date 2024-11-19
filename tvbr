@@ -1538,9 +1538,6 @@ https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="Filmes", Adrenalina Freezone - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png" group-title="Filmes", Bora (São Paulo/SP)
-INDISPONÍVEL - http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="Filmes", Channel 1 (Brasil)
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
@@ -1556,12 +1553,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes", Darkflix - Soul TV (Brasil)
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KFHW8ZH.png" group-title="Filmes", Emotion TV (Brasil)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/entretendo_newLogo.png" group-title="Filmes", Entretendo (São Paulo/SP)
-INDISPONÍVEL - http://cdn.connectbr.com.br/Entretendo/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/noticias/br/2024/05/logo-filmelier-interna.png" group-title="Filmes", Filmelier TV - Samsung TV Plus (Brasil)
 https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
 
@@ -1573,12 +1564,6 @@ https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5b00ef206723937.66d0fe6e1582e.png" group-title="Filmes", Hallo! Plus - Só Play (Brasil)
 https://cdn-5.nxplay.com.br/halloplus/tracks-v2a1/mono.m3u8?token=0e2b88d0c02d2ea598f3d816306d68e21d9a0303-5cc252e54d0161a70fef0e0b04441f65-1731305419-1731262219
-
-#EXTINF:-1 tvg-logo="https://imagens.soplay.com.br/652da95f231d6_b8d5ca089b29e7f557b46d3f5612bae8.png" group-title="Filmes", HTO Filmes - SóPlay (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes", Megapix (Brasil)
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Filmes", MyTime Movie Network - Samsung TV Plus (Brasil)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -1676,23 +1661,8 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="Filmes", SparkTV - Samsung TV Plus (Brasil)
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Action (Brasil)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Cult (Brasil)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Fun (Brasil)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Pipoca (Brasil)
-INDISPONÍVEL
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Premium (Brasil)
 http://fzcdn.vood.top:80/hls/633_.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/1024px-Rede_Telecine_vertical_logo.svg.png" group-title="Filmes", Telecine Touch (Brasil)
-INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Filmes", TVCine Edition (Portugal)
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8087
@@ -1715,10 +1685,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Nuestro Cine (México)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png" group-title="Filmes", Rakuten TV Cine Español - Samsung TV Plus (Espanha)
-INDISPONÍVEL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
 
@@ -1726,31 +1693,22 @@ INDISPONÍVEL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4154
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Classic Movies (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/61f33318210549000806a530-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cult Films (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes", Pluto TV Cult Films (Reino Unido)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png" group-title="Filmes", Watch it SCREAM - Plex (EUA)
-Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png" group-title="Filmes", Watch it SCREAM - Galxy TV (EUA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2587
 
 
 >> FILMES E SÉRIES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Filmes e Séries", A&E (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/01/AMC-Logo-2002-2013.jpg" group-title="Filmes e Séries", AMC (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png" group-title="Filmes e Séries", AWTV (São Paulo/SP)
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Filmes e Séries", AXN (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2021/03/26/1523456625-betlogo.jpg" group-title="Filmes e Séries", BET Being Mary Jane - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1772,9 +1730,6 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?token=200ca094d2c1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Hell_on_Wheels_Title_Card.jpg" group-title="Filmes e Séries", Inferno Sobre Rodas - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Filmes e Séries", Lifetime (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NCIS_%28TV_series%29_logo.svg/1280px-NCIS_%28TV_series%29_logo.svg.png" group-title="Filmes e Séries", NCIS - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1800,23 +1755,8 @@ https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rookieblue/images/9/90/PromoS3.jpg" group-title="Filmes e Séries", Rookie Blue - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Filmes e Séries", Sony Channel (Brasil) 
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Filmes e Séries", Sony One Emoções - Samsung TV Plus (Brasil)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Filmes e Séries", Space (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Filmes e Séries", Studio Universal (Brasil)
-INDISPONÍVEL
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes e Séries", TNT (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes e Séries", TNT Séries (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Filmes e Séries", Universal TV (Brasil)
 http://dzcdn.vood.top:80/hls/742_.m3u8
@@ -1833,7 +1773,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes e Séries", Pluto TV Series Latinas (México)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
 
@@ -1855,9 +1795,6 @@ https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://premiumfree.tv/new/wp-content/uploads/2023/03/limelight.png" group-title="Filmes e Séries", Limelight - Premium Free TV (África do Sul)
 https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes e Séries", Pluto TV Sitcom Legends (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/633354b63df9700007f6a1b7-alt.m3u8
-
 
 >> GAME SHOWS
 
@@ -1865,15 +1802,15 @@ PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/633354b63df9700007f6a1b7-alt.m3u
 https://dzvxsnyfypf89.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-capgn47t0bph3-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuYDVnj.png" group-title="Game Shows", Minuto Para Ganar - Pluto TV (Argentina)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Game Shows", Sony Canal Competencias - Samsung TV Plus (EUA)
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/ct_custom_page_f_primary_image/sony_canal_logo.png" group-title="Game Shows", Sony Canal Escape Perfecto - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/605e479d5b8229000763e697-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TzeCHhn.png" group-title="Game Shows", Wipeout - Pluto TV (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Wipeout_reboot_logo.png" group-title="Game Shows", Wipeout - Pluto TV (Argentina)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
@@ -1884,32 +1821,26 @@ https://dppfr4x925mob.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500023RK_20221229T010700SQUARE.png_20221229010701.png" group-title="Game Shows", Deal or No Deal - Samsung TV Plus (EUA)
 https://d3sjlbn3svig82.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6ormhjn52nmh8-prod/amgdealornodeal/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/70/70c99670e3bda5eac08950dc6cbe288a.jpeg" group-title="Game Shows", Family Feud Classic - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/643f03b9d8436e0008edf021-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.jeopardy.com/sites/default/files/styles/article_image_960_/public/2023-03/JEP39_0201_PlutoTVLaunch_1600x900_04.jpg" group-title="Game Shows", Jeopardy! hosted by Alex Trebek - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/625f04253e5f6c000708f3b7-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625f04253e5f6c000708f3b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://www.journeymasters.com/img/LetsMakeADeal-Hi-Res.jpg" group-title="Game Shows", Let's Make A Deal - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/6267352efcf21c0007c76642-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6267352efcf21c0007c76642/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Game Shows", Pluto TV Game Shows (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/6036e7c385749f00075dbd3b-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6036e7c385749f00075dbd3b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300021DQ_20230726T004611SQUARE.png_20230726004612.png" group-title="Game Shows", Supermarket Sweep - Samsung TV Plus (EUA)
 https://d27i89roau0nzv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xszzeed0wisns-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://logonoid.com/images/the-price-is-right-logo.png" group-title="Game Shows", The Price Is Right - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/643f035d5a0cd50008361534-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/the-price-is-right-logo.png" group-title="Game Shows", The Price Is Right: The Barker Era - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/5f7791b8372da90007fd45e6-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/the-price-is-right-logo.png" group-title="Game Shows", The Price is Right: The Barker Era - Samsung TV Plus (EUA)
 https://d27qmvuanqup85.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aqdbtq14aq82e-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://www.clipartkey.com/mpngs/m/42-422802_transparent-wheel-of-fortune-logo-png-wheel-of.png" group-title="Game Shows", Wheel of Fortune - Pluto TV (EUA)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/625f054c5dfea70007244612-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625f054c5dfea70007244612/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://10play.com.au/ip/s3/2022/09/15/8066ca5f1d80b9fcfd9b35d3e11c9767-1180218.png" group-title="Game Shows", Wipeout Xtra - Samsung TV Plus (EUA)
 https://d2stx9idyk58lb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-okx5aium7ob8z-prod/wipeoutxtra-samsungus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
