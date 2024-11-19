@@ -462,9 +462,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9046/cabecalho-9046-20230725105112.png" group-title="Variedades - Brasil", Demais TV (São Paulo/SP)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
 
-#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/hello_newLogo.png" group-title="Variedades - Brasil", Hello TV (São Paulo/SP)
-http://cdn.connectbr.com.br:80/Hello/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://ibitelecom.com.br/wp-content/uploads/2021/06/lifebrasil.png" group-title="Variedades - Brasil", Life Channel Brasil (Adamantina/SP)
 https://cdn.g2gsistemas.com.br/life/tracks-v1a1/mono.m3u8
 
@@ -482,9 +479,6 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="http://pop.tv.br/assets/logo-pop.png" group-title="Variedades - Brasil", Pop TV (Porto Alegre/RS)
 https://pop.tv.br/hls/test.m3u8
-
-#EXTINF:-1 tvg-logo="http://baitaconteudo.com/wp-content/uploads/2021/10/mosaico_newLogo.png" group-title="Variedades - Brasil", Rede Mosaico (São Paulo/SP)
-http://cdn.connectbr.com.br:80/Mosaico/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="Variedades - Brasil", Rede Mundo TV (Francisco Beltrão/PR)
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
