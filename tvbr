@@ -2465,8 +2465,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 
 >> MÚSICA - CANAIS MTV
 
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Pluto TV (Argentina)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Pluto TV (Suécia)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Classic - Samsung TV Plus (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635bfb89b5cd9b0007ca9d63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2474,8 +2480,26 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635bfb89b5cd9b0007ca9d
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Flow Latino - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b219eed88ef00007403c2clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Alemanha)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61923ac16d03190008138a67/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Espanha)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Love Music - Pluto TV (Suécia)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f2e6c7a07960007e52913/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Movie Hits - Pluto TV (EUA)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Movie Hits - Pluto TV (Suécia)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6492e8f04c014a0008394773/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Pride - Pluto TV (Suécia)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a6296ee6a2f00080b8c6d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Queens of Pop - Pluto TV (Suécia)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da31c1c111bc0008d920d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Rocks - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2485,6 +2509,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 
 #EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Yo! - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01d84fe11e500084aefc1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Yo! - Pluto TV (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" group-title="Música - Canais MTV", MTV Yo! - Pluto TV (Suécia)
+ttps://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6422d8c5a3ade70008f519de/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 >> MÚSICA - CANAIS VEVO
