@@ -15,7 +15,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://eduplay.rnp.br/portal/assets/contents/img/userchannel/1651085561426.png" group-title="Públicos/Educativos - Brasil", Canal Libras (Brasil)
 https://canallibras-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo30anos/30-vers%C3%A3o-horizontal-web.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
+#EXTINF:-1 tvg-logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
 https://edge-es-01.eduplay.rnp.br/media/ocp(r(tozTwQ)t(F_p4BAAG6o4)p(d(iNo)k(LpA)m(nVEtycTC_f2r8_Vb7im2uA)n(a(ww5ACERXxli3lR6rdXYNLlNLMxU)s(99M)'a(7eryn73goVoVx_F1NEFb2aVy)s(2g4)'a(3WKWIOwsi5g-vcC8QkTBiyBf)s(vVM)))s(t(I30)b(qdHEhtd5EzoW9bSN9DW55NTLLEkuQifKncZcKTN7hTv4la5CJy5l5KbthMCcnYlPfoXWfnrO1Jd1tvaxNYw35ASt_S8Et4rp3yvQlgK_maZKrGKrDrLlY-mXiNMVGIAqlqW89jIcSMazjIyvwF8RMZhKmrWvzVz-wJ8HMxk)'t(FvU)b(IFxW6hpasCMTb43Lr0moOUPCB3ioTfKNfzE)))/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/webstories/2024/06/veja-programas-infantis-que-serao-reexibidos/assets/3.png" group-title="Públicos/Educativos - Brasil", Cultura (São Paulo/SP)
@@ -46,7 +46,7 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=98184532019213780
 https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.riovalejornal.com.br/wazzah/site/wp-content/uploads/2012/08/logo_unisc_tv.jpg" group-title="Públicos/Educativos - Brasil", Futura / Unisc TV (Santa Cruz do Sul/RS)
-https://tv.unisc.br/hls/test.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos - Brasil", Rede Minas (Belo Horizonte/MG)
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
@@ -330,9 +330,6 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="Regionais Fechados/Web - Brasil", TV Aberta SP (São Paulo/SP)
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9179/cabecalho-9179-20240508203623.png" group-title="Regionais Fechados/Web - Brasil", TV Capital do Piauí (Teresina/PI)
-https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w457351823.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="Regionais Fechados/Web - Brasil", TV Cidade Canal 9 (Teresópolis/RJ)
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 
@@ -404,12 +401,6 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/Canal10_squ-Square.png" group-title="Regionais - América Latina", Canal 10 (Yucatán /México)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zK0tKyT.png?1" group-title="Regionais - América Latina", Canal CNC (Medellín/Colômbia)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1475
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Regionais - América Latina", Canal Provincial / Telered (Argentina)
-https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2c0c3a77e41135193f0d7790ba36711e44b7bf7574ab651ac3e61c2589de014a.png" group-title="Regionais - América Latina", Ecotel Tv (Loja/Equador)
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
@@ -513,9 +504,6 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fb.paineladmin.com.br/arquivos/8303/logo_face-8303-20200929212852.jpg" group-title="Variedades - Brasil", TV Mais Brasil (Jundiaí/SP)
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RJDTJ9u.png" group-title="Variedades - Brasil", TV Rabelo (São Luís/MA)
-https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/tvsonata.com.br/images/logo/logo_41889640.png" group-title="Variedades - Brasil", TV Sonata (Caieiras/SP)
 https://stmv1.video.cloudstream.com.br/tiago/tiago/playlist.m3u8
 
@@ -575,9 +563,6 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Variedades - Mundo", Azteca Internacional - Pluto TV (México)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Variedades - Mundo", BHTV (Peru)
-https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Variedades - Mundo", Canal Once (México)
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
@@ -589,9 +574,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variedades - Mundo", Estrella TV - Samsung TV Plus (EUA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatvsmsng-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/images/logos/teleformula-350x183.png" group-title="Variedades - Mundo", TeleFórmula - Pluto TV (México)
-PlutoTV INDISPONÍVEL - https://jmp2.uk/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1024px-TeleMadrid.svg.png" group-title="Variedades - Mundo", TeleMadrid (Espanha)
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
@@ -731,7 +713,8 @@ INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="Comédia", Chaves (Brasil)
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central - Pluto TV http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central - Pluto TV (Brasil)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Comédia", Escolinha do Professor Raimundo (Brasil)
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
@@ -803,9 +786,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf00074
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700029OC_20220621T075643SQUARE.png_20220621075645.png" group-title="Comédia", FailArmy - Samsung TV Plus (Suíça)
 https://6e7da950326e49ec84ab577249b1fc21.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just for Laughs - Pluto TV (Espanha)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Comédia", Just For Laughs - Samsung TV Plus (Brasil)
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -872,9 +852,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="Cultura e Arte", Classic Arts Showcase (EUA)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Cultura e Arte", Pluto TV Music (Reino Unido)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 >> DOCUMENTÁRIOS
@@ -1078,9 +1055,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Entretenimento e Reality Shows", Multishow (Brasil)
 http://dzcdn.vood.top:80/hls/377243_.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Entretenimento e Reality Shows", Nosey Escândalos - Samsung TV Plus (Brasil)
-https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p8543319_b_h8_aa.jpg" group-title="Entretenimento e Reality Shows", O Encantador de Cães - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1103,6 +1077,9 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Entretenimento e Reality Shows", Casos de la Dra. Polo - Pluto TV (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Entretenimento e Reality Shows", Spike ¡extremo! - Pluto TV (EUA)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/SG_Susana.png" group-title="Entretenimento e Reality Shows", Susana Giménez - Pluto TV (Argentina)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1143,7 +1120,7 @@ https://watchmojo-1-ca.tcl.wurl.tv/playlist.m3u8
 >> ESPORTE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="Esporte", BandSports (São Paulo/SP)
-https://cdn-2.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
+https://cdn-3.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="Esporte", CazéTV - Samsung TV Plus (Brasil)
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -1152,7 +1129,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1280px-Fish_TV_logo_2022.svg.png" group-title="Esporte", Fish TV (Porto Alegre/RS)
-https://cdn-2.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Esporte", Fuel TV - Samsung TV Plus (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
@@ -1161,7 +1138,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/pla
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://nsctv.com.br/novosite/wp-content/uploads/2020/10/logo_NSC-720x486-1.png" group-title="Esporte", NSC - National Sports Channel (São Paulo/SP)
-https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
+https://cdn-3.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Esporte", Pluto TV Esportes (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1219,9 +1196,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c
 #EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/afa6535a-6819-46b8-bf53-e6ab2416fb47.jpg" group-title="Esporte", Realmadrid TV - Pluto TV (Brasil)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="Esporte", Spike ¡extremo! - Pluto TV (EUA)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Esporte", Surf Channel - Samsung TV Plus (Espanha)
 https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8?ads.wurl_channel=969&ads.wurl_name=SurfChannel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -1231,19 +1205,13 @@ https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1024px-DAZN_Logo_Master.svg.png" group-title="Esporte", DAZN Women's Football - Pluto TV (Brasil)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://imgur.com/24Q8Kav.png" group-title="Esporte", Fite by Triller (EUA)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2522
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VCDr7F.png" group-title="Esporte", Hard Knocks Fight Championship - Samsung TV Plus (Brasil)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_hardknocks_002.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/venDYu7.png" group-title="Esporte", Origin Sports (EUA)
 https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20220511T002618SQUARE.png_20220511002619.png" group-title="Esporte", Outside - Samsung TV Plus (EUA)
-https://outside-tv-samsung.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png" group-title="Esporte", PFL MMA - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1809,7 +1777,7 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20230321T235935SQUARE.png_20230321235935.png" group-title="Game Shows", Estrella Games - Samsung TV Plus (EUA)
 https://dzvxsnyfypf89.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-capgn47t0bph3-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuYDVnj.png" group-title="Game Shows", Minuto Para Ganar - Pluto TV (Argentina)
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2020/4/23/MPG_S1-Logo-1920x1080.jpg" group-title="Game Shows", Minuto Para Ganar - Pluto TV (Argentina)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" group-title="Game Shows", Sony Canal Competencias - Samsung TV Plus (EUA)
@@ -1860,7 +1828,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Gastronomia", Sabor & Arte (Brasil)
-INDISPONÍVEL - https://cdn-3.nxplay.com.br/SABOR_E_ARTE/index.m3u8
+https://cdn-3.nxplay.com.br/SABOR_E_ARTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="Gastronomia", Sabor & Arte 2 - Samsung TV Plus (Brasil)
 https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8
@@ -2172,7 +2140,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c0
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantil e Desenhos", Tooncast (Brasil)
-https://cdn-2.nxplay.com.br/TOONCAST_TK/index.m3u8
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gqtzCI7.png" group-title="Infantil e Desenhos", TVR - Soul TV (Brasil)
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
@@ -2278,9 +2246,6 @@ https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YseBxh6.png" group-title="Música", Classic Rock Network (Reino Unido)
 https://cdn17.fntvchannel.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Música", Clubbing TV - Pluto TV (Alemanha)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Música", Clubbing TV - Samsung TV Plus (Brasil)
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -2379,9 +2344,6 @@ https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20230712T021349SQUARE.png_20230712021349.png" group-title="Música", Sol Música - Samsung TV Plus (Espanha)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://global-uploads.webflow.com/5e77b28abc62624fd38a51b0/61bf3ddf45ba8d1200abff03_61b2693759e5ab0c54917acb_staccs.png" group-title="Música", STACCS - Pluto TV (Suécia)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317047f19d9930007fa8456/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380006050_20240508T020903SQUARE.png" group-title="Música", Stingray Classica - Samsung TV Plus (Brasil)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_stingrayclassica_002.m3u8
@@ -2602,9 +2564,6 @@ https://d1d95aoj1juizd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20230809T005126SQUARE.png_20230809005127.png" group-title="Música - Canais Vevo", Vevo Pop - Samsung TV Plus (Reino Unido)
 https://d2g0vxybsz6hsr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x9zzce8l5rccc/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7536b705-db84-4d18-8054-cf23f3e1e526/CTV_Channel_Art__Vevo_Reggaeton___Trap.png" group-title="Música - Canais Vevo", Vevo Reggaeton & Trap - Pluto TV (EUA)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Música - Canais Vevo", Vevo Retro Rock - Samsung TV Plus (EUA)
 https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
@@ -2616,9 +2575,6 @@ https://d1cbrvawkqonk9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200015Q1_20230426T031137SQUARE.png_20230426031137.png" group-title="Música - Canais Vevo", Vevo R&B - Samsung TV Plus (EUA)
 https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/8c3c0a38-7c9a-4515-87c7-bced363ec4a2/CTV_Channel_Art__Vevo_True_School_Hip_Hop.png" group-title="Música - Canais Vevo", Vevo True School Hip-Hop - Pluto TV (EUA)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 >> MÚSICA - CANAIS XITE
@@ -2686,8 +2642,8 @@ Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f3
 
 >> NOTÍCIAS
 
-#EXTINF:-1 tvg-logo="https://bandnewstv.uol.com.br/img/LOGO_BN_COLORIDO2.png" group-title="Notícias", BandNews TV (Brasil)
-https://cdn-2.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1024px-BandNewsTV2024.svg.png" group-title="Notícias", BandNews TV (Brasil)
+https://cdn-3.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KLatQEl.png" group-title="Notícias", Breaking News by LeadStory - Samsung TV Plus (Brasil)
 https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
@@ -2769,9 +2725,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f9
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title="Notícias", RT en Español (Rússia)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20230321T235911SQUARE.png_20230321235912.png" group-title="Notícias", Telemundo Al Día - Samsung TV Plus (EUA)
-https://dmfxzlz63pfyh.cloudfront.net/10508/9999544/hls/master.m3u8?ads.xumo_channelId=9999544&ads.caid=telemundoaldia_linear&ads.csid=samsungtvplus_us_telemundoaldia_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137391198&ads.sfid=16772609&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=telemundoaldia&ads.xumo_providerId=2561&ads.xumo_providerName=telemundoaldia&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=telemundoaldia&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="Notícias", Telemundo California - Samsung TV Plus (EUA)
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
@@ -2817,7 +2770,7 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" group-title="Notícias", NBC News Now - Pluto TV (EUA)
-ttps://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/1078px-Press_Tv_logo.svg.png" group-title="Notícias", Press TV (Irã)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
@@ -2841,7 +2794,7 @@ https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/ind
 >> NOTÍCIAS - AGRO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="Notícias - Agro", Agro+ (São Paulo/SP)
-https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
+https://cdn-3.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.agrobrasiltv.com.br/l-t.f89fcf65.png" group-title="Notícias - Agro", AgroBrasil TV (Campo Grande/MS)
 https://agrobrasiltv.easynet.com.br/memfs/e1f7edaa-38b1-4a53-9f58-9068d06972a2.m3u8
@@ -2875,9 +2828,6 @@ https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w7548606
 
 #EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias - Economia e Empreendedorismo", BM&C NEWS - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias - Economia e Empreendedorismo", BM&C NEWS - YouTube (São Paulo/SP)
-https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
 
 #EXTINF:-1 tvg-logo="https://inova360.com/wp-content/uploads/2019/07/inova360-logo.png" group-title="Notícias - Economia e Empreendedorismo", Inova 360 - Soul TV (Brasil)
 https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
@@ -3075,7 +3025,7 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Retrô", Tooncast (Brasil)
-https://cdn-2.nxplay.com.br/TOONCAST_TK/index.m3u8
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Retrô", Urban Retro (São José/SC)
 INDISPONÍVEL
@@ -3235,7 +3185,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ6Q0mI.png" group-title="Pós-TV", NatureStream TV - Distro TV (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Pós-TV", Oportunidades.TV (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/1PFvP6e" group-title="Pós-TV", Oportunidades.TV (Brasil)
 http://maistop.net:80/live/free/free/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13vyZaJ.png" group-title="Pós-TV", Quietude 4K - Distro TV (EUA)
