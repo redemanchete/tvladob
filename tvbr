@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 20/11/2024
+ATUALIZADA EM 22/11/2024
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -2829,8 +2829,14 @@ https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w7548606
 #EXTINF:-1 tvg-logo="https://bmcnews.com.br/wp-content/uploads/2023/01/logo-bmc_308x70-Branco_2-1.png" group-title="Notícias - Economia e Empreendedorismo", BM&C NEWS - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/cnn_money_logo.png" group-title="Notícias - Economia e Empreendedorismo", CNN Brasil Money - Samsung TV Plus (Brasil)
+https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?channel_code=cnnmoney?token=5ebb3b53e2d3451fd788b6864b84364de2d37ed8-73fae8b191e3e386a4a3d2d2fb886acf-1731110573-1731067373
+
 #EXTINF:-1 tvg-logo="https://inova360.com/wp-content/uploads/2019/07/inova360-logo.png" group-title="Notícias - Economia e Empreendedorismo", Inova 360 - Soul TV (Brasil)
 https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/1024px-Times_Brasil_CNBC_logo.svg.png" group-title="Notícias - Economia e Empreendedorismo", Times Brasil / CNBC (Brasil)
+https://live-b2.cf.dmcdn.net/sec2(dHZLDKrvHEzVuU2dNlFqbEMsm019OzAchM25nYZzb5HTtt5q-YNQxSHQzL1Q0-DzXw4vu1tZpIJz-0NZWSNP_XubjpYycIzrtHq6G3UmxTgTG1Hx546x3rG0uQgW0kso)/cloud/3/x99a9pe/s/live-240.m3u8#cell=lcfb2
 
 #EXTINF:-1 tvg-logo="https://imgur.com/i8CLBfx.png" group-title="Notícias - Economia e Empreendedorismo", Veza TV - Soul TV (Brasil)
 https://vezatv.mediastreaming.com.br/vezatv/live.stream/chunks.m3u8
