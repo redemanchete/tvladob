@@ -144,9 +144,6 @@ https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png" group-title="Redes Abertas e Afiliadas - Brasil", RBTV (São Paulo/SP)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3UFU3YL.png" group-title="Redes Abertas e Afiliadas - Brasil", RBTV / TV Marrecas (Francisco Beltrão/PR)
-https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Record (São Paulo/SP)
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
 
@@ -177,9 +174,6 @@ https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c00d6e_ed3ce9d662144c8fa0c70eb288d9d9fd~mv2.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! Paraná (Curitiba/PR)
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_RedeTV%21_TO.png/200px-Logotipo_da_RedeTV%21_TO.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! Tocantins (Palmas/TO)
-https://hubwatch.online/RedeTVTO/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / O Dia TV (Teresina/PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 
@@ -195,20 +189,17 @@ https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/sbt-interior-logo-1.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT Interior (Araçatuba/SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logotipo_do_SBT_Rio.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT Rio - YouTube (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logotipo_do_SBT_Rio.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT Rio - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Rio de Janeiro/RJ)
 https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_RS.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT RS - YouTube (Porto Alegre/RS)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_RS.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT RS - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Porto Alegre/RS)
 https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Cidade Verde (Teresina/PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png/1024px-Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica - YouTube (Manaus/AM)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png/1024px-Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Manaus/AM)
 https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtntv.online/wp-content/uploads/sites/23/2024/01/logo-rodape.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / RTN TV (São Paulo/SP)
-https://tv01.zas.media:1936/rtntv/rtntv/chunklist_w2107813957.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7EgbMZl.png" group-title="Redes Abertas e Afiliadas - Brasil", TV Meio (Teresina/PI)
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
@@ -258,7 +249,7 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Abertos - Brasil", TV Padre Cícero - aberto TVRO (Juazeiro do Norte/CE)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvrbc.com.br/wp-content/uploads/2020/11/LOGO-TV-RBC.png" group-title="Regionais Abertos - Brasil", TV RBC - aberto StarOne C2 (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://tvrbc.com.br/wp-content/uploads/2020/11/LOGO-SITE.png" group-title="Regionais Abertos - Brasil", TV RBC - aberto StarOne C2 (São Paulo/SP)
 https://5fb29de4928ea.streamlock.net/id2515/id2515/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos - Brasil", TV Santa Cecília (Santos/SP)
@@ -285,7 +276,7 @@ https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9b4759_e475c669f83f49738ff1875f4d6772f6~mv2.png" group-title="Regionais Abertos - Brasil", Vivax TV - aberto TVRO (São Paulo/SP)
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nta9r5G.png" group-title="Regionais Abertos - Brasil", YPÊTV - aberto StarOne D2 (Brasil)
+#EXTINF:-1 tvg-logo="https://ypetv.com.br/wp-content/uploads/2024/08/LOGO-HORIZONTAL-YPE-TV.png" group-title="Regionais Abertos - Brasil", YPÊTV - aberto StarOne D2 (Brasil)
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 
@@ -363,7 +354,7 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cache2net3.com/Repositorio/3106/Logo/ee19d371-e.png" group-title="Regionais Fechados/Web - Brasil", TV Mon (Montenegro/RS)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web - Brasil", TV Nordestina - YouTube (Campina Grande/PB)
+#EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web - Brasil", TV Nordestina - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Campina Grande/PB)
 https://ythls.armelin.one/channel/UC1pXFbM6hPRkUUTeO3txrtw.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="Regionais Fechados/Web - Brasil", TV Otimista (Fortaleza/CE)
@@ -619,7 +610,7 @@ https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://streamstak.com/barktv/wp-content/uploads/sites/55/2024/04/barktv_logo.png" group-title="Bichos", Bark TV (EUA)
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Bichos", Birder King: TV para gatos - YouTube (EUA)
+#EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Bichos", Birder King: TV para gatos - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (EUA)
 https://ythls.armelin.one/channel/UC7wafFu5c8AO0YF5U7R7xFA.m3u8
 
 #EXTINF:-1 tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/10/CATS_247_A_Facebook-1-960x502.jpg" group-title="Bichos", Cats 24/7 - Pluto TV (EUA)
@@ -637,7 +628,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-
 #EXTINF:-1 tvg-logo="https://petloverstv.com.br/storage/357/config/wOGMwRzqM8NFLREhXRIK6xmxvcSrJv4To8JFwehp.jpg" group-title="Bichos", Petlovers TV (São Paulo/SP)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ewQNfJ.png" group-title="Bichos", Relax My Cat - YouTube (EUA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ewQNfJ.png" group-title="Bichos", Relax My Cat - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (EUA)
 https://ythls.armelin.one/channel/UC89zrYB2M6mj00nHdHWD-EA.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ270002855_20230222T042936SQUARE.png_20230222042937.png" group-title="Bichos", The Pet Collective - Pluto TV (Brasil)
@@ -1019,7 +1010,7 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV - Samsung TV Plus (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (São Paulo/SP)
 https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masterchef-logo-8FCDF32710-seeklogo.com.png" group-title="Entretenimento e Reality Shows", MasterChef - LG Channels (Brasil)
@@ -1365,7 +1356,7 @@ https://streamabc.gruposinos.com.br/radio.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="Estúdios de Rádio - Brasil", Atividade FM (Brasília/DF)
 https://cdn.livespanel.com/radioatividade/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png" group-title="Estúdios de Rádio - Brasil", BandNews FM - YouTube (Brasil)
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png" group-title="Estúdios de Rádio - Brasil", BandNews FM - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Brasil)
 https://ythls.armelin.one/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="Estúdios de Rádio - Brasil", Blink 102 FM (Campo Grande/MS)
@@ -1463,7 +1454,7 @@ https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeira
 #EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Estúdios de Rádio - Brasil", Rádio Encontro das Águas (Manaus/AM)
 https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A1dio_Itatiaia_logo_2022.svg/1024px-R%C3%A1dio_Itatiaia_logo_2022.svg.png" group-title="Estúdios de Rádio - Brasil", Rádio Itatiaia - YouTube (Belo Horizonte/MG)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A1dio_Itatiaia_logo_2022.svg/1024px-R%C3%A1dio_Itatiaia_logo_2022.svg.png" group-title="Estúdios de Rádio - Brasil", Rádio Itatiaia - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Belo Horizonte/MG)
 https://ythls.armelin.one/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="Estúdios de Rádio - Brasil", Rádio Planalto FM (Passo Fundo/RS)
@@ -1475,7 +1466,7 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w18407813
 #EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_qfm979.png" group-title="Estúdios de Rádio - Brasil", Rádio Q FM (Viçosa/MG)
 https://qfm.geraistec.com.br/hlsq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio - Brasil", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio - Brasil", Rádio Tupi - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Rio de Janeiro/RJ)
 https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio - Brasil", Rede Metropolitana (Taubaté/SP)
@@ -2654,7 +2645,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1024px-CNN_Portugal.svg.png" group-title="Notícias", CNN Portugal - RedeItv (Brasil)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0am6O8k.png" group-title="Notícias", DCM TV - YouTube (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/0am6O8k.png" group-title="Notícias", DCM TV - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (São Paulo/SP)
 https://ythls.armelin.one/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Notícias", Euronews em Português (França)
@@ -2678,7 +2669,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.s3.us-east-1.amazonaws.com/thumb-sic-noticias.png" group-title="Notícias", SIC Notícias (Portugal)
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="Notícias", TV 247 - YouTube (Cotia/SP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="Notícias", TV 247 - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Cotia/SP)
 https://ythls.armelin.one/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
 
 #EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/tvoreporter.jpeg" group-title="Notícias", TV O Reporter (São José/SC)
@@ -2695,10 +2686,10 @@ INDISPONÍVEL - https://cdn-5.nxplay.com.br/CANAL_ABRIL/tracks-v1a1/mono.m3u8
 
 ---
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EEUGnKM.png" group-title="Notícias", C5N - YouTube (Argentina)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEUGnKM.png" group-title="Notícias", C5N - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Argentina)
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Notícias", Crónica TV - YouTube (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Notícias", Crónica TV - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Argentina)
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Notícias", Deutsche Welle Español (Alemanha)
@@ -3082,7 +3073,7 @@ https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
 #EXTINF:-1 tvg-logo="https://livetvsp.com.br/images/dlogo_7zcbh2gc.png" group-title="Televendas", LiveTV (São Paulo/SP)
 https://live.mediastreaming.com.br/livetvhd/livetv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo-1.png" group-title="Televendas", Polishop - YouTube (Brasil)
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo-1.png" group-title="Televendas", Polishop - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Brasil)
 https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XFGOJFp" group-title="Televendas", TV do Carro (Belo Horizonte/MG)
@@ -3173,7 +3164,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6581
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="Pós-TV", Drone TV - Xiaomi TV+ (EUA)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="Pós-TV", Earth TV - YouTube (Alemanha)
+#EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="Pós-TV", Earth TV - YOUTUBE INDISPONÍVEL - https://ythls.armelin.one/channel/be (Alemanha)
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Pós-TV", Fireplace 4K - Samsung TV Plus (Reino Unido)
