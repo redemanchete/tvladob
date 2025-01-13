@@ -117,8 +117,14 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / TV Grão Pará (Belém/PA)
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Rio (Rio de Janeiro/RJ)
+https://stream1.freetv.fun/globo-rj-1.ctv
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Rio - link 2 (Rio de Janeiro/RJ)
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/136
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo São Paulo (São Paulo/SP)
-https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo / TV Bahia (Salvador/BA)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -139,10 +145,13 @@ https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3UFU3YL.png" group-title="Redes Abertas e Afiliadas - Brasil", RBTV / TV Marrecas (Francisco Beltrão/PR)
-https://5cf4a2c2512a2.streamlock.net/8290/8290/chunklist_w49524398.m3u8
+https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Record (São Paulo/SP)
-INDISPONÍVEL - https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Record Rio (Rio de Janeiro/RJ)
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OAIb1KK.png" group-title="Redes Abertas e Afiliadas - Brasil", Record / TV Amplitude (Juara/MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -169,7 +178,7 @@ https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_RedeTV%21_TO.png/200px-Logotipo_da_RedeTV%21_TO.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! Tocantins (Palmas/TO)
-https://video04.logicahost.com.br/redetvto/redetvto/playlist.m3u8
+https://hubwatch.online/RedeTVTO/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / O Dia TV (Teresina/PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
@@ -187,16 +196,16 @@ https://aovivo.maissbt.com/index.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logotipo_do_SBT_Rio.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT Rio - YouTube (Rio de Janeiro/RJ)
-https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_RS.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT RS - YouTube (Porto Alegre/RS)
-https://livestream.zazerconer.workers.dev/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Cidade Verde (Teresina/PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png/1024px-Logomarca_da_TV_A_Cr%C3%ADtica_-_2024.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica - YouTube (Manaus/AM)
-https://livestream.zazerconer.workers.dev/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtntv.online/wp-content/uploads/sites/23/2024/01/logo-rodape.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / RTN TV (São Paulo/SP)
 https://tv01.zas.media:1936/rtntv/rtntv/chunklist_w2107813957.m3u8
@@ -355,7 +364,7 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web - Brasil", TV Nordestina - YouTube (Campina Grande/PB)
-https://livestream.zazerconer.workers.dev/channel/UC1pXFbM6hPRkUUTeO3txrtw.m3u8
+https://ythls.armelin.one/channel/UC1pXFbM6hPRkUUTeO3txrtw.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="Regionais Fechados/Web - Brasil", TV Otimista (Fortaleza/CE)
 https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
@@ -611,7 +620,7 @@ https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="https://rockntech.com.br/wp-content/uploads/2011/06/cama-gatos-tv-reciclada.jpg" group-title="Bichos", Birder King: TV para gatos - YouTube (EUA)
-https://livestream.zazerconer.workers.dev/channel/UC7wafFu5c8AO0YF5U7R7xFA.m3u8
+https://ythls.armelin.one/channel/UC7wafFu5c8AO0YF5U7R7xFA.m3u8
 
 #EXTINF:-1 tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/10/CATS_247_A_Facebook-1-960x502.jpg" group-title="Bichos", Cats 24/7 - Pluto TV (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -629,7 +638,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ewQNfJ.png" group-title="Bichos", Relax My Cat - YouTube (EUA)
-https://livestream.zazerconer.workers.dev/channel/UC89zrYB2M6mj00nHdHWD-EA.m3u8
+https://ythls.armelin.one/channel/UC89zrYB2M6mj00nHdHWD-EA.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ270002855_20230222T042936SQUARE.png_20230222042937.png" group-title="Bichos", The Pet Collective - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1011,7 +1020,7 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV - YouTube (São Paulo/SP)
-https://livestream.zazerconer.workers.dev/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/masterchef-logo-8FCDF32710-seeklogo.com.png" group-title="Entretenimento e Reality Shows", MasterChef - LG Channels (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
@@ -1357,7 +1366,7 @@ https://streamabc.gruposinos.com.br/radio.m3u8
 https://cdn.livespanel.com/radioatividade/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png" group-title="Estúdios de Rádio - Brasil", BandNews FM - YouTube (Brasil)
-https://livestream.zazerconer.workers.dev/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
+https://ythls.armelin.one/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="Estúdios de Rádio - Brasil", Blink 102 FM (Campo Grande/MS)
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
@@ -1455,7 +1464,7 @@ https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeira
 https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A1dio_Itatiaia_logo_2022.svg/1024px-R%C3%A1dio_Itatiaia_logo_2022.svg.png" group-title="Estúdios de Rádio - Brasil", Rádio Itatiaia - YouTube (Belo Horizonte/MG)
-https://livestream.zazerconer.workers.dev/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
+https://ythls.armelin.one/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="Estúdios de Rádio - Brasil", Rádio Planalto FM (Passo Fundo/RS)
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
@@ -1467,7 +1476,7 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w18407813
 https://qfm.geraistec.com.br/hlsq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio - Brasil", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
-https://livestream.zazerconer.workers.dev/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_R%C3%A1dio_Metropolitana_%28Mogi%29.png" group-title="Estúdios de Rádio - Brasil", Rede Metropolitana (Taubaté/SP)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
@@ -2646,7 +2655,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0am6O8k.png" group-title="Notícias", DCM TV - YouTube (São Paulo/SP)
-https://livestream.zazerconer.workers.dev/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8
+https://ythls.armelin.one/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Notícias", Euronews em Português (França)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
@@ -2670,7 +2679,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="Notícias", TV 247 - YouTube (Cotia/SP)
-https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
+https://ythls.armelin.one/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
 
 #EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/tvoreporter.jpeg" group-title="Notícias", TV O Reporter (São José/SC)
 https://stream.uniquetv.com.br/tvoreporter/tracks-v1a1/mono.m3u8
@@ -2687,10 +2696,10 @@ INDISPONÍVEL - https://cdn-5.nxplay.com.br/CANAL_ABRIL/tracks-v1a1/mono.m3u8
 ---
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EEUGnKM.png" group-title="Notícias", C5N - YouTube (Argentina)
-https://livestream.zazerconer.workers.dev/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Notícias", Crónica TV - YouTube (Argentina)
-https://livestream.zazerconer.workers.dev/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Notícias", Deutsche Welle Español (Alemanha)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -3074,7 +3083,7 @@ https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
 https://live.mediastreaming.com.br/livetvhd/livetv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo-1.png" group-title="Televendas", Polishop - YouTube (Brasil)
-https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
+https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XFGOJFp" group-title="Televendas", TV do Carro (Belo Horizonte/MG)
 https://tv02.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
@@ -3165,7 +3174,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6581
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="Pós-TV", Earth TV - YouTube (Alemanha)
-https://livestream.zazerconer.workers.dev/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB260002016_20221229T010709SQUARE.png_20221229010710.png" group-title="Pós-TV", Fireplace 4K - Samsung TV Plus (Reino Unido)
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
