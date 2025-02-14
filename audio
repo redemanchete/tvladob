@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 17/01/2025
+ATUALIZADA EM 13/02/2025
 
 
 >> RÁDIO FM - BRASIL
@@ -108,7 +108,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.a
 https://stream2.svrdedicado.org/8334/stream
 
 #EXTINF:-1 tvg-logo="https://paradisorio.fm/assets/img/APP-LAYOUT-PARADISO-CAPA.jpg" group-title="Rádio FM - Brasil", 95.7 - Paradiso Rio (Rio de Janeiro/RJ)
-https://playerservices.streamtheworld.com/api/livestream-redirect/PARADISO.mp3
+https://8110.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio212646_1675340347.png" group-title="Rádio FM - Brasil", 95.7 - EP FM (Araraquara/SP)
 https://a5.asurahosting.com:7480/radio.mp3
@@ -200,6 +200,9 @@ https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream&1725596324025
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Rádio FM - Brasil", 100.9 - Rádio Clube (Foz do Iguaçu/PR)
 https://9105.brasilstream.com.br/stream
 
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/675846de2813d.png" group-title="Rádio FM - Brasil", 101.3 - Nostalgia FM (Florianópolis/SC)
+https://stm01.virtualcast.com.br:8398/nostalgiafloripa
+
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_beiramarfm1015.png" group-title="Rádio FM - Brasil", 101.5 - Beira Mar FM (Ubatuba/SP)
 https://sws.onradio.biz/9822/stream
 
@@ -271,6 +274,9 @@ http://148.72.158.239:8010/live
 
 #EXTINF:-1 tvg-logo="https://www.uniaofm.com.br/wp-content/themes/radiouniaotheme/images/logo-radio-uniao.png" group-title="Rádio FM - Brasil", 105.3 - União FM (Novo Hamburgo/RS)
 https://stream.ouveai.com.br/proxy/uniaonh?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://zydigital.com.br/wp-content/uploads/zy_logos/logo-57dbac4885ec7.png" group-title="Rádio FM - Brasil", 105.7 - Musical FM (São Paulo/SP)
+https://9176.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14994_1551112308.jpg" group-title="Rádio FM - Brasil", 105.7 - Unesp FM (Bauru/SP)
 https://audio.tv.unesp.br/unespfm
@@ -607,6 +613,9 @@ https://s41.maxcast.com.br:8042/live?1737092348785
 
 #EXTINF:-1 tvg-logo="http://www.radiodeleite.com.br/admin/assets/img/users/6152-2021-05-24.jpg" group-title="Web Rádio - Brasil", Rádio Deleite (Vinhedo/SP)
 https://stream1.svrdedicado.org/8186/stream
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d7dbb3_3c4bfda2ece24c1184ba8a66513dc5c0~mv2.png" group-title="Web Rádio - Brasil", Rádio Eixo (Brasília/DF)
+https://hts02.brascast.com:9758/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio117969_1658511655.jpg" group-title="Web Rádio - Brasil", Rádio Freestyle Miami Bass Brasil (Maceió/AL)
 http://stream-153.zeno.fm/vasq7hyd7bruv
