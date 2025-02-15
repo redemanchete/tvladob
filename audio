@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 13/02/2025
+ATUALIZADA EM 15/02/2025
 
 
 >> RÁDIO FM - BRASIL
@@ -207,7 +207,7 @@ https://stm01.virtualcast.com.br:8398/nostalgiafloripa
 https://sws.onradio.biz/9822/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27259_1623771181.png" group-title="Rádio FM - Brasil", 101.5 - Frei Caneca FM (Recife/PE)
-https://centova.transmissaodigital.com:20010/stream
+https://s03.transmissaodigital.com:6842/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5ff1e906b9fbd.png" group-title="Rádio FM - Brasil", 101.5 - SpaceSex (Vitória/ES)
 https://9158.brasilstream.com.br/stream
@@ -248,7 +248,7 @@ https://sv12.hdradios.net:7852/stream
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/fb/09/fb09d678d04a41ca612e6f809ddac82a.jpg" group-title="Rádio FM - Brasil", 103.9 - Stereo Vale FM (São José dos Campos/SP)
 https://stm11.xcast.com.br:12086/stream
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a53607_0802dd9366cb49a7b67e0510fe1b751e~mv2.png" group-title="Rádio FM - Brasil", 103.9 - Tempo FM (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/727714090/Avatar-10__3_.png" group-title="Rádio FM - Brasil", 103.9 - Tempo FM (Fortaleza/CE)
 http://r13.ciclano.io:8609/live
 
 #EXTINF:-1 tvg-logo="https://www.estacao104fm.com.br/imagens/logo2.png" group-title="Rádio FM - Brasil", 104.1 - Estação 104 FM (Iguaba Grande/RJ)
