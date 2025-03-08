@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 13/02/2025
+ATUALIZADA EM 08/03/2025
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -118,10 +118,10 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo Rio (Rio de Janeiro/RJ)
-https://stream1.freetv.fun/globo-rj-1.ctv
+https://lvstr.cfd/globorj-globorio/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVGlobo_2024_red.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo São Paulo (São Paulo/SP)
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo / TV Bahia (Salvador/BA)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -139,10 +139,10 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Record (São Paulo/SP)
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Record Rio (Rio de Janeiro/RJ)
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OAIb1KK.png" group-title="Redes Abertas e Afiliadas - Brasil", Record / TV Amplitude (Juara/MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -738,7 +738,7 @@ INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="Comédia", Parafernalha (Brasil)
-https://fast-channels.b-cdn.net/parafernalha/aovivo_abr/parafernalha/aovivo_720p/chunks.m3u8?bpkio_serviceid=9978b7063e297d841e821205cc9b62c6&bpkio_sessionid=10e1b45a56-d0931d8d-34ef-47aa-8559-d79602b71fa4&category=all&mm_sp&token=38d52e99e0d2988dbd990c417183d1f41eb72a5e-1b6f5a7162d8fddfa2dbdc55c2f6a821-1738054660-1738011460
+https://cdn-5.nxplay.com.br/parafernaria/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Comédia", Pluto TV Comédia (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -820,7 +820,7 @@ https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 >> CULTURA E ARTE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="Cultura e Arte", Arte1 (São Paulo/SP)
-https://super-cdn.link/arte1/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Cultura e Arte", Canal Curta! (Rio de Janeiro/RJ)
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
@@ -1071,7 +1071,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Entretenimento e Reality Shows", Multishow (Brasil)
-https://super-cdn.link/multishow/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p8543319_b_h8_aa.jpg" group-title="Entretenimento e Reality Shows", O Encantador de Cães - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1138,7 +1138,7 @@ https://younghollywood-tcl.amagi.tv/playlist.m3u8
 >> ESPORTE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="Esporte", BandSports (São Paulo/SP)
-http://super-cdn.link/bandsports/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="Esporte", CazéTV - Samsung TV Plus (Brasil)
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -1249,8 +1249,14 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 >> ESPORTE - CARROS E AUTOMOBILISMO
 
+#EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="Esporte - Carros e Automobilismo", Acelerados (Brasil)
+https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/OIufiKz" group-title="Esporte - Carros e Automobilismo", Auto TV (Belo Horizonte/MG)
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7n9A4J9.png" group-title="Esporte - Carros e Automobilismo", GPTV - LG Channels (Brasil)
+https://fast-channels.b-cdn.net/grandepremio/aovivo_abr/grandepremio/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d8484543b659539b184
 
 #EXTINF:-1 tvg-logo="https://jwnews.com.br/wp-content/uploads/2024/03/435259_1098930_logo_mavtv_br_web_.jpeg" group-title="Esporte - Carros e Automobilismo", MAVTV Brasil - Pluto TV (Brasil)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -1299,7 +1305,7 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Fit_Dance_BR/Fit_Dance.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Estilo de Vida e Bem-Estar", GNT (Brasil)
-https://super-cdn.link/gnt/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QlwoWsH.png" group-title="Estilo de Vida e Bem-Estar", Royal World TV (Brasil)
 https://amogo-networx-royalworldnobrezaedinastias-1-br.vidaa.wurl.tv/playlist.m3u8
@@ -1535,6 +1541,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="Filmes", Channel 1 (Brasil)
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="Filmes", Charlie TV (Brasil)
+https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="Filmes", Cindie Lite - Samsung TV Plus (Brasil)
 https://cdn-fast.nxtv.com.br/scheduler/scheduleMaster/352.m3u8?bpkio_sessionid=10c1d1a210-08c3c93c-f9af-45aa-9108-56b73bb70bc0&bpkio_serviceid=9978b7063e297d84a57607936ca20edb&category=all
 
@@ -1546,6 +1555,12 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/noticias/br/2024/05/logo-filmelier-interna.png" group-title="Filmes", Filmelier TV - Samsung TV Plus (Brasil)
 https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="Filmes", Free TV Crime (EUA)
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="Filmes", Free TV Drama (EUA)
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Filmes", Grjngo - Samsung TV Plus (Brasil)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
@@ -2133,8 +2148,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580e
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD170001589_20240522T015201SQUARE.png" group-title="Infantil e Desenhos", Pocoyo - Samsung TV Plus (Brasil)
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Infantil e Desenhos", Popeye (Brasil)
-INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-Popeye.S01/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Infantil e Desenhos", Popeye - Pluto TV (Brasil)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Infantil e Desenhos", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -2649,7 +2664,7 @@ Plex INDISPONÍVEL - https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f3
 >> NOTÍCIAS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1024px-BandNewsTV2024.svg.png" group-title="Notícias", BandNews TV (Brasil)
-http://super-cdn.link/bandnews/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KLatQEl.png" group-title="Notícias", Breaking News by LeadStory - Samsung TV Plus (Brasil)
 https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
@@ -2673,7 +2688,7 @@ YOUTUBE INDISPONÍVEL - https://ythls-v3.onrender.com/channel/channel/UCutrj9cR0
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1024px-Logotipo_da_GloboNews.png" group-title="Notícias", GloboNews (Brasil)
-https://super-cdn.link/globonews/index.m3u8
+INDISPONÍVEL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Notícias", Jovem Pan News (São Paulo/SP)
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
@@ -2961,6 +2976,9 @@ INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/chaves.png" group-title="Retrô", Chaves (Brasil)
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="Retrô", Charlie TV (Brasil)
+https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="Retrô", Corrida Maluca (Brasil)
 INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
 
@@ -3021,8 +3039,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Retrô (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Retrô", Popeye (Brasil)
-INDISPONÍVEL - 24hrs.homelinux.com:8080/24H-Popeye.S01/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Popyeye-logo.svg/1024px-Popyeye-logo.svg.png" group-title="Retrô", Popeye - Pluto TV (Brasil)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
