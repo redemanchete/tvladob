@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 13/08/2025
+ATUALIZADA EM 07/10/2025
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -72,7 +72,7 @@ https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png" group-title="Públicos/Educativos - Brasil", TV Cultura Pará (Belém/PA)
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="ttps://i.imgur.com/IVUjkii.png" group-title="Públicos/Educativos - Brasil", TV Paraná Turismo (Curitiba/PR)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="Públicos/Educativos - Brasil", TV Paraná Turismo (Curitiba/PR)
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Identidade_Visual_da_TV_UFMA.png" group-title="Públicos/Educativos - Brasil", TV UFMA (São Luís/MA)
@@ -97,13 +97,10 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/w1CdGsI.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / 40GTV (Lauro de Freitas/BA)
-https://streaming.cloudecast.com/hls/40graus/index.m3u8
+https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvc21.com.br/wp-content/uploads/2022/05/LOGO-SITE-TVC.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / TV Cidade (Araçatuba/SP)
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / TV Grão Pará (Belém/PA)
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Rede_Bahia_logo_%282025%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo / TV Bahia (Salvador/BA)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -126,7 +123,7 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Redes Abertas e Afiliadas - Brasil", Rede Brasil (São Paulo/SP)
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="Redes Abertas e Afiliadas - Brasil", Rede Brasil / TV Marajoara (Ananindeua/PA)
+#EXTINF:-1 tvg-logo="https://www.tvmarajoara.com.br/wp-content/uploads/sites/46/2025/07/cropped-cropped-Logo-Super-Marajoara-2026.png" group-title="Redes Abertas e Afiliadas - Brasil", Rede Brasil / Super TV Marajoara (Ananindeua/PA)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.meionews.com/assets/imgmnlogomarca.jpg" group-title="Redes Abertas e Afiliadas - Brasil", Rede Meio (Teresina/PI)
@@ -155,9 +152,6 @@ YOUTUBE INDISPONÍVEL - https://ythls-v3.onrender.com/channel/channel/UCsRfBAspa
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_RS.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT RS - YouTube (Porto Alegre/RS)
 YOUTUBE INDISPONÍVEL - https://ythls-v3.onrender.com/channel/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logotipo_da_TV_Aratu.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Aratu (Salvador/BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Cidade Verde (Teresina/PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -188,9 +182,6 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w1430935050.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/Logotipothmais.png" group-title="Regionais Abertos - Brasil", TH+ TV (Ribeirão Preto/SP)
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvcidadeverde.com.br/storage/webdisco/logos/371d174f303942df3b554b0e5985c8d4.png" group-title="Regionais Abertos - Brasil", TV Cidade Verde (Cuiabá/MT)
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Regionais Abertos - Brasil", TV Metrópole (Caucaia/CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
@@ -226,7 +217,7 @@ https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BHi6W84.png" group-title="Regionais Fechados/Web - Brasil", Canal Plural (São José dos Campos/SP)
-https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fb.paineladmin.com.br/arquivos/9390/logo_face-9390-20240916105808.jpg" group-title="Regionais Fechados/Web - Brasil", Caraguá TV (Caraguatatuba/SP)
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
@@ -272,9 +263,6 @@ https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="Regionais Fechados/Web - Brasil", TV Metropolitana / ComBrasil (Duque de Caxias/RJ)
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="Regionais Fechados/Web - Brasil", TV Mon (Montenegro/RS)
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="Regionais Fechados/Web - Brasil", TV Nordestina - YouTube (Campina Grande/PB)
 YOUTUBE INDISPONÍVEL - https://ythls-v3.onrender.com/channel/channel/UC1pXFbM6hPRkUUTeO3txrtw.m3u8
@@ -346,7 +334,7 @@ https://video04.logicahost.com.br/assimeportugal/assimeportugal/chunklist_w14321
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9046/cabecalho-9046-20230725105112.png" group-title="Variedades - Brasil", Demais TV (São Paulo/SP)
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w655505424.m3u8
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/byJAMHe.png" group-title="Variedades - Brasil", MasperTV (Porto Alegre/RS)
 https://tv02.zas.media:1936/masper/masper/chunklist_w889341332.m3u8
@@ -354,26 +342,17 @@ https://tv02.zas.media:1936/masper/masper/chunklist_w889341332.m3u8
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Variedades - Brasil", MKK WebTV (São Paulo/SP)
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Variedades - Brasil", New Brasil - Pluto TV (Brasil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Variedades - Brasil", New Brasil - Samsung TV Plus (Brasil)
+https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/k7x4jj3.png" group-title="Variedades - Brasil", Rede Mosaico (São Paulo/SP)
 https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="Variedades - Brasil", Rede Mundo TV (Francisco Beltrão/PR)
-https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
 
 #EXTINF:-1 tvg-logo="https://img77.uenicdn.com/image/upload/v1583204429/business/733d9293-a359-48f2-a11a-488bca886e6f.png" group-title="Variedades - Brasil", Rede UTV Brasil (Descalvado/SP)
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/139/139_img_bg_image_293x165_small.jpg" group-title="Variedades - Brasil", sou[tv.] (Gravataí/RS)
 https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://redesdptv.com.br/wp-content/uploads/2023/01/Design-sem-nome-e1736487500488-1024x625.png" group-title="Variedades - Brasil", SDP TV (Brasil)
-https://video01.kshost.com.br/redesdptv/redesdptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2LFfC8B.png" group-title="Variedades - Brasil", TV Aldeia (Itaocara/RJ)
-https://stmv1.samcast.com.br/giovane7843/giovane7843/chunklist_w505858583.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="Variedades - Brasil", TV Aracati (Aracati/CE)
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
@@ -398,9 +377,6 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="Variedades - Brasil", Wise Play TV (Brasil)
 https://acesso.ecast.site:3142/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/cdVinGm.png" group-title="Variedades - Brasil", WTV Brasil - Soul TV (Brasil)
-https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist_w1776465175.m3u8
 
 
 >> VARIEDADES - MUNDO
@@ -429,9 +405,6 @@ https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="Variedades - Mundo", TV CNB (EUA)
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eCMeuc4.png" group-title="Variedades - Mundo", TV CNB American (EUA)
-https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="Variedades - Mundo", TVI (Portugal)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
@@ -449,9 +422,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Variedades - Mundo", Canal Once (México)
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png" group-title="Variedades - Mundo", Canela TV - LG Channels (México)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variedades - Mundo", Estrella TV - Samsung TV Plus (EUA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatvsmsng-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.coppa=0
 
@@ -463,15 +433,6 @@ https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Variedades - Mundo", Telepacífico (Colômbia)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1148px-Logo_La_1.svg.png" group-title="Variedades - Mundo", TVE: La 1 (Espanha)
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Variedades - Mundo", TV Perú (Peru)
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1024px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Variedades - Mundo", TV Perú Internacional (Peru)
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 ---
 
@@ -508,9 +469,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" group-title="Bichos", The Pet Collective - Samsung TV Plus (Reino Unido)
 https://07f754f8f3aa4f45a494a61ff985a418.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://imgur.com/mMJBJuF.png" group-title="Bichos", TV + Pet - Soul TV (Brasil)
-https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" group-title="Bichos", Vivir con Gatos - Samsung TV Plus (Espanha)
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -544,31 +502,28 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342d
 >> COMÉDIA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Comédia", Chapolin (Brasil)
-http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/1024px-Chaves_logo.svg.png" group-title="Comédia", Chaves (Brasil)
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Comédia", Comedy Central - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Comédia", Escolinha do Professor Raimundo (Brasil)
-http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/9zRRgmQ.png" group-title="Comédia", Futurama (Brasil)
-http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wYyApTk.png" group-title="Comédia", Mr. Bean - Samsung TV Plus (Brasil) 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" group-title="Comédia", Os Simpsons (Brasil)
-http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Comédia", Os Trapalhões (Brasil)
-http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="Comédia", Parafernalha (Brasil)
-https://cdn-5.nxplay.com.br/parafernaria/tracks-v2a1/mono.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TXyeAx1.png" group-title="Comédia", Pegadinhas - RedeTV! Go (Brasil)
 https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
@@ -603,6 +558,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pBpPJYK.png" group-title="Comédia", Animation+ - Plex (EUA)
+https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400013EH_20220413T093439SQUARE.png_20220413093440.png" group-title="Comédia", Dry Bar Comedy - Samsung TV Plus (EUA)
 https://ed26e7d0159f4266a552c44f68472edc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DryBarComedy/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=370&ads.wurl_name=DryBarComedy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -647,7 +605,7 @@ https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HL
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Cultura e Arte", Sesc TV (São Paulo/SP)
-https://psix79kagi.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s2/playlist-1080p.m3u8
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiIwMTk1ZjJhZS05YmUwLTdjNjktOTkyOS00NDBlZDA0NTc5MTUiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1OTg4MTUyNSwiaWF0IjoxNzU5ODgxNTI1LCJleHAiOjE3NTk5Njc5MjUsImp0aSI6IjAxOTVmMmFlLTliZTAtN2M2OS05OTI5LTQ0MGVkMDQ1NzkxNSIsImlzcyI6IlNwYWxsYSJ9.gSim90XPPEw0j1t0yceCONryKyFNv7vGTNoTUS7zmxk&uid=0195f2ae-9be0-7c69-9929-440ed0457915
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BVaNiqk.png" group-title="Cultura e Arte", WhE Play - Samsung TV Plus (Brasil)
 https://amg17288-offgrid-amg17288c5-tcl-us-5917.playouts.now.amagi.tv/playlist.m3u8
@@ -678,7 +636,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 >> DOCUMENTÁRIOS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Xn5e9Z6.png" group-title="Documentários", Fatos Desconhecidos (Brasil)
-http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5b00ef206723937.66d0fe6e1582e.png" group-title="Documentários", Hallo! Doc - Só Play (Brasil)
 https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=0fb1d8ca306aa36413e9cc65e4fe40c35ffb54d0-3661fd422d102d89db1283e72d1e3b4a-1731305419-1731262219
@@ -720,7 +678,7 @@ https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5da
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3MFWC0k.png" group-title="Documentários", Você Sabia? (Brasil)
-http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8
 
 ---
 
@@ -940,6 +898,9 @@ https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="Esporte", CazéTV - Samsung TV Plus (Brasil)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="Esporte", Desimpedidos - Samsung TV Plus (Brasil)
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="Esporte", Esportes Brasília (Brasília/DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 
@@ -952,7 +913,7 @@ https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Esporte", Fuel TV - Samsung TV Plus (Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBC2200009Y8_20240724T012543SQUARE.png" group-title="Esporte", ge Fast - Samsung TV Plus (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/qHZ23Ue.png" group-title="Esporte", ge TV - Samsung TV Plus (Brasil)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/q0BWEK7.png" group-title="Esporte", N Sports - Soul TV (Brasil)
@@ -1010,9 +971,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6
 #EXTINF:-1 tvg-logo="https://imgur.com/bjoyg5Y.png" group-title="Esporte", Glory Kickboxing - Plex (EUA)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YMxN7IZ.png" group-title="Esporte", MODUS Super Series - Pluto TV (Brasil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6752f863cbfdc56330643e9blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png" group-title="Esporte", PFL MMA - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -1039,9 +997,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="Esporte - Carros e Automobilismo", Acelerados (Brasil)
 https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OIufiKz" group-title="Esporte - Carros e Automobilismo", Auto TV (Belo Horizonte/MG)
-https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7n9A4J9.png" group-title="Esporte - Carros e Automobilismo", GPTV - Samsung TV Plus (Brasil)
 https://amg26329-amg26329c1-amgplt0026.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0026/playlist.m3u8
@@ -1098,12 +1053,6 @@ https://amogo-networx-royalworldnobrezaedinastias-1-br.vidaa.wurl.tv/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Salon-LIne_Logo-Baixa.png" group-title="Estilo de Vida e Bem-Estar", Salon Line - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ksaF2A8.png" group-title="Estilo de Vida e Bem-Estar", Universidade da Pessoa - Soul TV (Brasil)
-http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3g7ijoK.png" group-title="Estilo de Vida e Bem-Estar", XR HealthBrasil - Soul TV
-http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-
 ---
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="Estilo de Vida e Bem-Estar", Clic / TV Azteca - Plex (EUA)
@@ -1116,9 +1065,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
 
 ---
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20220323T072552SQUARE.png_20220323072555.png" group-title="Estilo de Vida e Bem-Estar", FashionTV - LG Channels (Brasil)
-https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1610674.png" group-title="Estilo de Vida e Bem-Estar", FashionTV Midnite Haute (EUA)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
@@ -1149,9 +1095,6 @@ https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/27laNDi.png" group-title="Estúdios de Rádio - Brasil", Atividade FM (Brasília/DF)
 https://a.cdni.live/radioatividade/radioatividade/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ccomfm.com.br/wp-content/uploads/2025/05/logo-ccomfm-normal-scaled.png" group-title="Estúdios de Rádio - Brasil", C-COM FM (Além Paraíba/MG)
-https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="Estúdios de Rádio - Brasil", Blink 102 FM (Campo Grande/MS)
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
@@ -1201,9 +1144,6 @@ https://srv1.zcast.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="Estúdios de Rádio - Brasil", Lupa1 FM (Teresina/PI)
 https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8ZDOCUN.png" group-title="Estúdios de Rádio - Brasil", Melphis FM (São José dos Campos/SP)
-https://srv2.zcast.com.br/melphistv/melphistv/playlist.m3u8?hls_ctx=94b1p788
-
 #EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="Estúdios de Rádio - Brasil", Mix FM (Belém/PA)
 https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
 
@@ -1212,9 +1152,6 @@ https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiocidadesc.com.br/img/6949088b4690e894e10262d509b62d6f.png" group-title="Estúdios de Rádio - Brasil", Rádio Cidade (Itapema/SC)
 https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
-
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Estúdios de Rádio - Brasil", Rádio Clube (Foz do Iguaçu/PR)
-https://radioclube.brasilstream.com.br/hls/radioclube/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_culturabrasilsp.png" group-title="Estúdios de Rádio - Brasil", Rádio Cultura Brasil (São Paulo/SP)
 https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
@@ -1243,9 +1180,6 @@ https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w20186446
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--TQ08D4SvTk/W8UbXanhXKI/AAAAAAAA8Ng/okkZdGSV4nwBJj74PtSYuh8vb9tGyymuACK4BGAYYCw/s1600/RADIO_PLANALTO_NEWS_FM_PASSO_FUNDO_RS.jpg" group-title="Estúdios de Rádio - Brasil", Rádio Planalto News (Passo Fundo/RS)
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 
-#EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_qfm979.png" group-title="Estúdios de Rádio - Brasil", Rádio Q FM (Viçosa/MG)
-https://qfm.geraistec.com.br/hlsq/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Estúdios de Rádio - Brasil", Rádio Tupi - YouTube (Rio de Janeiro/RJ)
 YOUTUBE INDISPONÍVEL - https://ythls-v3.onrender.com/channel/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 
@@ -1264,17 +1198,11 @@ https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="Estúdios de Rádio - Brasil", Supra FM (Luziânia/GO)
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fmtropicalfm.com.br/new/wp-content/uploads/2019/05/topo_tropical.jpg" group-title="Estúdios de Rádio - Brasil", Tropical FM (Tupi Paulista/SP)
-https://cdn1.str.srv.br/CM7002/CM7002/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5c19771074385.png" group-title="Estúdios de Rádio - Brasil", TV Diário - Diário FM (Macapá/AP)
 https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
 
 
 >> FILMES
-
-#EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="Filmes", Adrenalina Pura TV - LG Channels (Brasil)
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="Filmes", Adrenalina Pura TV - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1287,9 +1215,6 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Filmes", CineMonde - Soul TV (Brasil)
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes", Darkflix - Soul TV (Brasil)
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/noticias/br/2024/05/logo-filmelier-interna.png" group-title="Filmes", Filmelier TV - Samsung TV Plus (Brasil)
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
@@ -1413,9 +1338,6 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 
 ---
 
-#EXTINF:-1, tvg-logo="https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png" group-title="Filmes", Canela Cinema - LG Channels (México)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="Filmes", Cindie TV (EUA)
 https://cdn-fast.nxtv.com.br/scheduler/scheduleMaster/387/variant/22099961.m3u8?bpkio_serviceid=9978b7063e297d84ec5d68e4110d11fc
 
@@ -1432,9 +1354,6 @@ https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
-
-#EXTINF:-1 tvg-logo="https://cmero-ott-images-svod.ssl.cdn.cra.cz/25ab29a1-05a9-4f82-9d15-129b76f6aa44.png" group-title="Filmes", Bollywood Classic - TCL Channel (EUA)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4154
 
 #EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="Filmes", Charlie TV - TCL Channel (EUA)
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
@@ -1487,12 +1406,6 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Filmes e Séries", Urban Séries (São José/SC)
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Filmes e Séries", V+ TVI (Portugal)
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Younger_TV_Land.png" group-title="Filmes e Séries", Younger - Pluto TV (Brasil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Filmes e Séries", Pluto TV Series Latinas (México)
@@ -1502,15 +1415,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd837642
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ee791e088375d78608bf4e6a90cc046ebc639f3082e3971a997233c969068cb4.png" group-title="Filmes e Séries", Afroland TV - Whale TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=967
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1024px-Ion_logo.svg.png" group-title="Filmes e Séries", ION - TCL Channel (EUA)
-https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1024px-Ion_logo.svg.png" group-title="Filmes e Séries", ION Plus - TCL Channel (EUA)
-https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1024px-Ion_logo.svg.png" group-title="Filmes e Séries", ION Mystery - TCL Channel (EUA)
-https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
 
 
 >> GASTRONOMIA
@@ -1571,7 +1475,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a7/Cybercops-logotipo.jpg" group-title="Geek e Anime", Cybercops (Brasil)
-http://24hrs.homelinux.com:8080/24H-Cybercops.S01/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Cybercops.S01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Death_Note_Logo.png" group-title="Geek e Anime", Death Note - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1583,16 +1487,16 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8?token=cdff858234459725167bf9be74fa5fb3808303a0-0683dcda392f693836ced41447472aa0-1731305419-1731262219
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/62/Jaspion_logo.jpg" group-title="Geek e Anime", Jaspion (Brasil)
-http://24hrs.homelinux.com:8080/24H-jaspion/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-jaspion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sekai-ninja-sen-jiraiya-logo-6996F9C376-seeklogo.com.png" group-title="Geek e Anime", Jiraya (Brasil)
-http://24hrs.homelinux.com:8080/24H-Jiraya/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Jiraya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_Loading.png/640px-Canal_Loading.png" group-title="Geek e Anime", Loading Web TV (São Paulo/SP)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="Geek e Anime", Manual do Mundo - Pluto TV (Brasil)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="Geek e Anime", Manual do Mundo - Samsung TV Plus (Brasil)
+https://amg17288-offgrid-amg17288c2-tcl-us-5005.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Geek e Anime", Naruto - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1646,7 +1550,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50b
 >> INFANTIL E DESENHOS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cVk9Ueo.png" group-title="Infantil e Desenhos", A Vaca e o Frango (Brasil)
-http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://ovicio.com.br/wp-content/uploads/2022/12/20221222-ovicio-forma-humana-das-tartarugas-ninja.jpeg" group-title="Infantil e Desenhos", As Tartarugas Ninja - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1670,10 +1574,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tiFOfmW.png" group-title="Infantil e Desenhos", Coragem - o Cão Covarde (Brasil)
-http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="Infantil e Desenhos", Corrida Maluca (Brasil)
-http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD1700008A3_20240724T012634SQUARE.png" group-title="Infantil e Desenhos", DPA Fast - Samsung TV Plus (Brasil)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
@@ -1685,13 +1589,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e2
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8?token=9267fc0520cb18dabfbcd2d0948b9ac39ffa1fae-32e7e90790d141bea7d9880974db3e1b-1731470422-1731427222
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Little_Lulu_Show.jpg" group-title="Infantil e Desenhos", Luluzinha (Brasil) 
-http://24hrs.homelinux.com:8080/24H-luluzinha/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-luluzinha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/V77GZ7p.png" group-title="Infantil e Desenhos", Manda Chuva (Brasil)
-http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.disneyclips.com/images/images/mickey-donald-rollerskating.png" group-title="Infantil e Desenhos", Mickey & Donald (Brasil)
-http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/moranguinho-logo-EBDD7828E4-seeklogo.com.png" group-title="Infantil e Desenhos", Moranguinho - Pluto TV (Brasil)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1712,7 +1616,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://images.launchbox-app.com/d84590b0-591f-43a0-bdb2-ee08fdbaf875.png" group-title="Infantil e Desenhos", O Fantástico Mundo de Bobby (Brasil) 
-http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tkxMhCr.png" group-title="Infantil e Desenhos", O Reino Infantil - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1721,7 +1625,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f9200078883
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/1024px-The_Flintstones_logo.svg.png" group-title="Infantil e Desenhos", Os Flintstones (Brasil)
-http://24hrs.homelinux.com:8080/24H-osflistony/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-osflistony/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Infantil e Desenhos", Os Jetsons (Brasil)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -1730,16 +1634,16 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="Infantil e Desenhos", Patolino (Brasil)
-http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="Infantil e Desenhos", Pepe Legal (Brasil)
-http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Infantil e Desenhos", Peppa Pig (Brasil)
-http://24hrs.homelinux.com:8080/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Woody_Woodpecker_logo_%28official%29.png" group-title="Infantil e Desenhos", Pica-Pau (Brasil)
-http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Infantil e Desenhos", Pluto TV Desenhos Clássicos (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1760,22 +1664,19 @@ https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Infantil e Desenhos", Retrô Cartoon (São Paulo/SP)
-https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Infantil e Desenhos", Retrô Cartoon - Canal 2 (São Paulo/SP)
-https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8
+https://stmv2.painelvideocast.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Infantil e Desenhos", Scooby Doo (Brasil)
-http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Infantil e Desenhos", Tartaruga Touché (Brasil)
-http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000286F_20220323T071116SQUARE.png_20220323071119.png" group-title="Infantil e Desenhos", Teletubbies - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1024px-Tom_and_Jerry_logo.svg.png" group-title="Infantil e Desenhos", Tom & Jerry (Brasil)
-http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="Infantil e Desenhos", Toon Goggles - Samsung TV Plus (Brasil)
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
@@ -1790,7 +1691,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="Infantil e Desenhos", Zé Buscapé (Brasil)
-http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQS9dl0.png" group-title="Infantil e Desenhos", ZooMoo Kids (Brasil)
 INDISPONÍVEL - https://cdn-5.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
@@ -1911,9 +1812,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Música", Now Rock - Samsung TV Plus (Reino Unido)
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/SkQ9TpC.png" group-title="Música", NPC TV (Portugal)
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C3%93%C4%8Dko_Expres_logo.png" group-title="Música", Ocko Express (República Tcheca)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/playlist.m3u8
@@ -2074,6 +1972,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" group-title="Notícias", Jovem Pan News - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://cdn.tvcidadeverde.com.br/storage/webdisco/logos/371d174f303942df3b554b0e5985c8d4.png" group-title="Notícias", Jovem Pan News / TV Cidade Verde (Cuiabá/MT)
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/1024px-Record_News_logo_2023.svg.png" group-title="Notícias", Record News (São Paulo/SP)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 
@@ -2124,9 +2025,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="Notícias", teleSUR (Venezuela)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/640px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Notícias", TVPE Noticias (Peru)
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-
 ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1024px-ABC_News_logo_2021.svg.png" group-title="Notícias", ABC News (EUA)
@@ -2159,9 +2057,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" group-title="Notícias", NBC News Now - Pluto TV (EUA)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1022px-NHK_World.svg.png" group-title="Notícias", NHK World (Japão)
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Press_TV_logo.png" group-title="Notícias", Press TV (Irã)
 https://live.presstv.ir/hls/presstv.m3u8
 
@@ -2176,9 +2071,6 @@ https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/ind
 
 
 >> NOTÍCIAS - AGRO
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Notícias - Agro", Agro Canal (Campo Grande/MS)
-https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="Notícias - Agro", Canal do Boi (Campo Grande/MS)
 https://aovivo3.equipea.com.br:5443/aovivort/streams/mhfHHraq36aFnEDa1745537219137.m3u8
@@ -2212,9 +2104,6 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
 
 #EXTINF:-1 tvg-logo="https://coletiva.net/sites/coletiva/assets/images/coletiva_tv.png" group-title="Notícias - Economia e Mercados", Coletiva TV (Porto Alegre/RS)
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://inova360.com/wp-content/uploads/2019/07/inova360-logo.png" group-title="Notícias - Economia e Mercados", Inova 360 - Soul TV (Brasil)
-https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/1024px-Times_Brasil_CNBC_logo.svg.png" group-title="Notícias - Economia e Mercados", Times Brasil / CNBC - Soul TV (Brasil)
 https://video01.soultv.com.br/timesbrasil/timesbrasil/playlist.m3u8
@@ -2254,25 +2143,19 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Novelas", Pluto TV Novelas (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/66d76d7c08c12_2cddeba49cb72f5c406f15d74499a96d.png" group-title="Novelas", RBTI+ - Só Play (Brasil)
-https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
+#EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="Novelas", TVI Ficção (Portugal)
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="Novelas", Wedotv Amor - Samsung TV Plus (Brasil)
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
 
 ---
 
-#EXTINF:-1, tvg-logo="https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png" group-title="Novelas", Canela Telenovelas - LG Channels (México)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgmx/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20230628T012819SQUARE.png_20230628012819.png" group-title="Novelas", Corazón - Samsung TV Plus (Espanha)
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Novelas", RCN Más - TCL Channel (EUA)
 https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Novelas", Televisa - Samsung TV Plus (Itália)
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8\
 
 
 >> RETRÔ
@@ -2281,7 +2164,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8\
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/A-Grande-Fam%C3%ADlia-logo.jpg" group-title="Retrô", A Grande Família (Brasil)
-http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-768x353.png" group-title="Retrô", AWTV (São Paulo/SP)
 https://streaming.cloudecast.com/hls/awtv/index.m3u8
@@ -2293,25 +2176,25 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Retrô", Classique TV (Brasil)
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
+https://stmv2.painelvideocast.com.br/classique/classique/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Retrô", Classique TV Séries (Brasil)
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Retrô", Chapolin (Brasil)
-http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/1024px-Chaves_logo.svg.png" group-title="Retrô", Chaves (Brasil)
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="Retrô", Corrida Maluca (Brasil)
-http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tRae10A.png" group-title="Retrô", Diff'rent Strokes Arnold - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Retrô", Escolinha do Professor Raimundo (Brasil)
-http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png" group-title="Retrô", Grjngo - Samsung TV Plus (Brasil)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
@@ -2320,43 +2203,43 @@ http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=546bf65c4a5f9ac44d9ddd3422d6803a06a7a021-7a7b2c0bc8087d2810bf62fd50306b1c-1731305419-1731262219
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Little_Lulu_Show.jpg" group-title="Retrô", Luluzinha (Brasil) 
-http://24hrs.homelinux.com:8080/24H-luluzinha/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-luluzinha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MacGyver.svg/1280px-MacGyver.svg.png" group-title="Retrô", MacGyver - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/V77GZ7p.png" group-title="Retrô", Manda Chuva (Brasil)
-http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.disneyclips.com/images/images/mickey-donald-rollerskating.png" group-title="Retrô", Mickey & Donald (Brasil)
-http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.launchbox-app.com/d84590b0-591f-43a0-bdb2-ee08fdbaf875.png" group-title="Retrô", O Fantástico Mundo de Bobby (Brasil) 
-http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Highway_to_Heaven_title_screen.jpg" group-title="Retrô", O Homem que veio do Céu - Pluto TV (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/1024px-The_Flintstones_logo.svg.png" group-title="Retrô", Os Flintstones (Brasil)
-http://24hrs.homelinux.com:8080/24H-osflistony/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-osflistony/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Retrô", Os Jetsons (Brasil)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" group-title="Retrô", Os Simpsons (Brasil)
-http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Retrô", Os Trapalhões (Brasil)
-http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="Retrô", Patolino (Brasil)
-http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="Retrô", Pepe Legal (Brasil)
-http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Woody_Woodpecker_logo_%28official%29.png" group-title="Retrô", Pica-Pau (Brasil)
-http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Desenhos Clássicos (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2368,13 +2251,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
-https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Retrô", Retrô Cartoon - Canal 2 (São Paulo/SP)
-https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8\
+https://stmv2.painelvideocast.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Retrô", Scooby Doo (Brasil)
-http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Retrô", Sony One Classics - Samsung TV Plus (Brasil)
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
@@ -2383,24 +2263,19 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Retrô", Tartaruga Touché (Brasil)
-http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/teleweb.tv.br/images/logo/logo_1062789513.png" group-title="Retrô", Teleweb TV (São Paulo/SP)
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1024px-Tom_and_Jerry_logo.svg.png" group-title="Retrô", Tom & Jerry (Brasil)
-http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/968b35_d93a19a77989421badfd2f08fa1aaf19~mv2.png" group-title="Retrô", Vintage TV (Brasil)
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="Retrô", Zé Buscapé (Brasil)
-http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
-
----
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Retrô", Pluto TV Retro Cartoons (México)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
 
 ---
 
@@ -2420,28 +2295,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
->> TELEVENDAS
-
-#EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="Televendas", 1001 Noites (Curitiba/PR)
-https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/56d9b013-68ac-4957-a5c5-e5f6d95f81ce/logo_vetor%20(3).png" group-title="Televendas", CMD TV (São Paulo/SP)
-https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/XFGOJFp" group-title="Televendas", TV do Carro (Belo Horizonte/MG)
-https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="Televendas", TV Gazin (Palotina/PR)
-https://caikron.com.br:19360/floripa/canal1.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="Televendas", TV Tudo! (Belo Horizonte/MG)
-https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
-
-
 >> TURISMO
-
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/agtv.com.br/images/logo/logo_1621772608.png" group-title="Turismo", AG TV - Soul TV (Brasil)
-https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="Turismo", Bem Melhor - Soul TV (Brasil)
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
@@ -2458,10 +2312,7 @@ https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IhBCsB9.png" group-title="Turismo", Tastemade Viagem - Samsung TV Plus (Brasil)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
 
-#EXTINF: -1 tvg-logo="https://nxplay-images.comets.com.br/resize/66f30b7f9fd20_0a6f66c1cb329ecade2d65e40ae9c4ca.png" group-title="Turismo", Travel+ - LG Channels (Brasil)
-https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="ttps://i.imgur.com/IVUjkii.png" group-title="Turismo", TV Paraná Turismo (Curitiba/PR)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="Turismo", TV Paraná Turismo (Curitiba/PR)
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/roPAiR4.png" group-title="Turismo", Unique Travel & Food (São José/SC)
@@ -2516,6 +2367,9 @@ https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Pós-TV", Ideas en 5 Minutos - Samsung TV Plus (Espanha)
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 
+#EXTINF:-1 tvg-logo="https://imgur.com/rHgeIwP.png" group-title="Pós-TV", Ideias Incríveis - Samsung TV Plus (Brasil)
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
+
 #EXTINF:-1 tvg-id="dtv_EPGIsland Escape" tvg-logo="https://i.imgur.com/aWwR7do.png" group-title="Pós-TV", Island Escape - Distro TV (EUA)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ6Q0mI.png" group-title="Pós-TV", NatureStream TV - Distro TV (EUA)
@@ -2544,6 +2398,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f2
 
 #EXTINF:-1 tvg-id="Study Lounge" tvg-logo="https://i.imgur.com/EP2CsnG.png" group-title="Pós-TV", Study Lounge - Distro TV (EUA)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/M07XlkJ.png" group-title="Pós-TV", TikTok Radio - TCL Channel (Brasil)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="Pós-TV", Tranquil Thunderstorms - Distro TV (EUA)
 https://dai.google.com/linear/hls/event/474qwragRU6-z1YGWo1NMA/master.m3u8
