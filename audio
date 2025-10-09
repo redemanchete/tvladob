@@ -11,7 +11,7 @@ ATUALIZADA EM 08/10/2025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f1/Classic_Pan.png" group-title="Rádio FM - Brasil", 76.7 - Classic Pan (São Paulo/SP)
 https://stream-170.zeno.fm/rtk4pzcome3vv
 
-#EXTINF:-1 tvg-logo="https://mancheterio.com.br/wp-content/uploads/2023/05/logo-atual.png" group-title="Rádio AM - Brasil", 76.9 - Rádio Manchete (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://mancheterio.com.br/wp-content/uploads/2023/05/logo-atual.png" group-title="Rádio FM - Brasil", 76.9 - Rádio Manchete (Rio de Janeiro/RJ)
 https://playerservices.streamtheworld.com/api/livestream-redirect/MANCHETE_RJAAC.aac
 
 #EXTINF:-1 tvg-logo="https://capitalcomvoce.com.br/imagens/layout/radio-capital.png" group-title="Rádio FM - Brasil", 77.5 - Rádio Capital (São Paulo/SP)
