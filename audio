@@ -3,13 +3,16 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 13/08/2025
+ATUALIZADA EM 08/10/2025
 
 
 >> RÁDIO FM - BRASIL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f1/Classic_Pan.png" group-title="Rádio FM - Brasil", 76.7 - Classic Pan (São Paulo/SP)
 https://stream-170.zeno.fm/rtk4pzcome3vv
+
+#EXTINF:-1 tvg-logo="https://mancheterio.com.br/wp-content/uploads/2023/05/logo-atual.png" group-title="Rádio AM - Brasil", 76.9 - Rádio Manchete (Rio de Janeiro/RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MANCHETE_RJAAC.aac
 
 #EXTINF:-1 tvg-logo="https://capitalcomvoce.com.br/imagens/layout/radio-capital.png" group-title="Rádio FM - Brasil", 77.5 - Rádio Capital (São Paulo/SP)
 https://streaming.inweb.com.br/capital
@@ -332,13 +335,10 @@ https://cast4.audiostream.com.br:20010/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14495_1508409250.jpg" group-title="Rádio AM - Brasil", 740 - Rádio Trianon (São Paulo/SP)
 https://shout25.crossradio.com.br:18014/1;
 
-#EXTINF:-1 tvg-logo="https://mancheterio.com.br/wp-content/uploads/2023/05/logo-atual.png" group-title="Rádio AM - Brasil", 760 - Rádio Manchete (Rio de Janeiro/RJ)
-https://playerservices.streamtheworld.com/api/livestream-redirect/MANCHETE_RJAAC.aac
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64c9aa57c9977.png" group-title="Rádio AM - Brasil", 800 - Rádio MEC (Rio de Janeiro/RJ)
 https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://eduplay.rnp.br/portal/assets/contents/img/userchannel/1598105081696.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5bf99abc38cb4.png" group-title="Rádio AM - Brasil", 820 - Rádio Paulo Freire (Recife/PE)
 https://orelha.radiolivre.org/radiopaulofreire
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/606325a71585d.png" group-title="Rádio AM - Brasil", 830 - Rádio Tropical AM (Nova Iguaçu/RJ)
@@ -362,7 +362,7 @@ https://radios.plus/rbc1
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14799_1733764274.png" group-title="Rádio AM - Brasil", 1330 - Rádio Iguatemi (São Paulo/SP)
 https://cloud1.cdnseguro.com:16020/stream
 
-#EXTINF:-1 tvg-logo="https://radiolivream.com.br/admin/midia/323d21558bc8ef384faad9735dce26c3.png" group-title="Rádio AM - Brasil", 1440 - Rádio Livre (Rio de Janeiro/RJ)
+#EXTINF:-1 tvg-logo="https://radiolivream.com.br/admin/midia/d41d8cd98f00b204e9800998ecf8427e.png" group-title="Rádio AM - Brasil", 1440 - Rádio Livre (Rio de Janeiro/RJ)
 https://cast2.midiazdx.com.br:7076/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_abcsantoandre.png" group-title="Rádio AM - Brasil", 1570 - Rádio ABC (Santo André/SP)
