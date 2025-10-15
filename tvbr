@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/10/2025
+ATUALIZADA EM 15/10/2025
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -16,7 +16,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://canallibras-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
-https://media-gmcdn.eduplay.rnp.br/media/CFwapWdsWCYQ/pDz-5MEOypTJS05pqouUmQ'1/index.m3u8
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
 
 #EXTINF:-1 tvg-logo="https://cultura.uol.com.br/webstories/2024/06/veja-programas-infantis-que-serao-reexibidos/assets/3.png" group-title="Públicos/Educativos - Brasil", Cultura (São Paulo/SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -190,7 +190,7 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b3d2a737120889.Y3JvcCwxMzE0LDEwMjgsMzAyLDI2.png" group-title="Regionais Abertos - Brasil", TV Santa Cecília (Santos/SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="Regionais Abertos - Brasil", TV União (Natal/RN)
 https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
@@ -605,7 +605,7 @@ https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HL
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Cultura e Arte", Sesc TV (São Paulo/SP)
-https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiIwMTk1ZjJhZS05YmUwLTdjNjktOTkyOS00NDBlZDA0NTc5MTUiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1OTg4MTUyNSwiaWF0IjoxNzU5ODgxNTI1LCJleHAiOjE3NTk5Njc5MjUsImp0aSI6IjAxOTVmMmFlLTliZTAtN2M2OS05OTI5LTQ0MGVkMDQ1NzkxNSIsImlzcyI6IlNwYWxsYSJ9.gSim90XPPEw0j1t0yceCONryKyFNv7vGTNoTUS7zmxk&uid=0195f2ae-9be0-7c69-9929-440ed0457915
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BVaNiqk.png" group-title="Cultura e Arte", WhE Play - Samsung TV Plus (Brasil)
 https://amg17288-offgrid-amg17288c5-tcl-us-5917.playouts.now.amagi.tv/playlist.m3u8
