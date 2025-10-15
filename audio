@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/10/2025
+ATUALIZADA EM 15/10/2025
 
 
 >> RÁDIO FM - BRASIL
@@ -179,14 +179,17 @@ https://rrdns-megasistema.webnow.com.br/diario.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s85253/images/logod.png?t=636326" group-title="Rádio FM - Brasil", 99.7 - Saudade FM (Santos/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FM.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png" group-title="Rádio FM - Brasil", 99.7 - Transamérica (Balneário Camboriú/SC)
+https://radio02.zas.media/proxy/trans99/stream
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/JB_FM_logo.png" group-title="Rádio FM - Brasil", 99.9 - JBFM (Rio de Janeiro/RJ)
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://www.upf.br/_uploads/8d2fc46a-5efc-4397-b61e-4e9f1f106812.png" group-title="Rádio FM - Brasil", 99.9 - Rádio UPF (Passo Fundo/RS)
 http://servidor38.brlogic.com:8134/live?1590771443870
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png" group-title="Rádio FM - Brasil", 100.1 - Transamérica (Brasília/DF)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RT_DFAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TMC_logo.png" group-title="Rádio FM - Brasil", 100.1 - TMC (São Paulo/SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_kboingfm1003.png" group-title="Rádio FM - Brasil", 100.3 - Kboing FM (São José do Rio Preto/SP)
 https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
@@ -250,9 +253,6 @@ https://streamabc.gruposinos.com.br:8443/radio
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/650a0f0453f2a.png" group-title="Rádio FM - Brasil", 103.3 - Cultura FM (São Paulo/SP)
 https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 103.7 - Antena 1 Lite FM (Rio de Janeiro/RJ)
-https://a1rj.streams.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/657676844259f.png" group-title="Rádio FM - Brasil", 103.9 - Parahyba FM (João Pessoa/PB)
 http://stm1.xcast.com.br:9538/000000
@@ -563,6 +563,9 @@ https://servidor39-3.brlogic.com:8238/live
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DeMUOUs3EIc/WIq5mPC6xXI/AAAAAAAARrw/qRw4qOdPI7Iv56GZthzSL5XfXLOEbOmRgCLcB/s1600/MKKWEBROCK.jpg" group-title="Web Rádio - Brasil", MKK Web Radio (São Paulo/SP)
 https://servidor34-1.brlogic.com:8096/live
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio271701_1754643008.png" group-title="Web Rádio - Brasil", MPB FM (Campos dos Goytacazes/RJ)
+https://azura.hotcast.com.br/listen/mpbfm/stream
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d1513c_b1de487fadee49dbbc20084ef8b5c2e0~mv2.png" group-title="Web Rádio - Brasil", Mutante Radio (São Paulo/SP)
 https://s30.maxcast.com.br:8190/live?id=1624640822121
 
@@ -635,6 +638,9 @@ http://servidor39.brlogic.com:8252/live?type=.m3u?ver=568
 #EXTINF:-1 tvg-logo="https://radiograviola.com/wp-content/themes/radio-graviola/dist/assets/img/shared/radio-graviola-icon.png" group-title="Web Rádio - Brasil", Rádio Graviola (Rio de Janeiro/RJ)
 http://servidor30.brlogic.com:8262/live
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio274932_1760025375.png" group-title="Web Rádio - Brasil", Rádio ICL (São Paulo/SP) 
+https://server11.srvsh.com.br:8812/stream
+
 #EXTINF:-1 tvg-logo="https://megalo.design/wp-content/uploads/2021/11/01_RadioMadalena_Case_Thumbnail-2.png" group-title="Web Rádio - Brasil", Rádio Madalena (São Paulo/SP)
 https://servidor36-2.brlogic.com:8276/live
 
@@ -662,8 +668,8 @@ https://stream-153.zeno.fm/8tt5erdes68uv
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio15978_1439401493.jpg" group-title="Web Rádio - Brasil", Rádio Viva o Samba (Rio de Janeiro/RJ)	
 https://servidor33-3.brlogic.com:8020/live
 
-#EXTINF:-1 tvg-logo="https://radioyande.com/wp-content/uploads/2022/10/logo-yande-bramco-novo-site-1024x293.png" group-title="Web Rádio - Brasil", Rádio Yandê (Rio de Janeiro/RJ)
-INDISPONÍVEL
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio187262_1719514821.jpeg" group-title="Web Rádio - Brasil", RPC FM (Duque de Caxias/RJ)
+https://stm10.xcast.com.br:11376/stream
 
 #EXTINF:-1 tvg-logo="https://sambafm.com.br/wp-content/uploads/2021/04/logo_redonfo_brilho_500.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
 https://hts01.brascast.com:8428/live
