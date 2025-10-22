@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 21/10/2025
+ATUALIZADA EM 22/10/2025
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -363,7 +363,7 @@ https://pop.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/unique/logotipo-supercast.jpg" group-title="Variedades - Brasil", Unique SuperCast (São José/SC)
 https://pop.uniquetv.com.br/supercast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vrtchannel.tv.br/wp-content/uploads/2022/08/VRT_LOGO_PRETO-01.png" group-title="Variedades - Brasil", VRT Channel (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://vrtchannel.tv.br/wp-content/uploads/2025/02/VRT_LOGO_PRETO-01-1.png" group-title="Variedades - Brasil", VRT Channel (São Paulo/SP)
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="Variedades - Brasil", Wise Play TV (Brasil)
@@ -2249,7 +2249,7 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Retrô", Tartaruga Touché (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/teleweb.tv.br/images/logo/logo_1062789513.png" group-title="Retrô", Teleweb TV (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://minharadioonline.net/contents/748/cover/logo_1062789513.png" group-title="Retrô", Teleweb TV (São Paulo/SP)
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1024px-Tom_and_Jerry_logo.svg.png" group-title="Retrô", Tom & Jerry (Brasil)
