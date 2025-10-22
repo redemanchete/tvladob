@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 15/10/2025
+ATUALIZADA EM 21/10/2025
 
 
 >> RÁDIO FM - BRASIL
@@ -23,7 +23,7 @@ https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27208_1546022518.png" group-title="Rádio FM - Brasil", 80.5 - Rádio Sputnik Brasil (Rio de Janeiro/RJ)
 https://azura.acessaradios.com.br/listen/metro1090/live
 
-#EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/Liberdade-01.png" group-title="Rádio FM - Brasil", 82.5 - Rádio Liberdade (Porto Alegre/RS)
+#EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/logo-dark-768x239.png" group-title="Rádio FM - Brasil", 82.5 - Rádio Liberdade (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8655/mp3
 
 #EXTINF:-1 tvg-logo="https://pubimg.band.uol.com.br/files/48e91b059744c3a031cf.png" group-title="Rádio FM - Brasil", 86.3 - Rádio Bandeirantes (São Paulo/SP)
@@ -155,7 +155,7 @@ https://live.virtualcast.com.br/hot98
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/98_FM_BH_logo.svg/640px-98_FM_BH_logo.svg.png" group-title="Rádio FM - Brasil", 98.3 - 98 FM (Belo Horizonte/MG)
 https://9554.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://www.pampa.com.br/wp-content/uploads/2020/08/logo-260x138.png" group-title="Rádio FM - Brasil", 98.3 - Continental (Porto Alegre/RS)
+#EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/new-logo-1-768x281.png" group-title="Rádio FM - Brasil", 98.3 - Continental (Porto Alegre/RS)
 http://cast4.audiostream.com.br:8650/mp3
 
 #EXTINF:-1 tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/158/iTunesConnect_copy.png" group-title="Rádio FM - Brasil", 98.3 - Lider FM (São José do Rio Preto/SP)
@@ -209,14 +209,14 @@ https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream&1725596324025
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Rádio FM - Brasil", 100.9 - Rádio Clube (Foz do Iguaçu/PR)
 https://9105.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/675846de2813d.png" group-title="Rádio FM - Brasil", 101.3 - Nostalgia FM (Florianópolis/SC)
-https://stm01.virtualcast.com.br:8398/nostalgiafloripa
+#EXTINF:-1 tvg-logo="https://nostalgiafmfloripa.com.br/wp-content/uploads/2025/02/LOGONOSTALGIA-1.png" group-title="Rádio FM - Brasil", 101.3 - Nostalgia FM (Florianópolis/SC)
+https://stm10.virtualcast.com.br:8398/nostalgiafloripa
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_beiramarfm1015.png" group-title="Rádio FM - Brasil", 101.5 - Beira Mar FM (Ubatuba/SP)
 https://sws.onradio.biz/9822/stream
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27259_1623771181.png" group-title="Rádio FM - Brasil", 101.5 - Frei Caneca FM (Recife/PE)
-https://s03.transmissaodigital.com:6842/stream
+https://centova3.transmissaodigital.com:20046/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5ff1e906b9fbd.png" group-title="Rádio FM - Brasil", 101.5 - SpaceSex (Vitória/ES)
 https://9158.brasilstream.com.br/stream
