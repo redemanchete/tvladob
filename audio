@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 21/10/2025
+ATUALIZADA EM 22/10/2025
 
 
 >> RÁDIO FM - BRASIL
@@ -425,7 +425,7 @@ https://bonneville.cdnstream1.com/2624_48.aac
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio23485_1663779285.png" group-title="Rádio FM - Mundo", 96.5 - Rádio Cultura Angola (Luanda/Angola)
 https://paineldj5.com.br:20091/stream
 
-#EXTINF:-1 tvg-logo="http://www.radiorebelde.cu/images/images/diseno/radio-rebelde.jpg" group-title="Rádio FM - Mundo", 96.7 - Radio Rebelde (Havana/Cuba)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Radio_Rebelde_Cuba.jpg" group-title="Rádio FM - Mundo", 96.7 - Radio Rebelde (Havana/Cuba)
 https://icecast.teveo.cu/kHKL7tWd
 
 #EXTINF:-1 tvg-logo="https://covers.eg-ad.fr/195x195_logojazz.png" group-title="Rádio FM - Mundo", 97.3 - JazzRadio Jazz & Soul (Lyon/França)
@@ -512,7 +512,7 @@ http://centova2.euroti.com.br:8026/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio56226_1522675865.jpg" group-title="Web Rádio - Brasil", Hot Boogie Radio (São Paulo/SP)
 http://hts03.kshost.com.br:9416/stream
 
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/hotgrooveradio.com/images/logo/logo_2111475349.png" group-title="Web Rádio - Brasil", Hot Groove Rádio (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://minharadioonline.net/contents/434/cover/logo_815588070.png" group-title="Web Rádio - Brasil", Hot Groove Rádio (São Paulo/SP)
 https://hts03.brascast.com:9214/live
 
 #EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Web Rádio - Brasil", Hunter.fm - 80's Retro (Brasília/DF)
@@ -836,46 +836,46 @@ http://streams.fluxfm.de/rastaradio/mp3-128/radiode/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/FluxFM.svg/1024px-FluxFM.svg.png" group-title="Web Rádio - Mundo", FluxFM - XJAZZ (Alemanha)
 https://streams.fluxfm.de/xjazz/mp3-128/radiode/
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio12588_1600857262.png" group-title="Web Rádio - Mundo", Jazz Radio - Black Music (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12588_1600857262.png" group-title="Web Rádio - Mundo", Jazz Radio - Black Music (França)
 http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio12589_1600857346.png" group-title="Web Rádio - Mundo", Jazz Radio - Blues (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12589_1600857346.png" group-title="Web Rádio - Mundo", Jazz Radio - Blues (França)
 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170080_1608223364.png" group-title="Web Rádio - Mundo", Jazz Radio - Classic Jazz (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170080_1608223364.png" group-title="Web Rádio - Mundo", Jazz Radio - Classic Jazz (França)
 http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170075_1608223002.png" group-title="Web Rádio - Mundo", Jazz Radio - Funk (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170075_1608223002.png" group-title="Web Rádio - Mundo", Jazz Radio - Funk (França)
 http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170085_1608223509.png" group-title="Web Rádio - Mundo", Jazz Radio - Groove (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170085_1608223509.png" group-title="Web Rádio - Mundo", Jazz Radio - Groove (França)
 http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170110_1608224384.png" group-title="Web Rádio - Mundo", Jazz Radio - Jazz Afro (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170110_1608224384.png" group-title="Web Rádio - Mundo", Jazz Radio - Jazz Afro (França)
 http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170120_1608224765.png" group-title="Web Rádio - Mundo", Jazz Radio - Jazz Fusion (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170120_1608224765.png" group-title="Web Rádio - Mundo", Jazz Radio - Jazz Fusion (França)
 http://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio12593_1600857525.png" group-title="Web Rádio - Mundo", Jazz Radio - Ladies & Crooners (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12593_1600857525.png" group-title="Web Rádio - Mundo", Jazz Radio - Ladies & Crooners (França)
 http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170115_1608224557.png" group-title="Web Rádio - Mundo", Jazz Radio - Latin Jazz (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170115_1608224557.png" group-title="Web Rádio - Mundo", Jazz Radio - Latin Jazz (França)
 http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio12591_1600857609.jpg" group-title="Web Rádio - Mundo", Jazz Radio - Lounge (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12591_1600857609.jpg" group-title="Web Rádio - Mundo", Jazz Radio - Lounge (França)
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170125_1608224898.png" group-title="Web Rádio - Mundo", Jazz Radio - Piano Jazz (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170125_1608224898.png" group-title="Web Rádio - Mundo", Jazz Radio - Piano Jazz (França)
 http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio12594_1600857716.png" group-title="Web Rádio - Mundo", Jazz Radio - Reprises (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12594_1600857716.png" group-title="Web Rádio - Mundo", Jazz Radio - Reprises (França)
 http://reprises.ice.infomaniak.ch/reprises-high.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170090_1608223655.png" group-title="Web Rádio - Mundo", Jazz Radio - Soul (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170090_1608223655.png" group-title="Web Rádio - Mundo", Jazz Radio - Soul (França)
 http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/md/radio170100_1608223919.png" group-title="Web Rádio - Mundo", Jazz Radio - Sunset (França)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio170100_1608223919.png" group-title="Web Rádio - Mundo", Jazz Radio - Sunset (França)
 http://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio222260_1690319036.jpg" group-title="Web Rádio - Mundo", Radio Cultura (Moçambique)
