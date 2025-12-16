@@ -399,7 +399,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTP_Madeira_2016_%28Reduced_Version%29.svg/1024px-RTP_Madeira_2016_%28Reduced_Version%29.svg.png" group-title="Variedades - Mundo", RTP Madeira | Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Brasil: variedades", RTP Memória | Portugal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Variedades - Mundo", RTP Memória | Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Variedades - Mundo", SIC (Portugal)
@@ -1540,10 +1540,10 @@ https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 #EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/unique/logotipo-supergeek.jpg" group-title="Geek e Anime", Unique Supergeek (São José/SC)
 https://pop.uniquetv.com.br/supergeek/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title=Geek e Anime", Yeeaah (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="Geek e Anime", Yeeaah (Brasil)
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/F1nkZlN.png" group-title=Geek e Anime", Yeeaah 2 (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/F1nkZlN.png" group-title="Geek e Anime", Yeeaah 2 (Brasil)
 https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8?hls_ctx=50r69m13
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/71-713842_transparent-yugioh-logo-yu-gi-oh-the-art.png" group-title="Geek e Anime", Yu-Gi-Oh - Pluto TV (Brasil)
@@ -1701,11 +1701,6 @@ CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-zebuscape/video.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQS9dl0.png" group-title="Infantil e Desenhos", ZooMoo Kids (Brasil)
 INDISPONÍVEL - https://cdn-5.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
-
----
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Barney_%26_Friends_logo.svg/1024px-Barney_%26_Friends_logo.svg.png" group-title="Infantil e Desenhos", Barney - Pluto TV (México)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ---
 
