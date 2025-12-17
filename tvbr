@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 15/12/2025
+ATUALIZADA EM 17/12/2025
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -174,7 +174,7 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w1430935050.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/Logotipothmais.png" group-title="Regionais Abertos - Brasil", TH+ TV (Ribeirão Preto/SP)
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Regionais Abertos - Brasil", TV Metrópole (Caucaia/CE)
+#EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="Regionais Abertos - Brasil", TV Metrópole (Caucaia/CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Regionais Abertos - Brasil", TV Padre Cícero - TVRO (Juazeiro do Norte/CE)
@@ -255,6 +255,9 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png" group-title="Regionais Fechados/Web - Brasil", TV Petrópolis (Petrópolis/RJ)
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/chunklist_w2013690953.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvplanaltonorte.com.br/wp-content/uploads/2025/11/LOGO-HORIZONTAL-TV-PLANALTO-1.png" group-title="Regionais Fechados/Web - Brasil", TV Planalto Norte (São José/SC)
+https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvsetelagoas.com.br/wp-content/uploads/2022/07/Logo-TVSL-XX.png" group-title="Regionais Fechados/Web - Brasil", TV Sete Lagoas (Sete Lagoas/MG)
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/chunklist_w734330869.m3u8
 
@@ -263,9 +266,6 @@ https://tv02.zas.media:1936/tvsol/tvsol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Hiwu3Qe.png" group-title="Regionais Fechados/Web - Brasil", TV Uninobre (Serra Talhada/PE)
 https://video01.kshost.com.br:4443/uninobre1381/uninobre1381/chunklist_w515523358.m3u8
-
-#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/unique/logotipo-tvplanalto.jpg" group-title="Regionais Fechados/Web - Brasil", Unique TV Planalto Norte (São José/SC)
-https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8
 
 
 >> REGIONAIS - AMÉRICA LATINA 
@@ -324,6 +324,9 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/byJAMHe.png" group-title="Variedades - Brasil", MasperTV (Porto Alegre/RS)
 https://tv02.zas.media:1936/masper/masper/chunklist_w889341332.m3u8
 
+#EXTINF:-1 tvg-logo="https://mbcbrasil.tv.br/wp-content/uploads/sites/42/2025/07/LOGO_EB2023-1920-x-1080-px-10.png" group-title="Variedades - Brasil", MBC Brasil (Curitiba/PR)
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mkkwebtv.com.br/upload/2_-_300_20201127.jpg" group-title="Variedades - Brasil", MKK WebTV (São Paulo/SP)
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 
@@ -348,7 +351,7 @@ https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="Variedades - Brasil", TV Aracati (Aracati/CE)
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvsonata.com.br/storage/690/config/YIpr9GvubiZ14KntfgXqTob4kMpue1cFo2R5h91h.png" group-title="Variedades - Brasil", TV Sonata (Caieiras/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="Variedades - Brasil", TV Sonata (Caieiras/SP)
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1FsKW42.png" group-title="Variedades - Brasil", U Channel - Soul TV (Brasil)
@@ -357,10 +360,10 @@ https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png" group-title="Variedades - Brasil", UMA TV (São Paulo/SP)
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://uniquetv.com.br/img/logo-uniquetv.png" group-title="Variedades - Brasil", Unique TV (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="Variedades - Brasil", Unique TV (São José/SC)
 https://pop.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/unique/logotipo-supercast.jpg" group-title="Variedades - Brasil", Unique SuperCast (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="Variedades - Brasil", Unique SuperCast (São José/SC)
 https://pop.uniquetv.com.br/supercast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://vrtchannel.tv.br/wp-content/uploads/2025/02/VRT_LOGO_PRETO-01-1.png" group-title="Variedades - Brasil", VRT Channel (São Paulo/SP)
@@ -387,19 +390,19 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/RTP2_logo_2016.svg/1024px-RTP2_logo_2016.svg.png" group-title="Variedades - Mundo", RTP 2 (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Futuro_log%C3%B3tipo_da_RTP_A%C3%A7ores.jpg" group-title="Variedades - Mundo", RTP Açores (Portugal)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/1024px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="Variedades - Mundo", RTP Açores (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Futuro_log%C3%B3tipo_-_RTP_%C3%81frica.jpg" group-title="Variedades - Mundo", RTP África (Portugal)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RTP_%C3%81frica_%282016%29.svg/1024px-RTP_%C3%81frica_%282016%29.svg.png" group-title="Variedades - Mundo", RTP África (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/1024px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Variedades - Mundo", RTP Internacional (Portugal)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/RTP_Internacional_%282016%29.svg/1024px-RTP_Internacional_%282016%29.svg.png" group-title="Variedades - Mundo", RTP Internacional (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTP_Madeira_2016_%28Reduced_Version%29.svg/1024px-RTP_Madeira_2016_%28Reduced_Version%29.svg.png" group-title="Variedades - Mundo", RTP Madeira | Portugal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTP_Madeira_%282017%29.svg/1024px-RTP_Madeira_%282017%29.svg.png" group-title="Variedades - Mundo", RTP Madeira (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1024px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Variedades - Mundo", RTP Memória | Portugal
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPMemoria_positivo_horiz_RGB.png" group-title="Variedades - Mundo", RTP Memória (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Variedades - Mundo", SIC (Portugal)
@@ -644,7 +647,7 @@ CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-fatosdesconhecid
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5b00ef206723937.66d0fe6e1582e.png" group-title="Documentários", Hallo! Doc - Só Play (Brasil)
 https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=0fb1d8ca306aa36413e9cc65e4fe40c35ffb54d0-3661fd422d102d89db1283e72d1e3b4a-1731305419-1731262219
 
-#EXTINF:-1 tvg-logo="https://www.uniquetvplay.com.br/upload/play/mooveexplorer.jpeg" group-title="Documentários", Moove TV Explore (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="Documentários", Moove TV Explore (São José/SC)
 https://pop.uniquetv.com.br/mooveexplorer/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Documentários", Pluto TV Acumuladores Obsessivos (Brasil)
@@ -940,13 +943,13 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oqDDko4.png" group-title="Esporte", TV da Pesca (Brasil)
 https://isaocorp.cloudecast.com/tvdapesca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.uniquetvplay.com.br/upload/unique/logotipo-sports1.jpg" group-title="Esporte", Unique Sports 1 (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="Esporte", Unique Sports 1 (São José/SC)
 https://pop.uniquetv.com.br/uniquesports1/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.uniquetvplay.com.br/upload/unique/logotipo-sports2.jpg" group-title="Esporte", Unique Sports 2 (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="Esporte", Unique Sports 2 (São José/SC)
 https://pop.uniquetv.com.br/uniquesports2/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.uniquetvplay.com.br/upload/unique/logotipo-sports3.jpg" group-title="Esporte", Unique Sports 3 (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="Esporte", Unique Sports 3 (São José/SC)
 https://pop.uniquetv.com.br/uniquesports3/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sYRRJ73.png" group-title="Esporte", Whoohoo Surf (Rio de Janeiro/RJ)
@@ -1537,7 +1540,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ubisoft_logo.svg/1119px-Ubisoft_logo.svg.png" group-title="Geek e Anime", Ubisoft TV - Samsung TV Plus (Brasil)
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 
-#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/unique/logotipo-supergeek.jpg" group-title="Geek e Anime", Unique Supergeek (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="Geek e Anime", Unique Supergeek (São José/SC)
 https://pop.uniquetv.com.br/supergeek/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="Geek e Anime", Yeeaah (Brasil)
@@ -1973,7 +1976,7 @@ https://video03.logicahost.com.br/tv247online/tv247online/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rPgGYH8.png" group-title="Notícias", TV Flow - Samsung TV Plus (Brasil)
 https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://uniquetvplay.com.br/upload/play/tvoreporter.jpeg" group-title="Notícias", TV O Reporter (São José/SC)
+#EXTINF:-1 tvg-logo="https://imgur.com/i4zzVu4.png" group-title="Notícias", TV O Reporter (São José/SC)
 https://pop.uniquetv.com.br/tvoreporter/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/7667/cabecalho-7667-20230419174853.jpg" group-title="Notícias", TVL News (Luzilândia/GO)
@@ -2273,9 +2276,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e3ccc
 
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="Turismo", Bem Melhor - Soul TV (Brasil)
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Gmk4ksJ.png" group-title="Turismo", BR IN TV - Samsung TV Plus (Brasil)
-https://brn-br-samsung.otteravision.com/brn/bt/bt_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1024px-Pluto_TV_logo_2024.svg.png" group-title="Turismo", Pluto TV Viagens (Brasil)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
