@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 15/12/2025
+ATUALIZADA EM 17/12/2025
 
 
 >> RÁDIO FM - BRASIL
@@ -233,7 +233,7 @@ https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="Rádio FM - Brasil", 102.7 - Blink 102 FM (Campo Grande/MS)
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_de_2025_da_R%C3%A1dio_Beach_Park.jpg" group-title="Rádio FM - Brasil", 102.7 - Rádio Beach Park (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/Logotipo_de_2025_da_R%C3%A1dio_Beach_Park.jpg" group-title="Rádio FM - Brasil", 102.7 - Rádio Beach Park (Fortaleza/CE)
 http://www.radioideal.net:8026/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Band_Vale_FM_logo.svg/1024px-Band_Vale_FM_logo.svg.png" group-title="Rádio FM - Brasil", 102.9 - Band Vale FM (São José dos Campos/SP)
@@ -554,9 +554,6 @@ https://azura.hotcast.com.br/listen/mpbfm/stream
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d1513c_b1de487fadee49dbbc20084ef8b5c2e0~mv2.png" group-title="Web Rádio - Brasil", Mutante Radio (São Paulo/SP)
 https://s30.maxcast.com.br:8190/live?id=1624640822121
 
-#EXTINF:-1 tvg-logo="https://radionanet.com/channel/DATA/1/images/logocapital-app.png" group-title="Web Rádio - Brasil", O Som da Capital Retrô (Vila Velha/ES)
-http://station.radionanet.com:8000/;
-
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio39924_1744435681.jpg" group-title="Web Rádio - Brasil", Panamby FM (São Paulo/SP)
 http://server01.stmsg.com.br:6776/;
 
@@ -566,7 +563,7 @@ https://usa10.fastcast4u.com/paulinrio
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio22982_1479841481.jpg" group-title="Web Rádio - Brasil", Pool FM (São Paulo/SP)
 https://radios.poolwebwork.com.br/8010/stream
 
-#EXTINF:-1 tvg-logo="https://radio80fm.com.br/storage/2025/01/80fm-logo-site-ok.jpg" group-title="Web Rádio - Brasil", Rádio 80 FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio15755_1478269483.jpg" group-title="Web Rádio - Brasil", Rádio 80 FM (São Paulo/SP)
 https://centova.euroti.com.br:20001/1/stream.mp3?1590810455343
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio240364_1709124581.jpg" group-title="Web Rádio - Brasil", Rádio Axé das Antigas (Goiânia/GO)
@@ -638,7 +635,7 @@ https://player-ssl.painelstream.net:8992/live
 #EXTINF:-1 tvg-logo="https://www.radiomotel.com/wp-content/uploads/2018/08/PNG_RADIOMOTELCOM-150x150.png" group-title="Web Rádio - Brasil", Rádio Motel (São Paulo/SP)
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
 
-#EXTINF:-1 tvg-logo="https://nostalgiafm.com.br/wp-content/uploads/2025/05/nostalgiafm-768x551.png" group-title="Web Rádio - Brasil", Rádio Nostalgia FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://www.nostalgiafm.com.br/uploads/1677873571-logo%20nostalgiafm.png" group-title="Web Rádio - Brasil", Rádio Nostalgia FM (São Paulo/SP)
 https://centova2.euroti.com.br:20062/;
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio199697_1665425699.jpg" group-title="Web Rádio - Brasil", Rádio Pagode 90 (Ponta Grossa/PR)
@@ -653,7 +650,7 @@ https://servidor33-3.brlogic.com:8020/live
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio187262_1719514821.jpeg" group-title="Web Rádio - Brasil", RPC FM (Duque de Caxias/RJ)
 https://stm10.xcast.com.br:11376/stream
 
-#EXTINF:-1 tvg-logo="https://sambafm.com.br/wp-content/uploads/2021/04/logo_redonfo_brilho_500.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
+#EXTINF:-1 tvg-logo="https://minharadioonline.net/contents/153/cover/logo_1889371150.png" group-title="Web Rádio - Brasil", Samba FM (Santos/SP)
 https://hts01.brascast.com:8428/live
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio186722_1738565608.png" group-title="Web Rádio - Brasil", Sertanejo FM (Ponta Grossa/PR)
