@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 17/12/2025
+ATUALIZADA EM 23/12/2025
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -1969,6 +1969,9 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/RTP_Not%C3%ADcias_2025.svg/1024px-RTP_Not%C3%ADcias_2025.svg.png" group-title="Notícias", RTP Notícias - Link 2 (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/1024px-SBT_News_2025.svg.png" group-title="Notícias", SBT News - LG Channels (Brasil)
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo-tv247.png" group-title="Notícias", TV 247 (São Paulo/SP)
 https://video03.logicahost.com.br/tv247online/tv247online/playlist.m3u8
