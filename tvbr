@@ -1742,7 +1742,7 @@ CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ofantasticomundo
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-osflistony/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Retrô", Os Jetsons (Brasil)
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+INDISPONÍVEL - https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" group-title="Retrô", Os Simpsons (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
