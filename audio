@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 17/12/2025
+ATUALIZADA EM 03/02/2026
 
 
 >> RÁDIO FM - BRASIL
@@ -12,7 +12,7 @@ ATUALIZADA EM 17/12/2025
 https://stream-170.zeno.fm/rtk4pzcome3vv
 
 #EXTINF:-1 tvg-logo="https://mancheterio.com.br/wp-content/uploads/2023/05/logo-atual.png" group-title="Rádio FM - Brasil", 76.9 - Rádio Manchete (Rio de Janeiro/RJ)
-https://playerservices.streamtheworld.com/api/livestream-redirect/MANCHETE_RJAAC.aac
+https://8410.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-logo="https://capitalcomvoce.com.br/imagens/layout/radio-capital.png" group-title="Rádio FM - Brasil", 77.5 - Rádio Capital (São Paulo/SP)
 https://streaming.inweb.com.br/capital
@@ -33,7 +33,7 @@ https://stm23.xcast.com.br:11284/stream
 https://streaming.ufg.br:8443/radiouniversitaria
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a9753fd35117.png" group-title="Rádio FM - Brasil", 88.9 - Rádio Mania (Paraty/RJ)
-http://shout35.crossradio.com.br:8086/1/;
+https://stream-161.zeno.fm/cic1u0lbdo2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjaWMxdTBsYmRvMnV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt2cGNoa2xCUXc2RUw2eXhadEE2U0EiLCJpYXQiOjE3NzAxNTU4MjQsImV4cCI6MTc3MDE1NTg4NH0.POFSo0z1CkEnT85sVQtY-CMu7ZnycJc-j1cmwV0ovzQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A1dio_Rock_logo.svg/1024px-R%C3%A1dio_Rock_logo.svg.png" group-title="Rádio FM - Brasil", 89.1 - 89 FM A Rádio Rock (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.aac
@@ -47,7 +47,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIO
 #EXTINF:-1 tvg-logo="https://smartradio.cadena.com.br/assets/custom/novabrasil/logo-3585a8521e33ac18ecc666a91fd9ca7bb42f9f40be750b8038d27c0eaf50add7.png" group-title="Rádio FM - Brasil", 89.7 - Novabrasil (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC_SC
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_globofm901salvador.png" group-title="Rádio FM - Brasil", 90.1 - GFM (Salvador/BA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/17/Logotipo_da_GFM_%282025%29.png" group-title="Rádio FM - Brasil", 90.1 - GFM (Salvador/BA)
 https://ice.fabricahost.com.br/radiogfm
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/60ecaa4ba6c73.png" group-title="Rádio FM - Brasil", 90.1 - RBC FM (Goiânia/GO)
@@ -104,7 +104,7 @@ http://cast62.sitehosting.com.br:8371/live?1590728088485
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/Logo-default.png" group-title="Rádio FM - Brasil", 94.7 - Antena 1 (São Paulo/SP)
 https://antenaone.crossradio.com.br/stream/1;
 
-#EXTINF:-1 tvg-logo="http://sistema.interativafm.net/storage/contents/kdefnwRbGbaVKUJANwCO5YLSiYYSk5q9xQ44VKfc.png" group-title="Rádio FM - Brasil", 94.9 - Interativa FM (Goiânia/GO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_Interativa_FM_Goi%C3%A2nia.png/1280px-Logo_Interativa_FM_Goi%C3%A2nia.png" group-title="Rádio FM - Brasil", 94.9 - Interativa FM (Goiânia/GO)
 http://suaradio1.dyndns.ws:13551/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nativa_FM.svg/1280px-Nativa_FM.svg.png" group-title="Rádio FM - Brasil", 95.3 - Nativa FM (São Paulo/SP)
@@ -132,7 +132,7 @@ https://8923.brasilstream.com.br/stream?nocache=25961111
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac
 
 #EXTINF:-1 tvg-logo="https://socialradio.com.br/radio/difusorathathi/assets/images/logo-deitada-364x122.png" group-title="Rádio FM - Brasil", 97.1 - Difusora (Ribeirão Preto/SP)
-https://ice.fabricahost.com.br/difusorathathi
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISFUSORA_RBAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png" group-title="Rádio FM - Brasil", 97.7 - Energia FM (São Paulo/SP)
 https://streaming.inweb.com.br/energia
@@ -309,7 +309,7 @@ https://streaming.educadorafm.ba.gov.br/stream-01
 http://streaming.procergs.com.br:1935/fmcultura/sfmcultura/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_santaceciliafm.png" group-title="Rádio FM - Brasil", 107.7 - Santa Cecília FM (Santos/SP)
-https://shout25.crossradio.com.br:24060/1?
+https://live9.livemus.com.br:27408/stream
 
 #EXTINF:-1 tvg-logo="https://www.radiotropicalfm.com/images/galeria/29112019/o_1dqsjaq4k1n5d11gk11nb124t10vs13.png" group-title="Rádio FM - Brasil", 107.9 - Tropical FM (São Paulo/SP)
 https://ice.fabricahost.com.br/tropicalfmsp
