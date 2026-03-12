@@ -734,7 +734,7 @@ https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
 #EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/66f2d02199419_fa30ef55d07ce7cac16c196344c3e618.png" group-title="Estilo de Vida", Fit Dance - Só Play (Brasil)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/2dd137f1d20441efbc83499b5ef3ad65/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200022N1_20230712T001522SQUARE.png_20230712001523.png" group-title="Estilo de vida", Homeful - Samsung TV Plus (Brasil)
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200022N1_20230712T001522SQUARE.png_20230712001523.png" group-title="Estilo de Vida", Homeful - Samsung TV Plus (Brasil)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992530&
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Sg8jkYa.png" group-title="Estilo de Vida", Receitas Fast - Samsung TV Plus (Brasil)
@@ -813,10 +813,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=765
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9w2mGn.png" group-title="Estilo de Vida", So Yummy! (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V7Mor8b.png" group-title="Estilo de vida", The Beach Show (EUA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V7Mor8b.png" group-title="Estilo de Vida", The Beach Show (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 
-#EXTINF:-1 tvg-logo="https://blog.tdn.tv/wp-content/uploads/2020/05/tdb-logo-pink.png" group-title="Estilo de vida", The Design Network - TCL Channel (Brasil)
+#EXTINF:-1 tvg-logo="https://blog.tdn.tv/wp-content/uploads/2020/05/tdb-logo-pink.png" group-title="Estilo de Vida", The Design Network - TCL Channel (Brasil)
 https://amg00441-amg00441c1-tcl-us-6397.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc0ab8e9-8785-498c-a6e3-7cdefc8d31d4/Travel_Escapes__1__Bryan_Mcdaid_HOR.jpg" group-title="Estilo de Vida", Travel Escapes - TCL Channel (EUA)
