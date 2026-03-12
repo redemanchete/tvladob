@@ -752,7 +752,7 @@ https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200002T9_20230426T031129SQUARE.png_20230426031130.png" group-title="Estilo de Vida", Tastemade - Samsung TV Plus (Brasil)
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/O4NnITI.png" group-title="Casa e Design", Tastemade Casa - Samsung TV Plus (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/O4NnITI.png" group-title="Estilo de Vida", Tastemade Casa - Samsung TV Plus (Brasil)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/TastemadeHome.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IhBCsB9.png" group-title="Estilo de Vida", Tastemade Viagem - Samsung TV Plus (Brasil)
@@ -1016,9 +1016,6 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Filmes e Séries", Sony One Emoções - Samsung TV Plus (Brasil)
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Filmes", Sony One Classics - Samsung TV Plus (Brasil)
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="Filmes e Séries", SparkTV - Samsung TV Plus (Brasil)
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
