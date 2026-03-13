@@ -3,10 +3,14 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 07/10/2025
+ATUALIZADA EM 13/03/2026
 
 
 >> CÂMERAS AO VIVO - BRASIL
+
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Andradas/MG - Pico do Gavião
+https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Panorâmica
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
@@ -19,6 +23,9 @@ https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Ponte da Amizade
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Guaratuba/PR - Praia Central
+https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Imbé/RS - Praia
 https://vid1.streaming.websul.net.br/live/ods-imb.stream/playlist.m3u8
@@ -33,10 +40,13 @@ https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
 https://vid1.streaming.websul.net.br/live/ods-torres.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Av. Atlântica x Francisco Sá
-https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+INDISPONÍVEL - https://videos-3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio de Janeiro/RJ - Praia da Barra
 https://cdn.live.br1.jmvstream.com/w/IPC-6849/IPC-6849.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio Grande/RS - Praia do Cassino
+https://s132.ipcamlive.com/streams/84lt4vsx0y5cqn8tj/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Toledo/PR - Rádio União FM
 https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/chunklist_w1713089154.m3u8
