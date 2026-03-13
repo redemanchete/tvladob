@@ -18,7 +18,7 @@ https://canallibras-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1280px-Cultura_logo_2013.svg.png" group-title="Públicos/Educativos - Brasil", Cultura (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Públicos/Educativos - Brasil", Cultura (São Paulo/SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5tHkE33.png" group-title="Públicos/Educativos - Brasil", Cultura Fast - Samsung TV Plus (Brasil)
@@ -774,7 +774,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/cooking-panda.jpg" group-title="Estilo de Vida", Cooking Panda - Plex (EUA)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1024px-Fashion_TV_logo.svg.png" group-title="Estilo de Vida", FashionTV - LG Channels (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Estilo de Vida", FashionTV - LG Channels (Brasil)
 https://amg01546-fashiontv-amg01546c1-lg-br-9558.playouts.now.amagi.tv/playlist/amg01546-fashiontv-fashiontv-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="Estilo de Vida", GoUSA TV - Samsung TV Plus (Brasil)
@@ -1334,7 +1334,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/horizontal-positivo-300x169.png" group-title="Notícias", RTP Notícias - Link 2 (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/1280px-SBT_News_2025.svg.png" group-title="Notícias", SBT News - LG Channels (Brasil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SBT_News_logo.svg/1280px-SBT_News_logo.svg.png" group-title="Notícias", SBT News - LG Channels (Brasil)
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rPgGYH8.png" group-title="Notícias", TV Flow - Samsung TV Plus (Brasil)
@@ -1357,7 +1357,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Notícias", Estrella News - Samsung TV Plus (EUA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/1280px-France_24_logo_%282013%29.svg.png" group-title="Notícias", France 24 Español (Argentina)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/500px-France24.png" group-title="Notícias", France 24 Español (Argentina)
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png" group-title="Notícias", HispanTV (Irã)
@@ -1389,7 +1389,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00106-france24-france24-samsungch/p
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/5112C-BNjpL.png" group-title="Notícias", India Today Television (Índia)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/1280px-Press_TV_logo.svg.png" group-title="Notícias", Press TV (Irã)
+#EXTINF:-1 tvg-logo="https://cdn.presstv.ir/photo/20201109/76606cfb-d468-4a47-bbd9-afb6866d4ed6.jpg" group-title="Notícias", Press TV (Irã)
 https://live.presstv.ir/hls/presstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Notícias", Reuters TV - Plex (EUA)
@@ -1398,7 +1398,7 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title="Notícias", RT News (Rússia)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1280px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Notícias", The Weather Channel (EUA)
+#EXTINF:-1 tvg-logo="https://nexusmedianews.com/wp-content/uploads/2020/05/the-weather-channel-logo.png" group-title="Notícias", The Weather Channel (EUA)
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
 
 
@@ -1427,7 +1427,7 @@ https://vezatv.mediastreaming.com.br/vezatv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="Notícias - Economia e Mercados", Ameritrade (EUA)
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1024px-Bloomberg_logo.svg.png" group-title="Notícias - Economia e Mercados", Bloomberg TV (EUA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/1280px-Bloomberg_Television_logo.svg.png" group-title="Notícias - Economia e Mercados", Bloomberg TV (EUA)
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/roi-tv.png" group-title="Notícias - Economia e Mercados", ROI TV - TCL Channel (Brasil)
