@@ -803,13 +803,13 @@ http://strm112.1.fm/samba_mobile_mp3?1592872212177
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s116726g.png" group-title="Web Rádio - Mundo", 1.FM - Samba Rock (Suíça)
 http://strm112.1.fm/sambarock_mobile_mp3?1592872325124
 
-#EXTINF:-1 tvg-logo="https://fluxfm.myspreadshop.de/1323251/shopData/images/aboutus/blob_p0hjlw.jpg" group-title="Web Rádio - Mundo", FluxFM - Jazzradio Schwarzenstein (Alemanha)
+#EXTINF:-1 tvg-logo="https://archiv.fluxfm.de/wp-content/uploads/2013/11/fluxfm_logo_300px_sharp.gif" group-title="Web Rádio - Mundo", FluxFM - Jazzradio Schwarzenstein (Alemanha)
 https://streams.fluxfm.de/jazzschwarz/mp3-128/radiode/
 
-#EXTINF:-1 tvg-logo="https://fluxfm.myspreadshop.de/1323251/shopData/images/aboutus/blob_p0hjlw.jpg" group-title="Web Rádio - Mundo", FluxFM - Rasta Radio (Alemanha)
+#EXTINF:-1 tvg-logo="https://archiv.fluxfm.de/wp-content/uploads/2013/11/fluxfm_logo_300px_sharp.gif" group-title="Web Rádio - Mundo", FluxFM - Rasta Radio (Alemanha)
 http://streams.fluxfm.de/rastaradio/mp3-128/radiode/
 
-#EXTINF:-1 tvg-logo="https://fluxfm.myspreadshop.de/1323251/shopData/images/aboutus/blob_p0hjlw.jpg" group-title="Web Rádio - Mundo", FluxFM - XJAZZ (Alemanha)
+#EXTINF:-1 tvg-logo="https://archiv.fluxfm.de/wp-content/uploads/2013/11/fluxfm_logo_300px_sharp.gif" group-title="Web Rádio - Mundo", FluxFM - XJAZZ (Alemanha)
 https://streams.fluxfm.de/xjazz/mp3-128/radiode/
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12588_1600857262.png" group-title="Web Rádio - Mundo", Jazz Radio - Black Music (França)
@@ -892,9 +892,6 @@ https://rfibrasil64k.ice.infomaniak.ch/rfibrasil-64k.mp3
 
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfmsite/images/logo18_80s.png" group-title="Web Rádio - Mundo", RFM 80's (Portugal)
 https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFMAAC_SC.aac
-
-#EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfmsite/images/logo18_Oceano.png" group-title="Web Rádio - Mundo", RFM Oceano Pacífico (Portugal)
-https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC.aac
 
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0084/2943/6986/files/SRR_480x480.png?v=1543188825" group-title="Web Rádio - Mundo", Surf Roots Radio (EUA)
 https://das-edge11-live365-dal03.cdnstream.com/a47555
