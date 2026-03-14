@@ -608,7 +608,7 @@ https://shout25.crossradio.com.br:18006/1;
 #EXTINF:-1 tvg-logo="https://www.ghostradios.com/wp-content/uploads/2023/02/GHOST-QUADRADA-2-370x370.png" group-title="Web Rádio - Brasil", Rádio Ghost (Passo Fundo/RS)
 http://servidor39.brlogic.com:8252/live?type=.m3u?ver=568
 
-#EXTINF:-1 tvg-logo="http://sergiobocca.com.br/imagens/4ccf2f2cebd8397340c51b81efaea197.png" group-title="Web Rádio - Brasil", Rádio Good Times Revival (São Paulo/SP
+#EXTINF:-1 tvg-logo="http://sergiobocca.com.br/imagens/4ccf2f2cebd8397340c51b81efaea197.png" group-title="Web Rádio - Brasil", Rádio Good Times Revival (São Paulo/SP)
 https://s33.maxcast.com.br:8110/live?id=1220846704797
 
 #EXTINF:-1 tvg-logo="https://radiograviola.com/wp-content/themes/radio-graviola/dist/assets/img/shared/radio-graviola-icon.png" group-title="Web Rádio - Brasil", Rádio Graviola (Rio de Janeiro/RJ)
