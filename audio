@@ -895,3 +895,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFMAAC_SC
 
 #EXTINF:-1 tvg-logo="https://cdnimages01.azureedge.net/rfmsite/images/logo18_Oceano.png" group-title="Web Rádio - Mundo", RFM Oceano Pacífico (Portugal)
 https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0084/2943/6986/files/SRR_480x480.png?v=1543188825" group-title="Web Rádio - Mundo", Surf Roots Radio (EUA)
+https://das-edge11-live365-dal03.cdnstream.com/a47555
