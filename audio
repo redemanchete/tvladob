@@ -479,6 +479,9 @@ https://radio.saopaulo01.com.br/9812/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio29852_1539802542.jpg" group-title="Web Rádio - Brasil", Dance Music 90 (São Paulo/SP)
 http://stm17.xcast.com.br:9404/stream
 
+#EXTINF:-1 tvg-logo="https://www.radiodefinity.com.br/img/653805deb33ca.png" group-title="Web Rádio - Brasil", Definity Radio (São Paulo/SP)
+https://player.transmissaodigital.com/proxy/7092
+
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio25236_1464190289.png" group-title="Web Rádio - Brasil", Difusora 960 (São Paulo/SP)
 https://s23.maxcast.com.br:8130/live?id=398256527206
 
