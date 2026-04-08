@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 13/03/2026
+ATUALIZADA EM 08/04/2026
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -141,7 +141,7 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QepWglb.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Difusora (São Luís/MA)
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://websitenoar.net/contents/815/cover/logo_613035873.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / BDC TV (Autazes/AM)
+FORA #EXTINF:-1 tvg-logo="https://websitenoar.net/contents/815/cover/logo_613035873.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / BDC TV (Autazes/AM)
 https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
 
 
@@ -313,7 +313,10 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1FsKW42.png" group-title="Variedades - Brasil", U Channel - Soul TV (Brasil)
-https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+https://test-soultvex.akamaized.net/umiss/umiss/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="Variedades - Brasil", UMA TV (São Paulo/SP)
+https://umatv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://vrtchannel.tv.br/wp-content/uploads/2025/02/VRT_LOGO_PRETO-01-1.png" group-title="Variedades - Brasil", VRT Channel (São Paulo/SP)
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
@@ -362,6 +365,9 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png" group-title="Variedades - Mundo", TDM (Macau)
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="Variedades - Mundo", TV BRICS em Português (Rússia)
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="Variedades - Mundo", TV CNB (EUA)
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
@@ -1336,6 +1342,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/35DF4Ue.png" group-title="Notícias", SBT News - LG Channels (Brasil)
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/35DF4Ue.png" group-title="Notícias", SBT News - +SBT (Brasil)
+https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rPgGYH8.png" group-title="Notícias", TV Flow - Samsung TV Plus (Brasil)
 https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
