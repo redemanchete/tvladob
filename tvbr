@@ -66,20 +66,8 @@ https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png" group-title="Públicos/Educativos - Brasil", TV Cultura Pará (Belém/PA)
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://eduplay.rnp.br/api/v1/assets/contents/img/channels/1772040521623.jpeg" group-title="Públicos/Educativos - Brasil", TV IFMA (São Luís/MA)
-https://media-gmcdn.eduplay.rnp.br/media/CGH-lGu5AgrU/eiGOQSJrIxv-HDYevY5qPQ'1/720_index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="Públicos/Educativos - Brasil", TV Paraná Turismo (Curitiba/PR)
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-
-#EXTINF:-1 tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Públicos/Educativos - Brasil", TV UFOP (Ouro Preto/MG)
-https://media-gmcdn.eduplay.rnp.br/media/CFwapWdcMzXY/OLgCRZTdHDDL6bG4-g9gbA'1/720_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logotipo_da_TV_Unesp.svg/1280px-Logotipo_da_TV_Unesp.svg.png" group-title="Públicos/Educativos - Brasil", TV Unesp (Bauru/SP)
-https://media-gmcdn.eduplay.rnp.br/media/CF3xAh0tGexA/iN6TX7OhZmwoZ0IRLv4E8Q'1/720_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://unbtv.unb.br/wp-content/uploads/Logo-UnBTV_completa_horizontal-01.png" group-title="Públicos/Educativos - Brasil", UnBTV (Brasília/DF)
-https://media-gmcdn.eduplay.rnp.br/media/CFwapWeR7WSI/s8zai6nPAvza3slWwsTKMQ'1/720_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Públicos/Educativos - Brasil", Univesp TV / MasterTV (Cascavel/PR)
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
@@ -357,7 +345,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Institutional_RTPMemoria_Horizontal_NegativoCor_thumb@2x.png" group-title="Variedades - Mundo", RTP Memória (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_negativo.jpg" group-title="Variedades - Mundo", RTP Mundo (Portugal)
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Institutional_RTPMundo_Horizontal_NegativoCor_thumb@2x.png" group-title="Variedades - Mundo", RTP Mundo (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Variedades - Mundo", SIC (Portugal)
@@ -505,9 +493,6 @@ https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online-218x150.png" group-title="Cultura e Arte", Cultura24.tv (Peru)
 https://cloud.live.opencaster.com/playlist_src/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Cultura e Arte", UESTV (Chile)
-https://stream.castr.com/627c69e631b96a3b9b99c2db/live_14ff24d0ed9911f0bad5c55033ee00d0/tracks-v1a1/rewind-3600.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_cfbb186abb874511b848adeaca461ae8~mv2.png" group-title="Cultura e Arte", UMAG TV (Chile)
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
@@ -1226,9 +1211,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://5900.tv/wp-content/uploads/2023/06/latina-tv.jpg" group-title="Música", Latina TV (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/260786.jpg" group-title="Música", MusicTop (Argentina)
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="Música", Mubeat (LG Channels Brasil)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mubeat&channel_id=newid_004
 
@@ -1276,9 +1258,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Música", That's Rock (Samsung TV Plus Reino Unido)
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="Música", TierraMia TV (Argentina)
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/1280px-Top_TV_logo.svg.png" group-title="Música", Top TV (Brasil)
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
