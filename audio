@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/05/2026
+ATUALIZADA EM 15/05/2026
 
 
 >> RÁDIO FM - BRASIL
@@ -16,9 +16,6 @@ https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27208_1546022518.png" group-title="Rádio FM - Brasil", 80.5 - Rádio Sputnik Brasil (Rio de Janeiro/RJ)
 https://azura.acessaradios.com.br/listen/metro1090/live
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/LOGO_BANDEIRANTES_2026.png/1280px-LOGO_BANDEIRANTES_2026.png" group-title="Rádio FM - Brasil", 86.3 - Bandeirantes (São Paulo/SP)
-https://stm23.xcast.com.br:11284/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/67cb9f4699988.png" group-title="Rádio FM - Brasil", 88.5 - UFG FM (Goiânia/GO)
 https://streaming.ufg.br:8443/radiouniversitaria
@@ -284,8 +281,8 @@ https://carajas2.jmvstream.com/live
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio42943_1701707338.jpeg" group-title="Rádio FM - Brasil", 107.1 - 107 FM (Petrópolis/RJ)
 https://servidor25.brlogic.com:7024/live
 
-#EXTINF:-1 tvg-logo="https://cloud-statics.estadao.com.br/eldorado/assets/logo-eldorado.png" group-title="Rádio FM - Brasil", 107.3 - Eldorado FM (São Paulo/SP)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ELDORADOAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/LOGO_BANDEIRANTES_2026.png/1280px-LOGO_BANDEIRANTES_2026.png" group-title="Rádio FM - Brasil", 107.3 - Bandeirantes (São Paulo/SP)
+https://stm23.xcast.com.br:11284/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_Educadora_FM.png" group-title="Rádio FM - Brasil", 107.5 - Educadora FM (Salvador/BA)
 https://streaming.educadorafm.ba.gov.br/stream-01
