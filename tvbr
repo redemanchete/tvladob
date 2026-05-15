@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 08/05/2026
+ATUALIZADA EM 15/05/2026
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -252,6 +252,9 @@ http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="Regionais - América Latina", Teleislas (Colômbia)
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="Regionais - América Latina", Telemax (Hermosillo/México)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://telpintv.com.ar/assets/logo.c9bbab47.png" group-title="Regionais - América Latina", TelPin TV (Pinamar/Argentina)
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
@@ -300,7 +303,7 @@ https://Stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img77.uenicdn.com/image/upload/v1583204429/business/733d9293-a359-48f2-a11a-488bca886e6f.png" group-title="Variedades - Brasil", Rede UTV Brasil (Descalvado/SP)
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/139/139_img_bg_image_293x165_small.jpg" group-title="Variedades - Brasil", sou[tv.] (Gravataí/RS)
+#EXTINF:-1 tvg-logo="https://www.soutv.com.br/attached_assets/LOGO_SEM_FUNDO_1757978140689.png" group-title="Variedades - Brasil", sou[tv.] (Gravataí/RS)
 https://video10.logicahost.com.br/soutv/soutv/chunklist_w542453953.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="Variedades - Brasil", TV Aracati (Aracati/CE)
@@ -376,9 +379,6 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variedades - Mundo", Estrella TV (Samsung TV Plus EUA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatvsmsng-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-logo="https://telemax.com.mx/wp//wp-content/uploads/2022/08/telemax-logo-white.png" group-title="Variedades - Mundo", Telemax (México)
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="Variedades - Mundo", Telepacífico (Colômbia)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
@@ -483,8 +483,11 @@ https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Cultura e Arte", Prime BoxBrazil (Porto Alegre/RS)
 http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Cultura e Arte", Sesc TV (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://www.sescsp.org.br/wp-content/uploads/2025/12/sesctv-thumb.png" group-title="Cultura e Arte", Sesc TV (São Paulo/SP)
 https://psix79kagi.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BVaNiqk.png" group-title="Cultura e Arte", WhE Play (Samsung TV Plus Brasil)
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ac78411d160e42358ca8cb170222db2b/playlist.m3u8
 
 ---
 
@@ -540,6 +543,9 @@ CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-vocesabia/video.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Documentários", Deutsche Welle Español (Alemanha)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png" group-title="Documentários", Love the Planet (Samsung TV Plus Espanha)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
 ---
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png" group-title="Documentários", Adventure Earth (Samsung TV Plus Reino Unido)
@@ -551,13 +557,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/5e5f37d3-b153-4095-9c37-bf56f2f129de_Guinness+World+Records+TV+-+Channel+Logo+xxx+x+100+%281%29.png" group-title="Documentários", Guinness World Records TV (EUA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png" group-title="Documentários", Love the Planet (Samsung TV Plus Espanha)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="Documentários", RTD (Rússia)	
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/1203px-UN_emblem_blue.svg.png" group-title="Documentários", UN Web TV - ONU (EUA)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.dipublico.org/wp-content/uploads/2019/02/UN-WebTv.png" group-title="Documentários", UN Web TV - ONU (EUA)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20220412T152612SQUARE.png_20220412152612.png" group-title="Documentários", WaterBear (Samsung TV Plus Reino Unido)
@@ -751,9 +754,6 @@ https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Estilo de Vida", Urban Travel (São José/SC)
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BVaNiqk.png" group-title="Cultura e Arte", WhE Play (Samsung TV Plus Brasil)
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ac78411d160e42358ca8cb170222db2b/playlist.m3u8
 
 ---
 
@@ -1069,7 +1069,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15039
 #EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="Geek e Anime", Sato+ (Samsung TV Plus Brasil)
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.media-acidadeon.com.br/tudoep/wp-content/uploads/sites/10/2023/12/ubisoft_tv_1200x675_25112022114911-1024x576.jpg" group-title="Geek e Anime", Ubisoft TV (Samsung TV Plus Brasil)
+#EXTINF:-1 tvg-logo="https://portalpopline.com.br/wp-content/uploads/2022/11/ubisoft-tv-thumb.png" group-title="Geek e Anime", Ubisoft TV (Samsung TV Plus Brasil)
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="Geek e Anime", Yeeaah (Brasil)
@@ -1181,7 +1181,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/1music.png" group-title="Música", 1Mus (Bielorrússia)
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="Música", 4Fun TV (Polônia)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1280px-4fun.tv_Logo_%282017%29.svg.png" group-title="Música", 4Fun TV (Polônia)
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/09/Afrobeats-TV-live-vipotv-africa.png" group-title="Música", Afrobeats TV (África do Sul)
@@ -1401,7 +1401,7 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea345
 #EXTINF:-1 tvg-logo="https://coletiva.net/wp-content/uploads/2017/04/100222-maior_coletiva_jun16-2.png" group-title="Notícias - Economia e Mercados", Coletiva TV (Porto Alegre/RS)
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://terraviva.uol.com.br/wp-content/uploads/2024/10/TERRAVIVA-mobile1.png" group-title="Notícias - Economia e Mercados", Terraviva (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://terraviva.uol.com.br/logo-terraviva.png" group-title="Notícias - Economia e Mercados", Terraviva (São Paulo/SP)
 https://cdn-5.nxplay.com.br/TERRAVIVA_FAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/1280px-Times_Brasil_CNBC_logo_2025.svg.png" group-title="Notícias - Economia e Mercados", Times Brasil / CNBC - LG Channel (Brasil)
