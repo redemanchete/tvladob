@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 15/05/2026
+ATUALIZADA EM 17/06/2026
 
 
 >> RÁDIO FM - BRASIL
@@ -44,8 +44,8 @@ https://radios.plus/rbc2
 #EXTINF:-1 tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Rádio FM - Brasil", 90.5 - CBN (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/63fe11c6bfa83.png" group-title="Rádio FM - Brasil", 90.7 - LongPlay FM (Capão Bonito/SP)
-http://svrstream1.svreua.com:8214/stream
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio206011_1778665932.png" group-title="Rádio FM - Brasil", 90.7 - LongPlay FM (Capão Bonito/SP)
+https://stma1.pluscast.net.br:8214/stream?1781726295391
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/64ffcd3d16543.png" group-title="Rádio FM - Brasil", 91.3 - Rádio Disney (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3
@@ -134,6 +134,9 @@ https://stm23.xcast.com.br:9236/stream
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_bdce52e34df248d2adf3dcb8cc90c6e9~mv2.png" group-title="Rádio FM - Brasil", 98.1 - Hot 98 FM Unimes (Santos/SP)
 https://live.virtualcast.com.br/hot98
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio14311_1511886048.jpg" group-title="Rádio FM - Brasil", 98.1 - Pop Rock (Bagé/RS)
+https://r16.ciclano.io/proxy/alternet/stream?1781726742202
+
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/682bd4aee614d.png" group-title="Rádio FM - Brasil", 98.3 - 98 FM (Belo Horizonte/MG)
 https://9554.brasilstream.com.br/stream
 
@@ -209,7 +212,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFMA
 #EXTINF:-1 tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/882992929/logo-difusora-branca.jpg" group-title="Rádio FM - Brasil", 101.9 - Difusora FM (Curitiba/PR)
 https://8545.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://fyfm.com.br/wp-content/uploads/2023/05/cropped-LOGO-BRANCO-COM-COR-ROXO-NO-PLAY.png" group-title="Rádio FM - Brasil", 101.9 - FYFM (Mogi Mirim/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/6772b35ebf19d.png" group-title="Rádio FM - Brasil", 101.9 - FYFM (Mogi Mirim/SP)
 https://ice.fabricahost.com.br/radiofyfm
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/691b95afef5bf.png" group-title="Rádio FM - Brasil", 102.1 - You FM (Santos/SP)
