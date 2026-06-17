@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 15/05/2026
+ATUALIZADA EM 17/06/2026
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -514,8 +514,8 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
 >> DOCUMENTÁRIOS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Xn5e9Z6.png" group-title="Documentários", Fatos Desconhecidos (Brasil)
-CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CWjLykI.png" group-title="Documentários", Fatos Desconhecidos (LG Channels Brasil)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5b00ef206723937.66d0fe6e1582e.png" group-title="Documentários", Hallo! Doc (Só Play)
 https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=0fb1d8ca306aa36413e9cc65e4fe40c35ffb54d0-3661fd422d102d89db1283e72d1e3b4a-1731305419-1731262219
@@ -630,6 +630,9 @@ https://younghollywood-tcl.amagi.tv/playlist.m3u8
 
 
 >> ESPORTE
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZIMQm6N.png" group-title="ESPORTES", Canal GOAT (Samsung TV Plus Brasil)
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="Esporte", CazéTV (Samsung TV Plus Brasil)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -747,10 +750,13 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/Taste
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zWUCcsJ.png" group-title="Estilo de Vida", Travel+ (Samsung TV Plus Brasil)
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/Travel_Plus.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16313&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TM9RsOw.png" group-title="Estilo de Vida", Travelxp (TCL Channel Brasil)
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/u8YIUbq.png" group-title="Estilo de Vida", Tudo é Viagem TV (Brasil)
+https://tudoeviagem.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Estilo de Vida", Urban Travel (São José/SC)
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
@@ -977,6 +983,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime Romance (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AZhMWi4.png" group-title="Filmes e Séries", Sessão Trash (Xiaomi TV+ Brasil)
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="Filmes e Séries", Só Movies (Só Play)
 https://cdn-3.nxplay.com.br/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
@@ -1211,6 +1220,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://5900.tv/wp-content/uploads/2023/06/latina-tv.jpg" group-title="Música", Latina TV (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/s9pq2a2.png" group-title="Música", Mais TV (Brasil)
+https://isaocorp.cloudecast.com/maistv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="Música", Mubeat (LG Channels Brasil)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mubeat&channel_id=newid_004
 
@@ -1286,6 +1298,9 @@ https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg012
 
 >> NOTÍCIAS
 
+#EXTINF:-1 tvg-logo="https://imgur.com/QNui3mO.png" group-title="Notícias", BandNews FM (LG Channels Brasil)
+https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1280px-BandNewsTV2024.svg.png" group-title="Notícias", BandNews TV (Brasil)
 https://hplay.tv/augetv/12396547488/1300.m3u8
 
@@ -1303,6 +1318,9 @@ http://79.127.238.228:14093/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/960px-Logotipo_da_TV_Jovem_Pan_News.png" group-title="Notícias", Jovem Pan News (Samsung TV Plus Brasil)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UQNmIBp.png" group-title="Notícias", Metrópoles TV (LG Channels Brasil)
+https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg30834-amg30834c1-amgplt0026/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
 
 #EXTINF:-1 tvg-logo="https://cdn.tvcidadeverde.com.br/storage/webdisco/logos/371d174f303942df3b554b0e5985c8d4.png" group-title="Notícias", Jovem Pan News / TV Cidade Verde (Cuiabá/MT)
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
@@ -1327,6 +1345,9 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 
 #EXTINF:-1 tvg-logo="https://imgur.com/35DF4Ue.png" group-title="Notícias", SBT News - +SBT (Brasil)
 https://sbtnews.maissbt.com/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Revista_F%C3%B3rum_logo.svg/1280px-Revista_F%C3%B3rum_logo.svg.png" group-title="Notícias", TV Fórum (São Paulo/SP)
+https://video08.logicahost.com.br/tvforum/tvforum/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rPgGYH8.png" group-title="Notícias", TV Flow (Samsung TV Plus Brasil)
 https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
