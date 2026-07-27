@@ -42,7 +42,7 @@ https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos - Brasil", Cultura / UNITV-SC (Tubarão/SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="Públicos/Educativos - Brasil", Futura / Canal FDR (Fortaleza/CE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos - Brasil", Futura / Canal FDR (Fortaleza/CE)
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos - Brasil", Rede Minas (Belo Horizonte/MG)
