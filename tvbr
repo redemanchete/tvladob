@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/07/2026
+ATUALIZADA EM 27/07/2026
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -228,6 +228,9 @@ https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="Regionais Fechados/Web - Brasil", TV Cidade Canal 9 (Teresópolis/RJ)
 https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="Regionais Fechados/Web - Brasil", TV Mon (Montenegro/RS)
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/1kCCGkS.png" group-title="Regionais Fechados/Web - Brasil", TV Praia Grande (Praia Grande/SP)
 https://video01.brascast.com/christiane1532/christiane1532/playlist.m3u8
 
@@ -326,6 +329,12 @@ https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeW2Hsa.png" group-title="Variedades - Brasil", Qtal Channel (Brasil)
 https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="Variedades - Brasil", Rede Mundo (São Paulo/SP)
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="Variedades - Brasil", Rede Mundo - Canal 2 (São Paulo/SP)
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/c8J2flM.png" group-title="Variedades - Brasil", Rede QDM (Campinas/SP)
 https://Stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
@@ -579,6 +588,9 @@ https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-
 
 #EXTINF:-1 tvg-logo="https://spacetoday.com.br/wp-content/uploads/2021/03/logo04-1022x470-BRANCA.png" group-title="Documentários", Space Today TV (Brasil)
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="Documentários", TV História (Montenegro/RS)
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3MFWC0k.png" group-title="Documentários", Você Sabia? (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8
@@ -1016,7 +1028,7 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="Filmes e Séries", Cindie Lite (Samsung TV Plus Brasil)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0LRm9Y8.png" group-title="Filmes e Séries", Cine Catástrofe (Brasil)
+#EXTINF:-1 tvg-logo="https://imgur.com/0LRm9Y8.png" group-title="Filmes e Séries", Cine Catástrofe (Montenegro/RS)
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/noticias/br/2024/05/logo-filmelier-interna.png" group-title="Filmes e Séries", Filmelier TV (Samsung TV Plus Brasil)
@@ -1036,6 +1048,12 @@ https://cc-4dvoxbmwicuqr.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="Filmes e Séries", Grjngo (TCL Channel Brasil)
 https://amogonetworx-grjngo-1-br.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/93W36dG.png" group-title="Filmes e Séries", Hallo! Movie (Só Play)
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="Filmes e Séries", Hallo! Séries (Só Play)
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="Filmes e Séries", Heartland (Samsung TV Plus Brasil)
 https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
@@ -1075,6 +1093,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime Romance (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="Filmes e Séries", Séries Classic (Montenegro/RS)
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AZhMWi4.png" group-title="Filmes e Séries", Sessão Trash (Xiaomi TV+ Brasil)
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -1652,6 +1673,9 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Retrô", Scooby Doo (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="Retrô", Séries Classic (Montenegro/RS)
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Retrô", Tartaruga Touché (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
