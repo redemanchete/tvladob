@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 25/07/2026
+ATUALIZADA EM 27/07/2026
 
 
 >> RÁDIO FM - BRASIL
@@ -25,6 +25,9 @@ https://streaming.ufg.br:8443/radiouniversitaria
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5a9753fd35117.png" group-title="Rádio FM - Brasil", 88.9 - Rádio Mania (Paraty/RJ)
 https://stream-161.zeno.fm/cic1u0lbdo2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjaWMxdTBsYmRvMnV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt2cGNoa2xCUXc2RUw2eXhadEE2U0EiLCJpYXQiOjE3NzAxNTU4MjQsImV4cCI6MTc3MDE1NTg4NH0.POFSo0z1CkEnT85sVQtY-CMu7ZnycJc-j1cmwV0ovzQ
+
+#EXTINF:-1 tvg-logo="https://forum.ufrj.br/wp-content/uploads/2023/06/logo_RadioUFRJ_horizontal.png" group-title="Rádio FM - Brasil", 88.9 - Rádio UFRJ (Rio de Janeiro/RJ)
+https://servidor21-1.brlogic.com:7712/live
 
 #EXTINF:-1 tvg-logo="https://www.radiorock.com.br/storage/seo/logo_89fm.png" group-title="Rádio FM - Brasil", 89.1 - 89 FM A Rádio Rock (São Paulo/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.aac
@@ -121,6 +124,9 @@ https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/NACIONAL_FM_BRASIL
 
 #EXTINF:-1 tvg-logo="https://mancheterio.com.br/wp-content/uploads/2023/04/manchete-logo-96-1.png" group-title="Rádio FM - Brasil", 96.1 - Rádio Manchete (Rio de Janeiro/RJ)
 https://8410.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/XANGRI-LA-1.png" group-title="Rádio FM - Brasil", 96.1 - Xangri-Lá FM (Xangri-Lá/RS)
+https://cast4.audiostream.com.br:2659/mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Rádio FM - Brasil", 96.5 - Super Rádio Tupi (Rio de Janeiro/RJ)
 https://8923.brasilstream.com.br/stream?nocache=25961111
@@ -252,12 +258,12 @@ http://stm1.xcast.com.br:9538/000000
 https://stm11.xcast.com.br:12086/stream
 
 #EXTINF:-1 tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/727714090/Avatar_Logo_Tempo_FM_2025.png" group-title="Rádio FM - Brasil", 103.9 - Tempo FM (Fortaleza/CE)
-INDISPONÍVEL - https://radio.webfrequencia.com.br/listen/tempofm/tempofm
+https://radio.webfrequencia.com.br:8110/tempofm
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/65203e293ce01.png" group-title="Rádio FM - Brasil", 104.1 - Estação 104 FM (Iguaba Grande/RJ)
 https://8518.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-768x768.png" group-title="Rádio FM - Brasil", 104.1 - Estilo FM (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_EstiloFM.png" group-title="Rádio FM - Brasil", 104.1 - Estilo FM (São Paulo/SP)
 https://streaming.fox.srv.br:8040/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/607dd431d6eb0.png" group-title="Rádio FM - Brasil", 104.5 - Positividade FM (Rio de Janeiro/RJ)
@@ -416,7 +422,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/KOST_FM_2013.png" group-title="Rádio FM - Mundo", 103.5 - KOST (Los Angeles/EUA)
 https://stream.revma.ihrhls.com/zc193
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Radio-Veronica-logo.jpg" group-title="Rádio FM - Mundo", 103.5 - Radio Veronica (Amsterdã/Países Baixos)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Radio-Veronica-logo.jpg" group-title="Rádio FM - Mundo", 103.5 - Radio Veronica (Lelystad/Países Baixos)
 https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/c5/6e/c56ea80f51957055f6993b08cca23832.png" group-title="Rádio FM - Mundo", 107.1 - Radio Antenna1 (Roma/Itália)
@@ -571,6 +577,9 @@ https://s35.maxcast.com.br:8074/live
 
 #EXTINF:-1 tvg-logo="http://www.radiodeleite.com.br/admin/assets/img/users/6152-2021-05-24.jpg" group-title="Web Rádio - Brasil", Rádio Deleite (Vinhedo/SP)
 https://stream1.svrdedicado.org/8186/stream
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio15311_1683566443.png" group-title="Web Rádio - Brasil", Rádio Freestyle Brasil (Salvador/BA)
+http://centova2.ipstm.net:16200/stream?1785195930053
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d7dbb3_3c4bfda2ece24c1184ba8a66513dc5c0~mv2.png" group-title="Web Rádio - Brasil", Rádio Eixo (Brasília/DF)
 https://hts02.brascast.com:9758/live
@@ -772,6 +781,63 @@ http://strm112.1.fm/samba_mobile_mp3?1592872212177
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s116726g.png" group-title="Web Rádio - Mundo", 1.FM - Samba Rock (Suíça)
 http://strm112.1.fm/sambarock_mobile_mp3?1592872325124
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/africa_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Africa (França)
+https://allzic51.ice.infomaniak.ch/allzic51.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-annees_70_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Années 70 (França)
+https://allzic50.ice.infomaniak.ch/allzic50.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-annees_80_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Années 80 (França)
+https://allzic08.ice.infomaniak.ch/allzic08.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-annees_90_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Années 90 (França)
+https://allzic24.ice.infomaniak.ch/allzic24.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-annees_2000_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Années 2000 (França)
+https://allzic49.ice.infomaniak.ch/allzic49.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-brazil_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Brazil (França)
+https://allzic19.ice.infomaniak.ch/allzic19.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-chillout_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Chill Out (França)
+https://allzic53.ice.infomaniak.ch/allzic53.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-disco_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Disco (França)
+https://allzic36.ice.infomaniak.ch/allzic36.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-funk_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Funk (França)
+https://allzic11.ice.infomaniak.ch/allzic11.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-jazz_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Jazz (França)
+https://allzic40.ice.infomaniak.ch/allzic40.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/679a60565ffb9-allzic-jazz-lounge.png" group-title="Web Rádio - Mundo", Allzic Radio - Jazz Lounge (França)
+https://allzic03.ice.infomaniak.ch/allzic03.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/65128f0702ba3-allzic-lofi.png" group-title="Web Rádio - Mundo", Allzic Radio - Lofi (França)
+https://allzic62.ice.infomaniak.ch/allzic62.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-lounge_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Lounge (França)
+https://allzic21.ice.infomaniak.ch/allzic21.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-love-song_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Love Song (França)
+https://allzic34.ice.infomaniak.ch/allzic34.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/madonna-by-allzic_698a483e207f7.jpg" group-title="Web Rádio - Mundo", Allzic Radio - Madonna (França)
+https://allzic42.ice.infomaniak.ch/allzic42.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/6931e804a4b95-logonewwave2.jpg" group-title="Web Rádio - Mundo", Allzic Radio - New Wave (França)
+https://allzic058.ice.infomaniak.ch/allzic058.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-reggae_600px-carre.png" group-title="Web Rádio - Mundo", Allzic Radio - Reggae (França)
+https://allzic43.ice.infomaniak.ch/allzic43.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/6512945cf0df2-thumbnail-road-trip-allzic.png" group-title="Web Rádio - Mundo", Allzic Radio - Road Trip (França)
+https://allzic38.ice.infomaniak.ch/allzic38.aac
+
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/67aa34bb97604-allzic-rock-ballad.png" group-title="Web Rádio - Mundo", Allzic Radio - Rock Ballads (França)
+https://allzic70rockballad.ice.infomaniak.ch/allzic70rockballad-96.aac
 
 #EXTINF:-1 tvg-logo="https://archiv.fluxfm.de/wp-content/uploads/2013/11/fluxfm_logo_300px_sharp.gif" group-title="Web Rádio - Mundo", FluxFM - Jazzradio Schwarzenstein (Alemanha)
 https://streams.fluxfm.de/jazzschwarz/mp3-128/radiode/
