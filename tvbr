@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 27/07/2026
+ATUALIZADA EM 03/08/2026
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -129,8 +129,14 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT (São Paulo/SP)
 http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/TV_Norte_%282024%29_logo.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Norte (Belém/PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c00d6e_ed3ce9d662144c8fa0c70eb288d9d9fd~mv2.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! Paraná (Curitiba/PR)
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bnraMNShQcU/maxresdefault.jpg" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Guará (Caxias/MA)
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Pampa (Porto Alegre/RS)
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
@@ -158,6 +164,9 @@ https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Regionais Abertos - Brasil", ISTV (Guarujá/SP)
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+#EXTINF:-1 tvg-logo="https://ontvbrasil.com.br/wp-content/uploads/2025/07/Logo-e1763495379392.png" group-title="Regionais Abertos - Brasil", OnTV Brasil / TV SJK (São Paulo/SP)
+https://ikki.hubcloud.tv.br/OnTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://poa24horas.com.br/wp-content/uploads/2025/07/Logo-POA-24horas-Preto.png" group-title="Regionais Abertos - Brasil", Porto Alegre 24 Horas TV (Porto Alegre/RS)
 https://rtisoluctions.com.br/hls/test.m3u8
@@ -1209,6 +1218,9 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BVL0L15.jpg" group-title="Infantil e Desenhos", Dum Dum (TCL Channel Brasil)
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/66d1621a454d46374a1e7c49/bunnycontent_main.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="Infantil e Desenhos", Fox Kids WebTV (Brasil)
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Infantil e Desenhos", Léo e Lully (Só Play)
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8?token=9267fc0520cb18dabfbcd2d0948b9ac39ffa1fae-32e7e90790d141bea7d9880974db3e1b-1731470422-1731427222
 
@@ -1224,6 +1236,9 @@ CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.
 #EXTINF:-1 tvg-logo="https://imgur.com/kIpHUqL.png" group-title="Infantil e Desenhos", Moji TV (Brasil)
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992140
 
+#EXTINF:-1 tvg-logo="https://imgur.com/M8KSA6P.png" group-title="Infantil e Desenhos", Nicktoons (Brasil)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.launchbox-app.com/d84590b0-591f-43a0-bdb2-ee08fdbaf875.png" group-title="Infantil e Desenhos", O Fantástico Mundo de Bobby (Brasil) 
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8
 
@@ -1238,6 +1253,9 @@ https://jmp2.uk/rok-65f83bbbf7a2eb952b798c96300bb329.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="Infantil e Desenhos", Patolino (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k5ZN6Fx.png" group-title="Infantil e Desenhos", Peak Toons (Brasil)
+https://x1colegal.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="Infantil e Desenhos", Pepe Legal (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
@@ -1588,11 +1606,29 @@ https://rise-financial-roi-tv-1-us.tcl.wurl.tv/playlist.m3u8
 
 >> NOVELAS
 
+#EXTINF:-1 tvg-logo="https://imgur.com/o86dDbI.png" group-title="Novelas", Jesus (Samsung TV Plus Brasil)
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/693bd7bc2df9f443e2855c2d/bunnycontent_main.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="Novelas", Malhação Fast (Samsung TV Plus Brasil)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/PAztjOl.png" group-title="Novelas", Novelas Prime (Brasil)
+https://srv3.zcast.com.br/lucas9425/lucas9425/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBB4100006E9_20240131T031128SQUARE.png_20240131031128.png" group-title="Novelas", Novelíssima (Samsung TV Plus Brasil)
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Novelas", Os Dez Mandamentos (Samsung TV Plus Brasil)
+https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Onn6SQQ.png" group-title="Novelas", Rede Novelas (Brasil)
+https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="Novelas", Tela Brasil TV (Brasil) 
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="NOVELAS",We do TV Amor (LG Channels Brasil)
+https://amg00735-amg00735c49-lg-latam-10821.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamorpielsalvajepor-lglatam/playlist.m3u8
 
 ---
 
@@ -1670,6 +1706,9 @@ CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-picapau/playlist
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/davbBNf.png" group-title="Retrô", Reviva TV (São Paulo/SP)
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Retrô", Scooby Doo (Brasil)
 CANAIS 24h INDISPONÍVEIS - http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
