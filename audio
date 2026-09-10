@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 27/07/2026
+ATUALIZADA EM 09/09/2026
 
 
 >> RÁDIO FM - BRASIL
@@ -173,7 +173,7 @@ https://streaming.livespanel.com:9910/stream
 #EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/diario-fm-997_crop_200x200.jpg" group-title="Rádio FM - Brasil", 99.7 - Diário FM (Ribeirão Preto/SP)
 https://rrdns-megasistema.webnow.com.br/diario.aac
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s85253/images/logod.png?t=636326" group-title="Rádio FM - Brasil", 99.7 - Saudade FM (Santos/SP)
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/noticias/6a8864c2e7cb4.png" group-title="Rádio FM - Brasil", 99.7 - Saudade FM (Santos/SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FM.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png" group-title="Rádio FM - Brasil", 99.7 - Transamérica (Balneário Camboriú/SC)
@@ -400,9 +400,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio8958_1746712696.png" group-title="Rádio FM - Mundo", 95.3 - PromoAção Tropical (Lisboa/Portugal)
 https://s03.transmissaodigital.com:7652/1
-
-#EXTINF:-1 tvg-logo="https://pwaimg.listenlive.co/KOITFM_2100761_config_station_logo_image_1640515666.png" group-title="Rádio FM - Mundo", 96.5 - KOIT (San Francisco/EUA)
-https://bonneville.cdnstream1.com/2624_48.aac
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio23485_1663779285.png" group-title="Rádio FM - Mundo", 96.5 - Rádio Cultura Angola (Luanda/Angola)
 https://paineldj5.com.br:20091/stream
@@ -634,6 +631,9 @@ http://ingest4sc.cdn.upx.com:8176/stream?1679958990718
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s172682g.png" group-title="Web Rádio - Brasil", The Beat (São Paulo/SP)
 https://centova4.transmissaodigital.com:20001/;type=mp3
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio70395_1527079137.jpg" group-title="Web Rádio - Brasil", Tropical Smooth Jazz (Rio de Janeiro/RJ)
+https://servidor32-3.brlogic.com:8230/live?1789002492973
 
 #EXTINF:-1 tvg-logo="https://sometimes-always.com/wp-content/uploads/2019/07/sometimes-always-veneno-20.jpg" group-title="Web Rádio - Brasil", Veneno (São Paulo/SP)
 https://veneno.out.airtime.pro/veneno_b
