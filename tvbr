@@ -493,6 +493,21 @@ https://amg00740-sofa-amg00740c22-lg-br-9875.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://poop.tv.br/wp-content/uploads/2024/06/cropped-logo-pooptv-300x228.png" group-title="Comédia", Poop TV (Brasil)
 https://stream.ichibansys.com:3522/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Comédia", South Park (Pluto TV Brasil)
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Comédia", South Park - Coleção Cartman (Pluto TV Brasil)
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Comédia", South Park - Coleção Kenny (Pluto TV Brasil)
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Comédia", South Park - Coleção Kyle (Pluto TV Brasil)
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="Comédia", South Park - Coleção Stan (Pluto TV Brasil)
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+
 ---
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fntsYlO.png" group-title="Comédia", Always Funny (EUA)
@@ -573,6 +588,15 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/684a4d456382
 
 #EXTINF:-1 tvg-logo="https://imgur.com/eemAMuo.png" group-title="Documentários", Nature Time (LG Channels Brasil)
 https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-naturetimelatam-lgbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Documentários", Pluto TV Animais (Brasil)
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Documentários", Pluto TV Natureza (Brasil)
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/A5bFy6W.png" group-title="Documentários", Smithsonian Channel (Pluto TV Brasil)
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 
 #EXTINF:-1 tvg-logo="https://spacetoday.com.br/wp-content/uploads/2021/03/logo04-1022x470-BRANCA.png" group-title="Documentários", Space Today TV (Brasil)
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
@@ -711,8 +735,8 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u
 #EXTINF:-1 tvg-logo="https://imgur.com/fodoMB8.png" group-title="Esporte", NSC (Brasil)
 https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/73GQva8.png" group-title="Esporte", PlayTV.horse (Brasil)
-https://video04.logicahost.com.br/playtvhorse/playtvhorse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Esporte", Pluto TV Esportes (Brasil)
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4IeBqrQ.png" group-title="Esporte", Racer Brasil (TCL Channel Brasil)
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
@@ -728,6 +752,9 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0MRAYd3.png" group-title="Esporte", SportyNet (Brasil)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1280px-UFC_Logo.svg.png" group-title="Esporte", UFC (Pluto TV Brasil)
+https://pb-drwvokx73qpxg.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbantv.com.br/wp-content/uploads/2017/11/logo-footer-retina-b.png" group-title="Esporte", Urban Drive (São José/SC)
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
@@ -1004,6 +1031,39 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0LRm9Y8.png" group-title="Filmes e Séries", Cine Catástrofe (Montenegro/RS)
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Pb8wybB.png" group-title="Filmes e Séries", Cine Clássicos (Pluto TV Brasil)
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4DTl9IQ.png" group-title="Filmes e Séries", Cine Comédia (Pluto TV Brasil)
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JEbw4bv.png" group-title="Filmes e Séries", Cine Comédia Romântica (Pluto TV Brasil)
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4zSw6LD.png" group-title="Filmes e Séries", Cine Crime (Pluto TV Brasil)
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/w0xISJx.png" group-title="Filmes e Séries", Cine Drama (Pluto TV Brasil)
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2EG6bS0.png" group-title="Filmes e Séries", Cine Família (Pluto TV Brasil)
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lwlrF3h.png" group-title="Filmes e Séries", Cine Inspiração (Pluto TV Brasil)
+https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VC5lyKm.png" group-title="Filmes e Séries", Cine Romance (Pluto TV Brasil)
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="Filmes e Séries", Cine Sucessos (Pluto TV Brasil)
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zg5aVww.png" group-title="Filmes e Séries", Cine Terror (Pluto TV Brasil)
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tKrU63x.png" group-title="Filmes e Séries", Ficção Científica (Pluto TV Brasil)
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/iFMyV2c.png" group-title="Filmes e Séries", Film+ (Brasil)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
 
@@ -1027,6 +1087,21 @@ https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/noticias/br/2024/05/logo-filmelier-interna.png" group-title="Filmes e Séries", Filmelier TV Vida Real (Samsung TV Plus Brasil)
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eWkCwCH.png" group-title="Filmes e Séries", Filmes Ação (Pluto TV Brasil)
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hs7RhZ9.png" group-title="Filmes e Séries", Filmes Aventura (Pluto TV Brasil)
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gLvYe77.png" group-title="Filmes e Séries", Filmes de Luta (Pluto TV Brasil)
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7Cc0Ot8.png" group-title="Filmes e Séries", Filmes Nacionais (Pluto TV Brasil)
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VKajPqD.png" group-title="Filmes e Séries", Filmes Suspense (Pluto TV Brasil)
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="Filmes e Séries", Grjngo (Samsung TV Plus Brasil)
 https://cc-4dvoxbmwicuqr.akamaized.net/playlist.m3u8
@@ -1052,6 +1127,18 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes e Séries", Movie Sphere (Samsung TV Plus Brasil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="Filmes e Séries", Net Movies (Pluto TV Brasil)
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="Filmes e Séries", Net Movies (Samsung TV Plus Brasil)
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/6a731cc3056f7bc47781e9fc/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3vDJi7G.png" group-title="Filmes e Séries", Os Trapalhões (Pluto TV Brasil)
+https://jmp2.uk/plu-6a5520365badf45d3088b8d8.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Filmes e Séries", Pluto TV Bang Bang (Brasil)
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/caqWa3N.png" group-title="Filmes e Séries", Romance Channel (TCL Channel Brasil)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 
@@ -1060,6 +1147,9 @@ https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime Pluto TV (Brasil)
+https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 
 #EXTINF:-1 tvg-logo="https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos.jpg" group-title="Filmes e Séries", Runtime Ação (Brasil)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -1096,6 +1186,9 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="Filmes e Séries", SparkTV (Samsung TV Plus Brasil)
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2HpX9Ua.png" group-title="Filmes e Séries", Terror Trash (Pluto TV Brasil)
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="Filmes e Séries", The Walking Dead by AMC (LG Channels Brasil)
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
@@ -1317,6 +1410,12 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/s9pq2a2.png" group-title="Música", Mais TV (Brasil)
 https://isaocorp.cloudecast.com/maistv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1280px-MTV_Logo_2010.svg.png" group-title="Música", MTV Classic (Pluto TV Brasil)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1280px-MTV_Logo_2010.svg.png" group-title="Música", MTV Rocks (Pluto TV Brasil)
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="Música", Mubeat (LG Channels Brasil)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mubeat&channel_id=newid_004
@@ -1544,9 +1643,6 @@ https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/ind
 
 >> NOTÍCIAS - ECONOMIA E MERCADOS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eqL0AHD.png" group-title="Notícias - Economia e Mercados", BM&C News (Pluto TV Brasil)
-https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/eqL0AHD.png" group-title="Notícias - Economia e Mercados", BM&C News (Samsung TV Plus Brasil)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
 
@@ -1559,7 +1655,7 @@ https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://coletiva.net/wp-content/uploads/2017/04/100222-maior_coletiva_jun16-2.png" group-title="Notícias - Economia e Mercados", Coletiva TV (Porto Alegre/RS)
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uxIZxYF.png" group-title="BRASIL", Super Finanças (São Paulo/SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/uxIZxYF.png" group-title="Notícias - Economia e Mercados", Super Finanças (São Paulo/SP)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17293&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 
 #EXTINF:-1 tvg-logo="https://terraviva.uol.com.br/logo-terraviva.png" group-title="Notícias - Economia e Mercados", Terraviva (São Paulo/SP)
@@ -1608,6 +1704,9 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Novelas", Os Dez Mandamentos (Samsung TV Plus Brasil)
 https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="Novelas", Pluto TV Novelas (Brasil)
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Onn6SQQ.png" group-title="Novelas", Rede Novelas (Brasil)
 https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
