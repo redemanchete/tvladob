@@ -1,7 +1,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 30/09/2026
+ATUALIZADA EM 01/10/2026
 
 
 >> PÚBLICOS/EDUCATIVOS - BRASIL
@@ -326,6 +326,9 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mbcbrasil.tv.br/wp-content/uploads/sites/42/2025/07/LOGO_EB2023-1920-x-1080-px-10.png" group-title="Variedades - Brasil", MBC Brasil (Curitiba/PR)
 https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Variedades - Brasil", New Brasil (LG Channels Brasil)
+https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ontvbrasil.com.br/wp-content/uploads/2025/07/Logo-e1763495379392.png" group-title="Variedades - Brasil", OnTV Brasil (São Paulo/SP)
 https://ikki.hubcloud.tv.br/OnTV/index.m3u8
