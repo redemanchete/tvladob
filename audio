@@ -3,7 +3,7 @@
 >> LISTA ESTRITAMENTE PESSOAL, SEM CARÁTER COMERCIAL
 
 
-ATUALIZADA EM 09/09/2026
+ATUALIZADA EM 02/10/2026
 
 
 >> RÁDIO FM - BRASIL
@@ -206,9 +206,6 @@ https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream&1725596324025
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_radioclubefozdoiguacu.png" group-title="Rádio FM - Brasil", 100.9 - Rádio Clube (Foz do Iguaçu/PR)
 https://9105.brasilstream.com.br/stream
 
-#EXTINF:-1 tvg-logo="https://nostalgiafmfloripa.com.br/wp-content/uploads/2025/02/LOGONOSTALGIA-1.png" group-title="Rádio FM - Brasil", 101.3 - Nostalgia FM (Florianópolis/SC)
-https://stm10.virtualcast.com.br:8398/nostalgiafloripa
-
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_beiramarfm1015.png" group-title="Rádio FM - Brasil", 101.5 - Beira Mar FM (Ubatuba/SP)
 https://sws.onradio.biz/9822/stream
 
@@ -240,7 +237,7 @@ https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlis
 http://www.radioideal.net:8026/stream
 
 #EXTINF:-1 tvg-logo="https://www.bandvalefm.com.br/compartilhe/bandvale1029fm.png" group-title="Rádio FM - Brasil", 102.9 - Band Vale FM (São José dos Campos/SP)
-https://centova5.transmissaodigital.com:20061/;
+https://stm16.xcast.com.br:9690/stream
 
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_cdlfm1029.png" group-title="Rádio FM - Brasil", 102.9 - CDL FM (Belo Horizonte/MG)
 http://9595.brasilstream.com.br/stream
@@ -308,8 +305,8 @@ http://streaming.procergs.com.br:1935/fmcultura/sfmcultura/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/radio_santaceciliafm.png" group-title="Rádio FM - Brasil", 107.7 - Santa Cecília FM (Santos/SP)
 https://live9.livemus.com.br:27408/stream
 
-#EXTINF:-1 tvg-logo="https://www.radiotropicalfm.com/images/galeria/29112019/o_1dqsjaq4k1n5d11gk11nb124t10vs13.png" group-title="Rádio FM - Brasil", 107.9 - Tropical FM (São Paulo/SP)
-https://ice.fabricahost.com.br/tropicalfmsp
+#EXTINF:-1 tvg-logo="https://tocafitas.com/wp-content/uploads/2026/09/eldorado1079.jpg" group-title="Rádio FM - Brasil", 107.9 - Eldorado (São Paulo/SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ELDORADOAAC.aac
 
 
 >> RÁDIO AM - BRASIL
